@@ -62,7 +62,7 @@ function switchLayoutTo(device) {
   path = path.replace(laptop, device);
   path = path.replace(tablet, device);
   path = path.replace(mobile, device);
-  checkAndNavigate(path);
+  //checkAndNavigate(path);
 }
 
 //Checks if a given page exists and navigates
