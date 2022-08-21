@@ -1,0 +1,49 @@
+html,
+body {
+  overflow-x: hidden !important;
+  overscroll-behavior-x: none;
+}
+
+body {
+  overflow-y: hidden !important;
+}
+
+.corsorPointer,
+.AutoLayoutButton,
+.WideLayoutButton,
+.DesktopLayoutButton,
+.LaptopLayoutButton,
+.TabletLayoutButton,
+.MobileLayoutButton {
+  cursor: pointer;
+}
+
+/* Hide white line above footer */
+.Footer {
+  margin-top: -2px;
+}
+
+/* Hide header menu at breakpoint */
+@media screen and (max-width: 1920px) {
+  .Header {
+    visibility: hidden !important;
+  }
+}
+
+/* City map animation */
+iframe.animation {
+  border-width: 0px;
+  border-radius: 35px;
+}
+
+/* Introduction animation */
+.introduction {
+  border-width: 0px;
+  margin-bottom: -4px;
+  width: 2560px;
+  height: 800px;
+}
+
+.wordart-attribution {
+  display: none !important;
+}
