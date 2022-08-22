@@ -1,34 +1,34 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="waikiki.hu" resolutions="1x,2x" timestamp="1661160967335">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="waikiki.hu" resolutions="1x,2x" timestamp="1661162691754">
   <folder name="css">
     <file name="site_global.css" crc="351144664"/>
     <file name="master_head-and-foot.css" crc="388413989" ref="index:education:congress:economy:senate:history:administration:nature:military:application:government:sights:science:citizenship"/>
     <file name="nomq_preview_master_head-and-foot.css" crc="3798410829" ref="education:congress:application:government:citizenship:military:history:administration:senate:index:sights:economy:science:nature"/>
-    <file name="index.css" crc="262299490" ref="index"/>
-    <file name="iefonts_index.css" crc="48989016" ref="index"/>
-    <file name="education.css" crc="3768100432" ref="education"/>
+    <file name="index.css" crc="486553638" ref="index"/>
+    <file name="iefonts_index.css" crc="148547552" ref="index"/>
+    <file name="education.css" crc="4228491003" ref="education"/>
     <file name="iefonts_education.css" crc="4072670221" ref="education"/>
-    <file name="congress.css" crc="3931443296" ref="congress"/>
-    <file name="nomq_congress.css" crc="204528359" ref="congress"/>
-    <file name="economy.css" crc="3776872320" ref="economy"/>
-    <file name="iefonts_economy.css" crc="3808012393" ref="economy"/>
-    <file name="senate.css" crc="4001874" ref="senate"/>
+    <file name="congress.css" crc="3787160319" ref="congress"/>
+    <file name="nomq_congress.css" crc="434561728" ref="congress"/>
+    <file name="economy.css" crc="369525291" ref="economy"/>
+    <file name="iefonts_economy.css" crc="404398942" ref="economy"/>
+    <file name="senate.css" crc="300376673" ref="senate"/>
     <file name="iefonts_senate.css" crc="41941115" ref="senate"/>
-    <file name="history.css" crc="308307083" ref="history"/>
+    <file name="history.css" crc="16405861" ref="history"/>
     <file name="iefonts_history.css" crc="296199743" ref="history"/>
-    <file name="administration.css" crc="36874782" ref="administration"/>
+    <file name="administration.css" crc="3833152349" ref="administration"/>
     <file name="iefonts_administration.css" crc="251917907" ref="administration"/>
-    <file name="nature.css" crc="3787016905" ref="nature"/>
+    <file name="nature.css" crc="3830805116" ref="nature"/>
     <file name="iefonts_nature.css" crc="4286827708" ref="nature"/>
-    <file name="military.css" crc="4047183220" ref="military"/>
+    <file name="military.css" crc="4162576785" ref="military"/>
     <file name="iefonts_military.css" crc="3990151067" ref="military"/>
-    <file name="application.css" crc="117203765" ref="application"/>
-    <file name="government.css" crc="4231254872" ref="government"/>
-    <file name="nomq_government.css" crc="4111234260" ref="government"/>
-    <file name="sights.css" crc="4268641700" ref="sights"/>
+    <file name="application.css" crc="2847044" ref="application"/>
+    <file name="government.css" crc="77880012" ref="government"/>
+    <file name="nomq_government.css" crc="3885137471" ref="government"/>
+    <file name="sights.css" crc="286349848" ref="sights"/>
     <file name="iefonts_sights.css" crc="4188288527" ref="sights"/>
-    <file name="science.css" crc="214368765" ref="science"/>
+    <file name="science.css" crc="3899857965" ref="science"/>
     <file name="iefonts_science.css" crc="505447647" ref="science"/>
-    <file name="citizenship.css" crc="4192931447" ref="citizenship"/>
+    <file name="citizenship.css" crc="453396117" ref="citizenship"/>
   </folder>
   <folder name="fonts">
     <file name="raleway-light.woff" crc="378058667"/>
@@ -170,57 +170,57 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
     </file>
     <file name="quote_02_2x.png" crc="4270244906" seo="true" ref="index:nature:sights:administration">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
     </file>
     <file name="quote_01.png" crc="70664207" seo="true" ref="index:nature:sights:administration">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
     </file>
     <file name="quote_01_2x.png" crc="464017562" seo="true" ref="index:nature:sights:administration">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="administration" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="nature" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
       <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="administration" alt=""/>
     </file>
     <file name="background 1.jpg" crc="227497912" ref="index:economy:nature:military:sights:science:administration">
       <caption webpage="index" alt=""/>
@@ -315,14 +315,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="tweet_2x.png" crc="4116613368" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -338,64 +332,12 @@
     <file name="jessica nagy 187-u134011-fr_2x.jpg" crc="469796637" ref="index"/>
     <file name="selena (119)-u134005-fr.jpg" crc="3832987145" ref="index"/>
     <file name="selena (119)-u134005-fr_2x.jpg" crc="275633210" ref="index"/>
-    <file name="smith eduard (2)-u134031-fr.jpg" crc="220725010" ref="index"/>
-    <file name="smith eduard (2)-u134031-fr_2x.jpg" crc="3768877820" ref="index"/>
-    <file name="george bush 2-u134038-fr.jpg" crc="81645951" ref="index"/>
-    <file name="george bush 2-u134038-fr_2x.jpg" crc="4231240366" ref="index"/>
-    <file name="sebastian.jpg" crc="3998633697" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sebastian_2x.jpg" crc="3937097235" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u134111-5.png" crc="527109734" ref="index"/>
     <file name="u134111-5_2x.png" crc="4245683356" ref="index"/>
     <file name="u134113-5.png" crc="496739256" ref="index"/>
     <file name="u134113-5_2x.png" crc="402468307" ref="index"/>
     <file name="u134115-5.png" crc="4252567391" ref="index"/>
     <file name="u134115-5_2x.png" crc="4042000419" ref="index"/>
-    <file name="nature tiger.jpg" crc="4052024827" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="africa savannah.jpg" crc="236033380" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="baby-tiger-hd.jpg" crc="4201871122" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bengal tiger.jpg" crc="97317099" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="downloaded from bestphotosus.jpg" crc="4015763461" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="elel.jpg" crc="3987041854" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="giraffe.jpg" crc="4059440491" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hd-animal.jpg" crc="3911110039" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tiger-8576x5696.jpg" crc="4040840416" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="white-tiger.jpg" crc="4075345998" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="rhino.jpg" crc="140143486" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kolibri_-proon_ru_.jpg" crc="526791942" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kolibri_-proon_ru__2x.jpg" crc="255939893" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nature cameleon.jpg" crc="4237470440" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="waikiki district map.jpg" crc="139456745" ref="index"/>
     <file name="brazilia district map.jpg" crc="198565075" ref="index"/>
     <file name="amazonia district map.jpg" crc="4191501458" ref="index"/>
@@ -424,12 +366,6 @@
     <file name="denglersw-stromboli.jpg" crc="4103699323" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nap.png" crc="3853221369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="nap_2x.png" crc="4137684380" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="spring-15-u133791-fr.jpg" crc="3828909856" ref="index"/>
     <file name="winter 79420.jpg" crc="3934840379" ref="index">
       <caption webpage="index" alt=""/>
@@ -444,16 +380,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="summer-u133792-fr.jpg" crc="4253449023" ref="index"/>
-    <file name="felho.png" crc="39961360" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="macbook-pro-1.png" crc="190569024" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="col-1.png" crc="467227623" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="piramis-u134223-fr.png" crc="4224279283" ref="index"/>
     <file name="aztec warriors.jpg" crc="533537766" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -733,8 +662,6 @@
     </file>
     <file name="ziggurat 3-u134312-fr.jpg" crc="42278038" ref="index"/>
     <file name="ziggurat 3-u134312-fr_2x.jpg" crc="262165162" ref="index"/>
-    <file name="piramis-1-u134208-fr.png" crc="3930271527" ref="index"/>
-    <file name="pant-1-u134209-fr.png" crc="4004944962" ref="index"/>
     <file name="montewetzuma_i.jpg" crc="3901653008" ref="index:history">
       <caption webpage="index" alt=""/>
     </file>
@@ -778,220 +705,220 @@
     <file name="valasztasok 2020-2030.jpg" crc="164030635" ref="index"/>
     <file name="valasztasok 2020-2030_2x.jpg" crc="156106685" ref="index"/>
     <file name="widelayouticon.png" crc="321580885" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="widelayouticon_2x.png" crc="247696593" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="laptoplayouticon.png" crc="4065541205" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="laptoplayouticon_2x.png" crc="3821489577" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="waikiki logo.png" crc="3893716471" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="waikiki logo_2x.png" crc="3893716471" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="tabletlayouticon.png" crc="271452255" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="tabletlayouticon_2x.png" crc="55853686" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="mobilelayouticon.png" crc="341622238" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="mobilelayouticon_2x.png" crc="274730417" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="autolayouticon.png" crc="98288679" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="autolayouticon_2x.png" crc="3790248661" seo="true" ref="index:economy:nature:history:military:education:senate:sights:science:administration:citizenship:congress:government:application">
-      <caption webpage="senate" alt=""/>
-      <caption webpage="nature" alt=""/>
-      <caption webpage="sights" alt=""/>
-      <caption webpage="administration" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="government" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="education" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="congress" alt=""/>
-      <caption webpage="application" alt=""/>
-      <caption webpage="economy" alt=""/>
-      <caption webpage="military" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="administration" alt=""/>
+      <caption webpage="nature" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="government" alt=""/>
+      <caption webpage="military" alt=""/>
+      <caption webpage="senate" alt=""/>
+      <caption webpage="sights" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="economy" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="congress" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="economy-gallery-1.jpg" crc="52527622" seo="true" ref="economy">
       <caption webpage="economy" alt=""/>
@@ -1021,20 +948,6 @@
       <caption webpage="economy" alt=""/>
     </file>
     <file name="hydroelectric power station_2x.png" crc="485476697" ref="economy">
-      <caption webpage="economy" alt=""/>
-    </file>
-    <file name="palladium reactor.jpg" crc="83867955" ref="economy">
-      <caption webpage="economy" alt=""/>
-    </file>
-    <file name="palladium reactor_2x.jpg" crc="246947928" ref="economy">
-      <caption webpage="economy" alt=""/>
-    </file>
-    <file name="ed209_03-u65030-fr.jpg" crc="116102320" ref="economy"/>
-    <file name="ed209_03-u65030-fr_2x.jpg" crc="387312194" ref="economy"/>
-    <file name="popup - 04.jpg" crc="3885457362" ref="economy">
-      <caption webpage="economy" alt=""/>
-    </file>
-    <file name="popup - 04_2x.jpg" crc="67226961" ref="economy">
       <caption webpage="economy" alt=""/>
     </file>
     <file name="cow-icon-u8321-fr.png" crc="3771863899" ref="economy"/>
@@ -3847,42 +3760,6 @@
       <caption webpage="science" alt=""/>
     </file>
     <file name="check.png" crc="320786227" seo="true" ref="science:citizenship">
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
@@ -3903,44 +3780,44 @@
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="check_2x.png" crc="3965108643" seo="true" ref="science:citizenship">
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
-      <caption webpage="science" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
@@ -3961,8 +3838,57 @@
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
       <caption webpage="citizenship" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
+      <caption webpage="science" alt=""/>
     </file>
     <file name="cancel.png" crc="4166236224" seo="true" ref="science:citizenship">
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
@@ -3975,21 +3901,21 @@
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
     </file>
     <file name="cancel_2x.png" crc="3878001889" seo="true" ref="science:citizenship">
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
+      <caption webpage="citizenship" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
@@ -4002,19 +3928,6 @@
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
       <caption webpage="science" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
-      <caption webpage="citizenship" alt=""/>
     </file>
     <file name="government-gallery-3.jpg" crc="4238933308" seo="true" ref="administration">
       <caption webpage="administration" alt=""/>
@@ -4790,18 +4703,18 @@
       <caption webpage="government" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="142143459" seo="true" mt="1661160812759" redirect="true"/>
-  <file name="economy.html" crc="4012177834" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="nature.html" crc="255078961" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="history.html" crc="4262773091" seo="true" mt="1661160883535" redirect="true"/>
-  <file name="military.html" crc="423784862" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="education.html" crc="3934691501" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="senate.html" crc="457921729" seo="true" mt="1661160862479" redirect="true"/>
-  <file name="sights.html" crc="3978605582" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="science.html" crc="163690557" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="administration.html" crc="304154669" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="citizenship.html" crc="289064451" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="congress.html" crc="3847935927" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="government.html" crc="489375578" seo="true" mt="1661160812750" redirect="true"/>
-  <file name="application.html" crc="3863990550" seo="true" mt="1661160812750" redirect="true"/>
+  <file name="index.html" crc="268605964" seo="true" mt="1661162328152" redirect="true"/>
+  <file name="economy.html" crc="3864365640" seo="true" mt="1661162493974" redirect="true"/>
+  <file name="nature.html" crc="320609904" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="history.html" crc="455366558" seo="true" mt="1661162607697" redirect="true"/>
+  <file name="military.html" crc="4071004342" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="education.html" crc="491925660" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="senate.html" crc="3766108565" seo="true" mt="1661162587124" redirect="true"/>
+  <file name="sights.html" crc="467198296" seo="true" mt="1661162348157" redirect="true"/>
+  <file name="science.html" crc="3949268941" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="administration.html" crc="3762823774" seo="true" mt="1661162197843" redirect="true"/>
+  <file name="citizenship.html" crc="331616957" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="congress.html" crc="374210573" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="government.html" crc="3895512989" seo="true" mt="1661161061095" redirect="true"/>
+  <file name="application.html" crc="3971890506" seo="true" mt="1661161061095" redirect="true"/>
 </manifest>
