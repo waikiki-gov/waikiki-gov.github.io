@@ -18,11 +18,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Kormány</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=351144664"/>
-  <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=388413989"/>
-  <link rel="stylesheet" type="text/css" href="css/government.css?crc=77880012" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=3939888137"/>
+  <link rel="stylesheet" type="text/css" href="css/government.css?crc=168687813" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=3798410829"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=399220099"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_government.css?crc=3885137471" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
@@ -30,7 +30,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/varela:n4:all;raleway:n7:all;dosis:n4:all.js" type="text/javascript" async></script>
+  <script src="https://webfonts.creativecloud.com/dosis:n4:all;raleway:n7:all;varela:n4:all.js" type="text/javascript" async></script>
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
@@ -603,11 +603,11 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1920'], function(elem) {
 Muse.Utils.initWidget('#accordionu117599', ['#bp_infinity', '#bp_1920'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu117599 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u263197-7').registerOpacityScrollEffect([{"fade":20,"opacity":100,"in":[-Infinity,20]},{"in":[20,20],"opacity":100},{"fade":180,"opacity":0,"in":[20,Infinity]}], $(this)); /* scroll effect */
+$('#u263197-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 $('#u263316').registerBackgroundPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,0]},{"speed":[0,3],"in":[0,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_1920').one('muse_this_bp_activate', function(){
-$('#u263197-7').registerOpacityScrollEffect([{"fade":20,"opacity":100,"in":[-Infinity,20]},{"in":[20,20],"opacity":100},{"fade":180,"opacity":0,"in":[20,Infinity]}], $(this)); /* scroll effect */
+$('#u263197-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 $('#u263316').registerBackgroundPositionScrollEffect([{"speed":[0,3],"in":[-Infinity,0]},{"speed":[0,3],"in":[0,Infinity]}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */

@@ -24,9 +24,6 @@
       <image:loc>http://waikiki.hu/images/home-gallery-6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-8.jpg</image:loc>
     </image:image>
     <image:image>
@@ -69,6 +66,9 @@
       <image:loc>http://waikiki.hu/images/msc%20ship_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://waikiki.hu/images/oak_tree_large-icon.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/mountain%20peak.png</image:loc>
     </image:image>
     <image:image>
@@ -76,9 +76,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/palm_tree.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/oak_tree_large-icon.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/ocean-beach-sailboat.jpg</image:loc>
