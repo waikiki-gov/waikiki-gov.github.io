@@ -216,12 +216,6 @@
       <image:loc>http://waikiki.hu/images/history%20cuba%204.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/palm%20atl%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/palm%20atl%203_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/burj_dubai_skyscrapers_dubai0.jpg</image:loc>
     </image:image>
     <image:image>
@@ -307,12 +301,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/citycenter.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/atlantishotel2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/atlantishotel2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/dubai_tower_podium_street_perspective.jpg</image:loc>
@@ -887,6 +875,9 @@
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/arrow2.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://waikiki.hu/senate.html</loc>
@@ -1068,12 +1059,6 @@
       <image:loc>http://waikiki.hu/images/marina%20bay%20sands%20skypark%20view_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/palm%20atl%203600x388.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/palm%20atl%203600x388_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/jumeirahemirates-towers.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1120,12 +1105,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/luxus2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/rip-23-2600x396.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/rip-23-2600x396_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/million-bel-airos.jpg</image:loc>
@@ -1195,6 +1174,21 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/ipad-air-frame-right_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/ancient3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/ancient4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jumeirahemirates-towers_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/ows-footer_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/thunderbolt%20display_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1423,6 +1417,9 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/arrow2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/check.png</image:loc>
