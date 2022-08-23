@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://waikiki.hu/index.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,9 +22,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-8.jpg</image:loc>
@@ -312,7 +309,10 @@
       <image:loc>http://waikiki.hu/images/citycenter.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/dubai_tower_podium.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/atlantishotel2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/atlantishotel2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/dubai_tower_podium_street_perspective.jpg</image:loc>
@@ -416,7 +416,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/economy.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -533,7 +533,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/nature.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -752,7 +752,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/history.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -794,7 +794,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/military.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -848,7 +848,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/education.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -887,13 +887,10 @@
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/arrow2.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://waikiki.hu/senate.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -935,7 +932,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/sights.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1202,7 +1199,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/science.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1358,7 +1355,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/administration.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1442,7 +1439,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/citizenship.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1514,7 +1511,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/congress.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1562,7 +1559,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/government.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1610,7 +1607,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/application.html</loc>
-    <lastmod>2022-08-22</lastmod>
+    <lastmod>2022-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
