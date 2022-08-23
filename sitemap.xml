@@ -372,12 +372,6 @@
       <image:loc>http://waikiki.hu/images/ziggurat%203629x406.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/economy%20home-crop-u416691.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/economy%20home-crop-u416691_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/widelayouticon.png</image:loc>
     </image:image>
     <image:image>
@@ -412,6 +406,12 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/economy%20home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/economy%20home_2x.png</image:loc>
     </image:image>
   </url>
   <url>
