@@ -24,9 +24,6 @@
       <image:loc>http://waikiki.hu/images/home-gallery-6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-8.jpg</image:loc>
     </image:image>
     <image:image>
@@ -375,6 +372,12 @@
       <image:loc>http://waikiki.hu/images/ziggurat%203629x406.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://waikiki.hu/images/economy%20home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/economy%20home_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/widelayouticon.png</image:loc>
     </image:image>
     <image:image>
@@ -409,12 +412,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/economy%20home.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/economy%20home_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -609,24 +606,6 @@
       <image:loc>http://waikiki.hu/images/nature-gallery-7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/mj6982492-lake-in-mountains-hd.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/mj6982492-lake-in-mountains-hd_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/mo6924750-mountain-wallpaper.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/mo6924750-mountain-wallpaper_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/moraine_lake_17092005.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/moraine_lake_17092005_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/mountainsq1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -645,22 +624,22 @@
       <image:loc>http://waikiki.hu/images/muwaterfall-in-mountains_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv1.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/mj6982492-lake-in-mountains-hd.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv1_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/mj6982492-lake-in-mountains-hd_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv2.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/mo6924750-mountain-wallpaper.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv2_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/mo6924750-mountain-wallpaper_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv3.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/moraine_lake_17092005.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/partv3_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/moraine_lake_17092005_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/partv4.jpg</image:loc>
@@ -681,22 +660,22 @@
       <image:loc>http://waikiki.hu/images/partv6_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly1nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly1nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly2nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly2nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv2_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly3nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/foly3nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/partv3_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/foly4nagy.jpg</image:loc>
@@ -717,22 +696,22 @@
       <image:loc>http://waikiki.hu/images/foly6nagy_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung1nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly1nagy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung1nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly1nagy_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung2nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly2nagy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung2nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly2nagy_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung3nagy.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly3nagy.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/jung3nagy_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/foly3nagy_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/jung4nagy.jpg</image:loc>
@@ -752,15 +731,30 @@
     <image:image>
       <image:loc>http://waikiki.hu/images/jung6nagy_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung1nagy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung1nagy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung2nagy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung2nagy_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung3nagy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/jung3nagy_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://waikiki.hu/history.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/widelayouticon.png</image:loc>
     </image:image>
@@ -899,7 +893,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/senate.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1026,7 +1020,13 @@
       <image:loc>http://waikiki.hu/images/ancient3.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://waikiki.hu/images/ancient3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/ancient4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/ancient4_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/french-palace.jpg</image:loc>
@@ -1080,6 +1080,9 @@
       <image:loc>http://waikiki.hu/images/jumeirahemirates-towers.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://waikiki.hu/images/jumeirahemirates-towers_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/atlantishotelwaik1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1099,6 +1102,9 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/ows-footer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/ows-footer_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/luxus5.jpg</image:loc>
@@ -1170,10 +1176,7 @@
       <image:loc>http://waikiki.hu/images/thunderbolt%20display.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/ipad-air-frame-top.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/ipad-air-frame-top_2x.png</image:loc>
+      <image:loc>http://waikiki.hu/images/thunderbolt%20display_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/ipad-air-frame-bottom.png</image:loc>
@@ -1182,10 +1185,10 @@
       <image:loc>http://waikiki.hu/images/ipad-air-frame-bottom_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/ipad-air-frame-left.png</image:loc>
+      <image:loc>http://waikiki.hu/images/ipad-air-frame-top.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/ipad-air-frame-left_2x.png</image:loc>
+      <image:loc>http://waikiki.hu/images/ipad-air-frame-top_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/ipad-air-frame-right.png</image:loc>
@@ -1194,24 +1197,15 @@
       <image:loc>http://waikiki.hu/images/ipad-air-frame-right_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/ancient3_2x.jpg</image:loc>
+      <image:loc>http://waikiki.hu/images/ipad-air-frame-left.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/ancient4_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/jumeirahemirates-towers_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/ows-footer_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/thunderbolt%20display_2x.png</image:loc>
+      <image:loc>http://waikiki.hu/images/ipad-air-frame-left_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://waikiki.hu/science.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1266,12 +1260,6 @@
       <image:loc>http://waikiki.hu/images/space5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/black%20hole.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/black%20hole_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/galaxy.png</image:loc>
     </image:image>
     <image:image>
@@ -1284,19 +1272,28 @@
       <image:loc>http://waikiki.hu/images/comet_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/star.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/star_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/planet.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/planet_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://waikiki.hu/images/black%20hole.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/black%20hole_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/star.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/star_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/iss-2011.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/iss-2011_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/check.png</image:loc>
@@ -1309,9 +1306,6 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/cancel_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/iss-2011_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1400,7 +1394,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/citizenship.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1452,16 +1446,16 @@
       <image:loc>http://waikiki.hu/images/cancel_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/amazonia%20district%20logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/amazonia%20district%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/brazilia%20district%20logo.png</image:loc>
@@ -1472,7 +1466,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/congress.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1520,7 +1514,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/government.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1608,16 +1602,16 @@
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/amazonia%20district%20logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/amazonia%20district%20logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/waikiki%20district%20logo_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/brazilia%20district%20logo.png</image:loc>
