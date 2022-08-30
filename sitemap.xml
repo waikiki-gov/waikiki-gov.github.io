@@ -339,12 +339,6 @@
       <image:loc>http://waikiki.hu/images/hong-kong-night_1920x1080_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/pa5lota.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/pa5lota_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/picture%2016.jpg</image:loc>
     </image:image>
     <image:image>
@@ -415,6 +409,12 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/dictator-palace-images-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/dictator-palace-images-2_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -800,7 +800,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/military.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -854,7 +854,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/education.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -892,6 +892,9 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/autolayouticon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/arrow2.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1565,7 +1568,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/application.html</loc>
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
