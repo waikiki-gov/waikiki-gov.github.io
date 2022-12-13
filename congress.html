@@ -11,18 +11,18 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "musewpdisclosure.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "congress.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpdisclosure.js", "jquery.watch.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "congress.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=83054401"/>
   <title>Kongresszus</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=454665597"/>
-  <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=3867056425"/>
-  <link rel="stylesheet" type="text/css" href="css/congress.css?crc=3908128452" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=347579958"/>
+  <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=4030238347"/>
+  <link rel="stylesheet" type="text/css" href="css/congress.css?crc=4189130042" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=439025671"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=234028710"/>
   <link rel="stylesheet" type="text/css" href="css/nomq_congress.css?crc=18992788" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- JS includes -->
@@ -1027,10 +1027,10 @@ Muse.Utils.initWidget('#pamphletu253506', ['#bp_infinity', '#bp_1920'], function
 Muse.Utils.initWidget('#pamphletu430079', ['#bp_infinity', '#bp_1920'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:true,shuffle:false,enableSwipe:false,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu430079 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $('#bp_1920').one('muse_this_bp_activate', function(){
-$('#u253249-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"in":[20,20],"opacity":100},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
+$('#u253249-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u253249-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"in":[20,20],"opacity":100},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
+$('#u253249-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
