@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://waikiki.hu/index.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,6 +22,9 @@
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-8.jpg</image:loc>
@@ -416,7 +419,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/economy.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -533,7 +536,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/nature.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -756,6 +759,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://waikiki.hu/images/widelayouticon.png</image:loc>
     </image:image>
     <image:image>
@@ -794,7 +800,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/military.html</loc>
-    <lastmod>2022-12-13</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -848,7 +854,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/education.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1394,7 +1400,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/citizenship.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1514,7 +1520,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/government.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1562,7 +1568,7 @@
   </url>
   <url>
     <loc>http://waikiki.hu/application.html</loc>
-    <lastmod>2022-12-12</lastmod>
+    <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

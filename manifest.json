@@ -1,0 +1,15 @@
+{
+  "name": "Waikiki",
+  "short_name": "Waikiki",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0071bc",
+  "icons": [
+    {
+      "src": "assets/images/waikiki-icon-1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ]
+}

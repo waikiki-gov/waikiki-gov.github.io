@@ -1,6 +1,12 @@
 # Waikiki website
 Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 
+## Export Muse
+* Publish Muse files.
+* Copy assets folder and manifest.json to root.
+* Replace webpro.js files in scripts folder.
+* Add service-worker.js to the root folder.
+
 ## Fonts
 ### Commonly used:
 * Arial
