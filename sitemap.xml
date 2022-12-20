@@ -24,9 +24,6 @@
       <image:loc>http://waikiki.hu/images/home-gallery-6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://waikiki.hu/images/home-gallery-8.jpg</image:loc>
     </image:image>
     <image:image>
@@ -758,9 +755,6 @@
     <lastmod>2022-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://waikiki.hu/images/home-gallery-7.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://waikiki.hu/images/widelayouticon.png</image:loc>
     </image:image>
