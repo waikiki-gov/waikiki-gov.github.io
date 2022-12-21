@@ -1,4 +1,5 @@
 **.DS_Store
 **.vscode
 **.xml
-**/webpro.js
+*/webpro.js
+scripts/webpro.js
