@@ -6,6 +6,8 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Copy assets folder and manifest.json to root.
 * Replace webpro.js files in scripts folder.
 * Add service-worker.js to the root folder.
+* Remove regexp.
+* Format: CMD+D és CMD+Y.
 
 ## Fonts
 ### Commonly used:
@@ -27,3 +29,7 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Maven Pro - Droid Sans
 * Times New Roman - Droid Sans
 * Krona One - Droid Sans
+
+### Delete lines with regex:
+<.*"http://widgets-musethemes.businesscatalyst.com.*>
+<!--(.*?)-->
