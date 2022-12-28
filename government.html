@@ -17,9 +17,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=83054401"/>
   <title>Kormány</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=314571582"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=347579958"/>
   <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=3867056425"/>
-  <link rel="stylesheet" type="text/css" href="css/government.css?crc=265290665" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/government.css?crc=464778216" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=439025671"/>
@@ -531,11 +531,11 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1920'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#accordionu117599', ['#bp_infinity', '#bp_1920'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu117599 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u263197-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"opacity":100,"in":[20,20]},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1920').one('muse_this_bp_activate', function(){
-$('#u263197-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"opacity":100,"in":[20,20]},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
+$('#u263197-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u263197-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

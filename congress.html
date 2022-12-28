@@ -17,9 +17,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=83054401"/>
   <title>Kongresszus</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=314571582"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=347579958"/>
   <link rel="stylesheet" type="text/css" href="css/master_head-and-foot.css?crc=3867056425"/>
-  <link rel="stylesheet" type="text/css" href="css/congress.css?crc=3890360048" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/congress.css?crc=145109918" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_head-and-foot.css?crc=439025671"/>
@@ -1023,11 +1023,11 @@ Muse.Utils.initWidget('#accordionu117599', ['#bp_infinity', '#bp_1920'], functio
 Muse.Utils.initWidget('#pamphletu253506', ['#bp_infinity', '#bp_1920'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu253506 */
 Muse.Utils.initWidget('#pamphletu430079', ['#bp_infinity', '#bp_1920'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'click',deactivationEvent:'mouseout_click',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:true,shuffle:false,enableSwipe:false,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu430079 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#bp_infinity').one('muse_this_bp_activate', function(){
-$('#u253249-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"opacity":100,"in":[20,20]},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
-});/* scroll effects for one breakpoint */
 $('#bp_1920').one('muse_this_bp_activate', function(){
-$('#u253249-7').registerOpacityScrollEffect([{"fade":20,"in":[-Infinity,20],"opacity":100},{"opacity":100,"in":[20,20]},{"fade":180,"in":[20,Infinity],"opacity":0}], $(this)); /* scroll effect */
+$('#u253249-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u253249-7').registerOpacityScrollEffect([{"in":[-Infinity,20],"opacity":100,"fade":20},{"opacity":100,"in":[20,20]},{"in":[20,Infinity],"opacity":0,"fade":180}], $(this)); /* scroll effect */
 });/* scroll effects for one breakpoint */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
