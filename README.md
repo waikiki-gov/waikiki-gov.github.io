@@ -28,6 +28,10 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Maven Pro - Droid Sans
 * Times New Roman - Droid Sans
 * Krona One - Droid Sans
+* Coda - Droid Sans
+* Lucida Sans - Arial
+* Nova Mono - Varela
+* Pt Sans - Droid Sans Bold
 
 ### Delete lines with regex:
 <.*"http://widgets-musethemes.businesscatalyst.com.*>
