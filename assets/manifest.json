@@ -7,7 +7,7 @@
   "theme_color": "#0071bc",
   "icons": [
     {
-      "src": "assets/images/waikiki-icon-1024.png",
+      "src": "images/waikiki-icon-1024.png",
       "type": "image/png",
       "sizes": "1024x1024"
     }

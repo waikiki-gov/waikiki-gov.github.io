@@ -3,9 +3,8 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 
 ## Export Muse
 * Publish Muse files.
-* Copy assets folder and manifest.json to root.
-* Replace webpro.js files in scripts folder.
-* Add service-worker.js to the root folder.
+* Copy assets folder and service-worker.js to root.
+* Replace webpro.js file in scripts folder.
 * Remove regexp.
 * Format: CMD+D és CMD+Y.
 
