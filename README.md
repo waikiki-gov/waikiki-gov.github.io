@@ -36,3 +36,4 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 ### Delete lines with regex:
 <.*"http://widgets-musethemes.businesscatalyst.com.*>
 <!--(.*?)-->
+<img width="1879" alt="Képernyőfotó 2023-01-15 - 18 13 06" src="https://user-images.githubusercontent.com/43353335/212556186-f587fd71-52ca-4572-b83d-de2a70368490.png">
