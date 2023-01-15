@@ -33,7 +33,33 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Nova Mono - Varela
 * Pt Sans - Droid Sans Bold
 
+## Manual edits
 ### Delete lines with regex:
-<.*"http://widgets-musethemes.businesscatalyst.com.*>
-<!--(.*?)-->
+* Links: <.*"http://widgets-musethemes.businesscatalyst.com.*>
+* Comments: <!--(.*?)-->
+* Crc: ?crc=[0-9]*
+
+### Format document:
+* Cmd + D
+* Cmd + Y
+
+### Direct include scripts:
+
+<script type="text/javascript">
+	$.browser = { webkit: true, version: '605.1.15', safari: true, msie: false, Features: {} };
+ </script>
+  <script src="scripts/museutils.js"></script>
+  <script src="scripts/whatinput.js"></script>
+  <script src="scripts/jquery.musemenu.js"></script>
+  <script src="scripts/webpro.js"></script>
+  <script src="scripts/musewpdisclosure.js"></script>
+  <script src="scripts/jquery.watch.js"></script>
+  <script src="scripts/musewpslideshow.js"></script>
+  <script src="scripts/jquery.museoverlay.js"></script>
+  <script src="scripts/touchswipe.js"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js"></script>
+  <script type="text/javascript">
+		$(document).ready(function () {
+			try {
+
 <img width="1879" alt="Képernyőfotó 2023-01-15 - 18 13 06" src="https://user-images.githubusercontent.com/43353335/212556186-f587fd71-52ca-4572-b83d-de2a70368490.png">
