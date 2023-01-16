@@ -1,3 +1,8 @@
+//Jquery API fixes
+if (!$.browser) {
+  $.browser = { webkit: true, chrome: true, safari: false, msie: false, version: '605.1.15', Features: {} };
+}
+
 //Define constants
 const ultrawide = "ultrawide";
 const desktop = "desktop";
