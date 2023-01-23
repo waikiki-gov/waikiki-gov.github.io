@@ -43,6 +43,10 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Cmd + D
 * Cmd + Y
 
+### Remove duplicate widget styles and scripts:
+* Stats animator
+* Donut charts
+
 ### Direct include scripts:
 
 <script type="text/javascript">
