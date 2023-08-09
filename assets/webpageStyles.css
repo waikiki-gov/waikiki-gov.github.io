@@ -20,7 +20,8 @@ body {
 
 /* Hide white line above footer */
 .Footer {
-  margin-top: -2px;
+  margin-top: -2px !important;
+  bottom: 0px !important;
 }
 
 /* Hide header menu at breakpoint */
