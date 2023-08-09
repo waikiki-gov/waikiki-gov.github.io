@@ -2,6 +2,7 @@ html,
 body {
   overflow-x: hidden !important;
   overscroll-behavior-x: none;
+  scrollbar-gutter: auto;
 }
 
 body {
@@ -18,7 +19,7 @@ body {
   cursor: pointer;
 }
 
-/* Hide white line above footer */
+/* Hide white lines around footer */
 .Footer {
   margin-top: -2px !important;
   bottom: 0px !important;
@@ -45,6 +46,7 @@ iframe.animation {
   height: 800px;
 }
 
+/* Hide word art attribution message */
 .wordart-attribution {
   display: none !important;
 }
