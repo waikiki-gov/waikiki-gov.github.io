@@ -2,7 +2,6 @@ html,
 body {
   overflow-x: hidden !important;
   overscroll-behavior-x: none;
-  scrollbar-gutter: auto;
 }
 
 body {
