@@ -9,6 +9,10 @@ body {
   overflow-y: hidden !important;
 }
 
+.verticalspacer {
+  min-height: 0px !important;
+}
+
 .corsorPointer,
 .AutoLayoutButton,
 .WideLayoutButton,
