@@ -141,13 +141,6 @@ $(document).ready(function () {
   });
 });
 
-//Hide scrollbars for Windows
-$(document).ready(function () {
-  if (navigator.platform.indexOf('Win') > -1) {
-    $('head').append('<style>body::-webkit-scrollbar{ display: none;}</style>');
-  };
-});
-
 //Anchor keys
 $(document).ready(function () {
   var anchors = $('a:not([href])');
