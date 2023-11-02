@@ -33,6 +33,25 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Nova Mono - Varela
 * Pt Sans - Droid Sans Bold
 
+## Fonts
+### General
+* Primary - 0071BC
+* Secondary - 0E308E
+* Tertiary - 00B0C3
+* Error - AD1A24
+* Warning - FF9800
+* Success - 
+* Quote - FFFF00
+
+### Grey
+* Dark - 212121
+* Mid - 424242
+* Light - 888888
+* Deep - 555555
+
+### Azure
+2F4042
+
 ## Manual edits
 ### Delete lines with regex:
 * Links: <.*"http://widgets-musethemes.businesscatalyst.com.*>
