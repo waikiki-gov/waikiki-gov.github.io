@@ -40,14 +40,15 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Tertiary - 00B0C3
 * Error - AD1A24
 * Warning - FF9800
-* Success - 
+* Success - 008000
 * Quote - F4DB38
+* Gold - BC9200
+* Silver - 555555
 
 ### Grey
 * Dark - 212121
 * Mid - 424242
 * Light - 888888
-* Deep - 555555
 
 ### Dark
 * Dark azure - 2F4042
