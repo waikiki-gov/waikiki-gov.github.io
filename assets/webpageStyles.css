@@ -54,3 +54,154 @@ iframe.animation {
 .wordart-attribution {
   display: none !important;
 }
+
+/* Lists */
+.Waikiki-list-style .list1 {
+  margin-left: -50px;
+}
+
+.Waikiki-list-style .list2 {
+  margin-right: -38px;
+}
+
+.Waikiki-list-style .list2 li {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.Waikiki-list-style .list2 span {
+  max-width: 100%;
+}
+
+.Waikiki-list-style .list2 img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Grid */
+@media (max-width: 1920px) {
+
+  .Row:not(.TabbedPanelsContent),
+  .Row.TabbedPanelsContentVisible,
+  .Grid:not(.TabbedPanelsContent),
+  .Grid.TabbedPanelsContentVisible {
+    display: flex !important;
+    position: unset !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 50px;
+    row-gap: 20px;
+  }
+
+  .Grid>.colelem,
+  .Grid>.grpelem {
+    display: contents !important;
+  }
+
+  .Row>:not(.anchor_item),
+  .Grid>:not(.anchor_item),
+  .Grid>.colelem>:not(.anchor_item),
+  .Grid>.grpelem>:not(.anchor_item) {
+    margin-right: unset !important;
+    margin-left: unset !important;
+    margin-top: unset !important;
+    margin-bottom: unset !important;
+    position: unset !important;
+  }
+
+  .Row .anchor_item,
+  .Row .PamphletWidget,
+  .Row.clearfix:after,
+  .Row.clearfix:before,
+  .Row .clearfix:after,
+  .Row .clearfix:before,
+  .Grid .anchor_item,
+  .Grid .PamphletWidget,
+  .Grid.clearfix:after,
+  .Grid.clearfix:before,
+  .Grid .clearfix:after,
+  .Grid .clearfix:before {
+    display: none !important;
+  }
+
+}
+
+/* Flex */
+@media (max-width: 1000px) {
+
+  .Flex .ThumbGroup {
+    display: flex !important;
+    position: unset !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 50px;
+    row-gap: 20px;
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .Flex .ThumbGroup>.popup_anchor {
+    display: contents !important;
+  }
+
+  .Flex .PamphletWidget {
+    margin-right: unset !important;
+    margin-left: unset !important;
+    margin-top: unset !important;
+    margin-bottom: unset !important;
+    position: unset !important;
+    width: 100% !important;
+    height: auto !important;
+    padding-bottom: 0px !important;
+  }
+
+  .Flex .ThumbGroup:after,
+  .Flex .ThumbGroup:before,
+  .Flex .wp-panel {
+    display: none !important;
+  }
+
+  .Flex .ThumbGroup>.popup_anchor>.Thumb {
+    position: relative !important;
+    left: 0px !important;
+  }
+}
+
+/* Typography */
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 56px !important;
+    line-height: 56px !important;
+  }
+
+  h3 {
+    font-size: 22px !important;
+    line-height: 22px !important;
+    width: 100vw;
+    margin-left: calc((1000px - 100vw)/2);
+  }
+
+  h4 {
+    width: 100vw;
+    margin-left: calc((1000px - 100vw)/2);
+  }
+
+  h5 {
+    width: 100vw;
+    margin-left: calc((800px - 100vw)/2);
+  }
+
+  h6 {
+    width: 100vw;
+    margin-left: calc((600px - 100vw)/2);
+  }
+}
+
+/* Hide popup elements on small screens */
+@media screen and (max-width: 1000px) {
+  .Thumb.popup_element.rounded-corners:not(.museBGSize) {
+    background-color: transparent !important;
+  }
+}

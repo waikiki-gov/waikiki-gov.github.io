@@ -8,6 +8,24 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Remove regexp.
 * Format: CMD+D és CMD+Y.
 
+## Layout
+### Slideshow
+* Height: 1300px
+* Title Y 500px
+* Intro Y 680px
+* Button Y 800px
+
+### Article
+* Anchor: 1330px (+30)
+* Title Y 1420px (+90)
+* Intro Y 1480px (+60)
+
+## Typography
+* Page title - H1 80px Raleway
+* Section title - H2 40px Raleway
+* Introduction text - H3 25px Valera 
+* Important text - H4 20px Valera
+
 ## Fonts
 ### Commonly used:
 * Arial
