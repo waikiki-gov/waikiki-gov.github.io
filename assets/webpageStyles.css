@@ -124,7 +124,6 @@ iframe.animation {
   .Grid .clearfix:before {
     display: none !important;
   }
-
 }
 
 /* Flex */
@@ -166,6 +165,12 @@ iframe.animation {
   .Flex .ThumbGroup>.popup_anchor>.Thumb {
     position: relative !important;
     left: 0px !important;
+  }
+
+  .FlexImage>img {
+    width: 100vw !important;
+    margin-left: calc((1000px - 100vw)/2) !important;
+    height: auto !important;
   }
 }
 
