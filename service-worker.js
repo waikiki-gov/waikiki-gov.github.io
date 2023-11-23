@@ -1,3 +1,5 @@
+self.addEventListener('fetch', () => { });
+/*
 self.addEventListener("fetch", (e) => {
     e.respondWith(
         (async () => {
@@ -15,3 +17,4 @@ self.addEventListener("fetch", (e) => {
             return response;
         })());
 });
+*/
