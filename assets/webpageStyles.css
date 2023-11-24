@@ -30,7 +30,7 @@ body {
 }
 
 /* Hide header menu at breakpoint */
-@media screen and (max-width: 1920px) {
+@media (max-width: 1920px) {
   .Header {
     visibility: hidden !important;
   }
@@ -161,8 +161,12 @@ iframe.animation {
 
   .FlexImage>img {
     width: 100vw !important;
-    margin-left: calc((1000px - 100vw)/2) !important;
     height: auto !important;
+  }
+
+  .FlexImage {
+    width: 100vw !important;
+    left: -50% !important;
   }
 }
 
@@ -205,6 +209,15 @@ iframe.animation {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+  }
+}
+
+/* Zoom */
+@media (max-width: 1000px) {
+  .Zoom {
+    transform: perspective(100vw) translateZ(calc(100vw - 1000px));
+    transform-origin: top;
+    margin-bottom: calc(80vw - 800px);
   }
 }
 
