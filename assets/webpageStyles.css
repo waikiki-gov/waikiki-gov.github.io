@@ -98,9 +98,9 @@ iframe.animation {
     display: contents !important;
   }
 
-  .Row>div,
-  .Grid>div,
-  .Grid>div>div {
+  .Row>*,
+  .Grid>*,
+  .Grid>*>* {
     position: unset !important;
     margin: unset !important;
   }
@@ -185,6 +185,7 @@ iframe.animation {
   h1 {
     font-size: 56px !important;
     line-height: 56px !important;
+    margin-top: -100px !important;
   }
 
   h3 {
@@ -217,6 +218,10 @@ iframe.animation {
   .Zoom {
     transform: perspective(100vw) translateZ(calc(100vw - 1000px));
     transform-origin: top;
+    margin-bottom: calc(80vw - 800px);
+  }
+
+  #pregen-es-ma {
     margin-bottom: calc(80vw - 800px);
   }
 }

@@ -11,8 +11,8 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 ## Layout
 ### Slideshow
 * Height: 1300px
-* Title Y 500px
-* Intro Y 680px
+* Title Y 400px
+* Intro Y 600px
 * Button Y 800px
 
 ### Article
