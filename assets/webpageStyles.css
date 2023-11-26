@@ -168,6 +168,12 @@ iframe.animation {
     width: 100vw !important;
     left: -50% !important;
   }
+
+  .Scroll {
+    overflow: scroll;
+    width: 100vw !important;
+    left: -50% !important;
+  }
 }
 
 /* Typography */
@@ -210,6 +216,11 @@ iframe.animation {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+  }
+
+  .Label {
+    font-size: 15px !important;
+    line-height: 20px !important;
   }
 }
 
