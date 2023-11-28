@@ -123,7 +123,6 @@ iframe.animation {
 
 /* Flex */
 @media (max-width: 1000px) {
-
   .Flex .ThumbGroup {
     display: flex !important;
     position: unset !important;
@@ -168,7 +167,10 @@ iframe.animation {
     width: 100vw !important;
     left: -50% !important;
   }
+}
 
+/* Scroll */
+@media (max-width: 1000px) {
   .Scroll {
     overflow: scroll;
     width: 100vw !important;
@@ -241,5 +243,6 @@ iframe.animation {
 @media screen and (max-width: 1000px) {
   .Thumb.popup_element.rounded-corners:not(.museBGSize) {
     background-color: transparent !important;
+    border-color: transparent !important;
   }
 }
