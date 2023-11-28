@@ -13,7 +13,6 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Important text - H4 20px Valera
 
 ## Fonts
-### Commonly used:
 * Arial
 * Varela (self-hosted)
 * Dosis (self-hosted)
@@ -21,7 +20,6 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Droid Sans (self-hosted)
 
 ## Colors
-### General
 * Primary - 0071BC
 * Secondary - 0E308E
 * Tertiary - 00B0C3
@@ -31,8 +29,3 @@ Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
 * Quote - F4DB38
 * Gold - BC9200
 * Silver - 555555
-
-### Grey
-* Dark - 212121
-* Mid - 424242
-* Light - 888888

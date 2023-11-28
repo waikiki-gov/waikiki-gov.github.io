@@ -178,6 +178,48 @@ iframe.animation {
   }
 }
 
+/* Panel */
+@media (max-width: 1000px) {
+  .Panel * {
+    transform: none !important;
+  }
+
+  .Panel {
+    border-width: 0px !important;
+    transform: none !important;
+    width: 100vw !important;
+    top: 10px !important;
+    left: 0px !important;
+    margin: 0px !important;
+  }
+
+  .Panel>.AccordionPanel>.AccordionPanelTab {
+    display: none !important;
+  }
+
+  .Panel>.AccordionPanel>.AccordionPanelContent {
+    width: 100vw !important;
+    height: auto !important;
+  }
+
+  .Panel>.AccordionPanel>.AccordionPanelContent>.AccordionPanelContentClip>.clearfix {
+    display: flex !important;
+    flex-direction: column-reverse;
+    align-items: center;
+    width: 100vw !important;
+    padding: 0px !important;
+  }
+
+  .Panel>.AccordionPanel>.AccordionPanelContent>.AccordionPanelContentClip>.clearfix>div {
+    left: unset !important;
+    margin: 0px !important;
+  }
+
+  .Panel>.AccordionPanel>.AccordionPanelContent>.AccordionPanelContentClip>.clearfix>div:not(.museBGSize) {
+    width: 100% !important;
+  }
+}
+
 /* Typography */
 @media (max-width: 1000px) {
 
