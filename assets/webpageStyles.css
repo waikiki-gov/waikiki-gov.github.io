@@ -29,13 +29,6 @@ body {
   bottom: 0px !important;
 }
 
-/* Hide header menu at breakpoint */
-@media (max-width: 1920px) {
-  .Header {
-    visibility: hidden !important;
-  }
-}
-
 /* City map animation */
 iframe.animation {
   border-width: 0px;
@@ -78,7 +71,14 @@ iframe.animation {
   height: auto;
 }
 
-/* Grid */
+/* Hide header menu at breakpoint */
+@media (max-width: 1920px) {
+  .Header {
+    visibility: hidden !important;
+  }
+}
+
+/* Grid and row */
 @media (max-width: 1920px) {
 
   .Row:not(.TabbedPanelsContent),
@@ -94,25 +94,27 @@ iframe.animation {
     row-gap: 20px;
   }
 
-  .Grid>div {
+  .Grid>div,
+  .Grid>.position_content>div {
     display: contents !important;
   }
 
   .Row>*,
   .Grid>*,
-  .Grid>*>* {
+  .Grid>*>*,
+  .Grid>.position_content>*>* {
     position: unset !important;
     margin: unset !important;
   }
 
-  .Row .anchor_item,
-  .Row .PamphletWidget,
+  .Row>.anchor_item,
+  .Row>.PamphletWidget,
   .Row.clearfix:after,
   .Row.clearfix:before,
   .Row .clearfix:after,
   .Row .clearfix:before,
-  .Grid .anchor_item,
-  .Grid .PamphletWidget,
+  .Grid>.anchor_item,
+  .Grid>.PamphletWidget,
   .Grid.clearfix:after,
   .Grid.clearfix:before,
   .Grid .clearfix:after,
