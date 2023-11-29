@@ -161,13 +161,13 @@ iframe.animation {
   }
 
   .FlexImage>img {
-    width: 100vw !important;
+    width: 98% !important;
     height: auto !important;
   }
 
   .FlexImage {
     width: 100vw !important;
-    left: -50% !important;
+    left: -49% !important;
   }
 }
 
@@ -271,15 +271,15 @@ iframe.animation {
 }
 
 /* Zoom */
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   .Zoom {
-    transform: perspective(100vw) translateZ(calc(100vw - 1000px));
+    transform: perspective(100vw) translateZ(calc(100vw - 1200px));
     transform-origin: top;
-    margin-bottom: calc(80vw - 800px);
+    margin-bottom: calc(80vw - 850px);
   }
 
   #pregen-es-ma {
-    margin-bottom: calc(80vw - 800px);
+    margin-bottom: calc(80vw - 900px);
   }
 }
 
