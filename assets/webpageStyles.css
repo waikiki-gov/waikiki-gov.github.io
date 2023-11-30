@@ -1,26 +1,8 @@
+/* Disable horizontal scroll */
 html,
 body {
   overflow-x: hidden !important;
   overscroll-behavior-x: none;
-}
-
-body {
-  background-color: white;
-  overflow-y: hidden !important;
-}
-
-.verticalspacer {
-  min-height: 0px !important;
-}
-
-.corsorPointer,
-.AutoLayoutButton,
-.WideLayoutButton,
-.DesktopLayoutButton,
-.LaptopLayoutButton,
-.TabletLayoutButton,
-.MobileLayoutButton {
-  cursor: pointer;
 }
 
 /* Hide white lines around footer */
@@ -29,18 +11,14 @@ body {
   bottom: 0px !important;
 }
 
+.verticalspacer {
+  min-height: 0px !important;
+}
+
 /* City map animation */
 iframe.animation {
   border-width: 0px;
   border-radius: 35px;
-}
-
-/* Introduction animation */
-.introduction {
-  border-width: 0px;
-  margin-bottom: -4px;
-  width: 2560px;
-  height: 800px;
 }
 
 /* Hide word art attribution message */
@@ -69,13 +47,6 @@ iframe.animation {
 .Waikiki-list-style .list2 img {
   max-width: 100%;
   height: auto;
-}
-
-/* Hide header menu at breakpoint */
-@media (max-width: 1920px) {
-  .Header {
-    visibility: hidden !important;
-  }
 }
 
 /* Grid and row */
@@ -262,11 +233,6 @@ iframe.animation {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-  }
-
-  .Label {
-    font-size: 15px !important;
-    line-height: 20px !important;
   }
 }
 
