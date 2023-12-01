@@ -125,7 +125,7 @@ iframe.animation {
   }
 
   .FlexImage {
-    width: 100vw !important;
+    width: 100% !important;
     left: -49% !important;
   }
 
@@ -251,5 +251,9 @@ iframe.animation {
   .Thumb.popup_element.rounded-corners:not(.museBGSize) {
     background-color: transparent !important;
     border-color: transparent !important;
+  }
+
+  .anchor_item.grpelem {
+    margin-top: 0px !important;
   }
 }
