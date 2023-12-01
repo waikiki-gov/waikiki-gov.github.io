@@ -192,37 +192,37 @@ iframe.animation {
 
 /* Typography */
 @media (max-width: 1000px) {
-
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    width: calc(100vw - 10px);
-  }
-
   h1 {
     font-size: 56px !important;
     line-height: 56px !important;
     margin-top: -100px !important;
   }
 
+  h2 {
+    font-size: 40px !important;
+    line-height: 40px !important;
+  }
+
   h3 {
+
     font-size: 22px !important;
     line-height: 22px !important;
+    width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
   h4 {
+    width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
   h5 {
+    width: calc(100vw - 10px);
     margin-left: calc((800px - 100vw)/2 + 5px);
   }
 
   h6 {
+    width: calc(100vw - 10px);
     margin-left: calc((600px - 100vw)/2 + 5px);
   }
 
@@ -239,10 +239,6 @@ iframe.animation {
     transform: perspective(100vw) translateZ(calc(100vw - 1200px));
     transform-origin: top;
     margin-bottom: calc(80vw - 850px);
-  }
-
-  #pregen-es-ma {
-    margin-bottom: calc(80vw - 900px);
   }
 }
 
