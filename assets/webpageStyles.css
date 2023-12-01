@@ -60,13 +60,15 @@ iframe.animation {
     row-gap: 20px;
   }
 
-  .Grid>div {
+  .Grid>div,
+  .Grid>.position_content>div {
     display: contents !important;
   }
 
   .Row>*,
   .Grid>*,
-  .Grid>*>* {
+  .Grid>*>*,
+  .Grid>.position_content>*>* {
     position: unset !important;
     margin: unset !important;
   }
@@ -84,6 +86,15 @@ iframe.animation {
   .Grid .clearfix:after,
   .Grid .clearfix:before {
     display: none !important;
+  }
+}
+
+/* Zoom */
+@media (max-width: 1200px) {
+  .Zoom {
+    transform: perspective(100vw) translateZ(calc(100vw - 1200px));
+    transform-origin: top;
+    margin-bottom: calc(80vw - 850px);
   }
 }
 
@@ -233,15 +244,6 @@ iframe.animation {
   }
 }
 
-/* Zoom */
-@media (max-width: 1200px) {
-  .Zoom {
-    transform: perspective(100vw) translateZ(calc(100vw - 1200px));
-    transform-origin: top;
-    margin-bottom: calc(80vw - 850px);
-  }
-}
-
 /* Hide popup elements on small screens */
 @media screen and (max-width: 1000px) {
   .Thumb.popup_element.rounded-corners:not(.museBGSize) {
@@ -251,5 +253,10 @@ iframe.animation {
 
   .anchor_item.grpelem {
     margin-top: 0px !important;
+  }
+
+  div[id$='bw'],
+  div[id$='bw']>div {
+    min-height: 0px !important;
   }
 }
