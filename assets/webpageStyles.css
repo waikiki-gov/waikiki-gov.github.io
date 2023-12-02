@@ -89,7 +89,7 @@ iframe.animation {
   .Row.clearfix:before,
   .Row .clearfix:after,
   .Row .clearfix:before,
-  .Row .wp-panel,
+  .Row .wp-panel:not(.museBGSize),
   .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
   .Grid>.anchor_item,
   .Grid>.PamphletWidget,
@@ -127,17 +127,8 @@ iframe.animation {
   }
 }
 
-/* Scroll */
-@media (max-width: 1000px) {
-  .Scroll {
-    overflow: scroll;
-    width: 100vw !important;
-    left: -50% !important;
-  }
-}
-
 /* Panel */
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
   .Panel * {
     transform: none !important;
   }
@@ -145,7 +136,6 @@ iframe.animation {
   .Panel {
     border-width: 0px !important;
     transform: none !important;
-    width: 100vw !important;
     top: 10px !important;
     left: 0px !important;
     margin: 0px !important;
@@ -174,7 +164,16 @@ iframe.animation {
   }
 
   .Panel>.AccordionPanel>.AccordionPanelContent>.AccordionPanelContentClip>.clearfix>div:not(.museBGSize) {
-    width: 100% !important;
+    width: 98% !important;
+  }
+}
+
+/* Scroll */
+@media (max-width: 1000px) {
+  .Scroll {
+    overflow: scroll;
+    width: 100vw !important;
+    left: -50% !important;
   }
 }
 
