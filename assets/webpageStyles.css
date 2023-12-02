@@ -49,6 +49,7 @@ iframe.animation {
 
   .Row:not(.TabbedPanelsContent),
   .Row.TabbedPanelsContentVisible,
+  .Row .ThumbGroup,
   .Grid:not(.TabbedPanelsContent),
   .Grid.TabbedPanelsContentVisible {
     display: flex !important;
@@ -58,14 +59,24 @@ iframe.animation {
     justify-content: center;
     column-gap: 50px;
     row-gap: 20px;
+    width: 100% !important;
+    height: auto !important;
   }
 
+  .Row .ThumbGroup>.popup_anchor,
   .Grid>div,
   .Grid>.position_content>div {
     display: contents !important;
   }
 
+  .Row>.PamphletWidget {
+    padding: unset !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+
   .Row>*,
+  .Row .ThumbGroup>.popup_anchor>.Thumb,
   .Grid>*,
   .Grid>*>*,
   .Grid>.position_content>*>* {
@@ -74,11 +85,12 @@ iframe.animation {
   }
 
   .Row>.anchor_item,
-  .Row>.PamphletWidget,
   .Row.clearfix:after,
   .Row.clearfix:before,
   .Row .clearfix:after,
   .Row .clearfix:before,
+  .Row .wp-panel,
+  .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
   .Grid>.anchor_item,
   .Grid>.PamphletWidget,
   .Grid.clearfix:after,
@@ -99,52 +111,17 @@ iframe.animation {
 }
 
 /* Flex */
-@media (max-width: 1000px) {
-  .Flex .ThumbGroup {
-    display: flex !important;
-    position: unset !important;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    column-gap: 50px;
-    row-gap: 50px;
-    width: 100% !important;
-    height: auto !important;
+@media (max-width: 1200px) {
+  .Flex {
+    width: 100vw !important;
+    left: -49vw !important;
   }
 
-  .Flex .ThumbGroup>.popup_anchor {
-    display: contents !important;
-  }
-
-  .Flex .PamphletWidget {
-    position: unset !important;
-    margin: unset !important;
-    padding: unset !important;
-    width: 100% !important;
-    height: auto !important;
-  }
-
-  .Flex .ThumbGroup:after,
-  .Flex .ThumbGroup:before,
-  .Flex .wp-panel {
-    display: none !important;
-  }
-
-  .Flex .ThumbGroup>.popup_anchor>.Thumb {
-    position: relative !important;
-    left: 0px !important;
-  }
-
-  .FlexImage {
-    width: 100% !important;
-    left: -49% !important;
-  }
-
-  .FlexImage>iframe {
+  .Flex>iframe {
     width: 98% !important;
   }
 
-  .FlexImage>img {
+  .Flex>img {
     width: 98% !important;
     height: auto !important;
   }
@@ -244,19 +221,14 @@ iframe.animation {
   }
 }
 
-/* Hide popup elements on small screens */
+/* Layout adjustments on small screens */
 @media screen and (max-width: 1000px) {
-  .Thumb.popup_element.rounded-corners:not(.museBGSize) {
-    background-color: transparent !important;
-    border-color: transparent !important;
-  }
-
   .anchor_item.grpelem {
     margin-top: 0px !important;
   }
 
   div[id$='bw'],
-  div[id$='bw']>div {
+  div[id$='bw']>div:not(.museBGSize) {
     min-height: 0px !important;
   }
 }
