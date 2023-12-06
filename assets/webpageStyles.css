@@ -5,6 +5,12 @@ body {
   overscroll-behavior-x: none;
 }
 
+/* Move Footer to page end */
+.Footer {
+  margin-top: -2px !important;
+  bottom: 0px !important;
+}
+
 /* Hide white lines around footer */
 .verticalspacer {
   min-height: 0px !important;
