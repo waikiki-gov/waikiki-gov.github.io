@@ -1,4 +1,5 @@
 //Define constants
+const responsive = "responsive";
 const ultrawide = "ultrawide";
 const desktop = "desktop";
 const laptop = "laptop";
@@ -10,6 +11,14 @@ const app = "application.html";
 
 //Register event listeners
 $(document).ready(function () {
+  $(".ResponsiveLayoutButton").on("click", function (event) {
+    event.stopPropagation();
+    if (window.location.href.includes(responsive)) {
+      changeLayout();
+    } else {
+      switchLayoutTo(responsive);
+    }
+  });
   $(".WideLayoutButton").on("click", function (event) {
     event.stopPropagation();
     localStorage.setItem("isAutoLayout", "false");
@@ -54,6 +63,7 @@ $(document).ready(function () {
 //Switch to the given layout
 function switchLayoutTo(device) {
   var path = window.location.href;
+  path = path.replace(responsive, device);
   path = path.replace(ultrawide, device);
   path = path.replace(desktop, device);
   path = path.replace(laptop, device);
@@ -71,7 +81,7 @@ function checkAndNavigate(path) {
       window.location = path;
     },
     error: function () {
-      console.log("Did not exist!");
+      console.log("Page doesn't exist!");
     }
   });
 }
