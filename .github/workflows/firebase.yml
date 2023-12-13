@@ -14,3 +14,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_WAIKIKI_WEBSITE }}'
           channelId: live
           projectId: waikiki-website
+          target: waikiki-website
