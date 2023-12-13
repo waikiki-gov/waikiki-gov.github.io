@@ -1,7 +1,7 @@
 {
   "hosting": {
     "public": "./",
-    "target": "waikiki-website",
+    "site": "waikiki-website",
     "ignore": [
       "firebase.json",
       "**.md",
