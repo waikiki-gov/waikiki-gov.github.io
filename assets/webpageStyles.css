@@ -112,7 +112,7 @@ iframe.animation {
   .Grid.clearfix:before,
   .Grid .clearfix:after,
   .Grid .clearfix:before {
-    display: none !important;
+    visibility: hidden !important;
   }
 }
 
