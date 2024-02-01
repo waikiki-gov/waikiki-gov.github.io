@@ -99,20 +99,23 @@ iframe.animation {
     margin: unset !important;
   }
 
+  .Row .wp-panel:not(.museBGSize),
+  .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
+  .Grid>.PamphletWidget{
+    visibility: hidden !important;
+  }
+
   .Row>.anchor_item,
   .Row.clearfix:after,
   .Row.clearfix:before,
   .Row .clearfix:after,
   .Row .clearfix:before,
-  .Row .wp-panel:not(.museBGSize),
-  .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
   .Grid>.anchor_item,
-  .Grid>.PamphletWidget,
   .Grid.clearfix:after,
   .Grid.clearfix:before,
   .Grid .clearfix:after,
-  .Grid .clearfix:before {
-    visibility: hidden !important;
+  .Grid .clearfix:before  {
+    display: none !important;
   }
 }
 
