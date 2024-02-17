@@ -76,6 +76,7 @@ iframe.animation {
     row-gap: 20px;
     width: 100% !important;
     height: auto !important;
+    padding-top: 40px !important;
   }
 
   .Row .ThumbGroup>.popup_anchor,
