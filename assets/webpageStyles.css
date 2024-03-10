@@ -69,14 +69,14 @@ iframe.animation {
   .Grid.TabbedPanelsContentVisible {
     display: flex !important;
     position: unset !important;
+    width: 100% !important;
+    height: auto !important;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     column-gap: 50px;
     row-gap: 20px;
-    width: 100% !important;
-    height: auto !important;
-    padding-top: 40px !important;
+    padding-top: 40px;
   }
 
   .Row .ThumbGroup>.popup_anchor,
@@ -117,6 +117,22 @@ iframe.animation {
   .Grid .clearfix:after,
   .Grid .clearfix:before  {
     display: none !important;
+  }
+  
+  .Row .Card,
+  .Grid .Card {
+    margin-bottom: 100px !important;
+  }
+
+  .Row>div.museBGSize:not(.Flex),
+  .Grid>div>div.museBGSize:not(.Flex) {
+    max-width: 98vw;
+  }
+
+  .Row>.Flex>iframe,
+  .Grid>div>.Flex>iframe {
+    max-width: 98vw;
+    margin-left: 1%;
   }
 }
 
@@ -205,7 +221,7 @@ iframe.animation {
   h4,
   h5,
   h6 {
-    width: calc(100vw - 10px);
+    width: calc(100vw - 20px);
     box-sizing: border-box;
   }
   h1 {
@@ -222,19 +238,19 @@ iframe.animation {
   h3 {
     font-size: 22px !important;
     line-height: 22px !important;
-    margin-left: calc((1000px - 100vw)/2 + 5px);
+    margin-left: calc((1000px - 100vw)/2 + 10px);
   }
 
   h4 {
-    margin-left: calc((1000px - 100vw)/2 + 5px);
+    margin-left: calc((1000px - 100vw)/2 + 10px);
   }
 
   h5 {
-    margin-left: calc((800px - 100vw)/2 + 5px);
+    margin-left: calc((800px - 100vw)/2 + 10px);
   }
 
   h6 {
-    margin-left: calc((600px - 100vw)/2 + 5px);
+    margin-left: calc((600px - 100vw)/2 + 10px);
   }
 
   .TextLine p {
