@@ -138,6 +138,11 @@ iframe.animation {
     max-width: 98vw;
     margin-left: 1%;
   }
+
+  .Row>.Flex>img,
+  .Grid>div>.Flex>img {
+    width: 100% !important;
+  }
 }
 
 /* Zoom */
@@ -254,6 +259,11 @@ iframe.animation {
   h6 {
     width: calc(100vw - 20px);
     margin-left: calc((600px - 100vw)/2 + 10px);
+  }
+
+  .h7 {
+    width: calc(100vw - 20px);
+    margin-left: calc((400px - 100vw)/2 + 10px);
   }
 
   .TextLine p {
