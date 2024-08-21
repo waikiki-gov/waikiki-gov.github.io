@@ -59,6 +59,13 @@ iframe.animation {
   height: auto;
 }
 
+.SubMenu {
+  position: fixed !important;
+  right: 380px !important;
+  left: unset !important;
+  margin-top: 70px !important;
+}
+
 /* Grid and row */
 @media (max-width: 1920px) {
 
@@ -89,11 +96,11 @@ iframe.animation {
     display: contents !important;
   }
 
-  .Grid>div>div:first-child{
+  .Grid>div>div:first-child {
     order: -1;
   }
 
-  .Grid>div>div:last-child{
+  .Grid>div>div:last-child {
     order: 1;
   }
 
@@ -114,7 +121,7 @@ iframe.animation {
 
   .Row .wp-panel:not(.museBGSize),
   .Row .Thumb.popup_element.rounded-corners:not(.museBGSize),
-  .Grid>.PamphletWidget{
+  .Grid>.PamphletWidget {
     visibility: hidden !important;
   }
 
@@ -127,10 +134,10 @@ iframe.animation {
   .Grid.clearfix:after,
   .Grid.clearfix:before,
   .Grid .clearfix:after,
-  .Grid .clearfix:before  {
+  .Grid .clearfix:before {
     display: none !important;
   }
-  
+
   .Row .Card,
   .Grid .Card {
     margin-bottom: 100px !important;
@@ -232,7 +239,12 @@ iframe.animation {
 /* Typography */
 @media (max-width: 1000px) {
 
-  h1, h2, h3, h4, h5,h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     box-sizing: border-box;
   }
 
