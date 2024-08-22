@@ -66,6 +66,14 @@ iframe.animation {
   margin-top: 70px !important;
 }
 
+@media (max-width: 760px) {
+  .SubMenu {
+    right: unset !important;
+    left: 0px !important;
+    margin-top: 105px !important;
+  }
+}
+
 /* Grid and row */
 @media (max-width: 1920px) {
 
