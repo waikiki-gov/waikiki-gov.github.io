@@ -63,14 +63,14 @@ iframe.animation {
   position: fixed !important;
   right: 380px !important;
   left: unset !important;
-  margin-top: 70px !important;
+  margin-top: 70px;
 }
 
 @media (max-width: 760px) {
   .SubMenu {
     right: unset !important;
     left: 0px !important;
-    margin-top: 105px !important;
+    margin-top: 105px;
   }
 }
 
