@@ -89,7 +89,7 @@ iframe.animation {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    column-gap: 50px;
+    column-gap: 2.5%;
     row-gap: 20px;
   }
 
@@ -256,49 +256,49 @@ iframe.animation {
     box-sizing: border-box;
   }
 
-  h1 {
+  :not(.rgba-background)>h1 {
     font-size: 56px !important;
     line-height: 56px !important;
     margin-top: -100px !important;
   }
 
-  h2 {
+  :not(.rgba-background)>h2 {
     font-size: 40px !important;
     line-height: 40px !important;
   }
 
-  h3 {
+  :not(.rgba-background)>h3 {
     font-size: 22px !important;
     line-height: 22px !important;
     width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
-  h4 {
+  :not(.rgba-background)>h4 {
     width: calc(100vw - 10px);
     margin-left: calc((1000px - 100vw)/2 + 5px);
   }
 
-  h5 {
+  :not(.rgba-background)>h5 {
     width: calc(100vw - 20px);
     margin-left: calc((800px - 100vw)/2 + 10px);
   }
 
-  h6 {
+  :not(.rgba-background)>h6 {
     width: calc(100vw - 20px);
     margin-left: calc((600px - 100vw)/2 + 10px);
   }
 
-  .h7 {
+  :not(.rgba-background)>.h7 {
     width: calc(100vw - 20px);
     margin-left: calc((400px - 100vw)/2 + 10px);
   }
+}
 
-  .TextLine p {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+.TextLine p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* Layout adjustments on small screens */
