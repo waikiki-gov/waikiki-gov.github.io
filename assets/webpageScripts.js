@@ -58,7 +58,29 @@ $(document).ready(function () {
   if (localStorage.getItem("isAutoLayout") == "true" || localStorage.getItem("isAutoLayout") == null) {
     $(window).on("resize", changeLayout);
   }
+
+  if (localStorage.getItem("isDarkMode") == "true") {
+    setTheme();
+  }
+
+  setTimeout(() => document.querySelector(':root').style.setProperty('--speed', '0.5s'), 500);
 });
+
+//Dark mode switch
+var isDarkMode = false;
+
+const setTheme = () => {
+  if (isDarkMode) {
+    document.body.classList.remove("body-dark");
+    document.body.classList.add("body-light");
+  }
+  else {
+    document.body.classList.remove("body-light");
+    document.body.classList.add("body-dark");
+  }
+  isDarkMode = !isDarkMode;
+  localStorage.setItem("isDarkMode", isDarkMode);
+};
 
 //Switch to the given layout
 function switchLayoutTo(device) {
