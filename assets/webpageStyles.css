@@ -21,7 +21,9 @@ body {
   bottom: 0px !important;
 }
 
-.verticalspacer {
+.verticalspacer,
+.Svg,
+.TabbedPanelsContent>.grpelem {
   min-height: 0px !important;
 }
 
