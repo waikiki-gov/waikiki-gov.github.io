@@ -18,6 +18,10 @@
   fill: white;
 }
 
+.body-dark .LightBlueBackground {
+  background-color: #2F4042 !important;
+}
+
 #dark-mode-switch {
   position: fixed;
   top: 25px;
