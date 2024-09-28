@@ -1,65 +1,11 @@
 //Define constants
-const responsive = "responsive";
-const ultrawide = "ultrawide";
-const desktop = "desktop";
-const laptop = "laptop";
-const tablet = "tablet";
-const mobile = "mobile";
-
-const home = "index.html";
-const app = "application.html";
+const darkModeStorageKey = "isDarkMode";
+const darkTheme = "body-dark";
+const lightTheme = "body-light";
 
 //Register event listeners
 $(document).ready(function () {
-  $(".ResponsiveLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    if (window.location.href.includes(responsive)) {
-      changeLayout();
-    } else {
-      switchLayoutTo(responsive);
-    }
-  });
-  $(".WideLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "false");
-    switchLayoutTo(ultrawide);
-    $(window).off("resize");
-  });
-  $(".DesktopLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "false");
-    switchLayoutTo(desktop);
-    $(window).off("resize");
-  });
-  $(".LaptopLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "false");
-    switchLayoutTo(laptop);
-    $(window).off("resize");
-  });
-  $(".TabletLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "false");
-    switchLayoutTo(tablet);
-    $(window).off("resize");
-  });
-  $(".MobileLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "false");
-    switchLayoutTo(mobile);
-    $(window).off("resize");
-  });
-  $(".AutoLayoutButton").on("click", function (event) {
-    event.stopPropagation();
-    localStorage.setItem("isAutoLayout", "true");
-    changeLayout();
-    $(window).on("resize", changeLayout);
-  });
-  if (localStorage.getItem("isAutoLayout") == "true" || localStorage.getItem("isAutoLayout") == null) {
-    $(window).on("resize", changeLayout);
-  }
-
-  if (localStorage.getItem("isDarkMode") == "true") {
+  if (localStorage.getItem(darkModeStorageKey) == "true") {
     setTheme();
   }
 
@@ -71,95 +17,16 @@ var isDarkMode = false;
 
 const setTheme = () => {
   if (isDarkMode) {
-    document.body.classList.remove("body-dark");
-    document.body.classList.add("body-light");
+    document.body.classList.remove(darkTheme);
+    document.body.classList.add(lightTheme);
   }
   else {
-    document.body.classList.remove("body-light");
-    document.body.classList.add("body-dark");
+    document.body.classList.remove(lightTheme);
+    document.body.classList.add(darkTheme);
   }
   isDarkMode = !isDarkMode;
-  localStorage.setItem("isDarkMode", isDarkMode);
+  localStorage.setItem(darkModeStorageKey, isDarkMode);
 };
-
-//Switch to the given layout
-function switchLayoutTo(device) {
-  var path = window.location.href;
-  path = path.replace(responsive, device);
-  path = path.replace(ultrawide, device);
-  path = path.replace(desktop, device);
-  path = path.replace(laptop, device);
-  path = path.replace(tablet, device);
-  path = path.replace(mobile, device);
-  checkAndNavigate(path);
-}
-
-//Checks if a given page exists and navigates
-function checkAndNavigate(path) {
-  $.ajax({
-    type: "HEAD",
-    url: path,
-    success: function () {
-      window.location = path;
-    },
-    error: function () {
-      console.log("Page doesn't exist!");
-    }
-  });
-}
-
-//Calculate window width
-function getWidth() {
-  console.log("Window width: " + $(window).width() + ", screen width: " + screen.width);
-  return $(window).width() < screen.width ? $(window).width() : screen.width;
-}
-
-//Change layout according to screen size
-function changeLayout() {
-  const width = getWidth();
-  const path = window.location.href;
-  if (width <= 600) {
-    if (!path.includes(mobile)) switchLayoutTo(mobile);
-  } else if (width <= 1200) {
-    if (!path.includes(tablet)) switchLayoutTo(tablet);
-  } else if (width <= 1900) {
-    if (!path.includes(laptop)) switchLayoutTo(laptop);
-  } else if (width <= 2540) {
-    if (!path.includes(desktop)) switchLayoutTo(desktop);
-  } else {
-    if (!path.includes(ultrawide)) switchLayoutTo(ultrawide);
-  }
-}
-
-function redirect() {
-  const width = getWidth();
-  if (width <= 600) {
-    window.location = "mobile/" + home;
-  } else if (width <= 1200) {
-    window.location = "tablet/" + home;
-  } else if (width <= 1900) {
-    window.location = "laptop/" + home;
-  } else if (width <= 2540) {
-    window.location = "desktop/" + home;
-  } else {
-    window.location = "ultrawide/" + home;
-  }
-}
-
-function redirectToApp() {
-  const width = getWidth();
-  if (width <= 600) {
-    window.location = "../mobile/" + app;
-  } else if (width <= 1200) {
-    window.location = "../tablet/" + app;
-  } else if (width <= 1900) {
-    window.location = "../laptop/" + app;
-  } else if (width <= 2540) {
-    window.location = "../desktop/" + app;
-  } else {
-    window.location = "../ultrawide/" + app;
-  }
-}
 
 //Jquery API fixes
 if (!$.browser) {
