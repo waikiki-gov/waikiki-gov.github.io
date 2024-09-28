@@ -10,7 +10,7 @@
   filter: invert(0.88);
 }
 
-.body-dark :is(p, h1, h2, h3, h4, h5, h6, li):not(a:not(.colelem) *):not(.WhiteBackground *):not(.WhiteBackgroundRound *) {
+.body-dark :is(p, h1, h2, h3, h4, h5, h6, li):not(a:not(.colelem) *):not(.WhiteBackground *):not(.WhiteBackgroundRound *):not(.Footer *) {
   color: white !important;
 }
 
