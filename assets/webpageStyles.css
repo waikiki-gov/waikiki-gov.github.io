@@ -341,3 +341,9 @@ text.medium {
 text.large {
   font-size: 22px
 }
+
+@media screen and (max-width: 1600px) {
+  .anchor_item.grpelem {
+    position: absolute !important;
+  }
+}
