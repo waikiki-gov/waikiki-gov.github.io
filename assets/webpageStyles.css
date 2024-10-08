@@ -335,27 +335,9 @@ text.small {
 }
 
 text.medium {
-  font-size: 14px
+  font-size: 16px
 }
 
 text.large {
-  font-size: 18px
-}
-
-@media (max-width: 1000px) {
-  svg {
-    overflow: visible;
-  }
-
-  text.small {
-    font-size: 14px;
-  }
-
-  text.medium {
-    font-size: 18px
-  }
-
-  text.large {
-    font-size: 22px
-  }
+  font-size: 22px
 }
