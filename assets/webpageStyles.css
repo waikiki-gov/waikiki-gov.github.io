@@ -304,10 +304,13 @@ iframe.animation {
 }
 
 /* Layout adjustments on small screens */
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1920px) {
   .anchor_item.grpelem {
     margin-top: 0px !important;
   }
+}
+
+@media screen and (max-width: 1000px) {
 
   div[id$='bw'],
   div[id$='bw']>div:not(.museBGSize) {
@@ -340,10 +343,4 @@ text.medium {
 
 text.large {
   font-size: 22px
-}
-
-@media screen and (max-width: 1600px) {
-  .anchor_item.grpelem {
-    position: absolute !important;
-  }
 }
