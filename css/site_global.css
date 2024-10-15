@@ -150,6 +150,10 @@ img.block {
     display: block;
 }
 
+.actAsInlineDiv {
+    display: inline-block;
+}
+
 .js .invi {
     visibility: hidden;
 }
