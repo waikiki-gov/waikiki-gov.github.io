@@ -20,7 +20,7 @@
   --space: #1f2233;
 
   --toggle-shadow-1: #171a1c26;
-  --toggle-shadow--2: #171a1ca6;
+  --toggle-shadow-2: #171a1ca6;
   --sun-shadow-1: #fffffff2;
   --sun-shadow-2: #2e333880;
   --moon-shadow-1: #171a1cf2;
@@ -68,7 +68,7 @@
 }
 
 .AccordionPanelContent .MenuItemLabel,
-.SubMenu .MenuItemLabel  {
+.SubMenu .MenuItemLabel {
   line-height: 20px;
   text-align: center;
   font-size: 17px;
@@ -484,7 +484,7 @@ text.large {
   inset: 0;
   box-shadow:
     0 calc(var(--width) * -0.025) calc(var(--width) * 0.025) 0 var(--toggle-shadow-1) inset,
-    0 calc(var(--width) * 0.025) calc(var(--width) * 0.025) 0 var(--toggle-shadow--2) inset;
+    0 calc(var(--width) * 0.025) calc(var(--width) * 0.025) 0 var(--toggle-shadow-2) inset;
   border-radius: 100vh;
 }
 
