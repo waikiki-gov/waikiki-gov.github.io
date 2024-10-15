@@ -135,6 +135,10 @@ a.nontext {
     pointer-events: none;
 }
 
+.allow_click_through * {
+    pointer-events: auto;
+}
+
 .anchor_item {
     width: 22px;
     height: 18px;
