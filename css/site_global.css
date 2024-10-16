@@ -33,24 +33,18 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-a:link,
-a:visited,
-a:hover,
-a:active {
-    color: #0071BC;
-}
-
 a.nontext {
+    color: black;
     text-decoration: none;
 }
 
 .list0 li:before {
     position: absolute;
     right: 100%;
-    letter-spacing: 0px;
-    text-decoration: none;
-    font-weight: normal;
-    font-style: normal;
+}
+
+.nls-None {
+    padding-left: 34px;
 }
 
 .nls-None>li:before {
@@ -58,8 +52,46 @@ a.nontext {
     content: '•';
 }
 
-.nls-None {
+.Simple-list-style {
     padding-left: 34px;
+}
+
+.Simple-list-style>li:before {
+    margin-right: 6px;
+    content: '•';
+}
+
+.Waikiki-list-style {
+    counter-reset: list0;
+    padding-left: 6px;
+}
+
+.Waikiki-list-style>li:before {
+    margin-right: 6px;
+    counter-increment: list0;
+    content: counter(list0, upper-roman) '.';
+}
+
+.Waikiki-list-style .list1 {
+    counter-reset: list1;
+    padding-left: 6px;
+}
+
+.Waikiki-list-style .list1>li:before {
+    margin-right: 6px;
+    counter-increment: list1;
+    content: counter(list1, lower-alpha) '.';
+}
+
+.Waikiki-list-style .list2 {
+    counter-reset: list2;
+    padding-left: 0px;
+}
+
+.Waikiki-list-style .list2>li:before {
+    margin-right: 0px;
+    counter-increment: list2;
+    content: counter(list2, lower-roman) '.';
 }
 
 .TabbedPanelsTab {
