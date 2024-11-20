@@ -180,6 +180,14 @@ iframe.animation {
         display: contents !important;
     }
 
+    .Grid>div>.colelem:first-child {
+        order: -1;
+    }
+
+    .Grid>div>.colelem:last-child {
+        order: 1;
+    }
+
     .Row>.PamphletWidget {
         padding: unset !important;
         width: 100% !important;
