@@ -3,6 +3,9 @@ const darkModeStorageKey = "isDarkMode";
 const darkTheme = "body-dark";
 const lightTheme = "body-light";
 
+//Initialize
+navigator.serviceWorker.register('./service-worker.js');
+
 //Register event listeners
 $(document).ready(function () {
   if (localStorage.getItem(darkModeStorageKey) == "true") {
