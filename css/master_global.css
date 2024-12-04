@@ -382,9 +382,6 @@ iframe.animation {
     .anchor_item.grpelem {
         margin-top: 0px !important;
     }
-}
-
-@media screen and (max-width: 1000px) {
 
     div[id$='bw'],
     div[id$='bw']>div:not(.museBGSize) {
