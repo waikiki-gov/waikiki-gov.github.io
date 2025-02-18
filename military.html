@@ -18,8 +18,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Hadsereg</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=10726333"/>
-  <link rel="stylesheet" type="text/css" href="css/master_global.css?crc=252559680"/>
-  <link rel="stylesheet" type="text/css" href="css/military.css?crc=164836212" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_global.css?crc=13841387"/>
+  <link rel="stylesheet" type="text/css" href="css/military.css?crc=3762666223" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -169,7 +169,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <div class="PamphletWidget clearfix grpelem" id="pamphletu42105" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- none box -->
           <div class="popup_anchor" id="u42108popup">
            <div class="ContainerGroup clearfix" id="u42108" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- none box -->
-            <div class="Container invi rounded-corners WhiteBackgroundRound clearfix grpelem" id="u42113" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
+            <div class="Container rounded-corners WhiteBackgroundRound clearfix grpelem" id="u42113" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
              <div class="clearfix grpelem" id="u42114-8" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
               <p id="u42114-2">Logan Davis</p>
               <p id="u42114-4">A hadsereg főparancsnoka</p>
@@ -340,16 +340,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/logan%20davis%202.jpg?crc=4221161239" alt=""/>
-   <img class="preload" src="images/logan%20davis%202_2x.jpg?crc=310943048" alt=""/>
-   <img class="preload" src="images/vasember%2043.jpg?crc=4160651086" alt=""/>
-   <img class="preload" src="images/vasember%2043_2x.jpg?crc=388753830" alt=""/>
-   <img class="preload" src="images/morgan%20clark.jpg?crc=3839427534" alt=""/>
-   <img class="preload" src="images/morgan%20clark_2x.jpg?crc=4105258599" alt=""/>
-   <img class="preload" src="images/james%20winnefeld%20admiral.jpg?crc=282872618" alt=""/>
-   <img class="preload" src="images/james%20winnefeld%20admiral_2x.jpg?crc=3907552737" alt=""/>
-  </div>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
@@ -371,7 +361,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('#slideshowu25995', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:7000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); $(elem).data('widget', widget); return widget; });/* #slideshowu25995 */
-Muse.Utils.initWidget('#pamphletu42105', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'mouseout_trigger',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,triggersOnTop:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu42105 */
+Muse.Utils.initWidget('#pamphletu42105', ['#bp_infinity'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,triggersOnTop:true,shuffle:false,enableSwipe:true,resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); });/* #pamphletu42105 */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#accordionu117599', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu117599 */
 Muse.Utils.fullPage('#page');/* 100% height page */
