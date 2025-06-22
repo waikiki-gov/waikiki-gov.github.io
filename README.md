@@ -45,7 +45,7 @@ Raimondo az Egyesült Államokban, Washington Cityben született 1996. július 7
 * Gold - BC9200
 * Silver - 555555
 
-## Branches
-* Main - latest version
-* Prod - caching assets with service worker
-* Dev - manually optimized files
+## Environments
+* Dev (develop) - manually optimized files
+* Main (main) - latest version
+* Prod (mobile) - caching assets with service worker
