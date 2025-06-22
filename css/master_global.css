@@ -255,7 +255,7 @@ iframe.animation {
 
 /* Flex */
 @media (max-width: 1200px) {
-    .Flex {
+    .Flex:not(.clip_frame.colelem) {
         width: 100vw !important;
         left: -49vw !important;
     }
@@ -317,6 +317,14 @@ iframe.animation {
         overflow: scroll;
         width: 100vw !important;
         left: -50% !important;
+    }
+}
+
+/* Image */
+@media (max-width: 1000px) {
+    .Image {
+        width: 98vw !important;
+        left: 1% !important;
     }
 }
 
@@ -669,4 +677,9 @@ text.large {
     50% {
         transform: scale(0);
     }
+}
+
+.browser_width.colelem,
+.browser_width.colelem>div {
+    min-height: 0px !important;
 }
