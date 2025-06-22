@@ -47,5 +47,5 @@ Raimondo az Egyesült Államokban, Washington Cityben született 1996. július 7
 
 ## Environments
 * Dev (develop) - manually optimized files
-* Main (main) - latest version
-* Prod (mobile) - caching assets with service worker
+* Main (main) - latest version https://waikikigovernment.github.io/Website/
+* Prod (mobile) - caching assets with service worker https://waikiki-gov.github.io
