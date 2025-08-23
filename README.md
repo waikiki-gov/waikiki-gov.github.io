@@ -19,6 +19,40 @@ Jennifer Chease 1994-ben, testvéreihez hasonlóan Washingtonban született. Isk
 ## Raimondo
 Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. július 7-én. 10 éves koráig szüleivel otthon tanult, majd 2 évig a Nova Aurelia Main Primary Schoolba járt. 2008-tól tanulmányait a Nova Aurelia High Schoolban folytatta. Később a Seven Seas High Schoolba jelentkezett, ahol megismerkedett Bailey Pickettel, aki később Ray első barátnője lett. Raimondo 2015-től szenátorként csatlakozott Waikiki kormányához, majd miután 2017-ben elvégezte a Waikiki Economics University gazdasági képzését, apja Chease Young átadta neki az ország vezetését, így Ray Waikiki diktátora lett. A Forbes 2018-as felmérése szerint Raimondo a világ legbefolyásosabb embere, vagyonát pedig több mint 2.000 milliárd amerikai dollárra becsülik. A Világkormány megalapulása után Raimondót a Trilliterális Bizottság tagjává választották. Miután Raimondo februárban szakított Baileyvel, a híres énekesnővel, Selena Gomezzel kezdett járni, aki szintén a Waikiki-i szenátus tagja.
 
+# Timeline
+* 1972 – Chease Young születése.
+* 1973 – Jessica Walker születése.
+* 1990 – Chease Young diplomát szerez a Stanford Egyetemen és átveszi a Starlight Hotels vezetését.
+* 1991 – Chease és Jessica megismerkednek.
+* 1992 – Chease és Jessica összeházasodnak.
+* 1993 – Megszületik Angelina Chease.
+* 1994 – Megszületik Jennifer Chease.
+* 1996 – Megszületik Raimondo Chease.
+* 1999 – Chease megalapítja Waikikit.
+* 2000 – Waikiki alkotmányát népszavazással megerősítik.
+* 2005 - Chease Youngot Waikiki királyává koronázzák.
+* 2006 – Chease Young a világ leggazdagabb embere.
+* 2007 – Waikiki elindítja első nagyobb űrprogramját és tudományos kutatóközpontját.
+* 2008 – Chease Young felvásárolja az első nagyobb technológiai cégeit, Jessica Walker lesz a Nemzeti Bank elnöke.
+* 2009 - Chease és Jessica közgazdasági Nobel-díjat kap
+* 2010 - Jennifer és Taylor először találkoznak, mialatt Chease és Jessica a világűrbe utaznak.
+* 2011 – Angelina megismerkedik Taylorral, Raimondo pedig Baileyvel találkozik.
+* 2012 – Angelina és Taylor először nyaralnak együtt.
+* 2013 – Angelina befejezi mesterképzését és humanitárius misszión vesz részt Venezuelában.
+* 2014 – Angelina fellép a Davosi Világgazdasági Fórumon és nyáron Taylorral Ázsiai körutat tesznek.
+* 2015 - A szenátus megalapítása, melynek első tagjai Raimondo, Angelina, Jennifer, Tyler, Taylor és Bailey.
+* 2016 – Raimondo kulcsszerepet vállal Waikiki energiaprogramjában, Angelina pedig a Nemzeti Bank monetáris tanácsának gyakornoka lesz.
+* 2017 – Chease Young lemond a diktátori címről, melyet Raimondónak ad át, ő maga pedig kancellár és a Világkormány elnöke lesz. Raimondo szakít Baileyvel és Selenával kezd járni.
+* 2018 – Raimondo a Forbes felmérése szerint a világ legbefolyásosabb embere lett.
+* 2019 – Raimondo és Selena közösen indítják el a Waikiki 2030 stratégiai programot a fenntartható fejlődés és technológiai innováció érdekében.
+* 2020 – Raimondo vezető szerepet vállal a nemzetközi klímavédelmi konferenciákon; Angelina és Taylor diplomáciai kapcsolatok erősítésében vesznek részt.
+* 2021 – Raimondo és Selena hivatalos külpolitikai körutakat tesznek Tokióban és Rómában; Angelina és Taylor diplomáciai kapcsolatok erősítésében vesznek részt.
+* 2022 – Angelina a Nemzeti Bank vezető tanácsosa lesz.
+* 2023 – Raimondo a nemzetközi energiaválság kezelésében kulcsszerepet játszik; Selena a nemzetközi oktatási és kulturális projektekért felel; Angelina és Taylor új humanitárius kezdeményezést indítanak Dél-Amerikában.
+* 2024 – Angelina hivatalosan is a Nemzeti Bank monetáris tanácsának tagja; Raimondo vezetésével Waikiki nemzetközi gazdasági konferenciákon vesz részt, Selena a külügyi tárgyalásokon képviseli az országot.
+* 2025 – Raimondo és Selena Waikiki nemzetközi technológiai és energiakonferencián mutatják be az ország új fenntarthatósági programját; Angelina és Taylor a Nemzeti Bank és humanitárius projekteken keresztül koordinálják az ország gazdasági és társadalmi stratégiáját.
+
+
 ## Export Muse
 * Publish Muse files.
 * Copy assets folder and service-worker.js to root.
