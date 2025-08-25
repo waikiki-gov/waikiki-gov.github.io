@@ -108,26 +108,9 @@ Az amazóniai útjuk során kiemelkedő jelentőségű szakmai programként lát
 
 A 2016-os év során Raimondo és Bailey többször is időt szakítottak Selena húgának, Graciának meglátogatására, aki időközben szoros barátságot alakított ki Mary Jane fiával, Jacobbal. Ez a kapcsolat tovább erősítette a családok közötti köteléket. Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat nőtt. Egyes becslések szerint a királyi család teljes vagyona 2016-ra elérte a 14 trilliárd waikiki dollár értéket. Abból is láthatjuk, hogy milyen jól ment a Waikiki-i kormánynak és cégeknek, hogy Ray 100 millió WUD-t adományozott jótékony célokra és 500 millió értékben vásárolt részvényeket. Chease Young a 100 milliós fizetésének, kétharmadát jótékony célra fordította. Olyan világhírű szervezeteknek adományozott, mint a WWF, az UNICEF vagy az UNESCO. Selena, aki szenátorként 2015-ben 50 milliót keresett, egy 60 millió WUD-t érő tengerparti villát is kapott, így új ingatlanra se kellett költenie. Selly fizetéséből szintén több milliót adott különböző jótékonysági szervezeteknek.
 
-
-
-
-
-
-
-
-
-
-
-
 ## A szenátus első éves értékelő konferenciája
 
-### Intézményi fejlődés és személyi változások
-
-2016.\ június 17-én, a szenátus megalapításának első évfordulója alkalmából került megrendezésre az intézmény történetének első átfogó értékelő konferenciája. Az esemény során Chease Young államfő ünnepélyes keretek között nevezte ki az új szenátorokat: Zendaya Colemant, a Disney produkciók egykori sztárját, Tom Hollandot, a Pókember-filmek főszereplőjét, valamint Gregg Sulkint, aki szakmai érdemei mellett Selena közeli barátjaként is ismert.
-
-### Infrastrukturális fejlesztések és elismerések
-
-A konferencián bemutatásra került Nova Aurelia belvárosának új építészeti büszkesége, egy impozáns toronyház terve, amely a város pénzügyi központjaként fog szolgálni. Az esemény keretében kiemelkedő közszolgálati tevékenységük elismeréseként lovagi címben részesült Smith Edward kormányzó és Waikiki három helytartója.
+2016.\ június 17-én, a szenátus megalapításának évfordulója alkalmából került megrendezésre az intézmény történetének első átfogó értékelő konferenciája. Az esemény során Chease Young államfő ünnepélyes keretek között nevezte ki az új szenátorokat, Zendaya Colemant, a Disney produkciók egykori sztárját, Tom Hollandot, a Pókember-filmek főszereplőjét, valamint Gregg Sulkint, aki szakmai érdemei mellett Selena közeli barátjaként is ismert. A konferencián bemutatásra került Nova Aurelia belvárosának új építészeti büszkesége, egy impozáns toronyház terve, amely a város kormányzati központjaként fog szolgálni.
 
 ## Raimondo huszadik születésnapi ünnepsége
 
