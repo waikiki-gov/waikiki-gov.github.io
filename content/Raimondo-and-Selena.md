@@ -110,71 +110,33 @@ A 2016-os év során Raimondo és Bailey többször is időt szakítottak Selena
 
 ## A szenátus első éves értékelő konferenciája
 
-2016.\ június 17-én, a szenátus megalapításának évfordulója alkalmából került megrendezésre az intézmény történetének első átfogó értékelő konferenciája. Az esemény során Chease Young államfő ünnepélyes keretek között nevezte ki az új szenátorokat, Zendaya Colemant, a Disney produkciók egykori sztárját, Tom Hollandot, a Pókember-filmek főszereplőjét, valamint Gregg Sulkint, aki szakmai érdemei mellett Selena közeli barátjaként is ismert. A konferencián bemutatásra került Nova Aurelia belvárosának új építészeti büszkesége, egy impozáns toronyház terve, amely a város kormányzati központjaként fog szolgálni.
+2016.\ június 17-én, a szenátus megalapításának évfordulója alkalmából került megrendezésre az intézmény történetének első átfogó értékelő konferenciája. Az esemény során Chease Young államfő ünnepélyes keretek között nevezte ki az új szenátorokat, Zendaya Colemant, a Disney produkciók egykori sztárját, Tom Hollandot, a Pókember-filmek főszereplőjét, valamint Gregg Sulkint, aki szakmai érdemei mellett Selena közeli barátjaként is ismert. A konferencián bemutatásra került Nova Aurelia belvárosának új építészeti büszkesége, egy impozáns toronyház terve, amely az ország kormányzati központjaként fog szolgálni.
 
-## Raimondo huszadik születésnapi ünnepsége
+## Raimondo huszadik születésnapja: Exkluzív fogadás a Diktátori Palotában
 
-### Exkluzív fogadás a Diktátori Palotában
+2016.\ július 7-én a Diktátori Palota keleti szárnya adott otthont Raimondo Chease huszadik születésnapi ünnepségének. A gondosan szervezett, zártkörű eseményen a trónörökös kizárólag legközelebbi ismerőseit és gyermekkori barátait látta vendégül. A meghívottak között kiemelt helyen szerepelt Bailey, valamint Selena, aki egy egyedi, holdkőzetből készült műalkotással kedveskedett az ünnepeltnek. A válogatott vendégkört olyan nemzetközileg elismert művészek gazdagították, mint Harry Styles, Bella Thorne, Zac Efron, Victoria Justice, Niall Horan és Zoey Deutch. Az ünnepség művészeti programját világhírű DJ-k és zenészek előadásai tették emlékezetessé. A rendezvény csúcspontjaként egy különleges, többemeletes születésnapi torta ünnepélyes felvonultatására került sor, amely méltó módon koronázta meg az estét.
 
-2016.\ július 7-én a Diktátori Palota keleti szárnya adott otthont Raimondo Chease huszadik születésnapi ünnepségének. A gondosan szervezett, zártkörű eseményen a trónörökös kizárólag legközelebbi bizalmasait, gyermekkori barátait és a személyéhez szorosan kötődő személyeket látta vendégül.
+## Kiemelkedő sikerek a nemzetközi szórakoztatóiparban
 
-### Különleges vendégek és ajándékok
+### Bailey a Miss Teen Universe versenyen
 
-A meghívottak között kiemelt helyen szerepelt Bailey, valamint Selena, aki egy egyedi, holdkőzetből készült műalkotással kedveskedett az ünnepeltnek. Miley kreativitását egy impozáns lávalámpa formájában fejezte ki. A válogatott vendégkört olyan nemzetközileg elismert művészek gazdagították, mint Harry Styles, Bella Thorne, Zac Efron, Victoria Justice, Niall Horan és Zoey Deutch.
-
-### Az est programja
-
-Az ünnepség művészeti programját világhírű DJ-k és zenészek előadásai tették emlékezetessé. A rendezvény csúcspontjaként egy különleges, többemeletes születésnapi torta ünnepélyes felvonultatására került sor, amely méltó módon koronázta meg az estét.
-
-## Kiemelkedő sikerek a nemzetközi szépség- és szórakoztatóiparban
-
-### Bailey diadalmenete a Miss Teen Universe versenyen
-
-A 2016-os Miss Teen Universe Awards különleges jelentőségű eseményén Bailey újabb kiemelkedő sikert ért el. A mindössze húszéves művésznő pályafutása során ez már a harmadik szépségverseny-győzelme volt, amit egy rangos tehetségkutató műsor első helyezése is kiegészít. A verseny második helyezettje - a szakmai körökben várható módon - közeli barátja, Selena Gomez lett, aki a Teen Choice Awards gálán szintén ezüstérmes pozíciót ért el.
-
-### Művészeti és kulturális eredmények
-
-A verseny harmadik helyezését Emma Watson érdemelte ki, aki az elmúlt időszakban két nagysikerű albummal és két jelentős filmszereppel - a "Lopom a sztárom" és a "Noé" című alkotásokban - gazdagította művészi pályafutását. A művésznőt érintő médiaérdeklődést tovább fokozta egy Harry Stylesszal közös sporteseményen való megjelenése, amellyel kapcsolatban Emma egyelőre diplomatikusan tartózkodik a nyilatkozatoktól.
+A 2016-os Miss Teen Universe Awards különleges jelentőségű eseményén Bailey újabb kiemelkedő sikert ért el. A mindössze húszéves művésznő pályafutása során ez már a harmadik szépségverseny győzelme volt, amit egy rangos tehetségkutató műsor első helyezése is kiegészít. A verseny második helyezettje közeli barátja, Selena Gomez lett, aki a Teen Choice Awards gálán szintén ezüstérmes pozíciót ért el. A verseny harmadik helyezését Emma Watson érdemelte ki, aki az elmúlt időszakban két nagysikerű albummal és két jelentős filmszereppel gazdagította művészi pályafutását. A művésznőt érintő médiaérdeklődést tovább fokozta egy Harry Stylesszal közös sporteseményen való megjelenése, amellyel kapcsolatban Emma egyelőre diplomatikusan tartózkodik a nyilatkozatoktól, egyenlőre nem cáfolta, de nem is erősítette meg a híreszteléseket.
 
 ### Selena Gomez sikerei és társadalmi szerepvállalása
 
-Az ESPY Awards gálán Selena Gomez ismét bizonyította kivételes stílusérzékét: egy elegáns Dolce & Gabbana miniruhát választott, amelyet Casadei magassarkú cipővel és exkluzív Lane Jewels ékszerekkel tett tökéletessé. 
-
-A művésznő azonban nem csak a vörös szőnyegen, hanem a társadalmi felelősségvállalás terén is példaértékű tevékenységet folytat. Különös figyelmet szentel az állatvédelemnek: két örökbefogadott kutyája, Baylor és Chip mellett aktívan támogatja a menhelyeket és állatvédő szervezeteket. Emellett az UNICEF nagykövetként is jelentős humanitárius tevékenységet végez.
+Az ESPY Awards gálán Selena Gomez ismét bizonyította kivételes stílusérzékét, egy elegáns Dolce & Gabbana miniruhát választott, amelyet Casadei magassarkú cipővel és exkluzív Lane Jewels ékszerekkel tett tökéletessé. A művésznő azonban nem csak a vörös szőnyegen, hanem a társadalmi felelősségvállalás terén is példaértékű tevékenységet folytat, különös figyelmet szentelve az állatvédelemnek. Két örökbefogadott kutyája, Baylor és Chip mellett aktívan támogatja a menhelyeket és állatvédő szervezeteket. Emellett az UNICEF nagykövetként is jelentős humanitárius tevékenységet végez.
 
 ## Diplomáciai látogatás az Egyesült Királyságban
-
-### Államfői őszinteség és tapasztalatok
-
-Chease Young államfő és delegációja jelentős diplomáciai útra indult az Egyesült Királyságba. A repülőút során az államfő figyelemre méltó őszinteséggel osztotta meg tapasztalatait, kiemelve, hogy a média által sugallt tévedhetetlenség ellenére neki is voltak kevésbé sikeres vállalkozásai. Szemléletes példaként említette a brazíliai űrrepülőtér befejezetlen projektjét, amely ma is az esőerdő mélyén áll. A beszélgetés során különös érdeklődést mutatott a fiatal tehetségek karrierútja iránt.
-
-### Médiaszereplések és kulturális programok
 
 A delegáció londoni tartózkodása alatt Raimondo és a szenátorok meghívást kaptak a népszerű This Morning Show-ba, ahol betekintést nyújthattak a nemzetközi hírnév világába és megoszthatták angliai élményeiket. A programsorozat különleges momentuma volt a Joanna Noelle Levesque-vel való találkozás, aki személyes meghívással és VIP jegyekkel kedveskedett másnapi koncertjére.
 
 ## Monumentális építészeti projektek: Mega épületek
-Raimondo Chease négy olyan nagyszabású építészeti projekt terveit mutatta be, amelyek nem csupán Waikiki technológiai fejlettségét és gazdasági erejét hivatottak demonstrálni, hanem a modern építészet mérföldköveivé válhatnak globális szinten is. E grandiózus létesítmények új fejezetet nyitnak az emberi mérnöki teljesítmények történetében.
 
-A monumentális építkezések stratégiailag fontos helyszíneken valósulnak meg:
-- Nova Aureliában: a Mega Piramis és a Royal Clock Tower
-- Rióban: a Miapolis komplexum
-- New Kairóban: a Kingdom Bridges
+Raimondo Chease négy olyan nagyszabású építészeti projekt terveit mutatta be, amelyek nem csupán Waikiki technológiai fejlettségét és gazdasági erejét hivatottak demonstrálni, hanem a modern építészet mérföldköveivé válhatnak globális szinten is. A grandiózus létesítmények új fejezetet nyitnak az emberi mérnöki teljesítmények történetében. Mindegyik létesítmény egyedi építészeti megoldásokat és innovatív technológiákat vonultat fel, ezáltal is erősítve Waikiki vezető szerepét a nemzetközi építőiparban. A Mega Piramid és a Royal Clock Tower Nova Aureliaban, a Miapolis Rióban, a Kingdom Bridges pedig New Kairóban kap helyet.
 
-Mindegyik létesítmény egyedi építészeti megoldásokat és innovatív technológiákat vonultat fel, ezáltal is erősítve Waikiki vezető szerepét a nemzetközi építőiparban.
+## Személyes fejlődés és oktatási kezdeményezések
 
-## Szakmai fejlődés és oktatási kezdeményezések
-
-### Folyamatos önképzés és személyes fejlődés
-
-Selena és Raimondo példaértékű elkötelezettséggel egyensúlyozzák közéleti szerepvállalásukat és szakmai fejlődésüket. Szabadidejük jelentős részét az informatikai ismeretek bővítésének és politikatudományi tanulmányoknak szentelik. Selena emellett intenzíven fejleszti spanyol nyelvtudását, valamint különös figyelmet fordít az egészséges életmódra és a rendszeres testmozgásra, újabban a lovaspóló sportággal ismerkedve.
-
-### Az Advanced Programming University megnyitása
-
-2016. szeptember 1-jén történelmi jelentőségű eseményre került sor: Waikiki első vállalati egyeteme, az Apple által támogatott Advanced Programming University hivatalos megnyitó ünnepségére. Az eseményen Raimondo, Bailey és Selena személyesen képviselték az állam vezetését.
-
-### Oktatási és karrierlehetőségek
-
-Raimondo ünnepi beszédében hangsúlyozta az intézmény kivételes felszereltségét és a nemzetközileg elismert oktatói kar szakmai kiválóságát. Külön kiemelte, hogy a Waikiki egyetemein végzett hallgatók számára az állam széleskörű karrierlehetőségeket biztosít, ezzel is támogatva a fiatal szakemberek hazai érvényesülését.
+A sok munka, utazás és jótékonysági est mellett Selenának és Raimondónak még a saját fejlesztésükre is marad ideje. A színésznő vigyáz az alakjára, hiszen ezeken kívül még az egészségtudatos táplálkozásra és a sportra is szakít időt. Mostanában éppen a lovaspólót gyakorolja barátaival. 2016. szeptember 1-jén történelmi jelentőségű eseményre került sor: Waikiki első vállalati egyeteme, az Apple által támogatott Advanced Programming University hivatalos megnyitó ünnepségére. Az eseményen Raimondo, Bailey és Selena személyesen képviselték az állam vezetését. Raimondo ünnepi beszédében hangsúlyozta az intézmény kivételes felszereltségét és a nemzetközileg elismert oktatói kar szakmai kiválóságát. Külön kiemelte, hogy a Waikiki egyetemein végzett hallgatók számára az állam széleskörű karrierlehetőségeket biztosít, ezzel is támogatva a fiatal szakemberek hazai érvényesülését.
 
 ## A 2016-os Young Hollywood Awards gálaest
 
