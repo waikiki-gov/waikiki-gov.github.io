@@ -306,26 +306,17 @@ Amerikai színész, zenész. Karrierjét 2002-ben az Álmomban Már Láttalak c�
 A szenátus első rendeletei között megszavazta egy új, egységes afrikai főváros létrehozását, a Nílus mellett sivatagban nemrégiben talált vízforrások felett. A főváros építése rengeteg munkahelyet teremtet a helyi lakosoknak és fontos bevétel Waikiki-i építkezési vállalkozóknak. Raimondo első feladatai közé tartozik, hogy megállapodást kössön a dubai befektetőkkel, a New Kairóba tervezett kaszinó center kivitelezéséről. A tárgyalás után Raimondo és Waikiki többi szenátora egy fogadásra voltak hivatalosak, ahol találkoztak az Egyesült Afrikai Nemzetek kormányának fontosabb tagjaival.
 
 Selena 20. születésnapja
+-------------------------------
 
 Miután Gregg Sulkin Nova Aurelia-ba költözött a Varázslók a Waverly helyből 5. évadjának forgatására, Selenával kezdett járni. A színésznő a 20. születésnapján, július 22.-én jelentette be a nagy hírt. A partira természetesen szenátortársaikon kívül rengeteg más hírességet is meghívtak, jelen volt Rihanna, Ian Somerhalder, Harry Styles és Emma Watson is. Selena azt is itt árulta el barátainak, hogy nemrég kinevezték a világ legfiatalabb UNICEF-nagykövetének. Munkája során rászorulóknak segít és társadalmi igazságtalanságokra hívja fel a figyelmet. Augusztus 1-én Mandy, Sel anyja, kislánynak adott életet az amerikai northridge-i kórházban. Selena a baba születése után rögtön felhívta Raimondót és a legjobb barátnőjét Demit, és elújságolta nekik a nagy hírt. Gracia teljesen egészségesen 3652 gramm súllyal látta meg a napvilágot. Nemsokkal ezután Selly apját, Ricardo-t regionális főügyésznek választják, Bailey szülei pedig szintén vezető pozíciókat kapnak az Amerikai Unióban, George Pickett törvényhozási tisztségviselő, Mary Jane pedig vidékfejlesztési biztos lett.
 
-
-Selena Gomez és szülei
-
-
-Selena családja
-
 A 2015-ös EU csúcstalálkozó
+-------------------------------
 
 Raimondo és Waikiki kormányának többi tagja 2015. október 15.-én részt vettek az aktuális negyedéves EUs csúcson, ahol tárgyaltak Törökország és Izland az unióhoz történő csatlakozásáról, felmerül az angliai és svájci euró bevezetése, valamint megállapodás született a következő évek költségvetési terveiről. A legfontosabb megállapodás azonban a Transzatlanti Szabadkereskedelmi Egyezményről született, melyet az érintett tagországok a G8 konferencián írnak alá. Az egyezmény jelentősen megkönnyíti a tőke, a szolgáltatások és az áruk szabad áramlását az Atlanti-óceán két partvidéke között. A következő 5 év költségvetéséből fogják fedezni az ESA új űrkutatási központjának, egy hatalmas újrahasznosító üzemnek, az egységes európai vasúthálózat megépítését, valamint a CERN bővítését. Az új beruházások közül többet Waikiki-i cégek fognak kivitelezni, ami hatalmas bevételt jelent az országnak.
 
-
-Az ESA űrrepülőjének látványterve
-
-
-Az Arianne III űrrakéta prototípusa
-
 Nemzetközi találkozók
+-------------------------------
 
 2015\. november 5-én Raimondót meghívták a Bilderberg Waikiki-i találkozójára. A Bilderberg-csoport egy befolyásos személyekből álló, zártkörű társaság. Nevét egy holland szállodáról kapta, ahol először tartották meg a gyűlésüket 1954-ben. A csoport 1954-től minden évben tanácskozik. A csoport tagjainak névsora nem nyilvános, de tagjai közt van Carlos Slim Helu, David Rockefeller és számos befolyásos politikus is. A Bilderberg-csoport tanácskozásai bizalmas jellegűek, így a Chatham House tanácskozásain elfogadott szabályok az érvényesek. Eszerint annak érdekében, hogy a résztvevők szabadon fejthessék ki saját személyes véleményüket egy-egy témáról, a résztvevők kötelezik magukat arra, hogy a tanácskozásokon elhangzottakról beszélhetnek ugyan, de nem nevezhetik meg az egyes álláspontokat képviselő személyeket illetve azok nemzeti vagy intézményi hovatartozását. Öt nappal a Bilderberg meghívása után a G8 csoport is meghívta Rayt a 2016-os ülésére. A fórum elengedte azon követeléseit, melyek miatt Chease korábban nem csatlakozott. A G8 a világ gazdaságilag legfejlettebb 7 országának és Oroszországnak az együttműködési fóruma. Tagok Kanada, Franciaország, Németország, Olaszország, Japán, Egyesült Királyság, Amerikai Egyesült Államok és nyolcadikként Oroszország. Miután Waikiki 2016.01.05-én csatlakozott a G8-hoz, a szövetséget átnevezték G9-re és egy új központ építését kezdték meg New Mavericksben. A találkozón szóba került még az első világkongresszus szervezése és a megújuló energiaforrások használata is. Itt írták alá a transzatlanti szabadkereskedelmi egyezményt is, amely az EU és az AU közti termékforgalmat könnyíti meg a biztonsági előírások megtartásával. A G9 létrejötte és a világkongresszus fontos előzményként szolgálnak ahhoz, hogy Waikiki befolyást nyerjen más országokban és Chease akár világméretűre terjessze hatalmát. A világkongresszus felügyeli majd a szuverén országok törvényeit, irányítását és kiadásait is. A világkongresszusba minden ENSZ tagállam küldhet képviselőket, akik az országuk gazdasági részesedése alapján adhatják le szavazataikat.
 
@@ -342,14 +333,12 @@ A kormány év eleji értékelését 2016. január 7-én tartották, ahol Chease
 Waikiki szenátorai részt-vettek a Riói Disneyland megnyitóján, ahol Selena még fel is lepett. A parkba Sel legjobb barátnője Demi Lovato és volt színésztársa, Jennifer Stone is elkísérte őket. A Los Angeles-i, párizsi és Nova Aurelia-i mellett ez a negyedik Disneyland a világon. Ezután Waikiki szenátorai 2016. februárjában Emma Watson legújabb filmjének, a Lopom a sztárom premierjére voltak hivatalosak, amit Cannes-ban mutatnak be. A minden évben megrendezésre kerülő filmfesztiválon rengeteg más híresség mellett az Oszkár-díjas Leonardo DiCaprioval, Britney Spearssel, Zendayaval és Russell Croweval is találkoztak. A 2016-os fesztivál nyitófilmjének Woody Allen legújabb alkotását, a hivatalos válogatásban versenyen kívül vetített Café Society című romantikus vígjátékát választották az esemény idei rendezői.
 
 Bailey 20. születésnapja
+-------------------------------
 
 Bailey 2016. február 18-án tartotta a 20. születésnapját, ahova meghívta a világ leghíresebb sztárjait. Jelen volt Angelina Jolie, Brad Pitt, Jim Carrey, Miley Cyrus és Jennifer Aniston is. A húszéves sztár születésnapján fellépett a Violettaként is ismert Martina Stoessel és Adele is. Bailey rengeteg értékes ékszert és más ajándékokat kapott, ezenkívül róla neveztek el egy nemrégiben felfedezett galaxist. A lány szülei 2016-ra tovább bővítették hatalmas farmkomplexumukat, hiszen a politikai szerepvállalásuk mellet továbbra sem hagyták abba a farmgazdálkodást. Július 4-e a Függetlenség Napja az Egyesült Államokban, tehát ünnepnap és természetesen amerikai születésű sztárjaink sem felejtették el megünnepelni hazájuk születésnapját. Ray az egész napot barátaival töltötte, ugyanis meghívta minden munkatársát, illetve barátait a Nova Aurelia-i házába és együtt buliztak. Selena szintén pihent és a barátaival, illetve családjával töltötte az ünnepet. Majd este barátnőjéhez, Demi Lovato-hoz hasonlóan fellépett a bevásárlóközpont ünnepségén és kiderült, hogy Raimondóval is találkozott az éjszaka folyamán.
 
-Bailey családja a filmforgatáson
-
-Bailey apjával és bátyjával
-
 Raimondo és Bailey magánélete
+-------------------------------
 
 Raimondo és Bailey közösen meglátogatták korábbi barátaikat a Seven Seas High Schoolból. Cody a mérnöki pályán helyezkedett el, Zack egy kereskedelmi láncnál lett aligazgató, Marcus pedig a szórakoztatóiparban talált számára megfelelő állást. Az amazóniai látogatásuk alkalmával Raimondóék megnézték a Kennedy űrközpontot. A kiállítás elején bemutatták nekik az amerikai űrkutatási és űrhajózási program nevezetességeit, köztük a holdkomp modelljét. A körútjuk végigvezetett a kilövőállomások között, érintett egy szabadtéri bemutatót, ahol az eddig felhasznált különböző rakéták modelljeit állítják ki, majd a túravezető elvitte őket egy laboratóriumba, ahol az űrhajósok készülnek fel feladataik végrehajtására. 2016-ban Ray és Bailey többször meglátogatták Sel kistestvérét, Graciet, aki hamar összebarátkozott Mary Jane fiával, Jacobbal.
 
