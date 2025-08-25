@@ -70,41 +70,35 @@ A találkozón kulcsfontosságú témákat vitattak meg, köztük az első vilá
 
 ### Billboard Music Awards díjátadó
 
-A 2015-ös Billboard Music Awards díjátadó ünnepségén különleges együttműködésnek lehettünk tanúi, amikor Raimondo, Selena és Bridgit Mandler közösen képviselték Waikit. Az eseményen Selena Gomez egy különlegesen kidolgozott, jövőbe mutató designnal készült estélyi ruhakölteményben jelent meg, amely osztatlan elismerést váltott ki mind a szakma képviselői, mind a rajongók körében.
+A 2015-ös Billboard Music Awards díjátadó ünnepségén különleges együttműködésnek lehettünk tanúi, amikor Raimondo, Selena és Bridgit Mandler közösen képviselték Waikit. Az eseményen Selena Gomez egy különlegesen kidolgozott, jövőbe mutató designnal készült extravagáns, futurisztikus estélyi ruhakölteményben jelent meg, amely osztatlan elismerést váltott ki mind a szakma képviselői, mind a rajongók körében.
 
 ### Technológiai innovációk
 
-2015.\ október 24-én Raimondo szakmai érdeklődésének megfelelően személyesen vett részt a Las Vegas-i CES (Consumer Electronics Show) informatikai szakkiállításon. Az esemény legjelentősebb bejelentései között szerepelt az Apple legújabb termékcsaládja, beleértve az iPhone 9S mobiltelefont, az iVision következő generációs készüléksorozatát, valamint a legfrissebb Macintosh operációs rendszert.
+2015.\ október 24-én Raimondo szakmai érdeklődésének megfelelően személyesen vett részt a Las Vegas-i CES (Consumer Electronics Show) informatikai kiállításon. Az esemény legjelentősebb bejelentései között szerepelt az Apple legújabb termékcsaládja, beleértve az iPhone 9S mobiltelefont, az iVision következő generációs készüléksorozatát, valamint a legfrissebb macOS operációs rendszert.
 
 ## A Waikiki kormány 2016. évi nyitóértekezlete
 
-### Teljesítményértékelés és elismerések
-
-2016.\ január 7-én került megrendezésre a kormány hagyományos év eleji értékelő konferenciája, melynek keretében Chease Young államfő méltatta a szenátori testület kiemelkedő teljesítményét és az elmúlt időszak jelentős eredményeit. Az értekezleten több magas rangú kormánytisztviselő részesült különleges elismerésben: Raimondo egy exkluzív kivitelezésű luxusjachtot, Bailey egy egyedi tervezésű mesterséges kék gyémántot, Angelina és Taylor közösen egy korszerű óceánjárót, Jennifer és Tyler pedig egy festői környezetben található üdülőt vehetett át. Selena különleges elismeréseként egy 68 000 négyzetméteres területen létesülő, a Bauhaus építészeti irányzat jegyeit hordozó rezidenciát kapott, amely szimbolikus módon Raimondo palotájának közvetlen szomszédságában épül fel.
-
-### Stratégiai bejelentések
-
-Az értekezlet során Chease Young bejelentette a készpénzforgalom teljes körű digitalizációjának 2017-re tervezett bevezetését. A sajtótájékoztatón Raimondo részletesen ismertette a döntés hátterét, kiemelve a feketegazdaság elleni küzdelem jelentőségét és a digitális fizetési rendszerek nyújtotta előnyöket.
-
-### Nemzetközi kulturális események
-
-A Waikiki szenátusi delegáció jelentős szerepet vállalt a Riói Disneyland ünnepélyes megnyitóján, ahol Selena különleges előadással emelte az esemény fényét. Az ünnepségen részt vett Selena közeli barátnője, Demi Lovato, valamint egykori színésztársa, Jennifer Stone is. Ez a létesítmény - a Los Angeles-i, párizsi és Nova Aurelia-i parkok után - a negyedik Disneyland-komplexumként csatlakozott a nemzetközi hálózathoz. 2016 februárjában a szenátori testület meghívást kapott Emma Watson legújabb filmalkotása, a "Lopom a sztárom" cannes-i premierjére. A nemzetközi filmművészet e kiemelkedő eseményén számos világhírű művésszel találkozhattak, többek között az Oscar-díjas Leonardo DiCaprióval, Britney Spearsszel, Zendayával és Russell Crowe-val. A 2016-os fesztivál különlegességét fokozta, hogy nyitófilmként Woody Allen legújabb alkotását, a hivatalos válogatásban versenyen kívül szereplő "Café Society" című romantikus vígjátékot választották a szervezők.
+2016.\ január 7-én került megrendezésre a kormány hagyományos év eleji értékelő konferenciája, melynek keretében Chease Young államfő méltatta az elmúlt időszak jelentős eredményeit. Az értekezleten több magas rangú kormánytisztviselő részesült különleges elismerésben. Raimondo egy exkluzív kivitelezésű luxusjachtot, Bailey egy egyedi tervezésű mesterséges kék gyémántot, Angelina és Taylor közösen egy korszerű óceánjárót, Jennifer és Tyler pedig egy festői környezetben található üdülőt vehetett át. Selena különleges elismeréseként egy 68 000 négyzetméteres területen létesülő, a Bauhaus építészeti irányzat jegyeit hordozó rezidenciát kapott, amely szimbolikus módon Raimondo palotájának közvetlen szomszédságában épült fel. Az értekezlet során Chease Young bejelentette a készpénzforgalom teljes körű digitalizációjának 2017-re tervezett bevezetését. A sajtótájékoztatón Raimondo részletesen ismertette a döntés hátterét, kiemelve a feketegazdaság elleni küzdelem jelentőségét és a digitális fizetési rendszerek nyújtotta előnyöket.
 
 ## Társadalmi események és ünnepségek
 
+### A Riói Disneyland megnyitó ünnepsége
+
+Waikiki szenátorai részt-vettek a Riói Disneyland ünnepélyes megnyitóján, ahol Selena különleges előadással emelte az esemény fényét. Az esemény nemcsak a latin-amerikai turizmus új fejezetét nyitotta meg, hanem a nemzetközi figyelmet is Rio de Janeiróra irányította. Az ünnepségen részt vett Selena közeli barátnője, Demi Lovato, valamint egykori színésztársa, Jennifer Stone is. A Los Angeles-i, Párizsi, Tokyo-i, Hong Kong-i és Nova Aurelia-i parkok után a hetedik Disneyland-komplexumként csatlakozott a nemzetközi hálózathoz. A kiemelkedő eseményén számos világhírű művésszel találkozhattak, többek között az Oscar-díjas Leonardo DiCaprióval, Britney Spearsszel, Zendayával és Russell Crowe-val.
+
 ### Bailey huszadik születésnapi gálája
 
-2016.\ február 18-án került megrendezésre Bailey huszadik születésnapi ünnepsége, amely a nemzetközi elit találkozójává nőtte ki magát. A különleges alkalomra olyan világsztárok fogadták el a meghívást, mint Angelina Jolie, Brad Pitt, Jim Carrey, Miley Cyrus és Jennifer Aniston. Az est művészeti programját két kiemelkedő előadó, a Violettaként ismertté vált Martina Stoessel, valamint a többszörös Grammy-díjas Adele fellépése gazdagította. Az ünnepelt számos értékes ajándék mellett egy rendkívüli megtiszteltetésben is részesült: egy újonnan felfedezett galaxist neveztek el róla. A család továbbra is sikeresen egyensúlyoz a közéleti szerepvállalás és a hagyományos értékek között, amit jól példáz farmgazdaságuk folyamatos fejlesztése is.
+2016.\ február 18-án került megrendezésre Bailey huszadik születésnapi ünnepsége, amely a nemzetközi elit találkozójává nőtte ki magát. A különleges alkalomra olyan világsztárok fogadták el a meghívást, mint Angelina Jolie, Brad Pitt, Jim Carrey, Miley Cyrus és Jennifer Aniston. Az est művészeti programját két kiemelkedő előadó, a Violettaként ismertté vált Martina Stoessel, valamint a többszörös Grammy-díjas Adele fellépése gazdagította. Az ünnepelt számos értékes ajándék mellett egy rendkívüli megtiszteltetésben is részesült, egy újonnan felfedezett galaxist neveztek el róla. Bailey családja továbbra is sikeresen egyensúlyoz a közéleti szerepvállalás és a hagyományos értékek között, amit jól példáz farmgazdaságuk folyamatos fejlesztése is.
 
 ### Függetlenség napi ünnepségek
 
-A július negyediki amerikai függetlenség napi megemlékezések különleges jelentőséggel bírtak sztárjaink számára. Raimondo exkluzív összejövetelt szervezett Nova Aurelia-i rezidenciáján, ahol munkatársai és közeli barátai társaságában ünnepelt. Selena az ünnepet családi körben kezdte, majd este különleges fellépéssel csatlakozott barátnője, Demi Lovato műsorához a helyi bevásárlóközpont ünnepi rendezvényén. Az est folyamán egy nem várt találkozásra is sor került Raimondóval.
+Július 4-e a Függetlenség Napja az Egyesült Államokban, tehát ünnepnap és természetesen amerikai születésű sztárok sem felejtették el megünnepelni hazájuk születésnapját. Ray az egész napot barátaival töltötte, ugyanis meghívta minden munkatársát, illetve barátait a Nova Aurelia-i házába és együtt buliztak. Selena szintén pihent és a barátaival, illetve családjával töltötte az ünnepet. Majd este barátnőjéhez, Demi Lovato-hoz hasonlóan fellépett a bevásárlóközpont ünnepségén és kiderült, hogy Raimondóval is találkozott az éjszaka folyamán.
 
 ## Személyes kapcsolatok és szakmai látogatások
 
-### Találkozás a múlttal és a jövővel
+### Seven Seas High School találkozó
 
-Raimondo és Bailey jelentős időt szenteltek korábbi alma materük, a Seven Seas High School egykori diákjainak felkeresésére. Az életutak sokszínűségét jól példázza, hogy míg Cody a mérnöki hivatást választotta, addig Zack egy jelentős kereskedelmi vállalat helyettes vezetőjeként tevékenykedik, Marcus pedig a szórakoztatóipar területén találta meg hivatását.
+Raimondo és Bailey közösen meglátogatták korábbi barátaikat a Seven Seas High Schoolból. Az esemény bemutatta, hogy az egykori diáktársak mennyire sokféle életutat jártak be, és hogyan váltak mindannyian a saját területük meghatározó alakjaivá. A találkozón különösen emlékezetes volt a beszélgetés Codyval, aki a tudományos pálya iránti szenvedélyét követve mérnökként dolgozik egy nemzetközi kutatóintézetben. Cody megosztotta tapasztalatait a fenntartható energiáról és több ponton összekapcsolódott a beszélgetés Waikiki energiapolitikai törekvéseivel. Eközben Zack is mesélt karrierjéről, ő a kereskedelem világában találta meg számításait, és jelenleg egy jelentős vállalat helyettes vezetőjeként dolgozik. A találkozó egyik legvidámabb része Marcus nevéhez fűződött, aki a szórakoztatóiparban épített fel magának karriert. Zenészként és producerként vált ismertté, és a találkozón egy rögtönzött előadással lepte meg barátait, ami újra felidézte a régi közös emlékeket.
 
 ### Tudományos érdeklődés és űrkutatás
 
@@ -112,7 +106,18 @@ Az amazóniai útjuk során kiemelkedő jelentőségű szakmai programként lát
 
 ### Családi kötelékek
 
-A 2016-os év során Raimondo és Bailey többször is időt szakítottak Selena húgának, Graciának meglátogatására, aki időközben szoros barátságot alakított ki Mary Jane fiával, Jacobbal. Ez a kapcsolat tovább erősítette a családok közötti köteléket. Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat nőtt. Egyes becslések szerint a királyi család teljes vagyona 2016-ra elérte a 14 trilliárd waikiki dollár értéket. Abból is láthatjuk, hogy milyen jól ment a Waikiki-i kormánynak és cégeknek, hogy Ray 100.000.000 WUD-t adományozott jótékony célokra és 500 millió értékben vásárolt részvényeket. „Ezen kívül 40 milliót költöttem saját célra.” nyilatkozta a New York Times-nak az ifjú trónörökös. Chease Young a 100 milliós fizetésének, kétharmadát jótékony célra fordította. Olyan világhírű szervezeteknek adományozott, mint a WWF, az UNICEF vagy az UNESCO. "Bónuszként még egy 60 millió WUD-t érő tengerparti villát is kaptam, így új ingatlanra se kellett költenem." nyilatkozta Selena, aki szenátorként 2015-ben 50 milliót keresett. Selly fizetéséből szintén több milliót adott különböző jótékonysági szervezeteknek.
+A 2016-os év során Raimondo és Bailey többször is időt szakítottak Selena húgának, Graciának meglátogatására, aki időközben szoros barátságot alakított ki Mary Jane fiával, Jacobbal. Ez a kapcsolat tovább erősítette a családok közötti köteléket. Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat nőtt. Egyes becslések szerint a királyi család teljes vagyona 2016-ra elérte a 14 trilliárd waikiki dollár értéket. Abból is láthatjuk, hogy milyen jól ment a Waikiki-i kormánynak és cégeknek, hogy Ray 100 millió WUD-t adományozott jótékony célokra és 500 millió értékben vásárolt részvényeket. Chease Young a 100 milliós fizetésének, kétharmadát jótékony célra fordította. Olyan világhírű szervezeteknek adományozott, mint a WWF, az UNICEF vagy az UNESCO. Selena, aki szenátorként 2015-ben 50 milliót keresett, egy 60 millió WUD-t érő tengerparti villát is kapott, így új ingatlanra se kellett költenie. Selly fizetéséből szintén több milliót adott különböző jótékonysági szervezeteknek.
+
+
+
+
+
+
+
+
+
+
+
 
 ## A szenátus első éves értékelő konferenciája
 
