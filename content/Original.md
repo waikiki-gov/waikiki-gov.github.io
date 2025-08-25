@@ -391,36 +391,23 @@ Raimondo és Selena további tanulmányai
 
 A sok munka, utazás és jótékonysági est mellett Selenának és Raimondónak még a továbbtanulásra is maradt ideje. Szabadidejükben számítástechnikai szakkörre járnak és politikai tanulmányokat folytatnak, sőt Selena még spanyol nyelvtudását is fejlesztette. A színésznő vigyáz az alakjára, hiszen ezeken kívül még az egészségtudatos táplálkozásra és a sportra is szakít időt. Mostanában éppen a lovaspólót gyakorolja barátaival. 2016. szeptember 1-jén az országos évnyitón Raimondo, Bailey és Selena személyesen vettek részt Waikiki első vállalati egyetemének, az Apple által finanszírozott Advanced Programming University megnyitóján. Beszédében Raimondo biztosította a diákokat, hogy minden korábbinál jobban felszerelt egyetemre járhatnak és a legkiválóbb oktatóktól és professzoroktól tanulhatnak Waikiki bármely egyetemére felvételt nyert hallgatók. Szintén hatalmas biztonságot nyújt a leendő pályakezdőknek, hogy Waikiki kormánya rengeteg álláslehetőséggel várja a friss diplomásokat.
 
-Raimondo az egyetem kosárbajnoka
+A 2016-os Young Hollywood Awards gálaest
 
-Advanced Programming University
+Selena saját jótékonysági bolthálózatot alapít, melyet szenátornő személyesen jelentett be, amikor átvette a 2016-os Teen Choise Awardson nyert díját. "Mindenek előtt szeretnék köszönetet mondani a családomnak, akik a kezdetektől fogva mellettem álltak és támogattak. Másodszor a barátaimnak és a rajongóimnak, akik bármit tettem támogattak és a legnagyobb baj esetén is felvidítottak. Végül, de nem utolsó sorban pedig a Disney és a Waikiki kormány azon alkalmazottainak, akik felfigyeltek a tehetségemre és lehetővé tették, hogy részese legyek valami igazán nagynak. Nélkülük nem lennék itt. Ezt szeretném viszonozni és másoknak is lehetőséget teremteni azzal, hogy jótékonysági monobrand üzlethálózatot nyitok. Az első bolt megnyitóján, két hét múlva személyesen is részt veszek. " jelentette be Sel. Az üzletben többek közt ruhákat, cipőket, parfümöket és egyéb kiegészítőket lehet majd kapni. Selena mellett Raimondo is büszkélkedhet egy díj átvételével, melyet a legfelkapottabb sztár cím keretében nyert el. ”Nagyon megtisztelő élmény itt lenni és szeretném megköszönni mindazoknak, akik támogattak. A családom mindig mellettem állt és a tanácsaik is segítettek, hogy elkerüljem a bajt. Természetesen a rajongóim nélkül sem lehetnék itt, és örülök, hogy több millió embert tehettem boldoggá. Egy különleges alkalomra szántam a bejelentést, - de mi lehetne ennél különlegesebb? – hogy Baileyvel mi is fellépünk a Selena Gomez Store megnyitóján.” jelentette be Ray. Bailey, Gregg, Angelina és Jennifer szintén díjakat vehetett át. 
 
-Selena lovaspólót játszik
+A Selena Gomez Stores megnyitója
 
-Young Hollywood Awards 2016
-
-A 2016-os Young Hollywood Awards alkalmából Selena Gomez a vörös szőnyeges felvonulásához egy fekete, a váll- és hasrésznél bőrrel és kövekkel díszített Versace-ruhát talált a legmegfelelőbbnek. Cipői a Jimmy Choo márkához fűződnek, ékszerei pedig a Neil Lane divatházhoz. Sel az év legjobb zenei albumáért járó arany díjat vehette át az ünnepségen. Bailey Pickett egy igazán különleges, fekete Marchesa bőrkabátot viselt. BCBG-magassarkúkat húzott és Judith Leiber-táskát választott kiegészítésképpen. A lány a legkörnyezetbarátabb sztárnak járó díjjal térhet haza. Selena saját jótékonysági bolthálózatot alapít, melyet szenátornő személyesen jelentett be, amikor átvette a 2016-os Teen Choise Awardson nyert díját. "Mindenek előtt szeretnék köszönetet mondani a családomnak, akik a kezdetektől fogva mellettem álltak és támogattak. Másodszor a barátaimnak és a rajongóimnak, akik bármit tettem támogattak és a legnagyobb baj esetén is felvidítottak. Végül, de nem utolsó sorban pedig a Disney és a Waikiki kormány azon alkalmazottainak, akik felfigyeltek a tehetségemre és lehetővé tették, hogy részese legyek valami igazán nagynak. Nélkülük nem lennék itt. Ezt szeretném viszonozni és másoknak is lehetőséget teremteni azzal, hogy jótékonysági monobrand üzlethálózatot nyitok. Az első bolt megnyitóján, két hét múlva személyesen is részt veszek. " jelentette be Sel. Az üzletben többek közt ruhákat, cipőket, parfümöket és egyéb kiegészítőket lehet majd kapni. Selena mellett Raimondo is büszkélkedhet egy díj átvételével, melyet a legfelkapottabb sztár cím keretében nyert el. ”Nagyon megtisztelő élmény itt lenni és szeretném megköszönni mindazoknak, akik támogattak. A családom mindig mellettem állt és a tanácsaik is segítettek, hogy elkerüljem a bajt. Természetesen a rajongóim nélkül sem lehetnék itt, és örülök, hogy több millió embert tehettem boldoggá. Egy különleges alkalomra szántam a bejelentést, - de mi lehetne ennél különlegesebb? – hogy Baileyvel mi is fellépünk a Selena Gomez Store megnyitóján.” jelentette be Ray. Bailey, Gregg, Angelina és Jennifer szintén díjakat vehetett át. A Chease Young sugárúton elhelyezkedő boltja megnyitóján Selena egyszerűen lélegzetelállító volt a Versace-, mélykék ruhájában, amely egyszerre volt komoly és szexi. Az eseményen a kormány tagjain kívül jelen volt a One Direction tagjai, akik csodálattal beszéltek Selről és szívesen koncerteznének vele együtt. Ott volt Brad Pitt és felesége Angelina Jolie, akik miután jótékonysági célból rengeteg ruhát vásároltak, hosszasan beszélgettek a tulajdonossal és barátaival.
-
-
-Selena Young Hollywood Awards
-
-Selena Teen Choise Awards
-
-Raimondo Teen Choise Awards
+A Chease Young sugárúton elhelyezkedő boltja megnyitóján Selena egyszerűen lélegzetelállító volt a Versace-, mélykék ruhájában, amely egyszerre volt komoly és szexi. Az eseményen a kormány tagjain kívül jelen volt a One Direction tagjai, akik csodálattal beszéltek Selről és szívesen koncerteznének vele együtt. Ott volt Brad Pitt és felesége Angelina Jolie, akik miután jótékonysági célból rengeteg ruhát vásároltak, hosszasan beszélgettek a tulajdonossal és barátaival.
 
 Nemzetközi kinevezések
 
 London apját, Wilfred Tiptont nevezték ki az EAN gazdaságért felelős szakállamtitkárának. Mióta a Tipton szállodabirodalom csődbe ment, Wilfred a korábbi megtakarításaiból valamint a lánya fizetéséből élt, most pedig Chease Young javaslatára kapott munkát az Egyesült Afrikai Nemzetek kormányában. Az államtitkár a testőrei jelenlétében azt nyilatkozta, hogy rengeteget tanult a hibáiból és nem követi el még egyszer azokat. Mr. Tipton szerint a jövő gazdaságának alapja a robotika, ezért rengeteg pénzt szán mesterséges intelligencia és robot fejlesztésekre. A Varázslók a Waverly helyből híres színésze, David DeLuise az ENSZ jogvédelmi részlegének az igazgatói állását kapta meg. A korábbi színész az egységes jogrendszer híve, de mindennél fontosabbnak tartja a magánemberek jogait és mindent megtesz azok megőrzéséért. A Waikiki-i kormány vezető alkalmazottai ismét részt vettek egy katonai bemutatón, ahol Gregg, Zendaya és Tom először találkoztak a Skynet nevezetű katonai védelmi rendszerrel. A mesterséges intelligencia és a katonai bemutató lenyűgözte a szenátorokat és mivel fontosnak tartják az ország állampolgárainak biztonságát, így az előző évinél 5%-kal nagyobb katonai költségvetes elfogadását szavazták meg, melyből a legfontosabb beruházás a Transborder Missile Defense System megépítése lesz. Ha elkészül, a TBMDS rakétavédelmi rendszer szinte a Föld teljes felszínén képes lesz megsemmisíteni az interkontinentális rakétákat, még mielőtt azok akár megközelítenék Waikiki határait.
-
-Skynet katonai biztonsági rendszer
 
 A Transborder Missile Defense System
 
 Észak-Korea vezetője, Kim Dzsongun látogatást tett Waikikire, ahol Raimondóval és Chease Younggal tárgyalt a Koreai Unió létrehozásáról. A Waikiki delegáció tagja volt még Selena, Gregg és az ország elnöke, George Bush, valamint James A. Winnefeld tábornok is. A koreai küldöttség tagjai a miniszterelnök és a hadsereg főparancsnoka voltak. A megegyezés értelmében az Unió előfeltételei közé tartozik, hogy mindkét fél hatástalanítja a nukleáris fegyvereit és leállítja a további atombombák gyártást, valamint az amerikai csapatok kivonulása. A szövetség következményei lehetnek egy Egységes koreai felügyelőbizottság létrehozása, a demilitarizált övezet megszüntetése, közös integráció létrehozatala valamint egy jövőbeli független rendfenntartó hadsereg felállítása. Habár valószínűtlen, hogy a Koreai Unió a közeljövőben létrejöjjön, a tárgyalások így is sikeresnek tekinthetőek.
 
 Kemény munkájukért jutalmul Sel és Gregg egy hatalmas luxuspalotát kaptak ajándékba. Az új ingatlanjuk az indiai őserdőben fog felépülni, így ha a sztároknak egy keleti kiruccanáshoz van kedve, már a hotelfoglalással sem kell bajlódniuk. Raimondo szintén építtetett magának egy nyaralót Ausztráliában. A nyaraló különlegessége, hogy víz alatti szobákkal is rendelkezik, melyek összterülete meghaladja az ötszáz négyzetmétert. A fényűző komplexum felső része helikopter leszállóból, medencéből, étteremből, gyógyfürdőből és wellness központból áll. A megvilágított korallszirtekben, a környező állatvilágban, esetleg cápákban akár az ágyból, akár a jacuzzis fürdőszobából is lehet gyönyörködni, de ha ez nem elég, akkor különleges, luxus-tengeralattjárós expedíción is részt vehetünk. A víz alatti szobák különleges panorámaablakai szükség esetén sötétíthetők. A vízi világ rajongói egy távvezérelt járművel kutathatják fel a tengerfeneket.
-
-Nyaralás Hawaiin
 
 Utazás Afrikába
 
@@ -431,10 +418,6 @@ A 2016-os Golden Globe díjátadó
 Gregg Sulkin, Selena és Jennifer Stone együtt vettek részt a 2016-os Golden Globe-díj átadó gálán. Hármójuk közül Sel kapott díjat az I Promise You című filmben alakított női főszerepért. Vanessa Hudgens lett a Marie Claire 2015.-ös októberi számának címlaplánya, így természetesen a jól megszokott többoldalas és mély hangvételű interjú sem maradhatott el, amely során rengeteg érdekességet és jó tanácsot osztott meg az olvasókkal. Azonban a magazin nem csak a 24 éves színésznőt, hanem egyik közeli barátját és egyben kolléganőjét is mikrofonvégre kapta, Selena Gomez személyében, akivel nem csak közös Disneys múltjuk, hanem filmjük, a Spring Breakers is összeköti. „Egyáltalán nincs elszállva magától és a figyelme nem lankad egy pillanatra sem. Az ember, akit te látsz és, akivel beszélsz, ugyanaz, mint akivel én beszélek” – mesélte Nessáról a fiatal színész-énekesnő, aki a Spring Breakers forgatása alatti időkre is visszaemlékezett, amikor a rengeteg rájuk szegeződött figyelem miatt folyton a nyomukban loholtak a paparazzik: „Nagyon védelmező. Volt, hogy nagyon zaklatott voltam, erre ő félrevitt és mindig arról beszélt nekem, azzal győzködött, hogy bízzak magamban és abban is, amit képviselek. Ezután mindig sokkal nagyobb biztonságban éreztem magam.”
 
 Jelentős beruházások
-
-Természettudományi Múzeum
-
-Modern Művészetek Múzeuma
 
 Új múzeumnegyed építését jelentette be Raimondo a 2017-es parlament nyitóülésén. Az új városrészben kap helyet Waikiki megújult természettudományi múzauma, egy világszínvonalú modern művészeti múzeum és egy hatalmas tengerbiológiai akvárium. A Google az évszázad beruházására készül, jelentette be Larry Page, a cég vezérigazgatója. A befektetés 4 kontinenst és több mint 8 országot érint. A legintenzívebb fejlesztés azonban Waikikin lesz, ahol ugyanis mind a 3 tartományban egy-egy kutatási központ építését tervezik. Az új munkahelyek biztosításához az Európai és Amerikai Unió többmilliárdos támogatást fizetett az elektronikai mamutcégnek. A számítástechnika mellett Waikiki más területeken is nagy beruházásokat visz végbe. Chease vadonatúj hajóstársasága, a Quantum Cruises Waikiki-i hajóstársaság megépíti a világ legkörnyezetbarátabb hajóját, a Karib-tenger gyöngyét. Az óceánjáró luxushajó kizárólag környezetbarát energiaforrásokat használ, melyek közül a legfontosabbak a palládium, a szél és a nap. A Karib-tenger gyöngyét természetbarát anyagokból építették, rendelkezik egy saját víztisztítóval és a fedélzetére még fákat is ültettek, hogy semlegesítsék a hajó utasai által kibocsájtott szén-dioxidot. A tengerjáró másfél év múlva készül el, és 3500 utas szállítására lesz alkalmas.
 
@@ -450,16 +433,10 @@ Michelle Obama születésnapja
 
 Április 9-én felejthetetlen élményben volt része azoknak, akik meghívást kaptak Michelle Obama 53. születésnapjára. Az exkluzív ünnepséget New York egyik legelőkelőbb rendezvényhelyszínén tartották, és a vendéglista is ennek megfelelően a politikai és kulturális elit legfényesebb neveit vonultatta fel. Az eseményen természetesen jelen volt Raimondo Chease, Waikiki diktátora, aki partnerként kísérte el kedvesét, Selenát. A rendezvényen továbbá olyan prominens személyiségek vettek részt, mint Emmanuel Macron francia elnök és felesége, Brigitte Macron, Oprah Winfrey, Leonardo DiCaprio, Amal és George Clooney, valamint a Spotify vezérigazgatója, Daniel Ek. A díszvacsorát egy, a Central Parkra néző, privát palotában rendezték, ahol kristálycsillárok, aranyozott díszítések, francia pezsgő és Michelin csillagos fogások várták a vendégeket. A dekoráció középpontjában Michelle kedvenc színei, az éjkék, smaragdzöld és arany álltak, amelyek a terem hangulatát klasszikusan elegánssá és meghitté varázsolták. Az est egyik legemlékezetesebb része Selena fellépése volt, amely során három vadonatúj saját szerzeményt is előadott. A közönség teljesen el volt ragadtatva a performansztól. A beszámolók alapján nemcsak a dalok mondanivalója, hanem az énekesnő karizmatikus jelenléte is nagy hatással volt a vendégekre.
 
-Raimondo és Michelle Obama
-
 Raimondo lett Waikiki diktátora
 -------------------------------
 
 2017\. július 7-én Chease Young lemondott Waikiki diktátori tisztségéről, és a parlament jóváhagyásával fiát, Raimondót nevezte ki utódjául. A kormánypártok kivétel nélkül támogatták Raimondo kinevezését, aki a szavazás után azonnal fel is esküdött Waikiki alkotmányának védelmére. Az ifjú diktátor aznap este beszédet intézett az ország lakosaihoz, melyben biztosította őket arról, hogy legjobb tudásához mérten fogja az ország érdekeit szolgálni, továbbá kitért arra is, hogy az ország készen áll a jövő kihívásainak leküzdésére. Raimondo másnap egy interjú során azt is bejelentette, hogy már egyeztetett a kormány több vezető tagjával, és Waikiki jó úton halad a négy napos munkahét bevezetése felé, amely az új adminisztráció egyik legfontosabb rövidtávú célja. Raimondo első nyilvános beszédét július 14-én tartotta, melyen több tízezer támogatója személyesen vett részt. A beszéd során Raimondo és Selena bejelentették, hogy a kormány az évszázad infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki szigetét és Floridát. Az első szakaszban 2019-ig megépítik a mágnes vasutat a Santiago és Moron közti 280km-es szakaszon, melyből 100 kilométert a tenger alatt tesznek meg. 2024-ben fog elkészülni ugyanitt a tenger alatti autópálya, amely a terv második szakaszának számít. A harmadik szakasz a Havannát és Miamit összekötő 360 kilométeres vasúti- és autóalagút, ami pedig 2030-ra van tervbe véve. Az infrastrukturális fejlesztéssorozat jelentősen megkönnyítheti a kereskedelmet és a közlekedést Waikiki tartományai, valamint az Egyesült Államok között.
-
-#Raimondo leteszi az esküt Waikiki alkotmányának védelmére
-
-#Raimondo beszédet intéz Waikiki polgáraihoz a parlamentben
 
 Megválasztása után Raimondo először Donald Trump amerikai elnökkel és a washingtoni vezetéssel találkozott. A tárgyaláson, melyen az újdonsült diktátor fontos diplomáciai kapcsolatokra tett szert és jelentős politikai tapasztalatokkal gazdagodott az amerikai kereskedelmi unió kibővítése is felmerült. Raimondo és Selena a tárgyalások mellett arra is szakított időt, hogy megcsodálja az amerikai nagyvárosok nevezetes látnivalóit és az USA természeti látnivalóit.
 
@@ -514,112 +491,38 @@ Raimondo és Selena a világűrben
 
 A Waikiki-i űrprogram saját űrállomásának meglátogatását Ray már gyerekkora óta tervezte, mióta szülei 2010-ben a világűrbe utaztak. Selenával egy februárban tartott sajtótájékoztatón beszéltek arról, hogy együtt, 2018 februárjában a világűrbe látogatnak. A kéthetes világűri utazás során a hercegi pár kísérletek elvégzésében segédkezik, űrsétákon vesz részt és megtapasztalja a súlytalanság állapotát és életreszóló kalandokat él át. Előtte azonban hosszú kiképzésen vesznek részt, melynek során találkoznak az Aldrin űrsikló 19. küldetéséről visszatért személyzetével, megismerkednek az űrruhák használatával és az űrsikló valamint az űrállomás biztonsági előírásaival. A nagy napon a Columbus űrsikló sikeres kilövése után Föld körüli pályára állt, majd pedig dokkolt Waikiki űrállomásán. A közel 200km-es Föld körüli pályán töltött 14 napjuk során Raimondo-ék 5 másik astronautával osztoztak az űrállomás fedélzetén, többször is űrsétán vettek részt és hosszasan csodálták a semmi máshoz nem fogható panorámát. Az életreszóló élményt nyújtó utazás végül a Föld légkörébe való visszatérés majd pedig landolás zárta.
 
-Két hét a világűrben
-
-A Columbus
-
-Űrsikló kilövése
-
-Gyönyörködés a Föld csodálatos panorámájában
-
-Megérkezés A Waikiki-I
-
-Űrállomás Fedélzetére
-
-Intim pillanat 200 Kilométerre
-
-a földtől
-
-Készülés az űrsétára
-
-szkafanderben
-
-Közös időtöltés a
-
-Világűrben
-
-Raimondo és Selena űrséta
-
-közben
-
 Donald Trump amerikai elnök Waikikire látogat
 ---------------------------------------------
 
-
-
-FOGLALKOZÁS
-
-1975-től | Trump Organization
-
-SZÁLLODAIPARI BEFEKTETŐCÉG VEZÉRE
-
-2018-tól | USA Government
-
-AZ AMERIKAI EGYESÜLT ÁLLAMOK ELNÖKE
-
-
-
-VÉGZETTSÉG
-
-1964-től | Fordham University
-
-KÖZGAZDASÁGTANI ÉS KERESKEDELMI TANULMÁNYOK
-
-1968-tól | The Kew-Forest School
-
-GAZDÁLKODÁSTUDOMÉNYI BSC DIPLOMA
-
-
-
-VÁLASZTÁSI EREDMÉNY
-
-Párton belüli támogatás: 70%
-
-Egy évvel a megválasztása után az Egyesült Államok új elnöke, Donald Trump Waikikire látogatott, ahol találkozott Raimondóval, Selenával és a szenátus többi tagjával is.
-
-Donald feleségével, Melaniaval és fiukkal, az ifjabb Donalddal együtt a Hotel President elnöki lakosztályában szállt meg. Az Air Force One landolása és a díszes fogadtatás után Chease Younggal és Raimondóval együtt meglátogatta Waikiki parlamentjét, valamint a Világkormány központi épületét, ahol beszéltek a két vezető közös terveiről is. Este Trump és családja a Waikikik-i kormány tagjaival együtt egy elegáns étteremben vacsorázott.
-
-Másnap Donald és Melania megnézték a Miami Tropics - Atlanta Falcons amerikai-focimeccset, amíg fiuk Raimondóval és Selenával együtt a Nova Aurelia-i vidámparkban töltötte a napot. Késő délután Trump és családja Raimondóékkal együtt golfozni ment, ahol a minibajnokságot Chease Young nyerte meg. A két milliomos család este ismét együtt vacsorázott. Trump csak két napig maradhatott Waikikin, hiszen az elnöki tennivalóinak is eleget kell tennie az USA-ban.
+Egy évvel a megválasztása után az Egyesült Államok új elnöke, Donald Trump Waikikire látogatott, ahol találkozott Raimondóval, Selenával és a szenátus többi tagjával is. Donald feleségével, Melaniaval és fiukkal, az ifjabb Donalddal együtt a Hotel President elnöki lakosztályában szállt meg. Az Air Force One landolása és a díszes fogadtatás után Chease Younggal és Raimondóval együtt meglátogatta Waikiki parlamentjét, valamint a Világkormány központi épületét, ahol beszéltek a két vezető közös terveiről is. Este Trump és családja a Waikikik-i kormány tagjaival együtt egy elegáns étteremben vacsorázott. Másnap Donald és Melania megnézték a Miami Tropics - Atlanta Falcons amerikai-focimeccset, amíg fiuk Raimondóval és Selenával együtt a Nova Aurelia-i vidámparkban töltötte a napot. Késő délután Trump és családja Raimondóékkal együtt golfozni ment, ahol a minibajnokságot Chease Young nyerte meg. A két milliomos család este ismét együtt vacsorázott. Trump csak két napig maradhatott Waikikin, hiszen az elnöki tennivalóinak is eleget kell tennie az USA-ban.
 
 Raimondo és Selena iskolák építésében segítenek Indiában
 --------------------------------------------------------
 
 A hercegi pár egy egész hetet töltött el indiai városokban, hogy a helyieknek segítsenek. Ray és Sel iskolák berendezésében, étel és vízosztásban valamint egyéb jótékonysági munkákban is részt vettek. Waikiki kormánya hatalmas összegeket költött jótékonysági célokra: autópályákat és utakat építettek Afrikában, iskolákat alapítottak Indiában továbbá pénzt adományoztak a szegények segítésére Argentínában és Peruban. A hét végén Raimondóék találkoztak elnökével, aki köszönetet mondott Waikiki segítségéért és ünnepi vacsorát rendezett a tiszteletükre.
 
-#Raimondo Chease, Waikiki hercege indiai gyerekeknek segít
-
-#"Az indiai kultúra nagyon különleges és tényleg egyedülálló a világon. Éppen ezért fontosnak tartom az indiai nép segítését, így fontos gazdasági beruházásokat tervezünk a térségben."
-
-#~ Raimondo
-
-#Selena Gomez, Waikiki hercegnője segít a rászoruló indiaiakon
-
-#"Az indiai emberek nagyon kedvesek, így örültem, hogy közelebbről is megismerhettem őket és segíthettem nekik. Annyira nyitottak és befogadóak, hogy szinte már a családtagjuknak éreztem magam."
-
-#~ Selena
-
 Raimondo és Selena szabadideje
 ------------------------------
 
 A fiatal hercegi pár, Raimondo és Selena a lélegzetelállító űrutazás, a rendkívüli jótékonysági és érdekes diplomácia útjaik után egy nyugalmasabb szakaszt tölthetnek el kettesben Waikikin. Raimondo kedvenc időtöltései közé tartoznak a tengerben való fürdés, a videójátékozás a barátokkal, a teniszezés és a gokartozás. Selena szintén szeret a tengerben úszni, szívesen hallgat zenét vagy néz filmeket és a táncolást is kedveli, valamint Rayyal együtt mindketten imádják az izgalmas sorozatokat. Éppen ezért elhatározták, hogy kedvenc sorozataik szereplőit meghívják vendégségbe.
 
-##Találkozás a S.H.I.E.L.D ügynökeivel
+## Találkozás a S.H.I.E.L.D ügynökeivel
 
-##Ray és Sel mindketten rajonganak a fantasztikus sorozatokért, így nem csoda, hogy a S.H.I.E.L.D ügynökei az egyik kedvencük. Éppen ezért döntöttek úgy, hogy ennek a sorozatnak a szereplőivel találkoznak elsőként, így meghívták Chloe Bennet-tet, Clark Gregg-et, Elizabeth Henstridge-t, Iain De Caestecker-t, Ming-Na Wen-t és Brett Dalton-t.
+Ray és Sel mindketten rajonganak a fantasztikus sorozatokért, így nem csoda, hogy a S.H.I.E.L.D ügynökei az egyik kedvencük. Éppen ezért döntöttek úgy, hogy ennek a sorozatnak a szereplőivel találkoznak elsőként, így meghívták Chloe Bennet-tet, Clark Gregg-et, Elizabeth Henstridge-t, Iain De Caestecker-t, Ming-Na Wen-t és Brett Dalton-t.
 
-##Chloe és Raimondo már egy korábbi buliból ismerték egymást és most is remekül szórakoztak. A vacsora előtt együtt bowlingoztak és dartsoztak majd pedig a S.H.I.E.L.D ügynökeinek következő évadjáról beszéltek. Este a hírességek a Confusion társassal játszottak, ahol mindenki megmutathatta, hogy mennyire lenne jó titkos-ügynök.
+Chloe és Raimondo már egy korábbi buliból ismerték egymást és most is remekül szórakoztak. A vacsora előtt együtt bowlingoztak és dartsoztak majd pedig a S.H.I.E.L.D ügynökeinek következő évadjáról beszéltek. Este a hírességek a Confusion társassal játszottak, ahol mindenki megmutathatta, hogy mennyire lenne jó titkos-ügynök.
 
-##Egy ebéd a Disney sztárjaival
+## Egy ebéd a Disney sztárjaival
 
-##Selenát nagyon fontos szálak fűzik a Disney Studióhoz, hiszen ott vette fel első albumát, és az első nagy sikerű sorozata, a Varázslók a Waverly helyből is a Disney csapatának köszönhető. Nem meglepő tehát, hogy Raimondóval meghívták a jelenlegi nagy Disney Channel sztárokat, valamint néhány hírességet, akivel Selena régebben együtt dolgozott.
+Selenát nagyon fontos szálak fűzik a Disney Studióhoz, hiszen ott vette fel első albumát, és az első nagy sikerű sorozata, a Varázslók a Waverly helyből is a Disney csapatának köszönhető. Nem meglepő tehát, hogy Raimondóval meghívták a jelenlegi nagy Disney Channel sztárokat, valamint néhány hírességet, akivel Selena régebben együtt dolgozott.
 
-##A Raimondónál tartott bulin részt vett a Laborpatkányokból Kelli Berglund és Tyrel Williams, a Jessie sorozatból Skai Jackson és Karan Brar, a Nem én voltam sztárjai Olivia Holt és Piper Curda, az Eb és a web egyik főszereplője Blake Michael és még több másik Disney sztár is, akikkel Selena együtt töltötte tinédzser éveit.
+A Raimondónál tartott bulin részt vett a Laborpatkányokból Kelli Berglund és Tyrel Williams, a Jessie sorozatból Skai Jackson és Karan Brar, a Nem én voltam sztárjai Olivia Holt és Piper Curda, az Eb és a web egyik főszereplője Blake Michael és még több másik Disney sztár is, akikkel Selena együtt töltötte tinédzser éveit.
 
-##A Hazug csajok társasága vendégségben
+## A Hazug csajok társasága vendégségben
 
-##Raimondo a Hazug csajok társaságát először barátnője kérésére kezdte el nézni de később neki is megtetszett a rejtélyekkel teli amerikai filmsorozat. Selenáék a négy főszereplő lányt, Ashley Benson-t, aki gyerekkoruk óta Selena egyik legjobb barátnője, Troian Bellisario-t, Shay Mitchell-t és Lucy Hale-t hívták meg vendégségbe.
+Raimondo a Hazug csajok társaságát először barátnője kérésére kezdte el nézni de később neki is megtetszett a rejtélyekkel teli amerikai filmsorozat. Selenáék a négy főszereplő lányt, Ashley Benson-t, aki gyerekkoruk óta Selena egyik legjobb barátnője, Troian Bellisario-t, Shay Mitchell-t és Lucy Hale-t hívták meg vendégségbe.
 
-##A négy színésznő együtt élvezte Raimondóékkal a nyári napfényt medencézés és koktélozás közben, utána pedig egy jachtkirándulásra mentek a nyílt tengerre. A csajokat elkápráztatta Raimondo hajója és a vacsorára felszolgált ételek különlegessége is. Az esti pókerpartin pedig kiderült, hogy ki mennyire jól hazudik a lapjairól.
+A négy színésznő együtt élvezte Raimondóékkal a nyári napfényt medencézés és koktélozás közben, utána pedig egy jachtkirándulásra mentek a nyílt tengerre. A csajokat elkápráztatta Raimondo hajója és a vacsorára felszolgált ételek különlegessége is. Az esti pókerpartin pedig kiderült, hogy ki mennyire jól hazudik a lapjairól.
 
 A világ legbefolyásosabb emberei
 --------------------------------
@@ -641,8 +544,6 @@ Raimondo és Selena Abu Dhabiba utaznak
 
 Raimondo és Selena az Egyesült Arab Emirátusok fővárosába, Abu Dhabiba utaztak, ahol meglátogatták Ray gyerekkori barátját, Sheikh Hamdan herceget. Az emír fiát Raimondo még kisgyerekként ismerte meg és rengeteg időt töltöttek együtt. A trónörökös közben 21 éves lett, és jelenleg barátnőjével, Sheikha Shamsa hercegnővel él. Ray és Sel az emír palotájában kaptak lakosztályt és érkezésüknek tiszteltére ünnepi vacsorát tartottak. Az Egyesült Arab Emirátusok elnöke, Zayed Al Nahyan és családja a világ leggazdagabb uralkodó családjai közé tartozik. Vagyonuk meghaladja a 30 milliárd dollárt és rengeteg befektetéssel rendelkeznek világszerte. Az emír Chease Young régi jó barátja és munkatársa, gyerekeik is így ismerkedtek meg. Abu Dhabi és Dubai eleinte a kőolaj-kitermelésből, majd pedig a turizmusból vált sikeressé. Sheikh Hamdan herceg jelenleg diplomáciai feladatokat lát el országában, ahol igyekszik meghonosítani a nyugati értékrendet és Waikiki kultúráját és szokásait. Waikiki és az Emirátusok jelenleg is fontos politikai és gazdasági szövetségesek. Raimondóék remekül érezték magukat, miközben megtekintették az Emirátusok főbb látnivalóit és rengeteget beszélgettek Hadam herceggel a közös gyerekkori emlékeikről. Hadam elkísérte Selenát és Raimondót a híres Sheik Zayed mecsetbe, megnézték a világ egyik legnagyobb bevásárlóközpontját, a Dubai Mall-t és a Wild Wadi Waterparkba is ellátogattak. A búcsúvacsorára az Emirátusok legjelentősebb uralkodó családjait és befektetőit hívták meg és egyedülálló molekuláris ételeket szolgáltak fel.
 
-Khalifa bin Zayed Al Nahyan emír palotája
-
 Chease és családja gazdasági érdekeltségei
 ------------------------------------------
 
@@ -652,14 +553,6 @@ Billboard Music Awards 2018
 ---------------------------
 
 A 2018-as Billboard zenei díjátadó ünnepség házigazdái Raimondo és lélegzetelállítóan gyönyörű barátnője Selena Gomez voltak. A ünnepségen számtalan híresség, köztük a Waikiki-i szenátus több tagja, például Tom Holland, Zendaya Coleman és Zac Efron is jelen voltak. Selena természetesen sokat beszélt régi ismerősével és egyik legjobb barátjával Taylor Swifttel, aki a legjobb női énekesnek járó díjat vehette át. Raimondo pedig a Nickelodeon sztárjával, Victoria Justice-szal találkozott, akit korábbról a Victorious forgatásáról ismert. A díjak átadása után Raimondo egy bulit rendezett a palotájában, ahol a legjobb előadó kategória győztese, Ed Sheeran lépett fel. A hollywoodi hírességek mellett olyan fiatal milliárdosok is részt vettek Raimondóék partiján, mint a Facebook 33 éves alapítója, Mark Zuckerberg vagy a Snapchat kitalálója, Bobby Murphy. A buliba Raimondo két nővére, Angelina és Jennifer is ellátogattak, természetesen a barátaikkal együtt. Elmondásuk szerint a résztvevők remekül szórakoztak és nagyon élvezték a különleges gourmand ételkínálatot. Habár még csak alig egy éve vannak együtt, Ray és Sel kapcsolata példaként szolgál sok fiatal párnak szerte a világon.
-
-Ed Sheeran, a legjobb előadó
-
-Camila Cabello, a legjobb új előadó
-
-Imagine Dragons, a legjobb együttes
-
-Bruno Mars, a legtöbb eladott dal
 
 Raimondo és Selena első évfordulója
 -----------------------------------
@@ -675,7 +568,6 @@ Waikiki fennállásának 20. évfordulója
 -------------------------------------
 
 Történelmi hangulat uralta Waikiki fővárosát, amikor több tízezer állampolgár gyűlt össze a Nemzeti Fórum téren, hogy megünnepelje a független Waikiki állam alapításának 20. évfordulóját. A jubileumi rendezvénysorozat csúcspontja Raimondo Chease államfő ünnepi parlamenti beszéde volt, amelyet a világ számos médiuma élőben közvetített. Raimondo, aki 2015 óta meghatározó alakja Waikiki történelmének, megható és vízióval teli beszédet mondott, amelyben végigtekintett a múlt kihívásain, a jelen eredményein, és irányt mutatott a jövő számára. Raimondo beszédében emlékeztetett az ország megalapításának körülményeire, az első olajkutak megnyitására, a társadalmi reformokra, valamint az oktatás, technológia és környezetvédelem terén elért eredményekre. Kiemelte, hogy Waikiki mára globális szereplő lett, amely egyszerre képes versenyképes gazdaságot működtetni és értékalapú diplomáciát folytatni. A beszéd után a Nemzeti Fórum téren nagyszabású ünnepség kezdődött, élő koncert, drónshow és tűzijáték szórakoztatta a résztvevőket.
-
 
 Római műemlékek rekonstrukciója
 -------------------------------
@@ -709,7 +601,6 @@ Koronavírus válságkezelés
 
 Miközben a világ legtöbb országa csak küszködött a COVID-19 világjárvány első hullámaival, Waikiki a példás válságkezelésével nemzetközi figyelmet vívott ki. A szigetállam már 2020 nyarára gyakorlatilag nullára csökkentette az esetszámokat, szigorú lezárásokkal, digitális nyilvántartási rendszerrel és erőteljes közösségi együttműködéssel. A WHO külön jelentésben méltatta Waikiki válaszlépéseit, kiemelve a társadalmi bizalom szerepét, valamint a digitális egészségügyi nyomonkövetés gyors bevezetését, amely lehetővé tette a pontos kontaktkutatást és megelőző intézkedéseket. Waikiki tapasztalataira több fejlődő ország is felfigyelt, hiszen Raimondo és Selena számos virtuális fórumon osztották meg a waikiki gyakorlatot Ázsiában, Afrikában és a Karib-térségben működő kisállamok vezetőivel. A világjárvány emberi és gazdasági következményeire válaszul Raimondo Chease és Selena Gomez megalapították a Global Hope Foundation nevű nemzetközi alapítványt, melynek célja a COVID-19 járvány által sújtott közösségek hosszú távú támogatása. Az alapítvány fókuszában a gyermekek, kisvállalkozások és egészségügyi dolgozók állnak. Selena Gomez az alapítvány női egészségügyi és oktatási programjait felügyeli. Ennek keretében indult el a New Futures kezdeményezés, amely COVID-árvák oktatására és pszichológiai támogatására koncentrál.
 
-
 Jótékonysági események
 ----------------------
 
@@ -735,10 +626,6 @@ Reakció az Orosz-Ukrán háború kitörésére
 
 Az orosz–ukrán háború 2022-es kitörésekor Waikiki a világpolitikai színtéren szinte azonnal állást foglalt. Raimondo Chease államfő a parlament rendkívüli ülését hívta össze Nova Aureliában, ahol egyhangúlag elfogadták a határozatot, amely a nemzetközi jog durva megsértéseként ítélte el az orosz agressziót. Raimondo beszédében hangsúlyozta, hogy Waikiki minden eszközzel támogatni fogja a háború mielőbbi lezárását és Waikiki, saját stratégiai és gazdasági érdekeit szem előtt tartva semmilyen esetben sem kíván belépni a fegyveres konfliktusba. Winnefeld Daniels védelmi miniszter a biztonság érdekében országos katonai készültséget rendelt el, de megnyugtatta a lakosságot, hogy a hírszerzési információk alapján nem várható a harcok globális kiterjedése, és Waikiki területe nincs közvetlen veszélyben. A külkapcsolati fronton Selena Gomez, aki 2022-ben külkapcsolati különmegbízottként vált ismertté, kulcsszerepet játszott Waikiki diplomáciai üzenetének közvetítésében. Meghívást kapott az ENSZ rendkívüli közgyűlésére New Yorkban, ahol Waikiki nevében felszólalva sürgette a nemzetközi összefogást, a béketárgyalások felgyorsítását és a civilek védelmére irányuló intézkedések megerősítését. Beszédében kiemelte, hogy a béke az egyetlen út, amit választhatunk.
 
-
-Gazdaságpolitikai intézkedések 2022-ben
----------------------------------------
-
 Nemzetközi találkozók
 ---------------------
 
@@ -754,7 +641,6 @@ III. Károly koronázása
 
 Májusban Raimondo és Selena részt vett III. Károly angol király koronázásán, ezzel Waikiki a brit nemzetközösséggel fontos diplomáciai kapcsolatépítésbe kezdett. Selena hercegnői eleganciával képviselte Waikikit a koronázáson, ahol több államfővel is találkozott, köztük Justin Trudeau kanadai és Anthony Albanese ausztrál kormányfőkkel. Bár Waikiki hivatalosan nem tagja a brit nemzetközösségnek, Selena több alkalommal is utalt egy „laikus, kulturális partnerség” lehetőségére. A koronázási ceremónián Selena Gomez lenyűgöző megjelenése a nemzetközi sajtó egyik fő témája lett. A Waikiki divatház, a Maison Chease Couture által tervezett aranyszálas ruhája a hawaii örökség és a királyi protokoll elegáns ötvözetét tükrözte. Ez a látogatás nemcsak egy történelmi jelentőségű ceremónia volt, hanem Waikiki diplomáciai újraértelmezésének fontos pillanata, egy lépés a világ újfajta kulturális kapcsolatrendszerei felé.
 
-
 Javier Milei argentin elnök beiktatása
 --------------------------------------
 
@@ -762,15 +648,11 @@ Javier Milei argentin elnök beiktatása
 
 Waikiki 2022-es gazdaságpolitikáját nagyrészt stabilizáló lépések határozták meg, amelyeket nagyrészt az orosz–ukrán háború okozta globális bizonytalanság és energia valamint élelmiszerek világpiaci árának emelkedése formált. A kormányzati szervek gazdasági együttműködése három fő célra koncentrált, az infláció mérséklésére, a globális energiaellátás biztonságának fenntartására és a pénzügyi stabilitás erősítésére. A fogyasztói árak csökkentése érdekében a Nemzeti Bank jelentős értékben vásárolt hazai valutát, erősítve az árfolyamot, ami olcsóbb importot tett lehetővé. A háború kitörése után eltörölték a kőolaj- és földgázkitermelési korlátozásokat, lehetővé téve a Royal Oil Group számára a korlátlan exportot, kihasználva a kőolaj termelőknek kedvező árát. Ezalatt a Waikiki Nemzeti Bank 350 tonnával növelte az aranytartalékot, így az ország készlete megközelítette a 4000 tonnát. Összességében 2022 gazdaságpolitikája sikeres volt, rövid távon sikerült megfékezni az inflációt és fenntartani a gazdasági stabilitást, miközben hosszabb távon megalapozták Waikiki pénzügyi és energetikai dominanciáját.
 
+Januártól üzemanyag árstoppot vezettek be, hogy mérsékeljék az inflációs nyomást és védjék a háztartásokat az energiaárak emelkedésétől. Februártól a világpiaci árak meredek emelkedése  miatt döntés született a korábbi kőolaj és földgázkitermelési korlátozások megszüntetéséről, ezzel lehetővé téve a Royal Oil Group számára, hogy korlátlan mennyiségben exportáljon üzemanyagot.
 
-##Januártól üzemanyag árstoppot vezettek be, hogy mérsékeljék az inflációs nyomást és védjék a háztartásokat az energiaárak emelkedésétől. Februártól a világpiaci árak meredek emelkedése  miatt döntés született a korábbi kőolaj és földgázkitermelési korlátozások megszüntetéséről, ezzel lehetővé téve a Royal Oil Group számára, hogy korlátlan mennyiségben exportáljon üzemanyagot.
+2022-ben a Nemzeti Bank átfogó pénzügyi lépéseket tett az inflációs nyomás enyhítésére. Az egyik legfontosabb intézkedésként 1000 milliárd WUD értékben vásárolt hazai valutát a devizapiacokon. A valutafelértékelődés hatására olcsóbbá vált a termékek importja, ami közvetlenül mérsékelte a fogyasztói árak növekedését, és stabilizálta az élelmiszerek, valamint a stratégiai termékek piacát.
 
-
-
-##2022-ben a Nemzeti Bank átfogó pénzügyi lépéseket tett az inflációs nyomás enyhítésére. Az egyik legfontosabb intézkedésként 1000 milliárd WUD értékben vásárolt hazai valutát a devizapiacokon. A valutafelértékelődés hatására olcsóbbá vált a termékek importja, ami közvetlenül mérsékelte a fogyasztói árak növekedését, és stabilizálta az élelmiszerek, valamint a stratégiai termékek piacát.
-
-
-##Decemberben Raimondo Chease és Rachel Zane közösen ültek tárgyalóasztalhoz a Mezőgazdasági Szövetséggel, hogy megoldást találjanak az élelmiszerárak stabilizálására. A megbeszélések eredményeként kölcsönös megállapodás született, a kormány márciustól kivezeti az érvényben lévő import támogatásokat, ugyanakkor az 5%-os exportvám augusztusig hatályban marad.
+Decemberben Raimondo Chease és Rachel Zane közösen ültek tárgyalóasztalhoz a Mezőgazdasági Szövetséggel, hogy megoldást találjanak az élelmiszerárak stabilizálására. A megbeszélések eredményeként kölcsönös megállapodás született, a kormány márciustól kivezeti az érvényben lévő import támogatásokat, ugyanakkor az 5%-os exportvám augusztusig hatályban marad.
 
 Raimondo és Selena luxusutazása Japánba
 ---------------------------------------
