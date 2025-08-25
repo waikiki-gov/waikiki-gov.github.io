@@ -52,15 +52,15 @@ A Varázslók a Waverly helyből ismert Gregg Sulkin Nova Aureliába történő 
 
 ### Mérföldkő az európai együttműködésben: A 2015-ös EU csúcstalálkozó
 
-Az Európai Unió 2015. október 15-i negyedéves csúcstalálkozóján Raimondo és a Waikiki kormány delegációja kulcsfontosságú tárgyalásokon vett részt. A megbeszélések középpontjában olyan stratégiai jelentőségű kérdések álltak, mint Törökország és Izland csatlakozási folyamata, valamint az euró bevezetésének lehetősége az Egyesült Királyságban és Svájcban. A tanácskozás egyik legjelentősebb eredménye a Transzatlanti Szabadkereskedelmi Egyezmény elfogadása volt, amelynek hivatalos aláírására a következő G8 konferencián kerül sor. Ez a megállapodás forradalmasítja az Atlanti-óceán két partja közötti gazdasági kapcsolatokat, elősegítve a tőke, a szolgáltatások és az áruk akadálytalan áramlását. A következő ötéves költségvetési ciklus számos nagyszabású fejlesztési projektet tartalmaz, köztük az Európai Űrügynökség (ESA) új kutatóközpontjának létesítését, egy korszerű újrahasznosító komplexum építését, az egységes európai vasúthálózat kialakítását, valamint a CERN bővítését. Különösen örvendetes tény, hogy e jelentős beruházások kivitelezésében Waikiki vállalatai is meghatározó szerephez jutnak, ami számottevő gazdasági előnyöket jelent az ország számára.
+Az Európai Unió 2015. október 15-i negyedéves csúcstalálkozóján Raimondo és a Waikiki kormány delegációja kulcsfontosságú tárgyalásokon vett részt. A megbeszélések középpontjában olyan stratégiai jelentőségű kérdések álltak, mint Törökország és Izland csatlakozási folyamata, valamint az euró bevezetésének lehetősége az Egyesült Királyságban és Svájcban. A tanácskozás egyik legjelentősebb eredménye azonban a Transzatlanti Szabadkereskedelmi Egyezmény elfogadása volt, amelynek hivatalos aláírására a következő G8 konferencián kerül sor. Ez a megállapodás forradalmasítja az Atlanti-óceán két partja közötti gazdasági kapcsolatokat, elősegítve a tőke, a szolgáltatások és az áruk akadálytalan áramlását. A következő ötéves költségvetési ciklus számos nagyszabású fejlesztési projektet tartalmaz, köztük az Európai Űrügynökség (ESA) új kutatóközpontjának létesítését, az egységes európai vasúthálózat kialakítását, valamint a CERN bővítését. Ezen jelentős beruházások kivitelezésében Waikiki vállalatai is meghatározó szerephez jutnak, ami számottevő gazdasági előnyöket jelent az ország számára.
 
 ### A Bilderberg-találkozó jelentősége
 
-2015.\ november 5-én Raimondo megtisztelő meghívást kapott a Bilderberg-csoport Waikiki-i tanácskozására. Ez a nagyhatású, zártkörű társaság, mely nevét első találkozójának helyszínéről, egy holland szállodáról kapta, 1954 óta évente ül össze a globális kihívások megvitatására. A diszkrét szervezet tagjai között olyan befolyásos személyiségek találhatók, mint Carlos Slim Helu és David Rockefeller, valamint számos meghatározó politikai döntéshozó. A tanácskozások a Chatham House szabályrendszere szerint zajlanak, ami lehetővé teszi a nyílt eszmecsere mellett a résztvevők védelmét: az elhangzottakról lehet beszélni, de a konkrét vélemények nem kapcsolhatók személyekhez vagy intézményekhez.
+2015.\ november 5-én Raimondo megtisztelő meghívást kapott a Bilderberg-csoport Waikiki-i tanácskozására. Ez a nagyhatású, zártkörű társaság, mely nevét első találkozójának helyszínéről, egy holland szállodáról kapta, 1954 óta évente ül össze a globális kihívások megvitatására. A diszkrét szervezet tagjai között olyan befolyásos személyiségek találhatók, mint Carlos Slim Helu és David Rockefeller, valamint számos meghatározó politikai döntéshozó. A tanácskozások a Chatham House szabályrendszere szerint zajlanak, ami lehetővé teszi a nyílt eszmecsere mellett a résztvevők védelmét, így az elhangzottakról ugyan lehet beszélni, de a konkrét vélemények nem kapcsolhatók személyekhez vagy intézményekhez.
 
 ### Waikiki csatlakozása a G9-hez
 
-A Bilderberg-meghívást követő ötödik napon újabb jelentős diplomáciai siker született: a G8 csoport meghívta Raimondót a 2016-os csúcstalálkozójára. A korábban G8-ként ismert fórum - mely a világ vezető gazdasági hatalmait tömöríti, köztük Kanadát, Franciaországot, Németországot, Olaszországot, Japánt, az Egyesült Királyságot, az Amerikai Egyesült Államokat és Oroszországot - 2016. január 5-én Waikiki csatlakozásával G9-re bővült. Az együttműködés új központja New Mavericksben épül fel.
+A Bilderberg-meghívást követő héten újabb jelentős diplomáciai siker született azzal, hogy a G8 csoport meghívta Raimondót a 2016-os csúcstalálkozójára. A világ vezető gazdasági hatalmait, köztük Kanadát, Franciaországot, Németországot, Olaszországot, Japánt, az Egyesült Királyságot, az Amerikai Egyesült Államokat és Oroszországot tömörítő fórum 2016. január 5-én Waikiki csatlakozásával G9-re bővült. Az együttműködés új központja New Mavericksben épül fel.
 
 ### A világkongresszus víziója
 
@@ -68,7 +68,7 @@ A találkozón kulcsfontosságú témákat vitattak meg, köztük az első vilá
 
 ## Kulturális és technológiai mérföldkövek
 
-### Kiemelkedő társasági események
+### Billboard Music Awards díjátadó
 
 A 2015-ös Billboard Music Awards díjátadó ünnepségén különleges együttműködésnek lehettünk tanúi, amikor Raimondo, Selena és Bridgit Mandler közösen képviselték Waikit. Az eseményen Selena Gomez egy különlegesen kidolgozott, jövőbe mutató designnal készült estélyi ruhakölteményben jelent meg, amely osztatlan elismerést váltott ki mind a szakma képviselői, mind a rajongók körében.
 
