@@ -140,89 +140,23 @@ A sok munka, utazás és jótékonysági est mellett Selenának és Raimondónak
 
 ## A 2016-os Young Hollywood Awards gálaest
 
-### Kifinomult elegancia a vörös szőnyegen
+A 2016-os Young Hollywood Awards alkalmából Selena Gomez a vörös szőnyeges felvonulásához egy fekete bőrrel és kövekkel díszített Versace-ruhát talált a legmegfelelőbbnek, amikor az év legjobb zenei albumáért járó arany díjat vehette át az ünnepségen. Bailey Pickett egy igazán különleges, fekete Marchesa bőrkabátot viselt, amihez BCBG-magassarkúkat húzott és Judith Leiber-táskát választott kiegészítésképpen. A lány a legkörnyezetbarátabb sztárnak járó díjjal térhetett haza. A Teen Choice Awards díjátadóján Selena egy saját jótékonysági bolthálózat létrehozását jelentette be, ezzel is bizonyítva társadalmi felelősségvállalását. Az üzletekben prémium minőségű ruházati termékek, cipők, illatok és kiegészítők széles választéka lesz elérhető. Az est során Raimondo is jelentős elismerésben részesült, mivel elnyerte az év legfelkapottabb sztárja címet.
 
-A 2016-os Young Hollywood Awards különleges alkalmat jelentett a művészvilág számára. Selena Gomez káprázatos megjelenésével hódított: egy fekete Versace kreációt választott, amelyet váll- és hasrésznél egyedi bőr- és kőberakások díszítettek. Öltözékét Jimmy Choo cipővel és Neil Lane ékszerekkel tette tökéletessé. Az est során az év legjobb zenei albumáért járó arany díjjal ismerték el művészi teljesítményét. Bailey Pickett szintén figyelemreméltó összeállítással jelent meg: egy különleges, fekete Marchesa bőrkabátot viselt, amelyet BCBG magassarkúval és Judith Leiber táskával egészített ki. Környezettudatos tevékenységéért a "Legkörnyezetbarátabb sztár" elismerésben részesült.
+### A Selena Gomez Stores megnyitója
 
-### Selena jótékonysági kezdeményezése
+A Nova Aurelia belvárosában megrendezett megnyitó ünnepség valódi társasági eseménnyé nőtte ki magát. Selena egy kivételes eleganciával megalkotott, mélykék Versace kreációban jelent meg, amely tökéletesen tükrözte az esemény jelentőségét és a márka szellemiségét. A megnyitón a politikai és művészvilág számos kiválósága tiszteletét tette. A kormány hivatalos képviselői mellett olyan neves vendégek voltak jelen, mint a One Direction együttes tagjai, akik lelkesen nyilatkoztak egy esetleges jövőbeli együttműködés lehetőségéről Selenával. Az esemény nem csupán egy üzlet megnyitását jelentette, hanem egy olyan társadalmi kezdeményezés elindítását, amely a divat és a jótékonyság egyedülálló összekapcsolását célozza.
 
-A Teen Choice Awards díjátadóján Selena egy jelentős bejelentést tett: saját jótékonysági bolthálózat létrehozását jelentette be, ezzel is bizonyítva társadalmi felelősségvállalását. ### Megható köszönőbeszéd és új kezdeményezés A díjátadón Selena megindító beszédet mondott: "Mindenekelőtt szeretném kifejezni hálámat családomnak, akik kezdettől fogva rendíthetetlen támogatást nyújtottak számomra. Külön köszönet illeti barátaimat és rajongóimat, akik minden körülmények között mellettem álltak. Végezetül pedig köszönetemet fejezem ki a Disney és a Waikiki kormány azon munkatársainak, akik felismerték bennem a lehetőséget, és hozzásegítettek ahhoz, hogy részese lehessek valami rendkívülinek." A művésznő bejelentette, hogy a kapott támogatást szeretné viszonozni a társadalom felé: "E célból egy egyedi koncepciójú jótékonysági üzlethálózatot hozok létre, amelynek első egysége két héten belül nyitja meg kapuit. Személyesen is jelen leszek a megnyitón." Az üzletekben prémium minőségű ruházati termékek, cipők, illatok és kiegészítők széles választéka lesz elérhető.
-
-### További elismerések
-
-Az est során Raimondo is jelentős elismerésben részesült: elnyerte "Az év legfelkapottabb sztárja" címet. ”### Raimondo köszönőbeszéde és meglepetés bejelentése. "Rendkívül megtisztelő számomra ez a díj, és őszinte hálával tartozom mindazoknak, akik támogattak utamon. Családom folyamatos támogatása és bölcs tanácsai nélkülözhetetlenek voltak fejlődésemben. Rajongóim lelkesedése pedig újabb és újabb inspirációt ad a folytatáshoz. Most pedig egy különleges bejelentésre készülök - és mi lehetne erre megfelelőbb alkalom, mint ez az este? Baileyvel közösen fogunk fellépni a Selena Gomez Store megnyitó ünnepségén."” jelentette be Ray. Bailey, Gregg, Angelina és Jennifer szintén díjakat vehetett át. 
-
-### A Selena Gomez Store ünnepélyes megnyitója
-
-A Chease Young sugárúton megrendezett megnyitó ünnepség valódi társasági eseménnyé nőtte ki magát. Selena egy kivételes eleganciával megalkotott, mélykék Versace kreációban jelent meg, amely tökéletesen tükrözte az esemény jelentőségét és a márka szellemiségét. A megnyitón a politikai és művészvilág számos kiválósága tiszteletét tette. A kormány hivatalos képviselői mellett olyan neves vendégek voltak jelen, mint a One Direction együttes tagjai, akik lelkesen nyilatkoztak egy esetleges jövőbeli együttműködés lehetőségéről Selenával. Brad Pitt és Angelina Jolie is megtisztelték jelenlétükkel az eseményt, jelentős jótékonysági vásárlással támogatva a kezdeményezést, majd hosszas eszmecserét folytattak a tulajdonossal és a meghívott vendégekkel. Az esemény nem csupán egy üzlet megnyitását jelentette, hanem egy olyan társadalmi kezdeményezés elindítását, amely a divat és a jótékonyság egyedülálló összekapcsolását célozza.
-
-## Stratégiai kinevezések és védelmi fejlesztések
-
-### Jelentős gazdasági kinevezés
+## Nemzetközi kinevezések
 
 Az Egyesült Afrikai Nemzetek (EAN) gazdasági szakállamtitkári pozíciójába Wilfred Tipton került kinevezésre Chease Young javaslatára. A korábban jelentős szállodabirodalom élén álló üzletember, aki a vállalkozás megszűnése után lánya támogatásával és megtakarításaiból élt, most új fejezetet nyit karrierjében. Az államtitkár hivatalos nyilatkozatában hangsúlyozta, hogy korábbi tapasztalatai értékes tanulságokkal szolgáltak számára. Különös figyelmet kíván fordítani a robotika és a mesterséges intelligencia fejlesztésére, amelyeket a jövő gazdaságának kulcsfontosságú területeiként jelölt meg.
 
-### Jogvédelmi vezetői pozíció
+## Stratégiai védelmi fejlesztések
 
-David DeLuise, aki korábban a "Varázslók a Waverly helyből" című sorozatban szerzett ismertséget, az ENSZ jogvédelmi részlegének igazgatói pozícióját nyerte el. Kinevezése után hangsúlyozta elkötelezettségét az egységes jogrendszer mellett, különös tekintettel az egyéni jogok védelmére és érvényesítésére.
-
-### Védelmi technológiai fejlesztések
-
-A Waikiki kormány vezető tisztségviselői részt vettek egy kiemelkedő jelentőségű katonai technológiai bemutatón, ahol Gregg, Zendaya és Tom első kézből ismerhették meg a fejlett Skynet védelmi rendszert. A bemutató olyan meggyőző volt, hogy a szenátus megszavazta a védelmi költségvetés 5%-os emelését az előző évhez képest.
-
-### A TBMDS projekt
-
-A költségvetés-növelés legjelentősebb eleme a Transborder Missile Defense System (TBMDS) megvalósítása. Ez a korszerű rakétavédelmi rendszer forradalmi áttörést jelent a nemzetbiztonság területén: képes lesz az interkontinentális rakéták elfogására és megsemmisítésére a Föld szinte bármely pontján, még mielőtt azok Waikiki légterébe érnének. A projekt jelentősen hozzájárul az ország és szövetségesei védelmi képességeinek megerősítéséhez.
+A Waikiki kormány vezető tisztségviselői részt vettek egy kiemelkedő jelentőségű katonai technológiai bemutatón, ahol Gregg, Zendaya és Tom első kézből ismerhették meg a fejlett Skynet védelmi rendszert. A bemutató olyan meggyőző volt, hogy a szenátus megszavazta a védelmi költségvetés 5%-os emelését az előző évhez képest. A költségvetés-növelés legjelentősebb eleme a Transborder Missile Defense System (TBMDS) megvalósítása. Ez a korszerű rakétavédelmi rendszer forradalmi áttörést jelent a nemzetbiztonság területén, hiszen képes lesz az interkontinentális rakéták elfogására és megsemmisítésére a Föld szinte bármely pontján, még mielőtt azok Waikiki légterébe érnének. A projekt jelentősen hozzájárul az ország és szövetségesei védelmi képességeinek megerősítéséhez.
 
 ## Történelmi jelentőségű korea-közi tárgyalások
 
-### Magas szintű diplomáciai találkozó Waikikin
-
-Kim Dzsongun észak-koreai vezető történelmi jelentőségű látogatást tett Waikikin, ahol a Koreai Unió létrehozásának lehetőségeiről folytatott tárgyalásokat Raimondóval és Chease Younggal. A találkozón kiemelt fontosságú delegációk vettek részt. Az észak-koreai küldöttséget a miniszterelnök és a hadsereg főparancsnoka képviselte.
-
-### Az egyesítés feltételrendszere
-
-A megbeszélések során körvonalazódott előfeltételek:
-- Kölcsönös nukleáris leszerelés és az atomfegyver-gyártás beszüntetése
-- Az amerikai haderő kivonása a térségből
-
-### Tervezett intézkedések
-
-A tárgyalásokon felmerült hosszú távú célkitűzések:
-- Egységes koreai felügyelőbizottság létrehozása
-- A demilitarizált övezet fokozatos felszámolása
-- Átfogó társadalmi és gazdasági integráció
-- Független, egyesített védelmi erők kialakítása
-
-Bár a Koreai Unió azonnali megvalósulása még távolinak tűnik, a tárgyalások jelentős előrelépést jelentettek a félsziget békés egyesítésének folyamatában.
-
-## Exkluzív ingatlanfejlesztések
-
-### Indiai luxusrezidencia
-
-Kiemelkedő teljesítményük elismeréseként Selena és Gregg egy különleges ajándékban részesültek: egy pompás palota építését kezdték meg számukra az indiai őserdő szívében. A létesítmény tökéletes elvonulási lehetőséget biztosít majd a művészek számára keleti tartózkodásaik során.
-
-### Raimondo víz alatti rezidenciája Ausztráliában
-
-Raimondo egy páratlan építészeti különlegességet hozott létre Ausztráliában: egy részben víz alatt elhelyezkedő luxusnyaralót. A létesítmény jellemzői:
-
-#### Víz alatti szint
-- Több mint 500 négyzetméternyi lakótér a tenger alatt
-- Speciális panorámaablakok sötétíthető üvegezéssel
-- Közvetlen kilátás a korallzátonyokra és a tengeri élővilágra
-- Luxus fürdőszobák jacuzzival
-
-#### Felszíni létesítmények
-- Helikopter-leszállópálya
-- Végtelenített medence
-- Exkluzív étterem
-- Komplex gyógyfürdő és wellness részleg
-
-#### Egyedi szolgáltatások
-- Luxus tengeralattjárós expedíciók szervezése
-- Távvezérelt víz alatti járművek a tengerfenék felfedezéséhez
-
-A rezidencia tökéletes egyensúlyt teremt a modern luxus és a természet közelsége között, miközben páratlan élményeket kínál lakói és vendégeik számára.
+Észak-Korea vezetője, Kim Dzsongun látogatást tett Waikikire, ahol Raimondóval és Chease Younggal tárgyalt a Koreai Unió létrehozásáról. A Waikiki delegáció tagja volt még Selena, Gregg és az ország elnöke, George Bush, valamint James A. Winnefeld tábornok is. A koreai küldöttség tagjai a miniszterelnök és a hadsereg főparancsnoka voltak. A megegyezés értelmében az Unió előfeltételei közé tartozik, hogy mindkét fél hatástalanítja a nukleáris fegyvereit és leállítja a további atombombák gyártást, valamint az amerikai csapatok kivonulása. A szövetség következményei lehetnek egy Egységes koreai felügyelőbizottság létrehozása, a demilitarizált övezet megszüntetése, közös integráció létrehozatala valamint egy jövőbeli független rendfenntartó hadsereg felállítása. Habár valószínűtlen, hogy a Koreai Unió a közeljövőben létrejöjjön, a tárgyalások így is sikeresnek tekinthetőek.
 
 ## Diplomáciai küldetés Afrikában
 
