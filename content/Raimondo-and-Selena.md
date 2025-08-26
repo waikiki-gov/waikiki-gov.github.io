@@ -160,31 +160,9 @@ A Waikiki kormány vezető tisztségviselői részt vettek egy kiemelkedő jelen
 
 ## Diplomáciai küldetés Afrikában
 
-### A Szenátori Palota ünnepélyes megnyitója
-
-Raimondo és delegációja történelmi jelentőségű látogatást tett Afrikában a Szenátori Palota avatási ünnepségén. A küldöttség biztonságáról Logan Davis tábornok személyesen gondoskodott. Az esemény nem csupán egy épület átadását jelentette, hanem az afrikai kontinens fejlesztésére irányuló átfogó stratégia meghirdetését is.
-
-### Stratégiai kezdeményezések és jövőképek
-
-Az ünnepségen elhangzott beszédek és prezentációk a fejlesztési program különböző aspektusait világították meg:
-
-#### Környezetvédelem és infrastruktúra
-- Raimondo átfogó környezetvédelmi programot hirdetett meg, kiemelve az afrikai kontinens visszaerdősítésének fontosságát, kezdve a Gízai-fennsík térségével
-- Bailey a munkahelyteremtés és az oktatási rendszer modernizációjának részletes tervét ismertette
-- Selena UNICEF nagykövetként a természetvédelem és a humanitárius kezdeményezések összehangolását hangsúlyozta
-
-#### Társadalmi és gazdasági fejlesztések
-- Zendaya a békés együttélés és a nemzeti megbékélés gazdasági jelentőségét emelte ki
-- Gregg a nemzetközi kereskedelem liberalizációját és a vámrendszer korszerűsítését szorgalmazta
-- Angelina az idegenforgalom fejlesztésében rejlő gazdasági lehetőségeket vázolta
-- Tyler és Jennifer innovatív mezőgazdasági programot mutattak be a sivatagi területek hasznosítására
-- Taylor és Tom az afrikai kontinens technológiai modernizációjának szükségességét hangsúlyozták
-
-### Személyes szerepvállalás
-
-A hivatalos program zárásaként Raimondo és Selena személyesen is bizonyították elkötelezettségüket: részt vettek a Waikiki kormány által támogatott New Kairói óvoda felújítási munkálataiban, példát mutatva a társadalmi felelősségvállalás terén.
-
-A 2016-os Golden Globe díjátadó
+Raimondo és delegációja történelmi jelentőségű látogatást tett Afrikában a Kormányzati Palota felavatási ünnepségére. A küldöttség biztonságáról Logan Davis tábornok személyesen gondoskodott. Az esemény nem csupán egy épület átadását jelentette, hanem az afrikai kontinens fejlesztésére irányuló átfogó stratégia meghirdetését is. Az ünnepségen elhangzott beszédek és prezentációk a fejlesztési program különböző aspektusait világították meg. Raimondo átfogó környezetvédelmi programot hirdetett meg, kiemelve az afrikai kontinens visszaerdősítésének fontosságát, kezdve a Gízai-fennsík térségével. Bailey a munkahelyteremtés és az oktatási rendszer modernizációjának részletes tervét ismertette. Selena pedig UNICEF nagykövetként a természetvédelem és a humanitárius kezdeményezések összehangolását hangsúlyozta. A hivatalos program zárásaként Raimondo és Selena személyesen is bizonyították elkötelezettségüket: részt vettek a Waikiki kormány által támogatott New Kairói óvoda felújítási munkálataiban, példát mutatva a társadalmi felelősségvállalás terén.
+------------------
+## A 2016-os Golden Globe díjátadó
 
 Gregg Sulkin, Selena és Jennifer Stone együtt vettek részt a 2016-os Golden Globe-díj átadó gálán. Hármójuk közül Sel kapott díjat az I Promise You című filmben alakított női főszerepért. Vanessa Hudgens lett a Marie Claire 2015.-ös októberi számának címlaplánya, így természetesen a jól megszokott többoldalas és mély hangvételű interjú sem maradhatott el, amely során rengeteg érdekességet és jó tanácsot osztott meg az olvasókkal. Azonban a magazin nem csak a 24 éves színésznőt, hanem egyik közeli barátját és egyben kolléganőjét is mikrofonvégre kapta, Selena Gomez személyében, akivel nem csak közös Disneys múltjuk, hanem filmjük, a Spring Breakers is összeköti. „Egyáltalán nincs elszállva magától és a figyelme nem lankad egy pillanatra sem. Az ember, akit te látsz és, akivel beszélsz, ugyanaz, mint akivel én beszélek” – mesélte Nessáról a fiatal színész-énekesnő, aki a Spring Breakers forgatása alatti időkre is visszaemlékezett, amikor a rengeteg rájuk szegeződött figyelem miatt folyton a nyomukban loholtak a paparazzik: „Nagyon védelmező. Volt, hogy nagyon zaklatott voltam, erre ő félrevitt és mindig arról beszélt nekem, azzal győzködött, hogy bízzak magamban és abban is, amit képviselek. Ezután mindig sokkal nagyobb biztonságban éreztem magam.”
 
