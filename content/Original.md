@@ -459,32 +459,6 @@ Megválasztása után Raimondo először Donald Trump amerikai elnökkel és a w
 
 A 2017. szeptemberében tartott szenátusi ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzul rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát és Jessicát konzullá léptették elő, Olivia Holt-ot és Zac Efron-t a szenátus javaslatára Raimondo szenátorrá nevezte ki. Raimondo, Selena és legújabb munkatársuk, Olivia vettek részt az Apple felügyelőtanácsának gyűlésén, ahol Tim, Craigh és Phil számoltak be a cég jövőbeli terveiről és fejlesztés alatt álló termékeiről. Craig Federighi szerint az Apple forradalmian új és minden eddiginél gyorsabb számítógépek bemutatására készül a 2018-as fejlesztői konferencián. Tim Cook pedig hatalmas eladási számokat és profitot jósolt a következő évekre és szerinte tovább nő a PC-ről Mac-re váltó felhasználók száma. Phil Schiller a következő iPhone és iWatch tesztelés alatt álló prototípusait mutatta meg Raimondóéknak és az okos-otthon kiegészítők valamint a virtuális valóság fejlesztésekről is beszámolt.
 
-Jessica Walker
-
-KONZUL
-
-A legismertebb alakítása a Chuck című sorozat. 2012-ben ő lett az ENSZ főtitkára, majd a Világkormány megalapítása után a Világbank igazgatója is.
-
-Selena Gomez
-
-KONZUL
-
-A korábbi Disney sztár, és a Stars Dance előadója 2015-ben szenátor lett, 2017-tól Raimondóval kezdett járni, majd pedig Waikiki egyik konzulává léptették elő.
-
-Olivia Holt
-
-SZENÁTOR
-
-Karrierje 3 évesen kezdődött, de ismertséget a Kickin' It című Disney sorozat hozott a számára, később pedig a Nem én voltam!-ban
-
-játszotta Lindy Watson-t.
-
-Zac Efron
-
-SZENÁTOR
-
-1994-ben született Kalifornia államban. A nagy áttörést a High School Musical hozta meg számára. A politikai életbe 2016-tól lépett be, egy évvel később szenátorrá nevezték ki.
-
 Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik luxemburgi nagyherceget egy palládium reaktor építéséről. Ha a Techno Industries által tervezett reaktor megépül, ez lesz az első ilyen típusú erőmű Európában. Raimondo, Selena, Bailey és Olivia úgy döntöttek, hogy egy párizsi úttal meghosszabbítják az európai nyaralásukat. Raimondo vezetésével a csapat megtekintette a Louvre legkülönlegesebb termeit, köztük a Mona Lisát egy zártkörű esti tárlatvezetésen valamint a Le Monde másnap címlapon közölte, ahogy az elit csoport tagjai naplementében sétáltak a Szajna partján, és hajókáztak a folyón egy elegáns vacsorával egybekötött privát jachton.
 
 Selena hercegnővé koronázása
@@ -497,6 +471,7 @@ Diplomáciai küldetés Moszkvában
 Raimondo és Selena ötnapos látogatást tettek Oroszországba, ahol Vlagyimir Putyin elnökkel tárgyaltak a szíriai konfliktusról. Az orosz látogatás nemcsak politikai, hanem kulturális és személyes jelentőséggel is bírt Raimondo és Selena számára, akiknek ez volt az első jelentős tárgyalássorozata, melyen egyedül kellett helytállniuk. Miután a hercegi párt állami díszszertartással fogadták a Vörös téren, az elnökkel és a Kreml más magas rangú vezetőivel folytattak tárgyalásokat. Az egész világ számára sorsdöntő megbeszélések között Ray és Sel meglátogatták Moszkva és Szentpétervár nevezetességeit majd pedig ellátogattak Szocsi luxusüdülőjébe is.
 
 Raimondo aláírja a Transzatlanti Szabadkereskedelmi megállapodást
+-------------------------------
 
 2017\. november 17-én történelmi pillanatra került sor Waikiki fővárosában, ahol Raimondo Chease ünnepélyes keretek között aláírta a Transzatlanti Szabadkereskedelmi Megállapodást (TAFTA), amely az Amerikai Unió, az Európai Unió és az Afrikai Unió részvételével megalakuló kereskedelmi övezet alapkövét képezi. Az új társulás a Föld eddigi legnagyobb kereskedelmi blokkját hozza létre, összesen 59 országot magába foglalva. A megállapodás célja, hogy szinte valamennyi termékre csökkentsék a vámokat, közös minőségi, környezetvédelmi és fogyasztóvédelmi előírásokat vezessenek be, megkönnyítve ezzel a határokon átnyúló kereskedelmet és beruházásokat. A közgazdasági elemzések szerint a szabadkereskedelmi övezet a tagországok exportját akár 15%-kal is növelheti az elkövetkező években. Waikiki kormányzata a nemzeti népszavazás eredményére alapozta döntését, melyen a választók 81%-a támogatta a nemzetközi vámmentességről szóló megállapodást, így Raimondo az ország egyértelmű felhatalmazásával ülhetett tárgyalóasztalhoz.
 

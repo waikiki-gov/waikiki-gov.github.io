@@ -1,100 +1,9 @@
-# Raimondo és Selena 1
-
-### Kormányzati átszervezések és új kinevezések
-
-#### Konzuli kinevezések
-
-2017 szeptemberében jelentős személyi változások történtek Waikiki vezetésében. A szenátus ülésén két kiemelkedő konzuli kinevezésre került sor:
-- Selena Gomez konzuli rangra emelése
-- Jessica Walker, Chease Young felesége szintén konzuli megbízatást kapott
-
-#### Szenátusi bővítés
-
-A konzuli kinevezéseket követően a törvényhozó testület is bővült:
-- Olivia Holt szenátori kinevezése
-- Zac Efron szenátori pozícióba helyezése
-
-A kinevezések a szenátus javaslatára és Raimondo államfő jóváhagyásával történtek, erősítve ezzel az állam vezetői struktúráját. Raimondo, Selena és legújabb munkatársuk, Olivia vettek részt az Apple felügyelőtanácsának gyűlésén, ahol Tim, Craigh és Phil számoltak be a cég jövőbeli terveiről és fejlesztés alatt álló termékeiről. Craig Federighi szerint az Apple forradalmian új és minden eddiginél gyorsabb számítógépek bemutatására készül a 2018-as fejlesztői konferencián. Tim Cook pedig hatalmas eladási számokat és profitot jósolt a következő évekre és szerinte tovább nő a PC-ről Mac-re váltó felhasználók száma. Phil Schiller a következő iPhone és iWatch tesztelés alatt álló prototípusait mutatta meg Raimondóéknak és az okos-otthon kiegészítők valamint a virtuális valóság fejlesztésekről is beszámolt.
-
-Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik luxemburgi nagyherceget egy palládium reaktor építéséről. Ha a Techno Industries által tervezett reaktor megépül, ez lesz az első ilyen típusú erőmű Európában. Raimondo, Selena, Bailey és Olivia úgy döntöttek, hogy egy párizsi úttal meghosszabbítják az európai nyaralásukat. Raimondo vezetésével a csapat megtekintette a Louvre legkülönlegesebb termeit, köztük a Mona Lisát egy zártkörű esti tárlatvezetésen valamint a Le Monde másnap címlapon közölte, ahogy az elit csoport tagjai naplementében sétáltak a Szajna partján, és hajókáztak a folyón egy elegáns vacsorával egybekötött privát jachton.
-
-Selena hercegnővé koronázása
-----------------------------
-
-2017\. október 16-án Selena Marie Gomezt Waikiki-i hercegnőnek koronázták. Sel kiskorától arról álmodozott, hogy egy napon hercegnő lesz és most élete nagy álma vált valóra. Selenát kétszer is bálkirálynőnek választották a Hercegnő védelmi program című filmekben, de most igazi koronát és ékszereket kapott. A jeles eseményre természetesen a családja, a volt munkatársai és a barátai is elkísérték. Megjelent Jennifer Stone, Vanessa Hudgens, Katie Cassidy, Leighton Meester és Demi Lovato is. "Tudom, hogy a Disneys múltam óta rengeteg dolog áll már mögöttem - nyilatkozta a szenátornő -, de mindig szívesen gondolok vissza a Waverly helyen eltöltött időre, és mivel úgy gondolom, hogy egy kis meséhez sosem lehetünk túl öregek, ezért örömmel jelentem be, hogy az egyetemig hátralevő fél évben szerepelek a Varázslók visszatérnek első évadjában." Az ünnepségre több nagy-múltú uralkodó család tagjai is hivatalosak voltak, jelen volt az angol és spanyol királyi család, öt bíboros, a francia miniszterelnök és a dalai láma is, aki szintén gratulált Selnek. A koronázást hatalmas színpompás tűzijáték és egy fogadás követte, ahol a világ minden tájáról összegyűjtött legfinomabb ételeket, borokat és pezsgőket szolgálták fel. a politikai, gazdasági és vallási elit jelenlévő tagjainak.
-
-Diplomáciai küldetés Moszkvában
-
-Raimondo és Selena ötnapos látogatást tettek Oroszországba, ahol Vlagyimir Putyin elnökkel tárgyaltak a szíriai konfliktusról. Az orosz látogatás nemcsak politikai, hanem kulturális és személyes jelentőséggel is bírt Raimondo és Selena számára, akiknek ez volt az első jelentős tárgyalássorozata, melyen egyedül kellett helytállniuk. Miután a hercegi párt állami díszszertartással fogadták a Vörös téren, az elnökkel és a Kreml más magas rangú vezetőivel folytattak tárgyalásokat. Az egész világ számára sorsdöntő megbeszélések között Ray és Sel meglátogatták Moszkva és Szentpétervár nevezetességeit majd pedig ellátogattak Szocsi luxusüdülőjébe is.
-
-Raimondo aláírja a Transzatlanti Szabadkereskedelmi megállapodást
-
-2017\. november 17-én történelmi pillanatra került sor Waikiki fővárosában, ahol Raimondo Chease ünnepélyes keretek között aláírta a Transzatlanti Szabadkereskedelmi Megállapodást (TAFTA), amely az Amerikai Unió, az Európai Unió és az Afrikai Unió részvételével megalakuló kereskedelmi övezet alapkövét képezi. Az új társulás a Föld eddigi legnagyobb kereskedelmi blokkját hozza létre, összesen 59 országot magába foglalva. A megállapodás célja, hogy szinte valamennyi termékre csökkentsék a vámokat, közös minőségi, környezetvédelmi és fogyasztóvédelmi előírásokat vezessenek be, megkönnyítve ezzel a határokon átnyúló kereskedelmet és beruházásokat. A közgazdasági elemzések szerint a szabadkereskedelmi övezet a tagországok exportját akár 15%-kal is növelheti az elkövetkező években. Waikiki kormányzata a nemzeti népszavazás eredményére alapozta döntését, melyen a választók 81%-a támogatta a nemzetközi vámmentességről szóló megállapodást, így Raimondo az ország egyértelmű felhatalmazásával ülhetett tárgyalóasztalhoz.
-
-Történelmi Űrutazás: Raimondo és Selena az Űrállomáson
---------------------------------------------------
-
-Az első államfői pár űrutazása mérföldkövet jelentett mind a Waikiki űrprogram, mind a nemzetközi űrkutatás történetében. Raimondo számára ez egy gyermekkori álom beteljesülése volt, amely 2010-ben, szülei úttörő űrutazásával kezdődött.
-
-A Küldetés Előkészítése
----------------------
-Bejelentés:
-- Hivatalos sajtótájékoztató februárban
-- 2018 februári indulás kitűzése
-- Átfogó misszió tervezet ismertetése
-
-Felkészülési Program
-------------------
-1. Szakmai Felkészítés:
-   - Találkozó az Aldrin űrsikló 19. küldetésének veteránjaival
-   - Űrruha kezelési és biztonsági protokollok
-   - Űrállomás rendszereinek megismerése
-   - Vészhelyzeti eljárások gyakorlása
-
-2. Fizikai Felkészítés:
-   - Súlytalansági tréning
-   - Űrsétára való felkészülés
-   - Állóképességi gyakorlatok
-   - Orvosi vizsgálatok és felkészítés
-
-A Columbus Küldetés
-----------------
-Technikai Részletek:
-- Űrsikló: Columbus
-- Pályamagasság: ~200 km
-- Küldetés időtartama: 14 nap
-- Legénység: 7 fő (2+5)
-
-Küldetés Főbb Elemei:
-1. Tudományos Program:
-   - Mikrogravitációs kísérletek
-   - Űrállomás karbantartási feladatok
-   - Kutatási projektek támogatása
-
-2. Űrséták:
-   - Többszöri EVA tevékenység
-   - Külső szerelési munkálatok
-   - Fotódokumentáció készítése
-
-3. Diplomáciai Jelentőség:
-   - Első államfői pár az űrben
-   - Nemzetközi együttműködés erősítése
-   - Waikiki űrprogram presztízsének növelése
-
-A küldetés sikeresen zárult a Föld légkörébe való visszatéréssel és biztonságos landolással, új fejezetet nyitva Waikiki űrkutatási történetében és példát mutatva a világ vezetőinek a tudományos szerepvállalás terén.
-
-
-Raimondo és Selena iskolák építésében segítenek Indiában
---------------------------------------------------------
-
-A hercegi pár egy egész hetet töltött el indiai városokban, hogy a helyieknek segítsenek. Ray és Sel iskolák berendezésében, étel és vízosztásban valamint egyéb jótékonysági munkákban is részt vettek. Waikiki kormánya hatalmas összegeket költött jótékonysági célokra: autópályákat és utakat építettek Afrikában, iskolákat alapítottak Indiában továbbá pénzt adományoztak a szegények segítésére Argentínában és Peruban. A hét végén Raimondóék találkoztak elnökével, aki köszönetet mondott Waikiki segítségéért és ünnepi vacsorát rendezett a tiszteletükre.
+# Raimondo és Selena: Az Első Évek
 
 A világ legbefolyásosabb emberei
 --------------------------------
 
 A Forbes által 2018-ban elkészített legbefolyásosabb emberek lista élén természetesen Chease Young áll. Őket rögtön a Waikiki-i királyi család többi tagja, Raimondo és Jessica követi. Negyedik a listán Donald Trump, az egyesült államok elnöke, hatodik pedig Oroszország vezetője, Vladimir Putyin. Az első 10 legbefolyásosabb személy között szerepel Angelina, Jennifer és Selena Gomez is. A további top 20 helyeket a szenátus tagjai, Edward kormányzó, George Bush elnök és Xi Jinping foglalják el. Utánuk következik Angela Merkel német kancellár, Larry Page, a Googletől, Barack Obama volt amerikai elnök, továbbá a Microsoft alapítója, Bill Gates. Raimondóék személyi asszisztense, London Tipton pedig a lista huszonnegyedik helyén szerepel.
-
-
 
 Raimondo és Selena Izraelben
 ----------------------------
@@ -105,7 +14,6 @@ Waikiki fennállásának 20. évfordulója
 -------------------------------------
 
 Történelmi hangulat uralta Waikiki fővárosát, amikor több tízezer állampolgár gyűlt össze a Nemzeti Fórum téren, hogy megünnepelje a független Waikiki állam alapításának 20. évfordulóját. A jubileumi rendezvénysorozat csúcspontja Raimondo Chease államfő ünnepi parlamenti beszéde volt, amelyet a világ számos médiuma élőben közvetített. Raimondo, aki 2015 óta meghatározó alakja Waikiki történelmének, megható és vízióval teli beszédet mondott, amelyben végigtekintett a múlt kihívásain, a jelen eredményein, és irányt mutatott a jövő számára. Raimondo beszédében emlékeztetett az ország megalapításának körülményeire, az első olajkutak megnyitására, a társadalmi reformokra, valamint az oktatás, technológia és környezetvédelem terén elért eredményekre. Kiemelte, hogy Waikiki mára globális szereplő lett, amely egyszerre képes versenyképes gazdaságot működtetni és értékalapú diplomáciát folytatni. A beszéd után a Nemzeti Fórum téren nagyszabású ünnepség kezdődött, élő koncert, drónshow és tűzijáték szórakoztatta a résztvevőket.
-
 
 Római műemlékek rekonstrukciója
 -------------------------------
@@ -145,24 +53,7 @@ A történelmi jelentőségű tesztrepülésre a Manaus-i Űrközpontban került
 
 #### Technológiai újítások
 
-Az Interstellar Program legjelentősebb műszaki vívmánya az úttörő hajtóműrendszer, amely elsőként alkalmaz sikeresen ionhajtóművet űrsiklón. Ez az innováció nem csupán forradalmi üzemanyag-hatékonyságot biztosít, de jelentősen megnöveli a jármű hatótávolságát is. Az életfenntartó rendszerek területén ugyancsak jelentős előrelépések történtek...
-   - Fejlett légszűrő technológia
-   - Hosszútávú emberi tartózkodásra alkalmas környezet
-   - Sugárzásvédelmi innovációk
-
-Jövőbeli Célkitűzések
--------------------
-Közvetlen tervek:
-- Személyzettel végrehajtott tesztrepülés (3 űrhajóssal)
-- További 3 űrsikló építése
-- Hold körüli küldetések előkészítése
-
-Hosszútávú célok:
-- Mélyűri küldetések végrehajtása
-- Mars-expedíciók előkészítése
-- Állandó Hold körüli állomás létesítése
-
-A program jelentősége túlmutat Waikiki határain, és az emberiség űrkutatási képességeinek új dimenzióit nyitja meg, különös tekintettel a bolygóközi utazás lehetőségeire.
+Az Interstellar Program legjelentősebb műszaki vívmánya az úttörő hajtóműrendszer, amely elsőként alkalmaz sikeresen ionhajtóművet űrsiklón. Ez az innováció nem csupán forradalmi üzemanyag-hatékonyságot biztosít, de jelentősen megnöveli a jármű hatótávolságát is. Az életfenntartó rendszerek területén ugyancsak jelentős előrelépések történtek. A program jelentősége túlmutat Waikiki határain, és az emberiség űrkutatási képességeinek új dimenzióit nyitja meg, különös tekintettel a bolygóközi utazás lehetőségeire.
 
 Raimondo és Selena a klímaváltozásra hívják fel a figyelmet
 -----------------------------------------------------------
@@ -191,7 +82,6 @@ Az Egészségügyi Világszervezet külön jelentésében méltatta Waikiki ered
 Raimondo és Selena személyesen is nagy szerepet vállaltak a tapasztalatok megosztásában. Számos virtuális konferencián és fórumon ismertették a waikiki módszereket ázsiai, afrikai és karibi államok vezetőivel. Ezek a konzultációk nem csupán technikai segítségnyújtást jelentettek, hanem egy új típusú nemzetközi szolidaritás kezdetét is jelezték.
 
 A járvány társadalmi következményeire reagálva a vezetőpár létrehozta a Global Hope Foundation-t, amely hamarosan a világjárvány utáni újjáépítés egyik meghatározó szereplőjévé vált. Az alapítvány különös figyelmet fordított a járvány által leginkább sújtott csoportokra: a gyermekekre, a kisvállalkozásokra és az egészségügyi dolgozókra. Selena személyes védnöksége alatt indult el a New Futures program, amely innovatív megoldásokat kínált a COVID-árvák oktatására és lelki támogatására. Ez a kezdeményezés azóta számos országban szolgál modellként hasonló programok számára.
-
 
 Stratégiai Filantrópia és Társadalmi Felelősségvállalás
 ------------------------------------------------
