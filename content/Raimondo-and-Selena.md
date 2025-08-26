@@ -161,64 +161,23 @@ A Waikiki kormány vezető tisztségviselői részt vettek egy kiemelkedő jelen
 ## Diplomáciai küldetés Afrikában
 
 Raimondo és delegációja történelmi jelentőségű látogatást tett Afrikában a Kormányzati Palota felavatási ünnepségére. A küldöttség biztonságáról Logan Davis tábornok személyesen gondoskodott. Az esemény nem csupán egy épület átadását jelentette, hanem az afrikai kontinens fejlesztésére irányuló átfogó stratégia meghirdetését is. Az ünnepségen elhangzott beszédek és prezentációk a fejlesztési program különböző aspektusait világították meg. Raimondo átfogó környezetvédelmi programot hirdetett meg, kiemelve az afrikai kontinens visszaerdősítésének fontosságát, kezdve a Gízai-fennsík térségével. Bailey a munkahelyteremtés és az oktatási rendszer modernizációjának részletes tervét ismertette. Selena pedig UNICEF nagykövetként a természetvédelem és a humanitárius kezdeményezések összehangolását hangsúlyozta. A hivatalos program zárásaként Raimondo és Selena személyesen is bizonyították elkötelezettségüket: részt vettek a Waikiki kormány által támogatott New Kairói óvoda felújítási munkálataiban, példát mutatva a társadalmi felelősségvállalás terén.
-------------------
+
 ## A 2016-os Golden Globe díjátadó
 
-Gregg Sulkin, Selena és Jennifer Stone együtt vettek részt a 2016-os Golden Globe-díj átadó gálán. Hármójuk közül Sel kapott díjat az I Promise You című filmben alakított női főszerepért. Vanessa Hudgens lett a Marie Claire 2015.-ös októberi számának címlaplánya, így természetesen a jól megszokott többoldalas és mély hangvételű interjú sem maradhatott el, amely során rengeteg érdekességet és jó tanácsot osztott meg az olvasókkal. Azonban a magazin nem csak a 24 éves színésznőt, hanem egyik közeli barátját és egyben kolléganőjét is mikrofonvégre kapta, Selena Gomez személyében, akivel nem csak közös Disneys múltjuk, hanem filmjük, a Spring Breakers is összeköti. „Egyáltalán nincs elszállva magától és a figyelme nem lankad egy pillanatra sem. Az ember, akit te látsz és, akivel beszélsz, ugyanaz, mint akivel én beszélek” – mesélte Nessáról a fiatal színész-énekesnő, aki a Spring Breakers forgatása alatti időkre is visszaemlékezett, amikor a rengeteg rájuk szegeződött figyelem miatt folyton a nyomukban loholtak a paparazzik: „Nagyon védelmező. Volt, hogy nagyon zaklatott voltam, erre ő félrevitt és mindig arról beszélt nekem, azzal győzködött, hogy bízzak magamban és abban is, amit képviselek. Ezután mindig sokkal nagyobb biztonságban éreztem magam.”
+A 2016-os Golden Globe-díj átadó gála nemcsak a hollywoodi sztárvilág egyik legfontosabb eseménye volt, hanem baráti és szakmai találkozások helyszíne is, amelyek később komoly együttműködésekhez és új fejezetekhez vezettek. A reflektorfényben három fiatal tehetség, Gregg Sulkin, Selena Gomez és Jennifer Stone közösen jelent meg, ezzel is bizonyítva, hogy a Disney-csillagok új generációja immár a nemzetközi politika színpadán is otthonosan mozog. A vörös szőnyegen való bevonulásuk azonnal felkeltette a nemzetközi sajtó figyelmét és az esemény során több interjúban is együtt szerepeltek. A közös fotók, interjúk és megjelenések azóta is gyakran visszatérnek a rajongói fórumokon, sokak szerint pedig ez volt az egyik első olyan nyilvános alkalom, amikor mindhárman komolyan elindultak saját karrierjük új, érettebb szakasza felé.
 
 ## Stratégiai fejlesztések és nagyszabású beruházások
 
-### Kulturális infrastruktúra bővítése
-
-Raimondo a 2017-es parlament nyitóülésén egy átfogó kulturális fejlesztési programot jelentett be, amelynek központi eleme egy új múzeumnegyed létrehozása. A komplex beruházás keretében megvalósul:
-- Waikiki megújult természettudományi múzeuma
-- Egy világszínvonalú modern művészeti központ
-- Egy korszerű tengerbiológiai akvárium-komplexum
-
-### A Google történelmi léptékű fejlesztése
-
-Larry Page vezérigazgató bejelentése szerint a Google minden eddiginél nagyobb volumenű beruházást indít, amely:
-- Négy kontinensen, nyolc országban valósul meg
-- Waikiki mindhárom tartományában kutatási központok létesülnek
-- Az Európai és Amerikai Unió jelentős pénzügyi támogatást biztosít a munkahelyteremtéshez
-
-### Környezettudatos hajózási innováció
-
-A Quantum Cruises, Chease Young új vállalkozása forradalmi fejlesztést valósít meg a "Karib-tenger gyöngye" projekt keretében:
-
-#### Technológiai újítások
-- Kizárólag megújuló energiaforrások használata (palládium, szél- és napenergia)
-- Fejlett víztisztító rendszer
-- Innovatív környezetbarát építőanyagok alkalmazása
-
-#### Környezettudatos megoldások
-- Fedélzeti zöldfelületek a szén-dioxid semlegesítésére
-- Teljes körű hulladékgazdálkodási rendszer
-- 3500 utas befogadására alkalmas, környezetbarát luxuskörülmények
-
-A másfél év alatt elkészülő hajó új standardokat állít fel a fenntartható luxushajózás területén.
-
-## Sorsfordító thaiföldi utazás
+Új múzeumnegyed építését jelentette be Raimondo a 2017-es parlament nyitóülésén. Az új városrészben kap helyet Waikiki megújult természettudományi múzeuma, egy világszínvonalú modern művészeti múzeum és egy hatalmas tengerbiológiai akvárium is. bejelentést a Szenátus állva tapsolta meg, és a nemzetközi sajtó is azonnal felkapta, hiszen a projekt a világ élvonalába emelheti az ország kulturális intézményeit. A tervek szerint a városrész nemcsak a lakosság számára nyújt majd kiemelkedő kulturális élményt, hanem a turizmus egyik fő motorjává is válhat, tovább erősítve Waikiki nemzetközi befolyását. Chease vadonatúj hajóstársasága, a Quantum Cruises pedig megépíti a világ legkörnyezetbarátabb hajóját a Karib-tenger gyöngyét. Az óceánjáró luxushajó kizárólag környezetbarát energiaforrásokat használ, melyek közül a legfontosabbak a palládium, a szél és a nap. A Karib-tenger gyöngyét természetbarát anyagokból építették, rendelkezik egy saját víztisztítóval és a fedélzetére még fákat is ültettek, hogy semlegesítsék a hajó utasai által kibocsájtott szén-dioxidot. A tengerjáró másfél év múlva készül el, és 3500 utas szállítására lesz alkalmas.
 
 ### Romantikus kikapcsolódás Délkelet-Ázsiában
 
 2017 márciusában Raimondo és Selena közös thaiföldi nyaralásra indult, amely végül kapcsolatuk alakulásában meghatározó jelentőségűvé vált. A páros felhőtlen napokat töltött együtt az egzotikus környezetben: élvezték a tenger nyújtotta örömöket, a napfényes tengerpartot, és az élénk helyi éjszakai életet. Az együtt töltött idő alatt kapcsolatuk elmélyült, és egyre több intim pillanatot osztottak meg egymással.
 
-### Párhuzamos események
-
-Míg Raimondo és Selena Thaiföldön tartózkodott, kollégáik jelentős szakmai sikereket értek el:
-- Bailey kiemelkedő eredménnyel teljesítette spanyol felsőfokú nyelvvizsgáját és részt vett a nemzetközi Nobel-díj átadó ünnepségén
-- Gregg a Világkormány jogalkotási munkájában vett részt és szakmai továbbképzésen fejlesztette informatikai ismereteit
-- Közös kulturális programként egy Beethoven-koncerten vettek részt
-
-### Kapcsolati fordulópont
-
 A thaiföldi útról való visszatérés jelentős változásokat hozott a személyes kapcsolatokban:
 - Raimondo és Bailey kölcsönös megegyezéssel, baráti viszonyuk megőrzése mellett döntöttek kapcsolatuk befejezéséről
 - Ugyanaznap Gregg és Selena kapcsolata is véget ért
 - Másnap Raimondo és Selena hivatalosan bejelentették kapcsolatukat
-
-### Médiavisszhang
 
 Az új pár bejelentése rendkívüli médiaérdeklődést váltott ki:
 - A hírt valamennyi jelentős sajtóorgánum címlapon közölte
