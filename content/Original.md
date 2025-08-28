@@ -97,14 +97,14 @@ Kommunikációs tanácsadó
 Egyetemi tanulmányok
 --------------------
 
-2012\. szeptembere és 2015. júniusa között Raimondo, Jennifer, Selena, Bailey és Tyler olyan milliárdos tinédzserekkel tanultak együtt a Waikiki Economic University közgazdaságtan alapképzésén, mint Vanessa Hudgens, Rory Gates vagy Willow Smith. Alapvető közgazdasági, jogi és politikai tanulmányuk után 2015 szeptemberétől Raimondo barátnőjével, nővéreivel és a szenátus más tagjaival együtt az egyetem mesterképzésére jelentkezett, ahol egy négy féléves képzésben vesznek részt. A sztárok heti két napot a parlamentben dolgoznak két nap pedig egyetemi előadásokon és gyakorlatokon vesznek részt. A mesterképzés során Chease Young több előadást is tart gyerekeinek és barátaiknak olyan témákban, mint például a Modern gazdaság alapjai vagy a Környezettudatos gazdaság. Jessica a képzés részeként az egyetemen a bankrendszer működésével kapcsolatos két tantárgyat oktat, az egyiket előadás, a másikat pedig gyakorlat formájában.
+2012 szeptembere és 2015. júniusa között Raimondo, Jennifer, Selena, Bailey és Tyler olyan milliárdos tinédzserekkel tanultak együtt a Waikiki Economic University közgazdaságtan alapképzésén, mint Vanessa Hudgens, Rory Gates vagy Willow Smith. Alapvető közgazdasági, jogi és politikai tanulmányuk után 2015 szeptemberétől Raimondo barátnőjével, nővéreivel és a szenátus más tagjaival együtt az egyetem mesterképzésére jelentkezett, ahol egy négy féléves képzésben vesznek részt. A sztárok heti két napot a parlamentben dolgoznak két nap pedig egyetemi előadásokon és gyakorlatokon vesznek részt. A mesterképzés során Chease Young több előadást is tart gyerekeinek és barátaiknak olyan témákban, mint például a Modern gazdaság alapjai vagy a Környezettudatos gazdaság. Jessica a képzés részeként az egyetemen a bankrendszer működésével kapcsolatos két tantárgyat oktat, az egyiket előadás, a másikat pedig gyakorlat formájában.
 
 Alapképzés
 ----------
 
 BSC
 
-1\. félév
+1 félév
 
 Algebra (8 kr.)
 
@@ -118,7 +118,7 @@ Számvitel alapjai (8 kr.)
 
 BSC
 
-2\. félév
+2 félév
 
 Analízis (8 kr.)
 
@@ -132,7 +132,7 @@ Pénzügy (8 kr.)
 
 BSC
 
-3\. félév
+3 félév
 
 Statisztika (8 kr.)
 
@@ -146,7 +146,7 @@ Befektetések (8 kr.)
 
 BSC
 
-4\. félév
+4 félév
 
 Valószínűségszámítás (8 kr.)
 
@@ -160,7 +160,7 @@ Szociológia (7 kr.)
 
 BSC
 
-5\. félév
+5 félév
 
 Diplomatervezés I. (15 kr.)
 
@@ -174,7 +174,7 @@ Külkereskedelem (7 kr.)
 
 BSC
 
-6\. félév
+6 félév
 
 Diplomatervezés II. (15 kr.)
 
@@ -189,7 +189,7 @@ Mesterképzés
 
 MSC
 
-1\. félév
+1 félév
 
 Modern gazdaság alapjai (7 kr.)
 
@@ -203,7 +203,7 @@ Digitális marketing (4 kr.)
 
 MSC
 
-2\. félév
+2 félév
 
 A bankrendszer működése (7 kr.)
 
@@ -217,7 +217,7 @@ Gazdasági statisztika (6 kr.)
 
 MSC
 
-3\. félév
+3 félév
 
 Mikroökonómia (6 kr.)
 
@@ -231,7 +231,7 @@ A jogállam működése (7 kr.)
 
 MSC
 
-4\. félév
+4 félév
 
 Számvitel (7 kr.)
 
@@ -318,7 +318,7 @@ Raimondo és Waikiki kormányának többi tagja 2015. október 15.-én részt ve
 Nemzetközi találkozók
 -------------------------------
 
-2015\. november 5-én Raimondót meghívták a Bilderberg Waikiki-i találkozójára. A Bilderberg-csoport egy befolyásos személyekből álló, zártkörű társaság. Nevét egy holland szállodáról kapta, ahol először tartották meg a gyűlésüket 1954-ben. A csoport 1954-től minden évben tanácskozik. A csoport tagjainak névsora nem nyilvános, de tagjai közt van Carlos Slim Helu, David Rockefeller és számos befolyásos politikus is. A Bilderberg-csoport tanácskozásai bizalmas jellegűek, így a Chatham House tanácskozásain elfogadott szabályok az érvényesek. Eszerint annak érdekében, hogy a résztvevők szabadon fejthessék ki saját személyes véleményüket egy-egy témáról, a résztvevők kötelezik magukat arra, hogy a tanácskozásokon elhangzottakról beszélhetnek ugyan, de nem nevezhetik meg az egyes álláspontokat képviselő személyeket illetve azok nemzeti vagy intézményi hovatartozását. Öt nappal a Bilderberg meghívása után a G8 csoport is meghívta Rayt a 2016-os ülésére. A fórum elengedte azon követeléseit, melyek miatt Chease korábban nem csatlakozott. A G8 a világ gazdaságilag legfejlettebb 7 országának és Oroszországnak az együttműködési fóruma. Tagok Kanada, Franciaország, Németország, Olaszország, Japán, Egyesült Királyság, Amerikai Egyesült Államok és nyolcadikként Oroszország. Miután Waikiki 2016.01.05-én csatlakozott a G8-hoz, a szövetséget átnevezték G9-re és egy új központ építését kezdték meg New Mavericksben. A találkozón szóba került még az első világkongresszus szervezése és a megújuló energiaforrások használata is. Itt írták alá a transzatlanti szabadkereskedelmi egyezményt is, amely az EU és az AU közti termékforgalmat könnyíti meg a biztonsági előírások megtartásával. A G9 létrejötte és a világkongresszus fontos előzményként szolgálnak ahhoz, hogy Waikiki befolyást nyerjen más országokban és Chease akár világméretűre terjessze hatalmát. A világkongresszus felügyeli majd a szuverén országok törvényeit, irányítását és kiadásait is. A világkongresszusba minden ENSZ tagállam küldhet képviselőket, akik az országuk gazdasági részesedése alapján adhatják le szavazataikat.
+2015 november 5-én Raimondót meghívták a Bilderberg Waikiki-i találkozójára. A Bilderberg-csoport egy befolyásos személyekből álló, zártkörű társaság. Nevét egy holland szállodáról kapta, ahol először tartották meg a gyűlésüket 1954-ben. A csoport 1954-től minden évben tanácskozik. A csoport tagjainak névsora nem nyilvános, de tagjai közt van Carlos Slim Helu, David Rockefeller és számos befolyásos politikus is. A Bilderberg-csoport tanácskozásai bizalmas jellegűek, így a Chatham House tanácskozásain elfogadott szabályok az érvényesek. Eszerint annak érdekében, hogy a résztvevők szabadon fejthessék ki saját személyes véleményüket egy-egy témáról, a résztvevők kötelezik magukat arra, hogy a tanácskozásokon elhangzottakról beszélhetnek ugyan, de nem nevezhetik meg az egyes álláspontokat képviselő személyeket illetve azok nemzeti vagy intézményi hovatartozását. Öt nappal a Bilderberg meghívása után a G8 csoport is meghívta Rayt a 2016-os ülésére. A fórum elengedte azon követeléseit, melyek miatt Chease korábban nem csatlakozott. A G8 a világ gazdaságilag legfejlettebb 7 országának és Oroszországnak az együttműködési fóruma. Tagok Kanada, Franciaország, Németország, Olaszország, Japán, Egyesült Királyság, Amerikai Egyesült Államok és nyolcadikként Oroszország. Miután Waikiki 2016.01.05-én csatlakozott a G8-hoz, a szövetséget átnevezték G9-re és egy új központ építését kezdték meg New Mavericksben. A találkozón szóba került még az első világkongresszus szervezése és a megújuló energiaforrások használata is. Itt írták alá a transzatlanti szabadkereskedelmi egyezményt is, amely az EU és az AU közti termékforgalmat könnyíti meg a biztonsági előírások megtartásával. A G9 létrejötte és a világkongresszus fontos előzményként szolgálnak ahhoz, hogy Waikiki befolyást nyerjen más országokban és Chease akár világméretűre terjessze hatalmát. A világkongresszus felügyeli majd a szuverén országok törvényeit, irányítását és kiadásait is. A világkongresszusba minden ENSZ tagállam küldhet képviselőket, akik az országuk gazdasági részesedése alapján adhatják le szavazataikat.
 
 További események
 -----------------
@@ -351,7 +351,7 @@ Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat n�
 A szenátus első éves konferenciája
 ----------------------------------
 
-2016\. június 17-én, nagyjából egy évvel a szenátus létrehozása után után tartotta a kormány az első évi értékelést. A konferencián Chease Young három új szenátort nevetett ki, köztük a korábbi Disney sztár Zendaya Coleman-t, a Pókember filmek hősét, Tom Holland-ot és Selena barátját, Gregg Sulkin-t. Az értekezleten bemutatták egy hatalmas toronyház terveit, amely új bankközpontként szolgál majd Nova Aurelia belvárosában. Kiemelkedő munkájáért lovagi címet kapott Smith Edward kormányzó, valamint Waikiki három helytartója.
+2016 június 17-én, nagyjából egy évvel a szenátus létrehozása után után tartotta a kormány az első évi értékelést. A konferencián Chease Young három új szenátort nevetett ki, köztük a korábbi Disney sztár Zendaya Coleman-t, a Pókember filmek hősét, Tom Holland-ot és Selena barátját, Gregg Sulkin-t. Az értekezleten bemutatták egy hatalmas toronyház terveit, amely új bankközpontként szolgál majd Nova Aurelia belvárosában. Kiemelkedő munkájáért lovagi címet kapott Smith Edward kormányzó, valamint Waikiki három helytartója.
 
 Tom Holland
 
@@ -435,7 +435,7 @@ Jelentős beruházások
 Raimondo és Selena Thaiföldön
 -------------------------------
 
-2017\. márciusában Raimondo és Selena ismét együtt nyaraltak, ezúttal Thaiföldön. Raimondóék együtt fürödtek a tengerben, együtt napoztak a parton, este pedig együtt mentek bulizni. A nyaralás alatt Selenával többször együtt aludtak és csókolóztak is. Ray és Selly moziztak, táncoltak és szórakoztak. Míg ők remekül érezték magukat, addig Bailey letette a spanyol felsőfokú nyelvvizsgáját és rész vett a nemzetközi Nobel-díj kiosztó gálán, Gregg pedig a Világkormány törvényein dolgozott, valamint informatikai továbbképzésen volt. Majd pedig együtt mentek el egy Beethoven koncertre. Miután Ray és Selena visszajöttek Thaiföldről Raimondo és Bailey szakítottak, de nem vesztek össze, megegyeztek, hogy továbbra is barátok maradnak. Még ezen a napon szakított Gregg és Selly is. Egy nappal a szakítás után Raimondo Chease és Selena Gomez bejelentették, hogy járnak. Kapcsolatuk szinte minden újság címlapján és minden híradóban szerepelt. A Forbes felmérései szerint Selena mindössze egy nap alatt a negyedik helyről a harmadikra lépett elő a világ leghíresebb emberei listáján.
+2017 márciusában Raimondo és Selena ismét együtt nyaraltak, ezúttal Thaiföldön. Raimondóék együtt fürödtek a tengerben, együtt napoztak a parton, este pedig együtt mentek bulizni. A nyaralás alatt Selenával többször együtt aludtak és csókolóztak is. Ray és Selly moziztak, táncoltak és szórakoztak. Míg ők remekül érezték magukat, addig Bailey letette a spanyol felsőfokú nyelvvizsgáját és rész vett a nemzetközi Nobel-díj kiosztó gálán, Gregg pedig a Világkormány törvényein dolgozott, valamint informatikai továbbképzésen volt. Majd pedig együtt mentek el egy Beethoven koncertre. Miután Ray és Selena visszajöttek Thaiföldről Raimondo és Bailey szakítottak, de nem vesztek össze, megegyeztek, hogy továbbra is barátok maradnak. Még ezen a napon szakított Gregg és Selly is. Egy nappal a szakítás után Raimondo Chease és Selena Gomez bejelentették, hogy járnak. Kapcsolatuk szinte minden újság címlapján és minden híradóban szerepelt. A Forbes felmérései szerint Selena mindössze egy nap alatt a negyedik helyről a harmadikra lépett elő a világ leghíresebb emberei listáján.
 
 A 2017-es Golden Globe díjátadó gála
 -------------------------------
@@ -450,7 +450,7 @@ Michelle Obama születésnapja
 Raimondo lett Waikiki diktátora
 -------------------------------
 
-2017\. július 7-én Chease Young lemondott Waikiki diktátori tisztségéről, és a parlament jóváhagyásával fiát, Raimondót nevezte ki utódjául. A kormánypártok kivétel nélkül támogatták Raimondo kinevezését, aki a szavazás után azonnal fel is esküdött Waikiki alkotmányának védelmére. Az ifjú diktátor aznap este beszédet intézett az ország lakosaihoz, melyben biztosította őket arról, hogy legjobb tudásához mérten fogja az ország érdekeit szolgálni, továbbá kitért arra is, hogy az ország készen áll a jövő kihívásainak leküzdésére. Raimondo másnap egy interjú során azt is bejelentette, hogy már egyeztetett a kormány több vezető tagjával, és Waikiki jó úton halad a négy napos munkahét bevezetése felé, amely az új adminisztráció egyik legfontosabb rövidtávú célja. Raimondo első nyilvános beszédét július 14-én tartotta, melyen több tízezer támogatója személyesen vett részt. A beszéd során Raimondo és Selena bejelentették, hogy a kormány az évszázad infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki szigetét és Floridát. Az első szakaszban 2019-ig megépítik a mágnes vasutat a Santiago és Moron közti 280km-es szakaszon, melyből 100 kilométert a tenger alatt tesznek meg. 2024-ben fog elkészülni ugyanitt a tenger alatti autópálya, amely a terv második szakaszának számít. A harmadik szakasz a Havannát és Miamit összekötő 360 kilométeres vasúti- és autóalagút, ami pedig 2030-ra van tervbe véve. Az infrastrukturális fejlesztéssorozat jelentősen megkönnyítheti a kereskedelmet és a közlekedést Waikiki tartományai, valamint az Egyesült Államok között.
+2017 július 7-én Chease Young lemondott Waikiki diktátori tisztségéről, és a parlament jóváhagyásával fiát, Raimondót nevezte ki utódjául. A kormánypártok kivétel nélkül támogatták Raimondo kinevezését, aki a szavazás után azonnal fel is esküdött Waikiki alkotmányának védelmére. Az ifjú diktátor aznap este beszédet intézett az ország lakosaihoz, melyben biztosította őket arról, hogy legjobb tudásához mérten fogja az ország érdekeit szolgálni, továbbá kitért arra is, hogy az ország készen áll a jövő kihívásainak leküzdésére. Raimondo másnap egy interjú során azt is bejelentette, hogy már egyeztetett a kormány több vezető tagjával, és Waikiki jó úton halad a négy napos munkahét bevezetése felé, amely az új adminisztráció egyik legfontosabb rövidtávú célja. Raimondo első nyilvános beszédét július 14-én tartotta, melyen több tízezer támogatója személyesen vett részt. A beszéd során Raimondo és Selena bejelentették, hogy a kormány az évszázad infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki szigetét és Floridát. Az első szakaszban 2019-ig megépítik a mágnes vasutat a Santiago és Moron közti 280km-es szakaszon, melyből 100 kilométert a tenger alatt tesznek meg. 2024-ben fog elkészülni ugyanitt a tenger alatti autópálya, amely a terv második szakaszának számít. A harmadik szakasz a Havannát és Miamit összekötő 360 kilométeres vasúti- és autóalagút, ami pedig 2030-ra van tervbe véve. Az infrastrukturális fejlesztéssorozat jelentősen megkönnyítheti a kereskedelmet és a közlekedést Waikiki tartományai, valamint az Egyesült Államok között.
 
 Megválasztása után Raimondo először Donald Trump amerikai elnökkel és a washingtoni vezetéssel találkozott. A tárgyaláson, melyen az újdonsült diktátor fontos diplomáciai kapcsolatokra tett szert és jelentős politikai tapasztalatokkal gazdagodott az amerikai kereskedelmi unió kibővítése is felmerült. Raimondo és Selena a tárgyalások mellett arra is szakított időt, hogy megcsodálja az amerikai nagyvárosok nevezetes látnivalóit és az USA természeti látnivalóit.
 
@@ -464,7 +464,7 @@ Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi
 Selena hercegnővé koronázása
 ----------------------------
 
-2017\. október 16-án Selena Marie Gomezt Waikiki-i hercegnőnek koronázták. Sel kiskorától arról álmodozott, hogy egy napon hercegnő lesz és most élete nagy álma vált valóra. Selenát kétszer is bálkirálynőnek választották a Hercegnő védelmi program című filmekben, de most igazi koronát és ékszereket kapott. A jeles eseményre természetesen a családja, a volt munkatársai és a barátai is elkísérték. Megjelent Jennifer Stone, Vanessa Hudgens, Katie Cassidy, Leighton Meester és Demi Lovato is. "Tudom, hogy a Disneys múltam óta rengeteg dolog áll már mögöttem - nyilatkozta a szenátornő -, de mindig szívesen gondolok vissza a Waverly helyen eltöltött időre, és mivel úgy gondolom, hogy egy kis meséhez sosem lehetünk túl öregek, ezért örömmel jelentem be, hogy az egyetemig hátralevő fél évben szerepelek a Varázslók visszatérnek első évadjában." Az ünnepségre több nagy-múltú uralkodó család tagjai is hivatalosak voltak, jelen volt az angol és spanyol királyi család, öt bíboros, a francia miniszterelnök és a dalai láma is, aki szintén gratulált Selnek. A koronázást hatalmas színpompás tűzijáték és egy fogadás követte, ahol a világ minden tájáról összegyűjtött legfinomabb ételeket, borokat és pezsgőket szolgálták fel. a politikai, gazdasági és vallási elit jelenlévő tagjainak.
+2017 október 16-án Selena Marie Gomezt Waikiki-i hercegnőnek koronázták. Sel kiskorától arról álmodozott, hogy egy napon hercegnő lesz és most élete nagy álma vált valóra. Selenát kétszer is bálkirálynőnek választották a Hercegnő védelmi program című filmekben, de most igazi koronát és ékszereket kapott. A jeles eseményre természetesen a családja, a volt munkatársai és a barátai is elkísérték. Megjelent Jennifer Stone, Vanessa Hudgens, Katie Cassidy, Leighton Meester és Demi Lovato is. "Tudom, hogy a Disneys múltam óta rengeteg dolog áll már mögöttem - nyilatkozta a szenátornő -, de mindig szívesen gondolok vissza a Waverly helyen eltöltött időre, és mivel úgy gondolom, hogy egy kis meséhez sosem lehetünk túl öregek, ezért örömmel jelentem be, hogy az egyetemig hátralevő fél évben szerepelek a Varázslók visszatérnek első évadjában." Az ünnepségre több nagy-múltú uralkodó család tagjai is hivatalosak voltak, jelen volt az angol és spanyol királyi család, öt bíboros, a francia miniszterelnök és a dalai láma is, aki szintén gratulált Selnek. A koronázást hatalmas színpompás tűzijáték és egy fogadás követte, ahol a világ minden tájáról összegyűjtött legfinomabb ételeket, borokat és pezsgőket szolgálták fel. a politikai, gazdasági és vallási elit jelenlévő tagjainak.
 
 Diplomáciai küldetés Moszkvában
 
@@ -473,7 +473,7 @@ Raimondo és Selena ötnapos látogatást tettek Oroszországba, ahol Vlagyimir 
 Raimondo aláírja a Transzatlanti Szabadkereskedelmi megállapodást
 -------------------------------
 
-2017\. november 17-én történelmi pillanatra került sor Waikiki fővárosában, ahol Raimondo Chease ünnepélyes keretek között aláírta a Transzatlanti Szabadkereskedelmi Megállapodást (TAFTA), amely az Amerikai Unió, az Európai Unió és az Afrikai Unió részvételével megalakuló kereskedelmi övezet alapkövét képezi. Az új társulás a Föld eddigi legnagyobb kereskedelmi blokkját hozza létre, összesen 59 országot magába foglalva. A megállapodás célja, hogy szinte valamennyi termékre csökkentsék a vámokat, közös minőségi, környezetvédelmi és fogyasztóvédelmi előírásokat vezessenek be, megkönnyítve ezzel a határokon átnyúló kereskedelmet és beruházásokat. A közgazdasági elemzések szerint a szabadkereskedelmi övezet a tagországok exportját akár 15%-kal is növelheti az elkövetkező években. Waikiki kormányzata a nemzeti népszavazás eredményére alapozta döntését, melyen a választók 81%-a támogatta a nemzetközi vámmentességről szóló megállapodást, így Raimondo az ország egyértelmű felhatalmazásával ülhetett tárgyalóasztalhoz.
+2017 november 17-én történelmi pillanatra került sor Waikiki fővárosában, ahol Raimondo Chease ünnepélyes keretek között aláírta a Transzatlanti Szabadkereskedelmi Megállapodást (TAFTA), amely az Amerikai Unió, az Európai Unió és az Afrikai Unió részvételével megalakuló kereskedelmi övezet alapkövét képezi. Az új társulás a Föld eddigi legnagyobb kereskedelmi blokkját hozza létre, összesen 59 országot magába foglalva. A megállapodás célja, hogy szinte valamennyi termékre csökkentsék a vámokat, közös minőségi, környezetvédelmi és fogyasztóvédelmi előírásokat vezessenek be, megkönnyítve ezzel a határokon átnyúló kereskedelmet és beruházásokat. A közgazdasági elemzések szerint a szabadkereskedelmi övezet a tagországok exportját akár 15%-kal is növelheti az elkövetkező években. Waikiki kormányzata a nemzeti népszavazás eredményére alapozta döntését, melyen a választók 81%-a támogatta a nemzetközi vámmentességről szóló megállapodást, így Raimondo az ország egyértelmű felhatalmazásával ülhetett tárgyalóasztalhoz.
 
 Raimondo és Selena a világűrben
 -------------------------------
@@ -623,7 +623,7 @@ Raimondo és Rachel Zane Florida kormányzójával, Ron DeSantissal találkozott
 Exkluzív utazás a Maldív-szigetekre
 -----------------------------------
 
-2023\. április elején Raimondo Chease, Waikiki diktátora, és élettársa, Selena Gomez szenátor egy exkluzív luxusutazásra indultak a Maldív-szigetekre, amelyet nemcsak pihenésre, de diszkrét diplomáciai egyeztetésekre is felhasználtak. A pár a híres Velaa Private Island-en szállt meg, ahol egy egész szigetet béreltek ki, saját személyzettel, tengeralattjáróval, jachttal és helikopter-leszállópályával. A sziget teljes személyzete Waikiki elit protokollképzésén átesett munkatársakból állt, hogy minden szolgáltatás megfeleljen a világ legmagasabb diplomáciai és biztonsági követelményeinek. A programok között szerepelt a búvárkodás a korallzátonyok között, ahol Raimondo és Selena tengeri teknősökkel és delfinekkel úsztak együtt, a naplementés jachtvacsora a Laccadive-tenger közepén, Michelin csillagos séfekkel Waikikiről és Párizsból, valamint privát wellness-kezelések egy lebegő spa-villában selyemmasszázzsal.
+2023 április elején Raimondo Chease, Waikiki diktátora, és élettársa, Selena Gomez szenátor egy exkluzív luxusutazásra indultak a Maldív-szigetekre, amelyet nemcsak pihenésre, de diszkrét diplomáciai egyeztetésekre is felhasználtak. A pár a híres Velaa Private Island-en szállt meg, ahol egy egész szigetet béreltek ki, saját személyzettel, tengeralattjáróval, jachttal és helikopter-leszállópályával. A sziget teljes személyzete Waikiki elit protokollképzésén átesett munkatársakból állt, hogy minden szolgáltatás megfeleljen a világ legmagasabb diplomáciai és biztonsági követelményeinek. A programok között szerepelt a búvárkodás a korallzátonyok között, ahol Raimondo és Selena tengeri teknősökkel és delfinekkel úsztak együtt, a naplementés jachtvacsora a Laccadive-tenger közepén, Michelin csillagos séfekkel Waikikiről és Párizsból, valamint privát wellness-kezelések egy lebegő spa-villában selyemmasszázzsal.
 
 III. Károly koronázása
 ----------------------
