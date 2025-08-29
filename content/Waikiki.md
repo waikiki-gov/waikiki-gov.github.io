@@ -78,20 +78,20 @@ Lakosság megoszlása tartományonként (2018)
 
 Jövedelem megoszlása tartományonként (2021)
 
-|                                   | **Összesen**    | **Waikiki**    | **Brazília**    | **Amazónia**    |
-| --------------------------------- | --------------- | -------------- | --------------- | --------------- |
-| **Népesség (fő)**                 | 212 000 000     | 13 500 000     | 106 200 000     | 92 300 000      |
-| **Állampolgárok (%)**             | 61%             | 69%            | 58%             | 65%             |
-| **Állandó lakosok (%)**           | 34%             | 17%            | 40%             | 30%             |
-| **Ideiglenes munkavállalók (%)**  | 4%              | 14%            | 3%              | 5%              |
-| **Állampolgárok (fő)**            | 130 300 000     | 9 300 000      | 61 200 000      | 59 800 000      |
-| **Állandó lakosok (fő)**          | 72 300 000      | 2 300 000      | 42 100 000      | 27 900 000      |
-| **Ideiglenes munkavállalók (fő)** | 9 400 000       | 1 900 000      | 2 900 000       | 4 600 000       |
-| **Terület (km^2^)**               | 8 840 000       | 293 000        | 4 242 000       | 4 305 000       |
-| **Népsűrűség**                    | 24              | 46             | 25              | 21              |
-| **Teljes GDP (USD)**              | 39 818 milliárd | 2 963 milliárd | 18 974 milliárd | 17 880 milliárd |
-| **GDP %**                         | 100,0%          | 7,4%           | 47,7%           | 44,9%           |
-| **Egy főre jutó GDP**             | 187 821 USD     | 219 489 USD    | 178 667 USD     | 193 722 USD     |
+|                               | Összesen        | Waikiki        | Brazília        | Amazónia        |
+| ----------------------------- | --------------- | -------------- | --------------- | --------------- |
+| Népesség (fő)                 | 212 000 000     | 13 500 000     | 106 200 000     | 92 300 000      |
+| Állampolgárok (%)             | 61%             | 69%            | 58%             | 65%             |
+| Állandó lakosok (%)           | 34%             | 17%            | 40%             | 30%             |
+| Ideiglenes munkavállalók (%)  | 4%              | 14%            | 3%              | 5%              |
+| Állampolgárok (fő)            | 130 300 000     | 9 300 000      | 61 200 000      | 59 800 000      |
+| Állandó lakosok (fő)          | 72 300 000      | 2 300 000      | 42 100 000      | 27 900 000      |
+| Ideiglenes munkavállalók (fő) | 9 400 000       | 1 900 000      | 2 900 000       | 4 600 000       |
+| Terület (km^2^)               | 8 840 000       | 293 000        | 4 242 000       | 4 305 000       |
+| Népsűrűség                    | 24              | 46             | 25              | 21              |
+| Teljes GDP (USD)              | 39 818 milliárd | 2 963 milliárd | 18 974 milliárd | 17 880 milliárd |
+| GDP %                         | 100,0%          | 7,4%           | 47,7%           | 44,9%           |
+| Egy főre jutó GDP             | 187 821 USD     | 219 489 USD    | 178 667 USD     | 193 722 USD     |
 
 # Államszervezet
 
@@ -99,9 +99,9 @@ Waikiki államformája demokratikus diktatúra. A kormányzat ötvözi a hagyom�
 
 ## Hatalmi ágak
 
-- **Törvényhozás**: Parlament (Kongresszus és Szenátus)
-- **Végrehajtás**: Kormány (Elnök és 20 miniszter)
-- **Igazságszolgáltatás**: Bíróságok (Legfelsőbb bíróság + 3 szint)
+- Törvényhozás: Parlament (Kongresszus és Szenátus)
+- Végrehajtás: Kormány (Elnök és 20 miniszter)
+- Igazságszolgáltatás: Bíróságok (Legfelsőbb bíróság + 3 szint)
 
 ## Diktátor
 
@@ -113,12 +113,12 @@ Az állampolgárok által 5 évente választott kongresszus az ország legfőbb 
 
 ### A kongresszus összetétele (2021)
 
-- **Waikiki Világuralmi Párt**: 35%
-- **Waikiki Demokratikus Párt**: 27%
-- **Milliomosok pártja**: 17%
-- **Fenntartható Fejlődés Párt**: 8%
-- **Kutatás és Fejlesztés Párt**: 6%
-- **Egyéb Pártok**: 7%
+- Waikiki Világuralmi Párt: 35%
+- Waikiki Demokratikus Párt: 27%
+- Milliomosok pártja: 17%
+- Fenntartható Fejlődés Párt: 8%
+- Kutatás és Fejlesztés Párt: 6%
+- Egyéb Pártok: 7%
 
 ## Szenátus
 
@@ -127,21 +127,21 @@ A diktátor által kinevezett szenátus élén a kancellár áll, aki egyben a d
 ### Szenátusi vezetők
 
 #### Kancellár
-- **Chease Young**
+- Chease Young
 
 #### Kormányzó
-- **Smith Edward**
+- Smith Edward
 
 #### Konzulok
-- **Jessica Walker**
-- **Selena Gomez**
+- Jessica Walker
+- Selena Gomez
 
 ### Tartományi vezetés
 
 #### Helytartók
-- **Kate Beckinsale** (Waikiki tartomány)
-- **Colin Farrell** (Florida tartomány)
-- **Vincent Kartheiser** (Brazília tartomány)
+- Kate Beckinsale (Waikiki tartomány)
+- Colin Farrell (Florida tartomány)
+- Vincent Kartheiser (Brazília tartomány)
 
 ### Szenátorok
 - Angelina Chease
@@ -159,7 +159,8 @@ A diktátor által kinevezett szenátus élén a kancellár áll, aki egyben a d
 
 A végrehajtó hatalmat a kongresszus által megválasztott kormány gyakorolja. A 20 miniszterből álló kormányt az elnök vezeti, akit 5 évente a kongresszus győztes pártja nevez ki. A legfőbb feladata, hogy biztosítsa törvények végrehajtását és védje az alkotmányt. Waikiki kormánya legtöbbször koalíció révén jön létre, így több pártból is kerülnek ki miniszterek, akik saját szakterületükön belül rendeleteket alkothatnak.
 
-### Elnök: George Bush
+### Elnök: 
+- George Bush
 
 ### Miniszterek
 
@@ -193,76 +194,76 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 ### Állami vezetők
 
 #### Diktátor
-- **Chease Raimondo** (2017-)
-- **Chease Young** (2000-2017)
+- Chease Raimondo (2017-)
+- Chease Young (2000-2017)
 
 #### Kancellár
-- **Chease Young** (2017)
+- Chease Young (2017)
 
 #### Konzulok
-- **Jessica Walker** (2017-)
-- **Selena Gomez** (2017-)
+- Jessica Walker (2017-)
+- Selena Gomez (2017-)
 
 ### Intézményi vezetők
 
 #### Nemzeti Bank elnökei
-- **Michael J. Cavanagh** (2016-)
-- **Jessica Walker** (2008-2015)
-- **Robert Menéndez** (2000-2007)
+- Michael J. Cavanagh (2016-)
+- Jessica Walker (2008-2015)
+- Robert Menéndez (2000-2007)
 
 #### Médiatanács elnökei
-- **Rupert Murdoch** (2008-2023)
-- **Marc Benioff** (2000-2007)
+- Rupert Murdoch (2008-2023)
+- Marc Benioff (2000-2007)
 
 #### Főbírók
-- **Sebastian Stark** (2008-)
-- **Marilyn R. Reid** (2000-2007)
+- Sebastian Stark (2008-)
+- Marilyn R. Reid (2000-2007)
 
 #### Főparancsnokok
-- **Logan Davis** (2008-)
-- **Winnefeld Daniels** (2000-2007)
+- Logan Davis (2008-)
+- Winnefeld Daniels (2000-2007)
 
 #### Titkosszolgálat igazgatók
-- **Elena Martinez** (2008-2023)
-- **Alejandro Ramirez** (2000-2007)
+- Elena Martinez (2008-2023)
+- Alejandro Ramirez (2000-2007)
 
 ### Kabinet vezetők
 
 #### Chease Raimondo kabinetfőnökei
-- **Chloe Bennet** (2020-)
+- Chloe Bennet (2020-)
 
 #### Chease Young kabinetfőnökei
-- **Rachel Zane** (2016)
-- *Betöltetlen* (2005-2016)
-- **Aaron Shore** (2000-2004)
+- Rachel Zane (2016)
+- Betöltetlen (2005-2016)
+- Aaron Shore (2000-2004)
 
 ## Korábbi kormánytagok (2000-2024)
 
-|                                 | **2000-2004**       | **2005-2009**           | **2010-2014**            | **2015-2019**           | **2020-2024**         |
-| ------------------------------- | ------------------- | ----------------------- | ------------------------ | ----------------------- | --------------------- |
-| **Elnök**                       | **John Boehmer**    | **Rick Santorum**       | **Aaron Eckhart**        | **George Bush**         | **George Bush**       |
-| **Kereskedelmi miniszter**      | **Ayden Roberts**   | **Ayden Roberts**       | **Ayden Roberts**        | **Ayden Roberts**       | **Ayden Roberts**     |
-| **Belügyminiszter**             | **Rick Santorum**   | **John Boehmer**        | **John Boehmer**         | **John Boehmer**        | **John Boehmer**      |
-| **Külügyminiszter**             |                     | **Donald Evans**        | **Jason Furman**         | **Aaron Eckhart**       | **Aaron Eckhart**     |
-| **Pénzügyminiszter**            |                     | **Michael J. Cavanagh** | **Michael J. Cavanagh**  | **Scott Walker**        | **Scott Walker**      |
-| **Igazságügyminiszter**         | **Sebastian Stark** | **Alejandro Ramirez**   | **Marilyn R. Reid**      | **Paul Ryan**           | **Paul Ryan**         |
-| **Egészségügyminiszter**        | **Rogelio Olmeda**  | **Rogelio Olmeda**      | **Thommy Thompson**      | **Jonathan Gruber**     | **Jonathan Gruber**   |
-| **Kulturális miniszter**        |                     | **Rupert Murdoch**      | **Fernando Henrique C.** | **George LeMieux**      | **George LeMieux**    |
-| **Energetikai miniszter**       |                     |                         | **Spencer Abraham**      | **Carte Goodwin**       | **Carte Goodwin**     |
-| **Oktatási miniszter**          |                     | **David Vitter**        | **Rod Paige**            | **David Vitter**        | **David Vitter**      |
-| **Mezőgazdasági miniszter**     | **Gabriel Prieto**  | **Gabriel Prieto**      | **Ed Schafer**           | **Michel Temer**        | **Rick Santorum**     |
-| **Turisztikai miniszter**       | **Steve Preston**   | **Nicole Minetti**      | **Steve Preston**        | **Nicole Minetti**      | **Nicole Minetti**    |
-| **Hadügyminiszter**             |                     | **Morgan Clark**        | **Dick Cheney**          | **Morgan Clark**        | **Morgan Clark**      |
-| **Védelmi miniszter**           |                     | **Logan Davis**         | **Winnefeld Daniels**    | **Winnefeld Daniels**   | **Winnefeld Daniels** |
-| **Iparfejlesztési miniszter**   |                     | **Salvador Pardo Cruz** | **Salvador Pardo Cruz**  | **Salvador Pardo Cruz** | **Thomas Boone**      |
-| **Tudományügyi miniszter**      |                     | **Thommy Thompson**     | **Timothy John**         | **Timothy John**        | **Timothy John**      |
-| **Infrastrukturális miniszter** |                     |                         | **Rick Santorum**        | **Mary Bono Mack**      | **Mary Bono Mack**    |
-| **Környezetvédelmi miniszter**  |                     |                         | **Mike Leavitt**         | **Mitt Romney**         | **Darius Tanz**       |
-| **Munkaügyi miniszter**         |                     |                         |                          | **Steve Preston**       | **Matt Daemon**       |
-| **Erőforrásügyi miniszter**     |                     |                         |                          | **Ruby Dhalla**         | **Ruby Dhalla**       |
-| **Fejlesztési miniszter**       |                     |                         |                          | **Rick Santorum**       | **Ricardo Gomez**     |
-| **Bevándorlásügyi miniszter**   |                     |                         |                          |                         |                       |
-| **Családtámogatási miniszter**  |                     |                         |                          |                         |                       |
+|                             | 2000-2004       | 2005-2009           | 2010-2014            | 2015-2019           | 2020-2024         |
+| --------------------------- | --------------- | ------------------- | -------------------- | ------------------- | ----------------- |
+| Elnök                       | John Boehmer    | Rick Santorum       | Aaron Eckhart        | George Bush         | George Bush       |
+| Kereskedelmi miniszter      | Ayden Roberts   | Ayden Roberts       | Ayden Roberts        | Ayden Roberts       | Ayden Roberts     |
+| Belügyminiszter             | Rick Santorum   | John Boehmer        | John Boehmer         | John Boehmer        | John Boehmer      |
+| Külügyminiszter             |                 | Donald Evans        | Jason Furman         | Aaron Eckhart       | Aaron Eckhart     |
+| Pénzügyminiszter            |                 | Michael J. Cavanagh | Michael J. Cavanagh  | Scott Walker        | Scott Walker      |
+| Igazságügyminiszter         | Sebastian Stark | Alejandro Ramirez   | Marilyn R. Reid      | Paul Ryan           | Paul Ryan         |
+| Egészségügyminiszter        | Rogelio Olmeda  | Rogelio Olmeda      | Thommy Thompson      | Jonathan Gruber     | Jonathan Gruber   |
+| Kulturális miniszter        |                 | Rupert Murdoch      | Fernando Henrique C. | George LeMieux      | George LeMieux    |
+| Energetikai miniszter       |                 |                     | Spencer Abraham      | Carte Goodwin       | Carte Goodwin     |
+| Oktatási miniszter          |                 | David Vitter        | Rod Paige            | David Vitter        | David Vitter      |
+| Mezőgazdasági miniszter     | Gabriel Prieto  | Gabriel Prieto      | Ed Schafer           | Michel Temer        | Rick Santorum     |
+| Turisztikai miniszter       | Steve Preston   | Nicole Minetti      | Steve Preston        | Nicole Minetti      | Nicole Minetti    |
+| Hadügyminiszter             |                 | Morgan Clark        | Dick Cheney          | Morgan Clark        | Morgan Clark      |
+| Védelmi miniszter           |                 | Logan Davis         | Winnefeld Daniels    | Winnefeld Daniels   | Winnefeld Daniels |
+| Iparfejlesztési miniszter   |                 | Salvador Pardo Cruz | Salvador Pardo Cruz  | Salvador Pardo Cruz | Thomas Boone      |
+| Tudományügyi miniszter      |                 | Thommy Thompson     | Timothy John         | Timothy John        | Timothy John      |
+| Infrastrukturális miniszter |                 |                     | Rick Santorum        | Mary Bono Mack      | Mary Bono Mack    |
+| Környezetvédelmi miniszter  |                 |                     | Mike Leavitt         | Mitt Romney         | Darius Tanz       |
+| Munkaügyi miniszter         |                 |                     |                      | Steve Preston       | Matt Daemon       |
+| Erőforrásügyi miniszter     |                 |                     |                      | Ruby Dhalla         | Ruby Dhalla       |
+| Fejlesztési miniszter       |                 |                     |                      | Rick Santorum       | Ricardo Gomez     |
+| Bevándorlásügyi miniszter   |                 |                     |                      |                     |                   |
+| Családtámogatási miniszter  |                 |                     |                      |                     |                   |
 
 ## Gazdaság
 
@@ -364,7 +365,7 @@ A hazai termékek támogatására a kormány protekcionista importvámokat vezet
 Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásra épülve biztosítja az árstabilitást és a folyamatos gazdasági fejlődést.
 
 #### Waikiki Nemzeti Bank (WNB)
-- **Fő feladatok**:
+- Fő feladatok:
   - Pénzteremtés (kizárólagos jog)
   - 0%-os infláció fenntartása
   - Alapkamatok meghatározása
@@ -372,13 +373,13 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
   - Bankközi tranzakciók ellenőrzése
   - Betétgyűjtés és hitelezés
 
-- **Működési sajátosságok**:
+- Működési sajátosságok:
   - Univerzális betétgyűjtés (minden ügyféltől)
   - 5 éves nagyvállalati hitelek (min. 1 milliárd USD)
   - 12 tagú Monetáris Tanács (diktátor által kinevezve)
 
 #### Bankrendszer szabályozása
-- **2009-es banktörvény főbb elemei**:
+- 2009-es banktörvény főbb elemei:
   - 50% saját tőke követelmény a hiteleknél
   - Szigorú hitelezési szabályok
   - Kizárólag három hiteltípus engedélyezett:
@@ -387,7 +388,7 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
     3. Fix kamatozású tőketörlesztés
   - Kötvénykibocsátás engedélyezett (magasabb kamattal)
 
-- **Pénzforgalom**:
+- Pénzforgalom:
   - 2016 óta készpénzmentes gazdaság
   - Kizárólag elektronikus fizetési módok
 
@@ -412,41 +413,41 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
 ### Adórendszer
 
 #### Vállalati adó
-- **Adómérték**: 20% a teljes bevétel után
-- **Fizetési gyakoriság**: havonta
-- **Különlegesség**: export esetén is fizetendő
-- **Éves bevétel**: 1 800 milliárd WUD
+- Adómérték: 20% a teljes bevétel után
+- Fizetési gyakoriság: havonta
+- Különlegesség: export esetén is fizetendő
+- Éves bevétel: 1 800 milliárd WUD
 
 #### Környezetvédelmi adó
-- **Adómérték**: 5-25% a környezetre káros termékek értéke után
-- **Fizetési mód**: azonnal fizetendő (kivéve export)
-- **Éves bevétel**: 300 milliárd WUD
+- Adómérték: 5-25% a környezetre káros termékek értéke után
+- Fizetési mód: azonnal fizetendő (kivéve export)
+- Éves bevétel: 300 milliárd WUD
 
 ### Vámrendszer
 
 #### TAFTA-tagállamok közötti kereskedelem
-- **Vámmérték**: 5% az importált termékek értékéből
-- **Hatály**: 
+- Vámmérték: 5% az importált termékek értékéből
+- Hatály: 
   - Magánszemélyekre nem vonatkozik
   - Waikiki-i tulajdonú cégek mentességet élveznek
-- **Kivételek**: élelmiszerek és nyersanyagok
-- **Éves bevétel**: 35 milliárd WUD
+- Kivételek: élelmiszerek és nyersanyagok
+- Éves bevétel: 35 milliárd WUD
 
 #### STG-tagállamok közötti kereskedelem
-- **Vámmérték**: 10% az importált termékek értékéből
-- **Hatály**:
+- Vámmérték: 10% az importált termékek értékéből
+- Hatály:
   - Magánszemélyekre csak 100 000 WUD felett
   - Waikiki-i tulajdonú és székhelyű cégek mentesek
-- **Kivételek**: élelmiszerek és nyersanyagok
-- **Éves bevétel**: 30 milliárd WUD
+- Kivételek: élelmiszerek és nyersanyagok
+- Éves bevétel: 30 milliárd WUD
 
 #### Egyéb országokkal folytatott kereskedelem
-- **Vámmérték**: 15% az importált termékek értékéből
-- **Hatály**:
+- Vámmérték: 15% az importált termékek értékéből
+- Hatály:
   - Magánszemélyekre csak 1 000 WUD felett
   - Waikiki-i tulajdonú és székhelyű cégek mentesek
-- **Kivételek**: csak nyersanyagok
-- **Éves bevétel**: 80 milliárd WUD
+- Kivételek: csak nyersanyagok
+- Éves bevétel: 80 milliárd WUD
 
 ### Gazdaságpolitika
 
@@ -461,9 +462,9 @@ Az ország célja a közel teljes foglalkoztatottság elérése, ezért minden �
 - Nyugdíjkifizetések az éves költségvetés részét képezik
 
 #### Nyugdíj jellemzők
-- **Nyugdíjkorhatár**: 65 év
-- **Havi nyugdíj**: 200 WUD
-- **Járulékok**: Nincs kötelező nyugdíj és társadalombiztosítási hozzájárulás
+- Nyugdíjkorhatár: 65 év
+- Havi nyugdíj: 200 WUD
+- Járulékok: Nincs kötelező nyugdíj és társadalombiztosítási hozzájárulás
 
 #### Kiegészítő lehetőségek
 - Magán befektetések
@@ -476,30 +477,30 @@ Az ország célja a közel teljes foglalkoztatottság elérése, ezért minden �
 Waikiki kormánya kiemelten kezeli az oktatást, ezért minden lakos számára ingyenes oktatási lehetőségeket biztosít kortól és állampolgárságtól függetlenül. Az állami oktatási rendszert magániskolák és egyetemek egészítik ki, amelyek között egyaránt találhatók térítésköteles és ösztöndíjas intézmények.
 
 #### Oktatási szintek
-1. **Általános iskola**
+1. Általános iskola
    - Időtartam: 4 év
    - Egységes alapfokú ismeretek
 
-2. **Gimnázium**
+2. Gimnázium
    - Időtartam: 4 év
    - Tagozatos rendszer
    - 3 szintű érettségi vizsga
 
-3. **Egyetem**
+3. Egyetem
    - Alapképzés: 4 év
    - Mesterképzés: 2 év
 
 ### Egészségügyi rendszer
 
 #### Ingyenes állami egészségügyi ellátás (2016-)
-- **Kedvezményezettek**:
+- Kedvezményezettek:
   - Minden állampolgár
   - 18 év alatti lakosok
-- **Ingyenes szolgáltatások**:
+- Ingyenes szolgáltatások:
   - Orvosi vizsgálatok
   - Beavatkozások
   - Kötelező védőoltások
-- **Térítésköteles szolgáltatások**:
+- Térítésköteles szolgáltatások:
   - Kórházi napi ellátás
   - Gyógyszerek (állami támogatással)
   - Segédeszközök
@@ -511,14 +512,14 @@ Waikiki kormánya kiemelten kezeli az oktatást, ezért minden lakos számára i
 ### Családtámogatási rendszer
 
 #### Gyermekgondozási segély (GYES)
-- **Időtartam**: 3 év (2013 óta)
-- **Összeg**: 200 WUD/hó
-- **Megjegyzés**: Megegyezik a nyugdíj összegével
+- Időtartam: 3 év (2013 óta)
+- Összeg: 200 WUD/hó
+- Megjegyzés: Megegyezik a nyugdíj összegével
 
 ### Állampolgárság
 
 #### Automatikus állampolgárság feltételei
-- Mindkét szülő állampolgár, **vagy**
+- Mindkét szülő állampolgár, vagy
 - Legalább egyik szülő állampolgár és Waikiki területén születik
 
 #### Honosítási folyamat
@@ -529,23 +530,23 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 
 #### Jogok és lehetőségek státusz szerint
 
-| Jogok és lehetőségek          | Ideiglenes munkavállaló | Állandó lakos | Teljes jogú állampolgár |
-| ----------------------------- | ----------------------- | ------------- | ----------------------- |
-| **Alapjogok**                 |
-| Munkavállalói engedély        | ✓                       | ✓             | ✓                       |
-| Tulajdonrész privát cégekben  | ✓                       | ✓             | ✓                       |
-| Egyéni vállalkozás indítása   | ✓                       | ✓             | ✓                       |
-| **Bővített jogok**            |
-| Ingyenes oktatás              | -                       | ✓             | ✓                       |
-| Garantált állami munkahely    | -                       | ✓             | ✓                       |
-| Fegyverviselési jog           | -                       | ✓             | ✓                       |
-| **Teljes állampolgári jogok** |
-| Ingyenes egészségügy          | -                       | -             | ✓                       |
-| Szavazati jog                 | -                       | -             | ✓                       |
-| Nyugdíj és GYES               | -                       | -             | ✓                       |
-| Ingyenes tömegközlekedés      | -                       | -             | ✓                       |
-| Ingyenes internet             | -                       | -             | ✓                       |
-| **Időtartam**                 | 6 hónap                 | Korlátlan     | Korlátlan               |
+| Jogok és lehetőségek         | Ideiglenes munkavállaló | Állandó lakos | Teljes jogú állampolgár |
+| ---------------------------- | ----------------------- | ------------- | ----------------------- |
+| Alapjogok                    |
+| Munkavállalói engedély       | ✓                       | ✓             | ✓                       |
+| Tulajdonrész privát cégekben | ✓                       | ✓             | ✓                       |
+| Egyéni vállalkozás indítása  | ✓                       | ✓             | ✓                       |
+| Bővített jogok               |
+| Ingyenes oktatás             | -                       | ✓             | ✓                       |
+| Garantált állami munkahely   | -                       | ✓             | ✓                       |
+| Fegyverviselési jog          | -                       | ✓             | ✓                       |
+| Teljes állampolgári jogok    |
+| Ingyenes egészségügy         | -                       | -             | ✓                       |
+| Szavazati jog                | -                       | -             | ✓                       |
+| Nyugdíj és GYES              | -                       | -             | ✓                       |
+| Ingyenes tömegközlekedés     | -                       | -             | ✓                       |
+| Ingyenes internet            | -                       | -             | ✓                       |
+| Időtartam                    | 6 hónap                 | Korlátlan     | Korlátlan               |
 
 ### Külpolitika és nemzetközi kapcsolatok
 
@@ -558,12 +559,12 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 #### Kereskedelmi kapcsolatok
 
 ##### Főbb kereskedelmi partnerek
-- **Észak-Amerika**: USA
-- **Európa**: EU, Egyesült Királyság
-- **Ázsia**: Kína, India, Dél-Korea
-- **Közel-Kelet**: Szaúdi-Arábia
-- **Afrika**: Egyesült Afrikai Nemzetek
-- **Eurázsia**: Oroszország
+- Észak-Amerika: USA
+- Európa: EU, Egyesült Királyság
+- Ázsia: Kína, India, Dél-Korea
+- Közel-Kelet: Szaúdi-Arábia
+- Afrika: Egyesült Afrikai Nemzetek
+- Eurázsia: Oroszország
 
 ### Védelmi rendszer
 #### Katonai szervezet
@@ -572,7 +573,7 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 - Legmodernebb technológiai felszereltség
 
 #### Haderő létszáma
-- **Aktív állomány**: 440 000 fő
+- Aktív állomány: 440 000 fő
 
 #### Hagyományos haderőnemek
 
@@ -604,9 +605,9 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 ### Waikiki-i tulajdonú nemzetközi vállalatok
 
 #### Technológia és infokommunikáció
-- **Számítástechnika**: Apple, Intel, Nvidia
-- **Szoftver és internet**: Alphabet, Adobe, Electronic-Arts
-- **Telekommunikáció**: Samsung, AT&T
+- Számítástechnika: Apple, Intel, Nvidia
+- Szoftver és internet: Alphabet, Adobe, Electronic-Arts
+- Telekommunikáció: Samsung, AT&T
 
 #### Szolgáltatások
 ##### Turizmus és vendéglátás
