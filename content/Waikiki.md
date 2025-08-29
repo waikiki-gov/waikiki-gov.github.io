@@ -521,15 +521,12 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 
 | Jogok és lehetőségek         | Ideiglenes munkavállaló | Állandó lakos | Teljes jogú állampolgár |
 | ---------------------------- | ----------------------- | ------------- | ----------------------- |
-| Alapjogok                    |
 | Munkavállalói engedély       | ✓                       | ✓             | ✓                       |
 | Tulajdonrész privát cégekben | ✓                       | ✓             | ✓                       |
 | Egyéni vállalkozás indítása  | ✓                       | ✓             | ✓                       |
-| Bővített jogok               |
 | Ingyenes oktatás             | -                       | ✓             | ✓                       |
 | Garantált állami munkahely   | -                       | ✓             | ✓                       |
 | Fegyverviselési jog          | -                       | ✓             | ✓                       |
-| Teljes állampolgári jogok    |
 | Ingyenes egészségügy         | -                       | -             | ✓                       |
 | Szavazati jog                | -                       | -             | ✓                       |
 | Nyugdíj és GYES              | -                       | -             | ✓                       |
