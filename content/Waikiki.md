@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km². Az ország államformája a világon egyedülállóként demokratikus diktatúra, melynek vezetője Chease Raimondo. Az országot Raimondo apja, Chease Young alapította 1999-ben, majd mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília az ott rendezett népszavazás hatására és az államadósságának elengedéséért cserébe két új tartomány formájában csatlakozott Waikikihez, amivel az elnyerte mai területét. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb, és ötödik legnagyobb területű országa. Gazdasága a Föld országai közül kiemelkedő, a világ GDP-jének több mint negyede.
+Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km². Az ország államformája a világon egyedülálló demokratikus diktatúra, melynek vezetője Chease Raimondo. Az országot Raimondo apja, Chease Young alapította 1999-ben, és mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília népszavazás eredményeként és államadósságának elengedéséért cserébe két új tartománnyal csatlakozott Waikikihez, így alakult ki mai területe. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb és ötödik legnagyobb területű országa. Gazdasága a Föld országai között kiemelkedő, a világ GDP-jének több mint negyedét adja.
 
 Tartalomjegyzék
 
@@ -267,7 +267,7 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 ## Gazdaság
 
 ### Gazdasági rendszer
-Waikiki gazdaságát állami monopol-kapitalizmus jellemzi, melyben az óriásvállalatok többsége legalább részben az állam vagy a királyi család tulajdonában van. 
+Waikiki gazdaságát állami monopolkapitalizmus jellemzi, amelyben az óriásvállalatok többsége részben vagy egészben az állam, illetve a királyi család tulajdonában van. 
 
 ### Külkereskedelem
 Waikiki által exportált termékek értéke jóval meghaladja az importált termékekét, így az ország gazdaságát jelentős külkereskedelmi többlet jellemzi. Waikiki legfontosabb kereskedelmi partnerei az Egyesült Államok, az EAN és az Európai Unió, de Oroszországgal is erős gazdasági együttműködést folytat. 
@@ -451,8 +451,7 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
 ### Gazdaságpolitika
 
 #### Foglalkoztatás
-Az ország célja a közel teljes foglalkoztatottság elérése, ehhez minden állampolgár számára az állam munkahelyet biztosít. Az
-állampolgárok számára 2017-től ingyenes az egészségügy, 2018-tól pedig a tömegközlekedés is.
+Az ország célja a közel teljes foglalkoztatottság elérése, ezért minden állampolgár számára az állam munkahelyet biztosít. Az állampolgárok 2017 óta ingyenes egészségügyi ellátásban részesülnek, 2018 óta pedig térítésmentesen vehetik igénybe a tömegközlekedést is.
 
 ### Nyugdíjrendszer
 
@@ -474,7 +473,7 @@ Az ország célja a közel teljes foglalkoztatottság elérése, ehhez minden á
 ### Oktatási rendszer
 
 #### Alapelvek
-Waikiki kormánya különösen nagy hangsúlyt fektet az oktatásra, ezért minden lakos számára ingyenes oktatási lehetőségeket biztosít, kortól és állampolgárságtól függetlenül. Az állami oktatási rendszert magán iskolák és egyetemek egészítik ki, melyek közt fizetősek és ösztöndíjasak egyaránt megtalálhatók.
+Waikiki kormánya kiemelten kezeli az oktatást, ezért minden lakos számára ingyenes oktatási lehetőségeket biztosít kortól és állampolgárságtól függetlenül. Az állami oktatási rendszert magániskolák és egyetemek egészítik ki, amelyek között egyaránt találhatók térítésköteles és ösztöndíjas intézmények.
 
 #### Oktatási szintek
 1. **Általános iskola**
