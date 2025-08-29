@@ -308,7 +308,7 @@ Chease Young innovatív oktatási módszerei között szerepelnek a szenátus ta
 
 #### Családi nemzetközi kapcsolatok
 
-Jessica Walker, Chease felesége önálló karrierje is figyelemre méltó, hiszen 2013 óta az ENSZ főtitkáraként, 2017-től pedig a Világbank igazgatójaként tevékenykedik. Mindemellett jelentős pénzügyi portfóliót kezel, amely magában foglalja olyan meghatározó intézmények tulajdonjogát, mint a Commonwealth Bank, a Lloyds Banking Group, valamint a globális fizetési rendszerek óriásai, a Mastercard és a Visa.
+Jessica Walker, Chease felesége önálló karrierje is figyelemre méltó, hiszen 2013 óta az ENSZ főtitkár-helyetteseként, 2017-től pedig a Világbank igazgatójaként tevékenykedik. Mindemellett jelentős pénzügyi portfóliót kezel, amely magában foglalja olyan meghatározó intézmények tulajdonjogát, mint a Commonwealth Bank, a Lloyds Banking Group, valamint a globális fizetési rendszerek óriásai, a Mastercard és a Visa.
 
 ## A 2018-as Billboard Music Awards
 
