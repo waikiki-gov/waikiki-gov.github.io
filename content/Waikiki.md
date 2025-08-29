@@ -2,8 +2,6 @@
 
 Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km². Az ország államformája a világon egyedülálló demokratikus diktatúra, melynek vezetője Chease Raimondo. Az országot Raimondo apja, Chease Young alapította 1999-ben, és mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília népszavazás eredményeként és államadósságának elengedéséért cserébe két új tartománnyal csatlakozott Waikikihez, így alakult ki mai területe. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb és ötödik legnagyobb területű országa. Gazdasága a Föld országai között kiemelkedő, a világ GDP-jének több mint negyedét adja.
 
-Tartalomjegyzék
-
 # Alapadatok
 
 ## Terület és népesség
@@ -42,7 +40,6 @@ Tartalomjegyzék
 - Keresztény: 15%
 - Egyéb: 3%
 
-
 # Gazdaság
 
 ## Általános jellemzők
@@ -54,11 +51,12 @@ Waikiki a legtöbb országgal ellentétben jelentős állami tartalékkal és be
 - Államháztartási tartalék: a GDP 58%-a
 - Költségvetési egyenleg: kiegyensúlyozott (GDP 0%-a)
 - Munkanélküliségi ráta: 5%
-Tartományok
+
+# Tartományok
 
 Waikiki három tartományból áll. A tartományok élén a diktátor által kinevezett helytartó áll, aki a regionális infrastruktúráért és beruházásokért felel.
 
-Termelés megoszlása tartományonként (2015)
+## Termelés megoszlása tartományonként (2015)
 
 |          | Terület   | Népsűrűség | GDP    | GDP/fő      |
 | -------- | --------- | ---------- | ------ | ----------- |
@@ -67,7 +65,7 @@ Termelés megoszlása tartományonként (2015)
 | Brazília | 4 242 000 | 25         | 47,7%  | 135 632 USD |
 | Amazónia | 4 305 000 | 21         | 44,9%  | 146 072 USD |
 
-Lakosság megoszlása tartományonként (2018)
+## Lakosság megoszlása tartományonként (2018)
 
 |          | Népesség    | Állampolgárok | Állandó lakosok | Ideiglenes munkavállalók |
 | -------- | ----------- | ------------- | --------------- | ------------------------ |
@@ -76,7 +74,7 @@ Lakosság megoszlása tartományonként (2018)
 | Brazília | 105 000 000 | 58%           | 39%             | 3%                       |
 | Amazónia | 92 000 000  | 65%           | 30%             | 5%                       |
 
-Jövedelem megoszlása tartományonként (2021)
+## Jövedelem megoszlása tartományonként (2021)
 
 |                               | Összesen        | Waikiki        | Brazília        | Amazónia        |
 | ----------------------------- | --------------- | -------------- | --------------- | --------------- |
@@ -136,13 +134,6 @@ A diktátor által kinevezett szenátus élén a kancellár áll, aki egyben a d
 - Jessica Walker
 - Selena Gomez
 
-### Tartományi vezetés
-
-#### Helytartók
-- Kate Beckinsale (Waikiki tartomány)
-- Colin Farrell (Florida tartomány)
-- Vincent Kartheiser (Brazília tartomány)
-
 ### Szenátorok
 - Angelina Chease
 - Taylor Lautner
@@ -154,6 +145,13 @@ A diktátor által kinevezett szenátus élén a kancellár áll, aki egyben a d
 - Zendaya Coleman
 - Olivia Holt
 - Zac Efron
+
+### Tartományi vezetés
+
+#### Helytartók
+- Kate Beckinsale (Waikiki tartomány)
+- Colin Farrell (Florida tartomány)
+- Vincent Kartheiser (Brazília tartomány)
 
 ## Kormány
 
@@ -185,7 +183,7 @@ A végrehajtó hatalmat a kongresszus által megválasztott kormány gyakorolja.
 - Erőforrásügyi miniszter: Ruby Dhalla
 - Fejlesztési miniszter: Ricardo Gomez
 
-### Legfelsőbb bíróság
+## Legfelsőbb bíróság
 
 A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál, egy főbíróból és 20 társbíróból áll. Tagjait a szenátus nevezi ki, 5 éves periódusonként. A bíróság tagjai felügyelik a kormány törvényeknek megfelelő működését és az alkotmány betartását.
 
@@ -234,10 +232,10 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 
 #### Chease Young kabinetfőnökei
 - Rachel Zane (2016)
-- Betöltetlen (2005-2016)
-- Aaron Shore (2000-2004)
+- Mickey Haller (2007-2016)
+- Aaron Shore (2002-2007)
 
-## Korábbi kormánytagok (2000-2024)
+### Korábbi kormánytagok
 
 |                             | 2000-2004       | 2005-2009           | 2010-2014            | 2015-2019           | 2020-2024         |
 | --------------------------- | --------------- | ------------------- | -------------------- | ------------------- | ----------------- |
@@ -265,16 +263,15 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 | Bevándorlásügyi miniszter   |                 |                     |                      |                     |                   |
 | Családtámogatási miniszter  |                 |                     |                      |                     |                   |
 
-## Gazdaság
+# Gazdaság
 
-### Gazdasági rendszer
-Waikiki gazdaságát állami monopolkapitalizmus jellemzi, amelyben az óriásvállalatok többsége részben vagy egészben az állam, illetve a királyi család tulajdonában van. 
+## Gazdasági rendszer
+Waikiki gazdaságát állami monopolkapitalizmus jellemzi, amelyben az óriásvállalatok többsége részben vagy egészben az állam, illetve a királyi család tulajdonában van. Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásra épülve biztosítja az árstabilitást és a folyamatos gazdasági fejlődést. A hazai termékek támogatására a kormány protekcionista importvámokat alkalmaz. Az ország célja a közel teljes foglalkoztatottság elérése, ezért minden állampolgár számára az állam munkahelyet biztosít. Az állampolgárok 2017 óta ingyenes egészségügyi ellátásban részesülnek, 2018 óta pedig térítésmentesen vehetik igénybe a tömegközlekedést is.
 
-### Külkereskedelem
-Waikiki által exportált termékek értéke jóval meghaladja az importált termékekét, így az ország gazdaságát jelentős külkereskedelmi többlet jellemzi. Waikiki legfontosabb kereskedelmi partnerei az Egyesült Államok, az EAN és az Európai Unió, de Oroszországgal is erős gazdasági együttműködést folytat. 
+## Külkereskedelem
+Waikiki által exportált termékek értéke jóval meghaladja az importált termékekét, így az ország gazdaságát jelentős külkereskedelmi többlet jellemzi. Waikiki legfontosabb kereskedelmi partnerei az Egyesült Államok, az EAN és az Európai Unió, de Oroszországgal is erős gazdasági együttműködést folytat.
 
-### Gazdaságpolitika
-A hazai termékek támogatására a kormány protekcionista importvámokat vezetett be.
+## Gazdasági ágazatok
 
 ### Ipar
 
@@ -332,22 +329,22 @@ A hazai termékek támogatására a kormány protekcionista importvámokat vezet
 - Biztosítási szolgáltatások
 - Befektetési szolgáltatások
 
-### Nyersanyagok
+## Nyersanyagok
 
-#### Hazai kitermelés
+### Hazai kitermelés
 - Energiahordozók: kőolaj, földgáz, szén
 - Nemesfémek: arany, ezüst
 - Drágakövek: gyémánt, zafír, smaragd, rubin, borostyán
 - Ipari fémek: vasérc, réz, timföld
 - Egyéb: uránium
 
-#### Külkereskedelem
+### Külkereskedelem
 - Export: kőolaj, földgáz, szén, vasérc, réz
 - Import: szilícium, alumínium, fa, arany
 
-### Energiatermelés
+## Energiatermelés
 
-#### Energiaforrások megoszlása
+### Energiaforrások megoszlása
 - Nukleáris energia (40%)
   - Hidrogénerőmű: 20%
   - Atomenergia: 20%
@@ -359,12 +356,9 @@ A hazai termékek támogatására a kormány protekcionista importvámokat vezet
   - Földgáz: 5%
   - Biomassza: 5%
 
-### Pénzügy
+## Pénzügy
 
-#### Gazdaságpolitikai alapelvek
-Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásra épülve biztosítja az árstabilitást és a folyamatos gazdasági fejlődést.
-
-#### Waikiki Nemzeti Bank (WNB)
+### Waikiki Nemzeti Bank (WNB)
 - Fő feladatok:
   - Pénzteremtés (kizárólagos jog)
   - 0%-os infláció fenntartása
@@ -378,7 +372,7 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
   - 5 éves nagyvállalati hitelek (min. 1 milliárd USD)
   - 12 tagú Monetáris Tanács (diktátor által kinevezve)
 
-#### Bankrendszer szabályozása
+### Bankrendszer szabályozása
 - 2009-es banktörvény főbb elemei:
   - 50% saját tőke követelmény a hiteleknél
   - Szigorú hitelezési szabályok
@@ -392,19 +386,19 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
   - 2016 óta készpénzmentes gazdaság
   - Kizárólag elektronikus fizetési módok
 
-#### Monetáris adatok
+### Monetáris adatok
 - Teljes pénzmennyiség: 8 681 milliárd WUD
 - Betéti alapkamat: 0,72%
 - Hitel alapkamat: 3,12%
 
-### Költségvetés
+## Költségvetés
 
-#### Bevételi források
+### Bevételi források
 - Elsődleges: állami vállalatok nyeresége
 - Másodlagos: adóbevételek
 - 2015-ös költségvetés: > 7000 milliárd USD
 
-#### Főbb kiadási területek
+### Főbb kiadási területek
 1. Tudományos kutatások
 2. Egészségügy
 3. Infrastruktúra fejlesztés
@@ -448,11 +442,6 @@ Waikiki gazdaságpolitikája erős állami szerepvállalásra és szabályozásr
   - Waikiki-i tulajdonú és székhelyű cégek mentesek
 - Kivételek: csak nyersanyagok
 - Éves bevétel: 80 milliárd WUD
-
-### Gazdaságpolitika
-
-#### Foglalkoztatás
-Az ország célja a közel teljes foglalkoztatottság elérése, ezért minden állampolgár számára az állam munkahelyet biztosít. Az állampolgárok 2017 óta ingyenes egészségügyi ellátásban részesülnek, 2018 óta pedig térítésmentesen vehetik igénybe a tömegközlekedést is.
 
 ### Nyugdíjrendszer
 
@@ -516,19 +505,19 @@ Waikiki kormánya kiemelten kezeli az oktatást, ezért minden lakos számára i
 - Összeg: 200 WUD/hó
 - Megjegyzés: Megegyezik a nyugdíj összegével
 
-### Állampolgárság
+## Állampolgárság
 
-#### Automatikus állampolgárság feltételei
+### Automatikus állampolgárság feltételei
 - Mindkét szülő állampolgár, vagy
 - Legalább egyik szülő állampolgár és Waikiki területén születik
 
-#### Honosítási folyamat
+### Honosítási folyamat
 A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 1. Kvantitatív pontszám
 2. Ügyintézői kvalitatív értékelés
 3. Gépi tanuláson alapuló értékelés
 
-#### Jogok és lehetőségek státusz szerint
+### Jogok és lehetőségek státusz szerint
 
 | Jogok és lehetőségek         | Ideiglenes munkavállaló | Állandó lakos | Teljes jogú állampolgár |
 | ---------------------------- | ----------------------- | ------------- | ----------------------- |
@@ -548,17 +537,15 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 | Ingyenes internet            | -                       | -             | ✓                       |
 | Időtartam                    | 6 hónap                 | Korlátlan     | Korlátlan               |
 
-### Külpolitika és nemzetközi kapcsolatok
+## Külpolitika és nemzetközi kapcsolatok
 
-#### Nemzetközi szervezeti tagságok
+### Nemzetközi szervezeti tagságok
 - ENSZ (1999-)
 - Atomhatalmak (2003-)
 - Amerikai Gazdasági Unió (2007-)
 - Transzatlanti Szabadkereskedelmi Övezet (2017-)
 
-#### Kereskedelmi kapcsolatok
-
-##### Főbb kereskedelmi partnerek
+### Kereskedelmi kapcsolatok
 - Észak-Amerika: USA
 - Európa: EU, Egyesült Királyság
 - Ázsia: Kína, India, Dél-Korea
@@ -566,55 +553,51 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 - Afrika: Egyesült Afrikai Nemzetek
 - Eurázsia: Oroszország
 
-### Védelmi rendszer
-#### Katonai szervezet
+## Védelmi rendszer
+### Katonai szervezet
 - Hivatásos haderő (nincs sorkötelezettség)
 - A világ második legerősebb hadserege
 - Legmodernebb technológiai felszereltség
 
-#### Haderő létszáma
+### Haderő létszáma
 - Aktív állomány: 440 000 fő
 
-#### Hagyományos haderőnemek
-
-##### Szárazföldi erők
+#### Szárazföldi erők
 - 3850 harckocsi
 - 330 támadó helikopter
 
-##### Haditengerészet
+#### Haditengerészet
 - 4 repülőgéphordozó
 - 12 cirkáló
 - 15 romboló
 - 16 nukleáris tengeralattjáró
 
-##### Légierő
+#### Légierő
 - 1268 vadászgép
 - 750 bombázó
 
-#### Stratégiai erők
-
-##### Nukleáris arzenál
+#### Nukleáris arzenál
 - 58 atombomba
 - 15 hidrogénbomba
 - 8 plutóniumbomba
 
-##### Védelmi rendszerek
+#### Védelmi rendszerek
 - Interkontinentális rakétavédelmi rendszer (IMDS)
 - Határokon átnyúló rakétavédelmi rendszer (TMDS)
 
-### Waikiki-i tulajdonú nemzetközi vállalatok
+## Waikiki-i tulajdonú nemzetközi vállalatok
 
-#### Technológia és infokommunikáció
+### Technológia és infokommunikáció
 - Számítástechnika: Apple, Intel, Nvidia
 - Szoftver és internet: Alphabet, Adobe, Electronic-Arts
 - Telekommunikáció: Samsung, AT&T
 
-#### Szolgáltatások
-##### Turizmus és vendéglátás
+### Szolgáltatások
+#### Turizmus és vendéglátás
 - Starlight Hotels
 - Quantum Travel
 
-##### Pénzügyi szolgáltatások
+#### Pénzügyi szolgáltatások
 - Chease Investment Group
 - International Credit Bank
 - Young Holdings
@@ -623,40 +606,40 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 - Visa
 - Walker Finance & Insurance Holding
 
-##### Kereskedelem
+#### Kereskedelem
 - Walmart Stores
 - Costco
 - Ikea
 - Media-Markt
 - Metro
 
-#### Egészségügy
+### Egészségügy
 - Inter Medic
 - United Health Group
 
-#### Ipar
-##### Energetika és petrolkémia
+### Ipar
+#### Energetika és petrolkémia
 - Royal Oil Group
 
-##### Élelmiszeripar
+#### Élelmiszeripar
 - Nestlé
 - Coca-Cola
 - McDonald's
 - Kinder
 
-##### Média és szórakoztatás
+#### Média és szórakoztatás
 - Walt Disney
 - 20th Century Fox
 - HBO
 - Waikiki Media Group
 
-##### Divat és ruházat
+#### Divat és ruházat
 - Nike
 - Boss
 - Gucci
 - H&M
 
-##### Járműgyártás és űripar
+#### Járműgyártás és űripar
 - Techno Industries
 - General Motors
 - Boeing
@@ -666,7 +649,7 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 - Lamborghini
 - Waikiki Space and Aerodinamics
 
-##### Szépségápolás és higiénia
+#### Szépségápolás és higiénia
 - Johnson & Johnson
 - Colgate
 - Garnier
