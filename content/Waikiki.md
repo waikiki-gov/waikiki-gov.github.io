@@ -19,7 +19,7 @@ Tartalomjegyzék
 
 ## Állami alapadatok
 - Államforma: demokratikus diktatúra
-- Főváros: New Raimondo
+- Főváros: Nova Aurelia
 - Hivatalos nyelv: Waikiki-i (angol)
 - Pénznem: Waikiki dollár ₩ (WUD)
 

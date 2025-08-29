@@ -8,7 +8,7 @@ Waikiki önálló, szuverén nemzet, amely saját területtel, kormányzattal é
 Waikiki államformája demokratikus diktatúra, melynek élén a Parlament által korlátlan időre kinevezett Diktátor áll.
 Az ország három tartomány egyesüléseként jött létre, melyek neve Waikiki, Amazónia és Brazília.
 Waikiki tartományai egyenjogúak, a tartományok közti mozgás, költözés vagy áruszállítás semmilyen esetben nem korlátozható, és nem vethető ki rá vám.
-Waikiki fővárosa New Raimondo, amely az ország közigazgatási központjaként és a Parlament székhelyeként szolgál.
+Waikiki fővárosa Nova Aurelia, amely az ország közigazgatási központjaként és a Parlament székhelyeként szolgál.
 Waikiki hivatalos nyelve az angol. Az ország modern kultúrájának alapja az angolszász kultúrából gyökerezik.
 Waikiki hivatalos pénzneme a Waikiki Dollár, melynek kibocsátására kizárólag az ország Nemzeti Bankja jogosult.
 Az állam fő feladata a jólét, a rend, a biztonság és az igazságosság biztosítása az állampolgárai számára.
