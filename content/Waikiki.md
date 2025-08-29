@@ -1,6 +1,6 @@
 # Waikiki
 
-Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km². Az ország államformája a világon egyedülálló demokratikus diktatúra, melynek vezetője Chease Raimondo. Az országot Raimondo apja, Chease Young alapította 1999-ben, és mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília népszavazás eredményeként és államadósságának elengedéséért cserébe két új tartománnyal csatlakozott Waikikihez, így alakult ki mai területe. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb és ötödik legnagyobb területű országa. Gazdasága a Föld országai között kiemelkedő, a világ GDP-jének több mint negyedét adja.
+Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km². Az ország államformája a világon egyedülálló demokratikus diktatúra, melynek vezetője Raimondo Chease. Az országot Raimondo apja, Chease Young alapította 1999-ben, és mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília népszavazás eredményeként és államadósságának elengedéséért cserébe két új tartománnyal csatlakozott Waikikihez, így alakult ki mai területe. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb és ötödik legnagyobb területű országa. Gazdasága a Föld országai között kiemelkedő, a világ GDP-jének több mint negyedét adja.
 
 # Alapadatok
 
@@ -103,7 +103,7 @@ Waikiki államformája demokratikus diktatúra. A kormányzat ötvözi a hagyom�
 
 ## Diktátor
 
-Waikiki jelenlegi diktátora Chease Raimondo, aki 2017-ben került az ország élére. A diktátor elsősorban kinevezési jogkörökkel rendelkezik, ő nevezi ki a szenátus tagjait, a Nemzeti Bank elnökét, a diktátori kabinet tagjait és a katonai vezérkari főnököt is. A diktátor rendeletalkotási jogkörrel, és az alkotmányt érintő kérdésekben vétójoggal rendelkezik.
+Waikiki jelenlegi diktátora Raimondo Chease, aki 2017-ben került az ország élére. A diktátor elsősorban kinevezési jogkörökkel rendelkezik, ő nevezi ki a szenátus tagjait, a Nemzeti Bank elnökét, a diktátori kabinet tagjait és a katonai vezérkari főnököt is. A diktátor rendeletalkotási jogkörrel, és az alkotmányt érintő kérdésekben vétójoggal rendelkezik.
 
 ## Kongresszus
 
@@ -150,7 +150,7 @@ A diktátor által kinevezett szenátus élén a kancellár áll, aki egyben a d
 
 #### Helytartók
 - Kate Beckinsale (Waikiki tartomány)
-- Colin Farrell (Florida tartomány)
+- Colin Farrell (Amazónia tartomány)
 - Vincent Kartheiser (Brazília tartomány)
 
 ## Kormány
@@ -192,11 +192,11 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 ### Állami vezetők
 
 #### Diktátor
-- Chease Raimondo (2017-)
+- Raimondo Chease (2017-)
 - Chease Young (2000-2017)
 
 #### Kancellár
-- Chease Young (2017)
+- Chease Young (2017-)
 
 #### Konzulok
 - Jessica Walker (2017-)
@@ -205,7 +205,8 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 ### Intézményi vezetők
 
 #### Nemzeti Bank elnökei
-- Michael J. Cavanagh (2016-)
+- Jessica Walker (2024-)
+- Michael J. Cavanagh (2016-2023)
 - Jessica Walker (2008-2015)
 - Robert Menéndez (2000-2007)
 
@@ -227,7 +228,7 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 
 ### Kabinet vezetők
 
-#### Chease Raimondo kabinetfőnökei
+#### Raimondo Chease kabinetfőnökei
 - Chloe Bennet (2020-)
 
 #### Chease Young kabinetfőnökei
@@ -481,7 +482,7 @@ Waikiki kormánya kiemelten kezeli az oktatást, ezért minden lakos számára i
 
 ### Egészségügyi rendszer
 
-#### Ingyenes állami egészségügyi ellátás (2016-)
+#### Ingyenes állami egészségügyi ellátás
 - Kedvezményezettek:
   - Minden állampolgár
   - 18 év alatti lakosok
