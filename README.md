@@ -1,7 +1,7 @@
-# Waikiki website
-Exported HTML, CSS and JS files for the minimized webpage of Waikiki.
+# Waikiki weboldal
+A Waikiki minimalizált weboldalának exportált HTML, CSS és JS fájljai.
 
-# Introduction
+# Bevezetés
 Waikiki a világ legfejlettebb országa, a világ pénzügyi és gazdasági központja, valamint több, mint 200 millió polgár otthona. Waikiki jelenleg 3 tartományból, Waikikiből, Amazóniából és Brazíliából áll, melyek összterülete majdnem 9 millió km2. Az ország államformája a világon egyedülállóként demokratikus diktatúra, melynek vezetője Raimondo Chease. Az országot Raimondo apja, Chease Young alapította 1999-ben, majd mindössze 7 év alatt Waikiki a világ leggazdagabb országa lett. 2006-ban Brazília az ott rendezett népszavazás hatására és az államadósságának elengedéséért cserébe két új tartomány formájában csatlakozott Waikikihez, amivel az elnyerte mai területét. 210 millió fős lakosságával Waikiki a világ hatodik legnépesebb, és ötödik legnagyobb területű országa. Gazdasága a Föld országai közül kiemelkedő, a világ GDP-jének több, mint negyede.
 
 ## Chease
@@ -19,7 +19,11 @@ Jennifer Chease 1994-ben, testvéreihez hasonlóan Washingtonban született. Isk
 ## [Raimondo](content/Raimondo-and-Selena.md)
 Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. július 7-én. 10 éves koráig szüleivel otthon tanult, majd 2 évig a Nova Aurelia Main Primary Schoolba járt. 2008-tól tanulmányait a Nova Aurelia High Schoolban folytatta. Később a Seven Seas High Schoolba jelentkezett, ahol megismerkedett Bailey Pickettel, aki később Ray első barátnője lett. Raimondo 2015-től szenátorként csatlakozott Waikiki kormányához, majd miután 2017-ben elvégezte a Waikiki Economics University gazdasági képzését, apja Chease Young átadta neki az ország vezetését, így Ray Waikiki diktátora lett. A Forbes 2018-as felmérése szerint Raimondo a világ legbefolyásosabb embere, vagyonát pedig több mint 2.000 milliárd amerikai dollárra becsülik. A Világkormány megalapulása után Raimondót a Trilliterális Bizottság tagjává választották. Miután Raimondo februárban szakított Baileyvel, a híres énekesnővel, Selena Gomezzel kezdett járni, aki szintén a Waikiki-i szenátus tagja.
 
-# Timeline
+## [Alkotmány](content/Constitution.md)
+Waikiki egy demokratikus diktatúraként működő, szuverén állam, amelynek fővárosa Nova Aurelia. Az ország három tartomány egyesüléséből jött létre, élén a Parlament által korlátlan időre kinevezett Diktátor áll. A közhatalom forrása a nép, amely hatalmát választott képviselői útján, valamint közvetlenül, népszavazások keretében gyakorolja.
+A törvényhozói hatalmat a kétkamarás Parlament gyakorolja, a végrehajtó hatalom az Elnök vezette Kormány kezében összpontosul, míg az igazságszolgáltatást független bírósági rendszer biztosítja. Az Alkotmány különös védelemben részesíti a nemzeti kultúrát, a család intézményét, a gyermeknevelést és a természeti erőforrásokat. Az állampolgároknak széles körű jogokat garantál, többek között az oktatáshoz, az egészségügyi ellátáshoz, a munkához és a szabad mozgáshoz való jogot. Az állampolgárok kötelesek hozzájárulni a közteherviseléshez, valamint részt venni a haza védelmében. Waikiki gazdasági berendezkedése piacgazdaság, amely protekcionista elveken nyugszik, és amelyben a stratégiai jelentőségű erőforrások az állam különleges védelmét élvezik.
+
+# Időrendi áttekintés
 * 1972 – Chease Young születése.
 * 1973 – Jessica Walker születése.
 * 1990 – Chease Young diplomát szerez a Stanford Egyetemen és átveszi a Starlight Hotels vezetését.
@@ -51,38 +55,3 @@ Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. j�
 * 2023 – Raimondo a nemzetközi energiaválság kezelésében kulcsszerepet játszik; Selena a nemzetközi oktatási és kulturális projektekért felel; Angelina és Taylor új humanitárius kezdeményezést indítanak Dél-Amerikában.
 * 2024 – Angelina hivatalosan is a Nemzeti Bank monetáris tanácsának tagja; Raimondo vezetésével Waikiki nemzetközi gazdasági konferenciákon vesz részt, Selena a külügyi tárgyalásokon képviseli az országot.
 * 2025 – Raimondo és Selena Waikiki nemzetközi technológiai és energiakonferencián mutatják be az ország új fenntarthatósági programját; Angelina és Taylor a Nemzeti Bank és humanitárius projekteken keresztül koordinálják az ország gazdasági és társadalmi stratégiáját.
-
-
-## Export Muse
-* Publish Muse files.
-* Copy assets folder and service-worker.js to root.
-* Replace webpro.js file in scripts folder.
-
-## Typography
-* Page title - H1 80px Raleway
-* Section title - H2 40px Raleway
-* Introduction text - H3 25px Valera 
-* Important text - H4 20px Valera
-
-## Fonts
-* Arial
-* Varela (self-hosted)
-* Dosis (self-hosted)
-* Raleway (self-hosted)
-* Droid Sans (self-hosted)
-
-## Colors
-* Primary - 0071BC
-* Secondary - 0E308E
-* Tertiary - 00B0C3
-* Error - AD1A24
-* Warning - FF9800
-* Success - 008000
-* Quote - F4DB38
-* Gold - BC9200
-* Silver - 555555
-
-## Environments
-* Dev (develop) - manually optimized files
-* Main (main) - latest version https://waikikigovernment.github.io/Website/
-* Prod (mobile) - caching assets with service worker https://waikiki-gov.github.io
