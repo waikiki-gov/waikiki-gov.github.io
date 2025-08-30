@@ -680,6 +680,6 @@ text.large {
 }
 
 .browser_width.colelem,
-.browser_width.colelem>div {
+.browser_width.colelem>div:not(.museBGSize) {
     min-height: 0px !important;
 }
