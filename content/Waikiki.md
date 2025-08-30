@@ -384,7 +384,7 @@ Waikiki által exportált termékek értéke jóval meghaladja az importált ter
   - Kötvénykibocsátás engedélyezett (magasabb kamattal)
 
 - Pénzforgalom:
-  - 2016 óta készpénzmentes gazdaság
+  - 2018 óta készpénzmentes gazdaság
   - Kizárólag elektronikus fizetési módok
 
 ### Monetáris adatok
