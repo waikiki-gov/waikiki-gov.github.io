@@ -23,7 +23,7 @@ Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. j�
 Waikiki egy demokratikus diktatúraként működő, szuverén állam, amelynek fővárosa Nova Aurelia. Az ország három tartomány egyesüléséből jött létre, élén a Parlament által korlátlan időre kinevezett Diktátor áll. A közhatalom forrása a nép, amely hatalmát választott képviselői útján, valamint közvetlenül, népszavazások keretében gyakorolja.
 A törvényhozói hatalmat a kétkamarás Parlament gyakorolja, a végrehajtó hatalom az Elnök vezette Kormány kezében összpontosul, míg az igazságszolgáltatást független bírósági rendszer biztosítja. Az Alkotmány különös védelemben részesíti a nemzeti kultúrát, a család intézményét, a gyermeknevelést és a természeti erőforrásokat. Az állampolgároknak széles körű jogokat garantál, többek között az oktatáshoz, az egészségügyi ellátáshoz, a munkához és a szabad mozgáshoz való jogot. Az állampolgárok kötelesek hozzájárulni a közteherviseléshez, valamint részt venni a haza védelmében. Waikiki gazdasági berendezkedése piacgazdaság, amely protekcionista elveken nyugszik, és amelyben a stratégiai jelentőségű erőforrások az állam különleges védelmét élvezik.
 
-# Időrendi áttekintés
+## [Események](content/Events.md)
 * 1972 – Chease Young születése.
 * 1973 – Jessica Walker születése.
 * 1990 – Chease Young diplomát szerez a Stanford Egyetemen és átveszi a Starlight Hotels vezetését.
