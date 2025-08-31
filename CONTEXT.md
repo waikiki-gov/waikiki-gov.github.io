@@ -36,7 +36,6 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 ### Key Institutions
 - **Waikiki Nemzeti Bank**: Central bank, current president Jessica Walker (2024-)
 - **Waikiki Space Agency**: National space program with orbital stations
-- **Waikiki Economics University**: Premier educational institution
 
 ### Major Personalities
 - **Raimondo Chease**: Current dictator (2017-), partner of Selena Gomez, former senator (2015-2017)
@@ -98,13 +97,12 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 ### File Operations
 - **Content Updates**: Always edit `content/*.md` files for canonical changes
 - **HTML Sync**: Public pages may need manual updates to reflect content changes
-- **README Maintenance**: Developer links should reflect available content files
 
 ### AI Continuation Guidance
 - **Fact Checking**: Reference `content/Waikiki.md` for authoritative state data
 - **Character Consistency**: Maintain established relationships and career timelines
 - **Timeline Integrity**: New events must fit established chronology in `content/Events.md`
-- **Tone Matching**: Follow official Hungarian governmental style established in existing content
+- **Tone Matching**: Follow official governmental style established in existing content
 - **Economic Coherence**: Any financial data must align with established GDP, reserves, sector breakdown
 - **Political Hierarchy**: Respect constitutional order (Dictator > Chancellor > Consuls > Senators > Ministers)
 - **Institutional Memory**: Reference previous leadership roles when introducing changes
@@ -120,11 +118,12 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Cross-Reference Requirements
 - **Leadership Changes**: Must update Events.md, Waikiki.md, and relevant biography files
-- **Economic Updates**: Sync between Waikiki.md, Economy-Summary.md, and Culture.md social programs
+- **Economic Updates**: Sync between Waikiki.md, Economy-Summary.md and Culture.md social programs
 - **Institutional Changes**: Reflect in government structure, timeline, and affected personality files
 - **Holiday References**: Culture.md holidays section is authoritative, avoid conflicting dates elsewhere
-- **Title Consistency**: Same person must have same titles across all files (Jessica Walker: Consul + WNB President)
-- - **International Context**: Maintain Waikiki's status as global leader and World Government founder
+- **Title Consistency**: Same person must have same titles across all files
+- **International Context**: Maintain Waikiki's status as global leader and World Government founder
+- **File consistency**: Maintain consistency between the .md and matching .html files
 
 ## Development Context
 This is a narrative development project maintaining internal consistency across a complex fictional state. All additions should respect established canon while expanding the world in a coherent manner.
