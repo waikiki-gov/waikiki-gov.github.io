@@ -8,52 +8,68 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 2000
 - Chease Youngot diktátorrá választják.
-- Első parlamenti választások a Demokratikus Párt győzelmével
+- Első parlamenti választások a Demokratikus Párt győzelmével, John Boehmer elnök lesz.
 - Alkotmány elfogadása népszavazás álltal.
 - Állami intézményrendszer és alkotmányos keretek megszilárdítása.
 
 ## 2001
-- Országos e‑kormányzati program és online ügyintézés indul.
 
 ## 2002
-- Elektronikus választási infrastruktúra kiépítése.
 
 ## 2003
+- A Pacifikus háború kitörése.
 - Atomhatalmak szövetségének megalapítása.
+
+## 2004
+- A Pacifikus háború lezárása, a New York-i béke.
 
 ## 2005
 - Kormányalakítás a Világuralmi Párt vezetésével, Rick Santorum elnöki beiktatása.
+- Chease Youngot és családját Waikiki királyává koronázzák.
 
 ## 2006
 - Brazília népszavazást követően csatlakozik.
 - Kialakul a háromtartományos államszerkezet.
 - Waikiki a világ leggazdagabb országa lesz.
+- Chease Young a világ leggazdagabb embere.
 
 ## 2007
 - Csatlakozás az Amerikai Gazdasági Unióhoz.
+- Waikiki saját űrprogramot indít.
 
 ## 2008
-- Intézményi konszolidáció: főbíró (Sebastian Stark), médiatanács elnöke (Rupert Murdoch), főparancsnok (Logan Davis).
+- Jessica Walker lesz a Nemzeti Bank elnöke.
 - Védelmi és igazságügyi reformok.
 
 ## 2009
 - Új banktörvény, szigorúbb prudenciális követelmények.
+- Chease és Jessica közgazdasági Nobel-díjat kap.
 
 ## 2010
 - Kormányalakítás a Demokratikus Párt vezetésével, Aaron Eckhart elnöki beiktatása.
+- Jennifer és Taylor először találkoznak.
+
+## 2011
+- Angelina megismerkedik Taylorral.
+- Raimondo találkozik Baileyvel.
 
 ## 2012
 - Olimpiai játékok Nova Aureliában.
 
 ## 2013
+- Kormányzó és helytartók kinevezése.
 - GYES időtartamának 3 évre bővítése.
+- Az EAN megalakulása.
+
+## 2014
+- Angelina fellép a Davosi Gazdasági Fórumon.
 
 ## 2015
 - Szenátus megalakulása.
 - Raimondo Chease szenátor lesz.
 
 ## 2016
-- Nemzeti Bank elnökváltás: Michael J. Cavanagh (2016–2023).
+- A Nemzeti Bank új elnöke Michael J. Cavanagh.
 
 ## 2017
 - Diktátori tisztség átadása Raimondo Chease‑nek.
