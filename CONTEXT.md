@@ -1,4 +1,4 @@
-# CONTEXT.md - AI Project Summary
+# AI Project Summary
 
 ## Project Overview
 This is a static website for the fictional nation of Waikiki, originally exported from Adobe Muse. The site combines HTML/CSS public pages with canonical Markdown content sources under `content/` that serve as the authoritative narrative foundation.
@@ -66,8 +66,9 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Biographical Content
 - `content/Raimondo-and-Selena.md`: Detailed dictator/consul profiles and relationship
-- `content/Jennifer-and-Tyler.md`: Senator couple biography  
-- `content/Angelina-and-Taylor.md`: Senator couple (environmental/finance focus)
+- `content/Jennifer-and-Tyler.md`: Senator couple
+- `content/Angelina-and-Taylor.md`: Senator couple
+- `content/Chease-and-Jessica.md`: Royal couple
 
 ## Editorial Standards
 
@@ -103,7 +104,7 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### File Operations
 - **Content Updates**: Always edit `content/*.md` files for canonical changes
-- **HTML Sync**: Public pages may need manual updates to reflect content changes
+- **HTML Sync**: Public pages may need updates to reflect content changes
 
 ### AI Continuation Guidance
 - **Fact Checking**: Reference `content/Waikiki.md` for authoritative state data
@@ -116,12 +117,6 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Geographic Accuracy**: Maintain 3-province structure, Nova Aurelia as capital
 - **Demographic Consistency**: Population growth, literacy, life expectancy must align with established data
 - **International Relations**: Maintain G9, UN Security Council, World Government membership status
-
-## Content Relationships
-- Events.md ↔ Waikiki.md: Timeline events must align with institutional history
-- Biography files ↔ Government structure: Personal histories must match official roles
-- Culture.md ↔ Economic data: Social programs must reflect economic capacity
-- All content ↔ Constitution.md: Governance descriptions must follow constitutional framework
 
 ### Cross-Reference Requirements
 - **Leadership Changes**: Must update Events.md, Waikiki.md, and relevant biography files
