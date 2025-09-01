@@ -51,10 +51,12 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 2011
 - Angelina megismerkedik Taylorral.
-- Raimondo találkozik Baileyvel.
+- Raimondo találkozik Baileyvel a Seven Seas High Schoolban.
 
 ## 2012
 - Olimpiai játékok Nova Aureliában.
+- Raimondo felvételt nyer a Waikiki Economics Universityre.
+- Megkezdődik Raimondo palotájának építése.
 
 ## 2013
 - Kormányzó és helytartók kinevezése.
@@ -63,13 +65,19 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 2014
 - Angelina fellép a Davosi Gazdasági Fórumon.
+- Elkészül a Diktátori Palota.
 
 ## 2015
 - Szenátus megalakulása.
-- Raimondo Chease szenátor lesz.
+- Raimondo. Angelina, Jennifer, Tailor, Tyle és Bailey szenátor lesz.
+- Inter Medic bejelenti az élettartam‑hosszabbító elixírt.
+- Afrika egységes fővárosának építésének kezdete.
+- Bilderberg‑találkozó Waikikin.
 
 ## 2016
 - A Nemzeti Bank új elnöke Michael J. Cavanagh.
+- Waikiki csatlakozik a G9‑hez.
+- Megnyílik a Riói Disneyland.
 
 ## 2017
 - Diktátori tisztség átadása Raimondo Chease‑nek.
@@ -77,11 +85,13 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 - Ingyenes állami egészségügy bevezetése.
 - Konzuli kinevezések: Jessica Walker, Selena Gomez.
 - Megkezdődik a Transborder Missile Defense System kiépítése.
+- Selena Gomez Waikiki hercegnőjévé koronázása.
 
 ## 2018
 - Készpénzmentes gazdaság bevezetése, kötelező elektronikus fizetés.
 - Ingyenes tömegközlekedés országosan.
 - A Világkormány megalapítása.
+- Raimondo a Trilaterális Bizottság tagja lesz.
 
 ## 2020
 - George Bush megkezdi újabb elnöki ciklusát.
