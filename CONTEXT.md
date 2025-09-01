@@ -19,13 +19,24 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Founded**: 1999 by Chease Young
 
 ### Critical Timeline
-- **1999**: State founding, UN membership
-- **2000**: Chease Young becomes dictator
-- **2006**: Brazil joins after referendum, Waikiki becomes world's richest nation and now has 3 provinces
-- **2015**: Raimondo Chease becomes senator, Senate establishment
-- **2017**: Leadership transition to Raimondo, consuls appointed, free healthcare
-- **2018**: Cashless economy, free transport, World Government role
-- **2024**: Jessica Walker becomes WNB president, Angelina joins Monetary Council
+- **1999**: State founding; UN membership; democratic institutions begin under dictator framework
+- **2000**: Constitution adopted by referendum; first elections; Chease Young confirmed as dictator
+- **2003–2004**: Pacific War; Atomic Powers alliance formed; New York peace ends the conflict
+- **2005**: Coronation of Chease Young and royal family; Aug 4 declared national holiday
+- **2006**: Brazil joins after referendum; three‑province structure established; Waikiki becomes the world’s richest nation
+- **2007**: National space program (WSA) launched; accession to the American Economic Union
+- **2008**: Jessica Walker becomes WNB president; banking sector reforms begin
+- **2009**: New banking law; Chease and Jessica awarded the Nobel Prize in Economics
+- **2012**: Summer Olympics hosted in Nova Aurelia; Diktátori Palota construction underway
+- **2015**: Senate established; Raimondo Chease becomes senator; major science initiative announced (Inter Medic elixir)
+- **2016**: Waikiki joins the G9; Rio Disneyland opens
+- **2017**: Leadership transition to Raimondo Chease; consuls appointed (Jessica Walker, Selena Gomez); free state healthcare launched
+- **2018**: Cashless economy implemented; nationwide free public transport; World Government established; Raimondo joins the Trilateral Commission
+- **2020**: Presidential term renewed (George Bush); cabinet consolidation
+- **2022**: Circular economy strategy announced (zero‑waste targets by 2030)
+- **2023**: Senior leadership rotations (Media Council, Intelligence Service)
+- **2024**: Jessica Walker returns as WNB president; Angelina joins the Monetary Council
+- **2025**: NATO membership
 
 ### Government Structure
 - **Dictator**: Raimondo Chease (2017-), succeeded father Chease Young (2000-2017)
@@ -50,17 +61,13 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Core Narrative
 - `content/Waikiki.md`: Master state overview (demographics, government, economy)
-- `content/Constitution.md`: Legal framework (summarized attachment)
-- `content/Events.md`: Official chronological timeline (1999-2024)
+- `content/Constitution.md`: Legal framework
+- `content/Events.md`: Chronological timeline
 
 ### Biographical Content
 - `content/Raimondo-and-Selena.md`: Detailed dictator/consul profiles and relationship
 - `content/Jennifer-and-Tyler.md`: Senator couple biography  
 - `content/Angelina-and-Taylor.md`: Senator couple (environmental/finance focus)
-
-### Thematic Content
-- `content/Culture.md`: Society, education, technology, arts, holidays
-- `content/Waikiki-Economy-Summary.md`: Concise economic overview
 
 ## Editorial Standards
 
