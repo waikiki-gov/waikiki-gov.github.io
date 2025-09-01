@@ -105,3 +105,6 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 2024
 - Jessica Walker ismét a Waikiki Nemzeti Bank elnöke lesz.
+
+## 2025
+- NATO csatlakozás.
