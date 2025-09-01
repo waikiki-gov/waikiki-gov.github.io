@@ -49,7 +49,6 @@ A 2000. március 5-én tartott választásokon a Demokratikus Párt a szavazatok
 
 Chease Young szakértő tanácsadók segítségét vette igénybe a döntéshozatali folyamatokban, akik közül sokan gyakornokként kerültek a waikiki-i közigazgatásba, azonban kiemelkedő teljesítményük révén gyorsan vezető pozícióba kerülhettek. A fejlett bürokráciának köszönhetően Chease Young gyorsan stabilizálta az ország gazdaságát, és Waikiki az Egyesült Államok fontos kereskedelmi partnerévé vált. Az ország által elért egyedülálló sikerek hatására több környező szigetcsoport, köztük Haiti, Jamaica és a Dominikai Köztársaság is csatlakozott Waikikhez, először konföderációként, majd teljes jogú területként.
 
-
 ## A Pacifikus háború és Waikiki szerepe
 
 2002. október 5-én a túlnépesedés miatt területszerzési igényekkel rendelkező Kína megtámadta Oroszországot, míg Észak-Korea régi riválisát, Dél-Koreát kívánta elfoglalni. Japán csatlakozásával megalakult az Internacionális Unió, amellyel szemben Oroszország, az Egyesült Államok, Nagy-Britannia, Spanyolország, Franciaország, Olaszország és Németország szövetséget alkotott. A konfliktus kiterjedt a Közel-Keletre is, amikor Irán, Afganisztán és Pakisztán megtámadta Izraelt és elfoglalta annak területeit.
@@ -415,33 +414,33 @@ Selena Gomez, a korábbi Disney-sztár és a Stars Dance előadója 2015-ben sze
 
 Olivia Holt karrierje háromévesen kezdődött; szélesebb ismertséget a Kickin' It című Disney-sorozat hozott számára, később pedig a Nem én voltam! sorozatban Lindy Watson szerepét alakította. Zac Efron javaslatára Raimondo szenátorrá nevezte ki. Miután Chease Young tájékoztatta Oliviát és családját az ajánlatról, Raimondo, Selena, Bailey és Gregg személyesen is felkereste őt; másnap este a Nem én voltam! sztárja a szenátorokkal együtt egy nova aureliai szórakozóhelyre látogatott. Egy héttel később Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik nagyherceget egy palládiumreaktor megépítéséről, amely Európa első ilyen típusú erőműve lehet. Raimondóék a főváros nevezetességeit Henrik herceg vezetésével tekintették meg, aki első látásra elnyerte London Tipton tetszését. A delegáció Luxemburg hagyományaival ismerkedett, lovagolt, íjászkodott és megkóstolta a nemzeti ételeket. Raimondo, Selena, Bailey és Olivia végül egy párizsi kitérővel hosszabbították meg az utat. 2017 novemberének végén Selena Gomez az USA-ba utazott egy UNESCO-megbeszélésre, ahol a fenntartható fejlődésről és a természetes élőhelyek védelméről tárgyalt. Közben Raimondo Waikikin maradt, hogy Chease Younggal együtt a Bilderberg-csoport vezetőivel egyeztessen. Mivel Ray magányosnak érezte magát barátnője távollétében, Jennifer társaságában szórakozni ment, ahol találkozott a S.H.I.E.L.D. ügynökei című sorozatban Sky szerepét játszó Chloe Bennet-tel; együtt is táncoltak, majd Raimondo meghívta őt és színésztársait a palotába.
 
-Kormányzati beruházások 2017-től
+## Kormányzati beruházások 2017-től
 
 2017-től a kormány több, stratégiai jelentőségű beruházást indított. Megkezdődött a Waikiki tartomány és Miami között tervezett, három ütemben megvalósuló alagútrendszer előkészítése. A Quantum Cruises a világ egyik legkörnyezetbarátabb óceánjárójának megépítésén dolgozik, miközben a Royal Clock Tower – Waikiki egyik kiemelt kormányzati épülete – kivitelezése is elrajtolt. Szaúd‑Arábiában a King Abdullah Economic City a térség egyik legnagyobb beruházásaként épül, a transzamerikai autópálya terve pedig egy egész kontinensen átívelő közúti folyosót hoz létre.
 
 Chease Young több milliárd dollár értékben fektetett be a Goldman Sachs, a HP és a Bayer részvényeibe. Brazíliában egy több mint 3000 négyzetkilométeres ökológiai park létesül, amely a világ minden tájáról fogad állatokat. Oroszországban, a kormányzattal együttműködésben, Moszkva mellett kaszinóváros épül. Dubaiban megkezdődik az Elon Musk által tervezett Hyperloop gyorsvasút első szakaszának kivitelezése, a 280 négyzetkilométeres Dubailand szórakoztató komplexum pedig 2025-re nyitja meg kapuit. Az Apple az EAN területén, New Cairoban a világ egyik legnagyobb processzorgyárát építi, miközben Waikiki kormánya több nyersanyag-kitermelő bánya létesítését is megkezdi Afrikában.
 
-Alagutak a Karib-tengeren
+#### Alagutak a Karib-tengeren
 
 November 24-én Raimondo és Selena bejelentették, hogy a kormány az évszázad legnagyobb infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki tartományt és Floridát. Az első szakaszban 2019-ig megépítik a mágnesvasutat a Santiago és Moron közti 280 km-es szakaszon, melyből 100 kilométer a tenger alatt halad. 2024-ben ugyanitt elkészül a tenger alatti autópálya is, amely a terv második üteme. A harmadik szakasz a Havannát és Miamit összekötő, 360 kilométeres vasúti és közúti alagút, amely 2030-ra készül el. A fejlesztéssorozat jelentősen megkönnyíti a kereskedelmet és a közlekedést Waikiki tartományai és az Egyesült Államok között. A teljes alagúthálózat mintegy 330 kilométer hosszú lesz, becsült költsége 30 milliárd dollár, és 2030-ra készül el; a waikiki-i állampolgárok számára az áthaladás díjmentes lesz.
 
-Népszavazás 2017
+## Népszavazás 2017
 
 A Waikiki-i politikában igen fontos szerepet játszanak, az elmúlt időszakban majdnem éves rendszerességgel tartott országos népszavazások. Az állampolgárok 2017-ben is fontos kérdésekben dönthettek, mint a Transzatlanti Szabadkereskedelmi Övezethez való csatlakozás, a négynapos munkahét bevezetése és a bevándorlás szigorítása. A választók többsége mindhárom kérdésben egyetértett a kormánnyal, így Waikiki folytatja a szabadkereskedelmi tárgyalásokat az Európai Unióval, továbbá 2018-tól minden munkahelyen bevezetik a négy napos munkahetet, hogy az emberek több időt tölthessenek családjukkal és barátaikkal. Az állampolgársági követelmények szigorítását még decemberben megkezdi a kormány. Ennek részeként a kérelmezőknek legalább 1 évig az ország területén kell lakniuk, mielőtt megkapnák a teljes jogú állampolgári státuszt. A sikeres népszavazások eredményeként a jelenleg hatalmon lévő Világuralmi Párt támogatottságát minden eddiginél magasabbra, csaknem 54%-ra becsülik az elemzők.
 
-Szabadkereskedelmi Egyezmény
+#### Szabadkereskedelmi Egyezmény
 
 Az Amerikai, Európai és Afrikai Unió részvételével alakuló Transzatlanti Szabadkereskedelmi Övezet a Föld legnagyobb kereskedelmi társulása, mintegy 59 országot magába foglalva. Mivel a népszavazáson résztvevők 81%-a támogatja a nemzetközi vámmentességről szóló megállapodást, ezért Waikiki kormánya ennek megfelelően jár el a tárgyalások során. A tervek szerint az övezeten belül szinte az összes termékre eltörlik a vámokat, közös minőségi és fogyasztóvédelmi előírásokat vezetnek be, és ezáltal jelentősen megkönnyítik a nemzetközi kereskedelmet. A tervek szerint a szabad kereskedelem a tagországok exportját akár 15%-kal is megnövelheti az elkövetkező években.
 
-Négy napos munkahét
+#### Négy napos munkahét
 
 Waikiki az első ország, ahol bevezetik a 4 napos munkahetet és a 3 napos hétvégét. A tervek szerint 2018-tól vezetik be a választók 89%-a által támogatott javaslatot. A kormány terve, hogy a csökkentett munkaórákkal lehetővé tegye, hogy az állampolgárok több időt töltsenek szeretteikkel, kiegyensúlyozottabb életet éljenek és munkájukat is hatékonyabban végezzék. A várakozások szerint a négy napos munkahét bevezetése semmilyen jövedelem csökkenést nem okoz majd a háztartásoknak, sőt a megnövekedő munkaerő kereslet miatt csökkenhet a munkanélküliség. A négy napos munkahét az oktatási intézményekre is vonatkozik majd, így az oktatási minisztérium megkezdte egy új tanterv kidolgozását.
 
-Bevándorlás szigorítása
+#### Bevándorlás szigorítása
 
 A bevándorlás és az állampolgárság megszerzése egészen Waikiki megalapulásától kezdve fontos téma az ország politikájában. A 2017-es népszavazáson a választók 56%-a az állampolgárság megszerzésének további szigorítása mellett döntött. A kormány szerint marad a jelenlegi 5 kérelmezői kategória, ám azok követelményeit kis mértékben emelni fogják és a legtöbb kérelmezőnek legalább egy évig Waikiki területén kell laknia, mielőtt megkapná az állampolgárságot. Ezen kívül szigorúbb ellenőrzés alá esnek majd az ideiglenes munkavállalói státuszért folyamodók is, és az állandó munkavállalói státusz megszerzéséhez 5 helyett 10 év munkaviszony lesz szükséges. Az új előírások bevezetésére 2018-tól kerül majd sor.
 
-Waikiki űrprogramja 2018-ban
+## Waikiki űrprogramja 2018-ban
 
 2018-ban a waikiki-i űrprogram új szakaszba lépett. A Delta IV hordozórakéta nagy tömegű műholdakat állít Föld körüli pályára, miközben az Expeditioner osztályú, ionhajtóműves űrsiklók készen állnak akár a Hold megkerülésére is. A Spirit II marsjáró 2018-ban indul a vörös bolygó felé, a WSA pedig még 2030 előtt emberes Mars-küldetést tervez, oda-vissza utazással. Elkezdődött a Minas Gerais űrteleszkóp építése, amely idegen életformák nyomait kutatja majd, a 2017-ben pályára állított Kepler űrtávcső pedig megkezdi fő feladatát, az Androméda-galaxis vizsgálatát.
 
@@ -469,15 +468,15 @@ A Világkormány 2018-as nyitó ülésén pontosították a korábban kiadott, a
 
 Chease Young szerint a szíriai hadműveletek sikeressége azt támasztja alá, hogy a világnak szüksége van egy egybefüggő hadseregre, amely fenntartja a békét, és megelőzi egy újabb világháború kialakulását. Az egyesített NATO-haderő, melynek 31 tagállama van, jelenleg a legerősebb hadsereg a világon. A Világkormány további, szorosabb katonai együttműködést javasol a még hatékonyabb fellépés érdekében. A NATO hadseregének parancsnokát a Világkormány nevezi ki korlátlan időre, és a tisztséget jelenleg Logan Davis tábornok tölti be.
 
-Chease Young, Raimondo és Selena az űrállomásra utaznak
+## Chease Young, Raimondo és Selena az űrállomásra utaznak
 
 Raimondo Chease barátnőjével, Selenával együtt egy űrutazáson vett részt. A két űrturista a Columbus űrsikló fedélzetén hagyta el a Föld légkörét, majd Michael Shepard kapitány irányításával dokkolt a Waikiki-i űrállomáson. A világűrben töltött két hét alatt Raimondóék 500 km magasról csodálhatták a Föld természeti szépségeit, érdekes kísérleteket végeztek a súlytalanságban és több űrsétán is részt vettek. Raimondo és Selena szerint az űrutazás volt az eddigi legjobb közös nyaralásuk, mivel mindketten nagyon élvezték a súlytalanságban eltöltött napokat. Selena a csodálatos földi panorámáról, Raimondo pedig a különleges étkezési módokról számolt be rajongóiknak, abban pedig mindketten egyetértenek, hogy pár éven belül a Holdra fognak ellátogatni. A kéthetes küldetés után a Columbus levált az űrállomásról, belépett a Föld légkörébe, majd Floridában landolt. A 21 éves Raimondo vált a világ legfiatalabb férfi űrutazójává, az egy évvel idősebb Selena pedig a legfiatalabb női űrhajós lett. Chease Young, akinek ez élete második űrutazása volt, azt nyilatkozta, hogy az elmúlt 10 évben rengeteget fejlődött az űrtechnológia és szerinte az űrturizmus a közeljövőben sokkal elterjedtebbé fog válni. Chease Young két lánya, Angelina és Jennifer szintén tervezik, hogy barátaikkal hamarosan a világűrbe látogatnak, és Jessica Walker sem járt még a Föld körül, tehát hamarosan a WSA további űrturistákat szállíthat. Addig is Waikiki kormánya további fejlesztéseket kíván véghezvinni az űrkutatásban, melynek következő lépcsője a Mars meghódítása. Ezen a projekten a SpaceX-szel közösen dolgozva, Elon Musk szerint a Big Falcon Rockettel akár 2022-re eljuthatunk a vörös bolygóra, és már tervezik az ITS építését is.
 
-Nagyhatalmi viszonyok
+## Nagyhatalmi viszonyok
 
 Az elnökválasztás előtti értékelő beszédében Vlagyimir Putyin orosz elnök az ellenség által felderíthetetlen és elfoghatatlan, manőverező nukleáris fegyverek kifejlesztéséről számolt be Moszkvában. Putyin azt állította, hogy az új fegyverrendszerek nem sértik a meglévő fegyverzetkorlátozási egyezményeket, és az új eszközök jellemzőit Moszkva a szerződések értelmében meg fogja osztani a Nyugattal. Hangsúlyozta ugyanakkor, hogy Oroszország senkit sem fenyeget, és katonai erejének növekedése a béke garanciája. Waikiki és Oroszország a háborús szövetségük óta folyamatosan egyre barátibb politikát folytatnak. Habár a moszkvai vezetés ellenezte a NATO hadsereg fejlesztését, Oroszország mégis aktívan részt vesz a Világkormány működtetésében, és törvényeinek betartatásában. A fegyverfejlesztési bejelentése után Chease Young gratulált Putyinnak az elért technológiai vívmányokhoz, és kifejezte szándékát Oroszország és Waikiki hosszú távú gazdasági, politikai és katonai együttműködésére. Putyin szintén jó viszonyt ápol az USA új elnökével, Donald Trumppal, így a közeljövőben egy erős szövetség jöhet létre a három vezető hatalom között.
 
-Gazdaságpolitikai események 2018-ban
+## Gazdaságpolitikai események 2018-ban
 
 A The Waikiki News Channel élő adásában Chease Young kancellár a klíma- és gazdaságpolitikai terveiről beszélt egy exkluzív interjú keretében. A beszélgetést Bill O'Reilly vezette, a résztvevők között volt Darius Tanz (a Rocket Lab elnöke) és Michael Bloomberg amerikai üzletember is.
 
@@ -491,70 +490,65 @@ Fontos bejelentést tett Waikiki pénzügyminisztere, melynek során a Nemzeti B
 
 A 2018-as, állampolgári jogok kiterjesztéséről és a környezetvédelemről szóló népszavazáson a választók 3 kérdésben dönthettek. Az első kérdés a feltétel nélküli alapjövedelmet kínálta fel minden állampolgár számára, a második ingyenes városi tömegközlekedésről szólt, a harmadiknál pedig az ingyenes internetelérésről lehetett szavazni. A javaslatok közül a szavazók többsége támogatta az ingyenes tömegközlekedést és az alanyi jogú internet-hozzáférést, így ezeket a parlament hamarosan törvénybe fogja iktatni. A Milliomosok Pártjának vezetője, Matt Damon a parlament tavaszi évadnyitó ülésén felvetette, hogy pártja szigorítaná az állampolgárság megszerzésének feltételeit és alaposabban felülvizsgálná az ideiglenes munkavállalók státuszát. Emellett bővítené a lord és lady állampolgárságokkal járó előnyöket, a maximális számukat pedig 1 millióban korlátozná. Javaslatairól a parlament egy későbbi ülésén fog döntést hozni, vagy népszavazást kezdeményezni.
 
-Alapjövedelem
+#### Alapjövedelem
 
 A javaslat szerint minden 18 évét betöltött waikiki-i állampolgár havonta 500 WUD alapjövedelmet kap, amely a fizetését egészíti ki. Az alapjövedelem felváltaná a nyugdíjat, és minden állampolgár anyagi helyzetétől függetlenül jogosult lenne rá. A törvényjavaslatot korábban a parlament is elutasította, és most a népszavazáson is csak a szavazók 35%-a támogatta, így nem kerül bevezetésre. A közvélemény-kutatások szerint az emberek inkább növelnék az ingyenesen elérhető szolgáltatásokat, és az állam által mindenki számára biztosított munkák fizetését. Ezenkívül tovább fejlesztenék a már ingyenes szolgáltatások színvonalát, mint az egészségügy és az oktatás.
 
-Ingyenes tömegközlekedés
+#### Ingyenes tömegközlekedés
 
 Az ingyenes tömegközlekedés célja, hogy csökkentse a városi forgalmat, és a légszennyezést, azáltal, hogy az embereket a közösségi közlekedés használatára ösztönzi. Az ingyenesség mellett számos újítást is bevezetnek a közlekedésbe, annak gyorsítása érdekében. Mivel a szavazók 74%-a támogatta az ingyenes tömegközlekedést, így az 2018. májusától minden állampolgár számára elérhető lesz. A fővárosi tömegközlekedésért felelős Nova Aurelia Public Transport vállalat több kísérleti megoldással is próbálkozik, melyek közül az egyik az autók felett közlekedő Land Airbus. A futurisztikus külsejű jármű teljesen elektromos meghajtású, és az autók fölött közlekedve a dugókban is gyorsan halad.
 
-
-Ingyenes internet-hozzáférés
+#### Ingyenes internet-hozzáférés
 
 A szavazók 87%-a által támogatott javaslat szerint a kormány minden waikiki-i állampolgárnak alanyi jogon ingyenes internet-hozzáférést fog biztosítani. A tervek szerint akár 2020-ra minden háztartásba bevezetik a legalább 500 Mbit/s sebességű, vezeték nélküli internetet, melynek szolgáltatási költségét teljesen az ország kormánya állja. Az intézkedéseknek hála a lakosság könnyebben értesül a számára fontos hírekről, aktívabban részt vehet a politikai életben és számtalan kommunikációs lehetőség nyílik meg azoknak, akik korábban nem rendelkeztek internet-előfizetéssel. A nagyobb sávszélességű internetcsomagok továbbra is elérhetőek lesznek a lakosság számára, felár ellenében.
 
-Újabb Waikiki-i cégek az űrkutatásban
+## Újabb Waikiki-i cégek az űrkutatásban
 
 Azáltal, hogy a kormány 2018 folyamán újabb jelentős összegeket fektetett magán űrkutatási és rakétagyártó cégekbe, Chease Young 62%-ra növelte a részesedését a Lockheed Martin vadászgép, és repülőgyártó vállalatban, 34%-ot vásárolt az Arca Space-ből és 46%-ot a Rocket Lab-ból. Chease szerint az űrutazás napjaink egyik legdinamikusabban fejlődő ágazata, amit az is bizonyít, hogy mindhárom űrcég újabb, egyedi tervekkel állt elő a naprendszer és a világűr meghódítására. Az Arca Space és a Rocket Lab még csak első rakétáikon dolgozik, míg a Lockheed Martin sokkal nagyratörőbb terveket fontolgat: ha egyszer olyan távoli jövőben az űrutazás akár a mindennapi életünk részévé válhat, akár turisztikai, akár tudományos vagy pedig akár gazdasági céllal is, akkor a ma még kezdő űrvállalkozások fogják majd uralni a tőzsdéket. Chease Young szerint a naprendszer meghódítása és a Mars lakhatóvá tétele csak a kezdet, a határ pedig a csillagos ég.
 
-
-
-Lockheed Martin
+#### Lockheed Martin
 
 Új ötlettel állt elő a Lockheed Martin vezetősége a Mars meghódítását illetően. A cég mérnökei egy két részből álló rendszer segítségével juttatnának embert a vörös bolygóra. A folyamatosan az űrben keringő Mars Base Camp szállítaná az asztronautákat bolygóközi útjukon, a Mars Lander újrahasználható leszállóűrhajók pedig a Föld és a Mars felszínére való leszállást és az onnan történő felszállást biztosítanák. A tervek szerint a teljes űrjármű 6 személy szállítására lesz alkalmas, míg a leszállóegységek 3-3 embert tehetnek le a Mars felszínén. A Lockheed Chease Young egyik első beruházásai közé tartozott, és a NASA-val végzett közös munkája során rengeteg tapasztalatra tett szert.
 
-
-
-Arca Space
+#### Arca Space
 
 Az egyfokozatú rakétákra specializálódott Arca Space sikeresen tesztelte a Haas 2CA nevű rakétáját, amely kilövésenként mindössze 1 millió dolláros áron képes 100 kilogrammos szállítmányt az űrbe juttatni. Az egyfokozatú kialakítás egyszerűbb szerkezetet és jobb súly/üzemanyag arányt biztosít, mint más gyártók rakétái. Az Aerospike hajtőmű pedig bármely magasságban és nyomás alatt optimális teljesítményt tud nyújtani. Az egyszerű felépítés azt is lehetővé teszi, hogy a kilövési szándék megszületése után 24 órán belül megkezdődjön a kilövés. A 2012-ben kezdődött projekt végre eljutott arra a szintre, hogy komolyan harcba szállhasson a világűrért folytatott versenyben.
 
-Rocket Lab
+#### Rocket Lab
 
 A Rocket Lab Electron rakétája forradalmi technológiákat használ az űr eléréséhez. Az alapból kétfokozatú rakéta egy opcionális gyorsító fokozattal is rendelkezik, amely egy kilövés alatt több objektum nagy pontosságú pályára állítását is biztosítja. Az Elektron tartós, de könnyű szénszálas vázának köszönhetően akár 225 kg szállítmányt tud Föld körüli pályára állítani. A Rutherford Engine az első rakétahajtómű, melyet 3D-s nyomtatással készítenek. A 2013-ban indult projekt már több kisebb műholdat állított pályára a rakománymegosztásnak nevezett szolgáltatásuk segítségével, mely miniműholdak űrbe juttatására is ideális. A jövőben a Rocket Lab a teherszállítás mellett az űrturizmusba is szeretne bekapcsolódni.
 
-A 2019-es választáson induló politikai pártok
+## A 2019-es választáson induló politikai pártok
 
-Milliomosok Pártja
+#### Milliomosok Pártja
 
 A Milliomosok Pártja jövedelemalapú szavazati jog bevezetését, az adók csökkentését, valamint a bevándorlás szigorítását tervezi. A párt jelenlegi vezetője, Matt Damon támogatná a waikiki-i tulajdonú vállalkozásokat, a lord- valamint lady-állampolgárok jogainak kiterjesztését, valamint a magánegyetemek létrehozását. A párt támogatja a WSA és a SpaceX űrturista programját, a környezetvédelmi intézkedéseket, továbbá a szenátus bővítését. Matt fontosnak tartja a nemzeti hadsereget és hatalmas eredményként tekint a Világkormány létrehozására, de ellenzi az alapjövedelem bevezetését vagy az adók emelését. Nemzetközi szinten a Milliomosok Pártja egy ENSZ-parlament létrehozását kezdeményezte, ahová az országok közvetlenül küldhetnének képviselőket.
 
-Waikiki Világuralmi Párt
+#### Waikiki Világuralmi Párt
 
 A George Bush által vezetett Világuralmi Párt fontos célkitűzése a Világkormány bővítése, együttműködés a világ más vezető hatalmaival és Waikiki nemzetközi politikai befolyásának további növelése. George fontos szerepet játszott a Világkormány felállításában és a Transzatlanti Szabadkereskedelmi Övezet kialakításában is, következő terve pedig egy minden országra kiterjedő hadsereg létrehozása. A párt jó viszonyt ápol az USA és Oroszország vezető politikusaival és fontosnak tartja Kína gazdasági befolyásának csökkentését és a védővámok bevezetését. A Világuralmi Párt igyekszik minél jövedelmezőbb egyezségeket és szerződéseket kötni az Egyesült Afrikai Nemzetekkel, valamint meghatározó jövőbeli szövetségesként tekint az Európai Unióból kiváló Egyesült Királyságra is.
 
-Waikiki Demokratikus Párt
+#### Waikiki Demokratikus Párt
 
 A Demokratikus Párt által képviselt legfőbb érték a népképviselet, az állampolgárok egyenlősége és a közösségi döntéshozatal. Éppen ezért Aaron Eckhart pártja fontosnak tartja az önkormányzatok hatáskörének és költségvetésének kiterjesztését, és kellő támogatottság esetén a helytartók közvetlen megválasztását is fontolóra venné. A párt célja ezenkívül az általános életszínvonal, a GDP és az állami tartalékok és befektetések további növelése. A Demokratikus Párt által kezdeményezett, sikeres népszavazások közé tartozik az ingyenes egészségügy, tömegközlekedés és az internet-hozzáférés is. A párt fontosnak tartja az ország megvédését a túlzott bevándorlástól, de a hatékonyság fenntartása miatt nem szigorítana az ideiglenes munkavállalói engedélyek megszerzésén.
 
-Kutatás és Fejlesztés Párt
+#### Kutatás és Fejlesztés Párt
 
 A Kutatás és Fejlesztés Pártja Mitt Romneyval az élén a modern technológiában és a tudományos kutatásokban látja Waikiki jövőjét. Támogatják az űrkutatást, a palládium reaktor továbbfejlesztését és a géntechnológiai kísérleteket is. Az állam hatékonyabb működése érdekében az R&D párt anonim információkat gyűjtene a lakosságról, hogy ezáltal több adat álljon rendelkezésre a gyógyászati kutatók, a terror elhárítás és a pénzügyi intézetek számára. A párt nemzetközi viszonylatban is elsősorban a tanulmányokra és a közös kutatásokra helyezi a hangsúlyt, ezért több cserediák programot tenne lehetővé és nemzetközi kutatócsoportoknak adna támogatást. Belpolitikai javaslatuk szerint emelnék a tankötelesség korhatárát, és bizonyos fokú, ingyenes oktatást az ideiglenes munkavállalók számára is lehetővé tennének.
 
-Fenntartható Fejlődés Párt
+#### Fenntartható Fejlődés Párt
 
 Az amerikai feltaláló, Darius Tanz által nemrég alapított Fenntartható Fejlődés Párt máris hatalmas népszerűségnek örvend Waikikin. Darius célja a klímaváltozás megakadályozása és a környezetszennyezés megszüntetése, anélkül, hogy csökkenne az életszínvonal vagy a termelés. A párt által képviselt fő ügy a környezetvédelem és a gazdasági fejlődés összhangja, emellett nagy hangsúlyt helyeznek a magasszintű oktatásra, a zöld területek védelmére és a tudományos felfedezésekre is. Ha miniszteri pozícióhoz jut, Darius szorgalmazni fogja az erdőültetést és a nagyvárosok parkosítását. A párt elengedhetetlennek tartja a Világkormány intézkedéseit ahhoz, hogy nemzetközi szinten is kikényszerítsék a megújuló energiaforrások használatát, a hulladék újrahasznosítást és a természetes ivóvízkészletek megóvását.
 
-Waikiki Republikánus Párt
+#### Waikiki Republikánus Párt
 
 A Republikánus Párt legfőbb célja Waikiki egy olyan köztársasággá történő átalakítása, melynek élén egy közvetlen szavazással megválasztott diktátor áll. A republikánusok ellenzik a szenátus intézményét, helyette a kongresszus helyeit bővítenék. A párt vezetője, Mark Rogers szerint egyaránt fontosak a liberális értékek, a nemzeti hagyományok és a kulturális sokszínűség megőrzése is, ezért a mérsékelt és felügyelt bevándorlás mellett foglalt állást. Nemzetközi szinten fontos szövetségesként tekintenek az Egyesült Államok Republikánus Pártjára. Mark szerint a Világkormány minisztereit közvetlen választással kellene kijelölni és az nemzetközi törvényekről szintén választott képviselők döntenének. A párt belpolitikai tervei között szerepel az önkormányzatok megerősítése és a helyi adók bevezetése is.
 
-Liberális Párt
+#### Liberális Párt
 
 A 2012-ben alapult, de eddigi választásokon parlamentbe nem jutó liberális párt az alapvető emberi szabadságjogok biztosítását tűzte ki legfőbb céljául. A párt támogatja a társadalmi szerződés gondolatát, aminek alapján az állam polgárai hozzák a törvényeket, és egyetértenek abban, hogy alávetik magukat nekik. A Liberális Párt választójogot adna minden felnőtt polgárnak nemzetiségre, vallásra, gazdasági státusra való tekintet nélkül. Előnyben részesítik ugyan a kormányzati beavatkozástól mentes szabadpiacot, de bizonyos közjavak esetén meghagynák az állam szerepét. A párt jelentősen csökkentené az állami monopóliumokat, helyette privát cégekre és a szabadpiacra helyezné a gazdaság súlypontját. A párt vezetője, Arianna Huffington ellenzi a szigorú bevándorlási és munkavállalási szabályokat.
 
-Szociáldemokrata Párt
+#### Szociáldemokrata Párt
 
 A Waikiki-i Szociális Mozgalom utódjaként megalapuló Szociáldemokrata Párt támogatja az állam gazdasági és szociális beavatkozását, elősegítené a társadalmi igazságosságot és a jövedelem újraelosztást a piacgazdaság keretein belül. A párt vezetője, a finn származású Tarja Halonen alapvetőnek tartja a képviseleti demokráciát, de nem zárkózik el a részvételi- vagy közvetlen demokráciától sem. A párt tagjai szerint a kormánynak nagyobb erőforrásokat kellene fordítani a rászorulók segítésére, és a megnövekedett kiadásokat az újonnan bevezetendő jövedelemadókból pótolnák. Nemzetközi kapcsolatok terén a szociáldemokraták fontos szövetségesnek tekintik a Nyugat- és Közép-Európai államokat, de ellenzik a Szabadkereskedelmi övezet létrejöttét és a Kína ellen folytatott kereskedelmi háborút is.
 
@@ -574,13 +568,13 @@ Donald Trump amerikai elnök kereskedelmi háborújának legújabb lépéseként
 
 Az Egyesült Királyság az Európai Unióból való kilépése kapcsán további tárgyalások zajlanak a kormányfők között. Az eredetileg a 2016-os népszavazás hatására indult Brexit komoly gazdasági következményekkel járhat mind Anglia, mind az EU számára, így a kérdés jelentősen megosztja a lakosságot. Egyenlőre több fontos kérdésben, köztük Észak-Írország helyzetét illetően sincs megállapodás, a kilépési folyamat befejezése mégis 2020-ra várható. Az Egyesült Királyság új kereskedelmi partnerek után kutatva Waikiki-vel is felvette a kapcsolatot, és a két ország diplomatái mindkét fél számára előnyös egyezségre törekednek.
 
-Kormányzati beruházások 2019-ben
+## Kormányzati beruházások 2019-ben
 
 2019-ben több ikonikus projekt valósult meg vagy indult el. A Mega Pyramid City – egy hatalmas bevásárló-, lakó- és irodakomplexum – Waikiki 20. évfordulójára készül el. Folytatódik a Kaméleon-szigetek, Waikiki harmadik nagy mesterséges szigetcsoportjának építése Nova Aureliában. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba áll. A több toronyból álló Royal Clock Tower elsősorban minisztériumi irodáknak ad helyet, és a 2019-es ünnepségsorozat keretében Raimondo bemutatta Waikiki új parlamentjének terveit is.
 
 Elkészült a Waikiki két szigetét összekötő, 100 km-es vasúti alagút – jelenleg a világ leghosszabb tenger alatti vasúti alagútja –, és átadták Nova Aurelia 27. metróvonalát. São Paulo közelében megkezdődött az ötödik fúziós erőmű építése, és csak 2019-ben 150 milliárd WUD értékű megújuló energia projektet valósított meg a kormány. New Mavericks jachtkikötőjében elkészült a Sydney-i Operaház pontos mása, miközben a Nemzeti Múzeum új kiállításokkal és kölcsönzött műalkotásokkal bővítette kínálatát. A fővároshoz hasonlóan New Mavericks köré is megkezdődött az árvízvédelmi gát építése.
 
-Waikiki fennállásának 20. évfordulója
+## Waikiki fennállásának 20. évfordulója
 
 Waikiki fennállásának 20. évfordulójára a kormány hatalmas ünnepségsorozatot rendezett és rengeteg új építészeti beruházást vitt véghez valamit jelentett be újonnan. Az ország 20 különböző nagyvárosában tartottak látványos tűzijátékokat, felvonulásokat és ünnepségeket a március 10-i héten, a történelmi jelentőségű eseményre való emlékezésképp, hiszen épp 20 évvel ezelőtt jelentette be Chease Young Waikiki államának megalakulását. A hatalmas ünnepségsorozat megnyitóján Raimondo Chease személyesen adott át több óriásberuházási projektet, köztük, a Mega Pyramid City-t és a Royal Clock Tower-t. A teljes hétig tartó ünnepség alkalmából rengeted külföldi turista látogatott az országba. Az évforduló keretében a Nemzeti Múzeum több világhírű műalkotást kölcsönzött ki és számos új kiállítást nyitott meg, melyek egész évben várják az oda látogató érdeklődőket.
 
@@ -590,33 +584,33 @@ A 2019. november 19-én tartott kongresszusi választásokat a Waikiki Világura
 
 Milliomosok Pártja Világuralmi Párt Demokratikus Párt Fenntartható Fejlődés Párt Kutatás és Fejlesztés Párt Republikánus Párt Szociáldemokrata Párt Milliomosok Pártja Szociáldemokrata Párt Republikánus Párt Kutatás és Fejlesztés Párt Fenntartható Fejlődés Párt Demokratikus Párt Világuralmi Párt
 
-Kormánytagok 2020
+## Kormánytagok 2020
 
 A 2019-es választásokon a Waikiki Világuralmi Párt szerezte a legtöbb szavazatot, így ismét George Bush alakíthatott kormányt. A miniszteri pozíciókra tett javaslatot a kongresszus már az első szavazással 2/3-os többséggel fogadta el. A legtöbb fontos pozíció nem változott, továbbra is Scott Walker tölti be a pénzügyminiszteri, Aaron Eckhart a külügyminiszteri pozíciót, Ayden Roberts pedig ötödik alkalommal lett Waikiki kereskedelmi minisztere. Fontos változás azonban, hogy Selena Gomez apja, Ricardo Gomez fejlesztési miniszter, Matt Damon munkaügyi miniszter, Thomas Boone iparfejlesztési miniszter, Darius Tanz pedig környezetvédelmi miniszter lett. A kormányba összesen öt párt tagjai kaptak miniszteri pozíciót, így Waikikin ismét koalíciós kormány alakult.
 
 A 2020-as kormány tagjai: Ayden Roberts (kereskedelmi miniszter), Mary Bono Mack (infrastrukturális miniszter), Scott Walker (pénzügyminiszter), Paul Ryan (igazságügyminiszter), Ruby Dhalla (erőforrásügyi miniszter), Jonathan Gruber (egészségügyminiszter), John Boehmer (belügyminiszter), Timothy John (tudományügyi miniszter), Rick Santorum (mezőgazdasági miniszter), Thomas Boone (iparfejlesztési miniszter), Nicole Minetti (turisztikai miniszter), Ricardo Gomez (fejlesztési miniszter), Matt Damon (munkaügyi miniszter), Darius Tanz (környezetvédelmi miniszter), George LeMieux (kulturális miniszter), Carte Goodwin (energetikai miniszter), David Vitter (oktatási miniszter), Aaron Eckhart (külügyminiszter), Morgan Clark (hadügyminiszter) és Winnefeld Daniels (védelmi miniszter).
 
-Új politikai Programterv
+## Új politikai Programterv
 
 A globalizáció kihívásaira, a globális felmelegedés fenyegetésére és a digitalizáció által nyújtott lehetőségekre válaszul George Bush elnök új politikai irányvonalat hirdetett meg, melynek középpontjában Waikiki hosszú távú stabilitása és fejlődése áll. A miniszterek által bemutatott új programcsomag 4 alapvető pillérre épül, melyek az alábbiak.
 
-Fokozott nemzetközi szerepvállalás
+#### Fokozott nemzetközi szerepvállalás
 
 George Bush szerint Waikiki-nek nagyobb szerepet kell vállalnia a nemzetközi konfliktusok feloldásában és a külpolitikának nagyobb hangsúlyt kell fektetnie a nyugati világ olyan szövetségeseinek védelmére, mint például Izrael vagy Ausztrália. Erre azért is szükség van, mert az USA háttérbe szorulása hatalmi vákuumot eredményezhet, és a teljes emberiség érdeke az országok közti konfliktusos helyzetek békés rendezése. Az elnök szintén kifejezte, hogy Waikiki fel fog lépni Kína agresszív terjeszkedésével szemben, és tovább folytatja a kereskedelmi háborút és az importkorlátozásokat az ázsiai kommunista országgal szemben.
 
-Környezetvédelem
+#### Környezetvédelem
 
 A kormány nagy hangsúlyt fektet a környezetvédelemre, ezt szimbolizálja Darius Tanz miniszterré történő kinevezése is, aki hatalmas erdőtelepítési és nemzeti park kiterjesztési javaslattal állt a parlament elé. Szintén a klímavédelem jegyében szigorítják a kriptovaluta bányászatot, amely több országban az egyik legkörnyezetszennyezőbb iparággá nőtt, és 2023-tól bevezetik a kereskedhető CO2 kvóták alkalmazását. Ezek az intézkedések jelentősen csökkenthetik az ország üvegházhatású gázkibocsátását. Ezen kívül Waikiki 2021-től korlátozni fogja a fosszilis energiahordozó kitermelését, a globális felmelegedés megfékezésének céljából.
 
-Pénzügyi stabilitás
+#### Pénzügyi stabilitás
 
 Scott Walker pénzügyminiszter szerint egy ország gazdasági stabilitása fontosabb, mint bármikor korábban, hiszen ez fogja meghatározni a következő válság kimenetelét. Ennek érdekében a parlament elfogadta Jessica Walker javaslatát, miszerint módosul a Nemzeti Bank hitelminősítési eljárása. Az eddigi 10 fokozatú skála helyett a cégek 5 db, betűvel jelölt főkategóriába, azokon belül pedig 3-3 alkategóriába lesznek besorolva. A minősítés során a pénzügyi stabilitás mellett a fenntarthatóság és a társadalomra gyakorolt hatás is szerepet kap majd. Az átmenet alatt, a Nemzeti Bank 2021-ig párhozamosan biztosítja a kettő értékelési rendszert.
 
-Csúcsszínvonalú oktatás
+#### Csúcsszínvonalú oktatás
 
 David Vitter oktatási miniszter kijelentette, hogy célja az oktatási rendszer modernizálása és világelsővé tétele. Ennek keretében a kormányzati ciklus második felére jelentősen nőhetnek az oktatásra fordított költségvetési kiadások, de a miniszter szerint megéri ez a jövőbe történő befektetés. A kormány célja további együttműködések indítása multinacionális vállalatokkal a versenyképesebb és a piaci igényeknek maximálisan megfelelő tudásanyag kialakításáért. Ennek keretében a jövőben több olyan vállalati felsőoktatási intézmény jöhet létre, mint az Apple, a Techno Industries vagy az Inter Medic által alapított egyetemek.
 
-Törvénymódosítások 2020-ban
+#### Törvénymódosítások 2020-ban
 
 A parlament mindkét háza elfogadta a médiatörvény módosítására irányuló javaslatot, melynek célja a közösségi platformok szigorúbb ellenőrzése és a személyi valamint politikai jogok védelme a digitális térben. Az új törvény lehetővé teszi, hogy amennyiben egy közösségi média platform korlátozza a vezető állami tisztségviselők szólásszabadságát, akkor a kormány ideiglenesen felfüggesztheti az adott platform működését. Ezt egészíti ki a Digitális Infrastruktúra Függetlenségi rendelet, melynek célja a kormányzati tájékoztatás minél nagyobb fokú függetlenítése a digitális platformoktól, közösségi média oldalaktól és egyéb internetes szolgáltatóktól. Ennek keretében a kormányzat a korábbinál több szolgáltatóval köt szerződést, és az állampolgárokkal folytatott kommunikáció is több csatornán folyik majd. Szintén átment a parlamenten a kriptovaluták szabályozására vonatkozó rendelet, aminek következtében a jogi személyek kötelesek tájékoztatni az adóhatóságot az 1 millió WUD-t meghaladó értékű kriptovaluta befektetésükről, valamint kötelesek jelenteni minden 100.000 WUD-t meghaladó kriptovalutát érintő tranzakciót. Ezzel egyidejűleg a kriptovaluta bányászatból származó bevételt 2020. áprilisától kezdve 5%-os környezetvédelmi adó terheli, ami magánszemélyekre is vonatkozik. A kormány a szigorításokat a szürkegazdaság visszaszorításával és a pénzügyi kockázatok mérséklésével indokolta.
 
@@ -630,45 +624,41 @@ A járványhelyzet hatékony kezelésének érdekében a parlament 2020. áprili
 
 ## Fontos események 2021-ben
 
-## Joe Biden amerikai elnök lett
+#### Joe Biden amerikai elnök lett
 
 Barack Obama korábbi alelnöke, Joe Biden lett az Egyesült Államok 46. elnöke. Az ellentmondásos választáson Donald Trump korábbi elnök csalással vádolta demokrata kihívóját, de nem tudott elegendő bizonyítékot felmutatni, ezért az elektorok jóváhagyták Biden kinevezését. Elnökként Biden első céljai a COVID-19-pandémia és az azt követő gazdasági válság kezelése. Habár a választáson nyíltan Trumpot támogatta, Chease Young gratulált Bidennek, és bejelentette, hogy szívesen működik együtt az új elnökkel a globális problémák megoldásában, és bízik abban, hogy Waikiki és az USA jó viszonya továbbra is megmarad.
 
-Az EAN felbomlása
+#### Az EAN felbomlása
 
 A 2013-ban Chease Young és Smith Edward kezdeményezésére létrejövő afrikai nemzetszövetség elnöke, Emmanuel Ali több központi kormánytag, köztük Wilfred Tipton leváltásával destabilizálta az államot, így az ellenzéki pártok bizalmatlansági indítványt kezdeményeztek ellene. A szavazás ugyan elbukott, de erre válaszul a tagországok jelentős része bejelentette kilépését a szövetségből. Chease Young sajnálatát fejezte ki a történtek iránt, és kijelentette, hogy minden függetlenedő államot szívesen lát majd Waikiki szövetségeseként. Eközben az EAN által felhalmozott hatalmas adósság egy részét a Világbank vállalta át.
 
-Az USA kivonul Afganisztánból
+#### Az USA kivonul Afganisztánból
 
 Joe Biden amerikai elnök 2021. szeptemberében minden amerikai csapatot kivon Afganisztán területéről. A katonák rohamos kivonása után azonban hatalmi vákuum keletkezik az országban, és ennek következtében polgárháborús helyzet alakul ki, és a helyi erők az amerikaiak által hátrahagyott fegyvereket használnak egymás ellen. Waikiki kormányzata szerint a Biden adminisztráció elsietett kivonulása hosszú bizonytalanságot idézhet elő a régióban, és migrációs hullámokat indíthat el. Mindazonáltal Waikiki nem szándékozik beavatkozni a kialakult helyzetbe, és nem kockáztat meg egy háborús konfliktust.
 
-Klímacsúcs
+#### Klímacsúcs
 
 A világ vezetőinek 2021. novemberi csúcstalálkozójával kezdetét vette az ENSZ 26. éghajlatváltozási konferenciája, melyen az ENSZ 197 tagja vett részt, köztük az EU és valamennyi uniós tagállam. Waikiki kormányát Darius Tanz környezetvédelmi miniszter képviselte a 2021-es klímacsúcs találkozón, ahol előkerült a magánszektorral való együttműködés, a szén-dioxid-kvóták árazása és a gazdaságpolitikák közötti összhang biztosítása a klímavédelem céljából. Waikiki konkrét kötelezettséget nem vállalt, de bejelentette, hogy a közeljövőben tovább növeli megújuló energiatermelését.
 
-Államháztartási adatok 2021
+## Államháztartási adatok 2021
 
 Az elhúzódó világjárvány, a globális ellátási láncok összeomlása és az EAN-nel kötött kereskedelmi megállapodás felbomlása miatt a költségvetési bevétel ugyan nem érte el a 2019-es szintet, de meghaladta a 2020-as bevételeket. A 2021-es költségvetés teljes kiadása 5030 milliárd WUD, bevétele pedig a kötvénykibocsátást leszámítva 4230 milliárd WUD volt. A megnövekedett kiadásokat a Nemzeti Bank egy örök lejáratú, fix kamatozású kötvénycsomag kibocsátásából fedezte. Ez 2020-ban és 2021-ben összesen 4400 milliárd USD egyéb többletbevételt jelent a kormányzatnak, melyet a Covid válság kezelésére használhat fel. A bevételek túlnyomó résztét továbbra is az állami cégek profitja, valamint a vállalati adóbevételek teszik ki, de növekvő tendenciát mutat a környezetvédelmi adó is. Az ingyenes kórházi ellátás bevezetése óta nagy mértékben emelkedtek egészségügyi kiadások, melyek önmagukban a költségvetés egyharmadát teszik ki. Szintén jelentősen nőtt az infrastrukturális beruházások költsége, hiszen a kormány az utóbbi olyan megaprojektekbe kezdett, mint a Karib-tengeri alagútrendszer. Waikiki teljes állami tartaléka a Covid hatására csak minimálisan változott, 2021-ben elérte a 10,34 trilliárd WUD-t, ami az éves GDP 58%-át fedezi.
 
-Befektetési hozamok az elmúlt 20 évben
+## Befektetési hozamok az elmúlt 20 évben
 
 A Nemzeti Bank egy jelentést tett közzé, melyben Waikiki és az USA befektetési hozamait hasonlítja össze a 2000 és 2020 közötti időszakban. A közzétett adatokból jól látszik, hogy míg 2000-ben és 2005-ben az Egyesült Államokban nagyobb hozamokat érhettek el a befektetők, addig 2010. óta egyértelműen Waikiki nyújtja a jobb befektetési lehetőségeket. Ennek egyik oka, hogy a 2008-as pénzügyi válságot követően világ jelentős részén 0% közeli kamatkörnyezetet alkalmaztak, Waikiki ebben az időszakban is 2,5% körüli alapkamatot biztosított. Az alapvető tendenciák, mint például, hogy a hosszabb lejáratú hitelek magasabb kamattal rendelkeznek, a Covid válság hatására sem változott. Habár 2020-ban a FED által nyújtott alapkamat szintje magasabb, a hosszabb távú hiteleknél már egyértelműen Waikikin érhetők el nagyobb hozamok. 2021. szeptemberben a WNB által meghatározott betéti alapkamat 0,9%, a hitel alapkamat pedig 3,5%. 2021-ben a Nemzeti Bank legfőbb célkitűzése az árstabilitás, melynek érdekében kis mértékű kamatemelési ciklusra lehet számítani az elkövetkező időszakban.
 
-Waikiki lakossága 2021-ben
+## Waikiki lakossága 2021-ben
 
 A Waikiki-i Statisztikai Hivatal népszámlálást tartott 2021-ben, melynek részeként összesen több, mint 212 millió állampolgár, lakos vagy munkavállaló helyzetét mérték fel az ország három tartományában. Az egyes tartományok között jelentős eltérések mutatkoznak népességben, területben, népsűrűségben és gazdasági szerkezetben is. A legnagyobb népességű tartomány továbbra is Brazília, ahol több, mint 106 millió ember él. Az ideiglenes munkavállalók aránya Waikiki tartományban megközelíti a 15%-ot, míg a másik két tartományban 5% körüli. A teljes országot tekintve a népesség 62%-a rendelkezik teljes jogú állampolgársággal, és ez az arány Waikiki tartományban a legmagasabb. A népsűrűség Amazónia és Brazília tartományokban 20-25 fő/km2 körüli, Waikiki-n viszont lényegesen magasabb. Az egy főre jutó GDP Waikiki és Amazónia esetében magasabb, míg Brazíliában kissé alacsonyabb az országos átlagnál, de a jövedelmekben nincsenek kiugró eltérések. Az országban megtermelt javak mindössze 7,4%-át állítják elő Waikiki tartományban, de ez az arány így is magasabb, mint amit a népesség eloszlása indokolna.
 
-Kereskedelmi űrutazások
+## Kereskedelmi űrutazások
 
 Miután Chease Young, Raimondo és Selena 2018-ban a ellátogattak Waikiki Nemzeti Űrállomására, a WSA kereskedelmi űrprogramot indított. A szupergazdag magánszemélyek számára elérhető űrutazási lehetőségekkel már 10 millió dollárért a világűrbe látogathatunk, 50 millióért pedig két hetes all-inclusive nyaralást tölthetünk el űrsétával egybekötve a Waikiki-i űrállomáson. Az űrturisták jelenleg a SpaceX Falcon űrrakétáját vehetik igénybe, de a tervek szerint hamarosan egy Hold körüli utazásra is lehetőség nyílik, a Big Falcon Rocket fedélzetén. Az űrturizmusból befolyó bevételek hozzájárulnak a világegyetem megismeréséhez, és olyan technológiák fejlesztését finanszírozzák, amelyekkel az emberiség egy napon más bolygókat is meghódíthat.A program keretében a királyi családból 2020-ban Jennifer és barátja Tyler, 2021-ben pedig Angelina és Taylor utaztak a világűrbe. A kormány tagjai közül Smith Edward és Scott Walker szintén 2020 során járt a világűrben, a SpaceX alapítója Elon Musk pedig 2021-ben egy teljes hónapot töltött a Föld körül keringve. Musk célja, hogy amint lehetségessé válik, a Marsra is elutazzon, később pedig emberi kolóniát hozzon létre a vörös bolygón.
 
-
+## Orosz támadás Ukrajna területén
 
 2022. február 21-én Oroszország hivatalosan elismerte a két magát szeparatistának valló Donbász államot, és nyíltan csapatokat küldött a területekre. Három nappal később pedig az orosz hadsereg megtámadta Ukrajnát. A nemzetközi közösség nagy része, köztük Waikiki vezetése is azonnal elítélte Oroszországot Ukrajnában tett lépései miatt, azzal vádolva, hogy megsérti a nemzetközi jogot és megsérti Ukrajna szuverenitását. A Putyin által bejelentett különleges katonai művelet keretében perceken belül rakéták és légicsapások érték egész Ukrajnát, köztük Kijevet, amit nem sokkal később egy nagyszabású szárazföldi invázió követett több fronton. Zelenszkij ukrán elnök statáriumot hirdetett és általános mozgósítást rendelt el minden 18 és 60 év közötti férfi ukrán állampolgár számára, akiknek megtiltották az ország elhagyását. Az orosz támadások kezdetben egy északi fronton Fehéroroszországtól Kijev felé, egy északkeleti fronton Harkiv felé, egy déli fronton a Krím felől, valamint egy délkeleti fronton Luhanszk és Donyeck felől indultak. Chease Young azonnal elítélte az orosz agressziót és felszólította Putyint a támadás beszüntetésére, de kifejezte, hogy Waikiki érdekeit figyelembe véve semmiképp nem kíván részt venni a konfliktusban. Winnefeld Daniels védelmi miniszter katonai készültséget rendelt el, de biztosította az ország lakosságát, hogy nem számít a konfliktus globális eszkalációjára.
-
-Az orosz támadások főbb irányai
-
-Orosz tankok Ukrajna területén
 
 ## Gazdaságpolitika 2022-ben
 
@@ -708,19 +698,19 @@ Annak ellenére, hogy a koronavírus-válság és az ukrán háború miatt jelen
 
 ## Fontos események 2022-ben
 
-Energetikai együttműködés
+#### Energetikai együttműködés
 
 Carte Goodwin energetikai miniszter közleményt adott ki, hogy sikeres tárgyalásokat folytatott Argentína, Peru és Venezuela kormányaival is a korábbi energetikai együttműködés meghosszabbításáról, 2023-tól pedig már Bolívia is vásárol áramot Waikiki-től. Az együttműködés keretében a környező országok kedvező áron vásárolják meg a felesleges áramot Waikiki túltermeléses időszakaiban, saját termelésüket pedig dinamikusan szabályozzák fosszilis erőművekkel. Ehhez szintén Waikiki területéről vásárolnak földgázt, melyet az aktuális világpiaci áron szereznek be.
 
-Biztonságos internethálózat
+#### Biztonságos internethálózat
 
 Októberben Timothy John tudományügyi miniszter bejelentette, hogy Waikiki saját internet infrastruktúra fejlesztésébe kezd. A Secure Web kezdeményezés célja a világhálótól független, megbízható és redundáns rendszer kiépítése. Waikiki kormánya feladatául tűzte ki, hogy minden állampolgára számára megfelelő digitális jóléti szolgáltatásokat, és információhoz való hozzáférést nyújtson, szükség esetén akár más országok hálózatától függetlenedve is. A Secure Web számos biztonsági előírást tartalmaz, amelyek Timothy miniszter szerint jelentősen csökkenteni fogják a kiberbűnözés és az adatlopás kockázatát.
 
-Diplomáciai küldöttség Ukrajnába
+#### Diplomáciai küldöttség Ukrajnába
 
 Novemberben Waikiki külügyminisztere, Aaron Eckhart Kijevbe látogatott, hogy személyesen egyeztessen Volodimir Zelensky ukrán elnökkel. A két kormány tagjai többek közt tárgyaltak az Ukrajnából induló gabonaszállítmányok biztosításáról, orvosi készletek, gyógyszerek és felszerelések küldéséről és humanitárius segélynyújtásról is a háború által sújtott térségben. Aaron Eckhart a megbeszélések közben találkozott Magyarország köztársasági elnökével, Novák Katalinnal, akivel már korábban is egyeztetett a Kelet-Európai országba való beruházásokról, most pedig újabb stratégiai együttműködésekről tárgyalt.
 
-Mezőgazdasági támogatások
+#### Mezőgazdasági támogatások
 
 Decemberben Raimondo Chease és Rachel Zane együtt tárgyaltak a Mezőgazdasági Szövetség képviselőivel az élelmiszereket érintő importtámogatások ügyében. A megbeszélések kölcsönösen előnyös megállapodással zárultak, melynek részeként a kormány március 1-től kivezeti a csaknem egy éve tartó import után adott támogatást, azonban az 5%-os exportvám augusztusig továbbra is érvényben marad. A kormány célja az intézkedésekkel az élelmiszerárak növekedésének megakadályozása és így az infláció csökkentése. A versenyképesség növelése érdekében a kormány az automatizálás növelését célzó támogatásokat tervez.
 
@@ -730,7 +720,7 @@ Waikiki harmadik, nagy kiterjedésű mesterséges szigetcsoportjának építése
 
 A tudományos és energetikai fejlesztések terén is jelentős előrelépések történtek. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba állt, Brazíliában pedig São Paulo közelében épül az ország ötödik fúziós erőműve. 2019-ben a kormányzat 150 milliárd WUD értékű zöldenergia‑programot valósított meg.
 
-Boeing 7107
+#### Boeing 7107
 
 A Boeing bejelentette, hogy az általuk fejlesztett 7107-es széria lesz az első, hat sugárhajtóművel felszerelt utasszállító repülőgép. A hosszú, interkontinentális utakra tervezett típus legfeljebb 930, tipikus elrendezésben pedig 570 utas szállítására alkalmas. A repülőgép különleges biztonsági előírásoknak felel meg; hat Rolls‑Royce Trent 1000 hajtóműve nagyfokú redundanciát biztosít, így katonai célokra is megfelel. A gyártó egy teherszállításra átalakított változatot is tervez, amely akár 300 tonna rakomány szállítására lesz képes. A hatótáv utasokkal eléri a 17 000 kilométert, a tipikus személyzet létszáma pedig 25 fő. A Boeing által rendezett bemutatón Chease Young és Thomas Boone is részt vett. Boone hangsúlyozta, hogy az amerikai cég által Waikikin gyártott gép, amely a rivális Airbust váltja a legnagyobb utasszállító szerepében, a Made in America 2025 program első fontos mérföldköve. A cég kéthavonta tervezi egy új gép legyártását; az első 12 darabból 10-et a Quantum Airlines, egy utasszállító és egy teherszállító változatot pedig a Waikiki-i légierő rendelt meg.
 
@@ -742,27 +732,27 @@ Januárban, nem sokkal, miután Németország bejelentette, hogy Leopárd 2 harc
 
 Februárban Chease Young, kabinetfőnöke Rachel Zane kíséretében Brüsszelbe utazott, ahol személyesen találkozott Volodimir Zelensky ukrán elnökkel. Chease részt vett az Európai Unió ülésén, ahol ismét kiállt Ukrajna mellett, és visszavonulásra szólította fel az orosz erőket, majd pedig négyszemközti beszélgetést folytatott az ukrán elnökkel. Chease Young továbbra sem támogatja a fegyverszállítmányokat Ukrajna területére, azonban diplomáciai csatornákon keresztül mindent megtesz a békéért. Ezalatt Aaron Eckhart külügyminiszter arra kérte a Parlamentet, hogy az szankciós csomagokkal gyakoroljon nyomást Oroszországra.
 
-Made in America 2025
+#### Made in America 2025
 
 Márciusban Chease Young bejelentette a Made in America 2025 programot, melynek keretében Waikiki kormánya támogatást nyújt az Amerikai kontinensen alapított termelő vállalatok számára, ezzel csökkentve a feldolgozóipari kitettséget a Távol-Keletnek és Afrikának. Az 500 milliárd WUD mértékű támogatási csomag harmada vissza nem térítendő támogatások formájában lesz elérhető a következő 5 évben Waikiki, Argentína vagy az USA területén gyárakat létesítő vállalatok számára. A fennmaradó összegből pedig hitel formájában részesülhetnek az Amerikai kontinensen beruházó vállalatok.
 
-Nemzeti Tartalékok átsrukturálása
+#### Nemzeti Tartalékok átsrukturálása
 
 A Nemzeti Bank elnöke bejelentette, hogy Waikiki állami aranytartalékát az elkövetkező két évben 3500 tonnára csökkentik. A több, mint 400 tonnányi arany eladását Michael J. Cavanagh az infláció elleni küzdelemmel, és nagyobb hozamot kínáló tőkepiaci befektetésekbe történő átcsoportosítással indokolta. Az eladott aranyból származó bevételekből a Nemzeti Bank hazai és nemzetközi beruházások finanszírozását valamint a Covid válság alatt kibocsátott államkötvények visszavásárlását tervezi. A júniusi bejelentés hatására a WUD árfolyama kis mértékben erősödött, ami a megnövekedett államkötvény kereslettel indokolható.
 
-Népszavazás
+#### Népszavazás
 
 A 2023-as népszavazás eredményeként Waikiki kormánya felhatalmazást kapott a választópolgároktól, hogy lőszerekkel támogassa a honvédő ukrán csapatokat. A népszavazáson a résztvevők 83%-a támogatta az Ukrajnának küldött humanitárius segélyeket, 58%-a lőszereket és hadi ellátmányokat, míg mindössze 18%-a szavazott a fegyverszállítás mellett. Morgan Clark hadügyminiszter kijelentette, hogy Waikiki a jövőben sem tervezi csapatok küldését Ukrajnába, és habár elismerte Ukrajna jogos önvédelmét, mindkét harcoló felet arra szólította fel, hogy mihamarabb kezdjenek béketárgyalásokba.
 
-State of the Nation
+#### State of the Nation
 
 A 2023-as State of the Nation esemény során Chease Young egyik legfontosabb témaként Waikiki és a nyugati szövetségi rendszer további integrációját említette. Ennek lényeges eleme az Ukrajna melletti egységes kiállás, melynek elkövetkező fázisában Waikiki kész akár lőszereket is biztosítani a Kelet-Európai ország számára. A kancellár Winnefeld Daniels tábornokot nevezte ki az ukrajnai műveletek felügyeletére, aki beszédében a fegyveres segítségnyújtás lehetőségét is felvetette a megtámadott ukránok számára. A tábornok másnap személyesen Ukrajnába utazott, hogy közelről tájékozódjon a háborús helyzetről.
 
-Szankciók Kínával szemben
+#### Szankciók Kínával szemben
 
 Válaszul arra, hogy a kínai állam kitiltotta a közhivatalaiból az iPhone készülékek használatát, Ayden Roberts kereskedelmi miniszter egy, több mint 1000 kínai termékre kiterjedő büntetővám-csomag bevezetését terjesztette a Parlament elé. A főleg elektronikai termékekre kiterjedő szankciókat a képviselők többsége támogatta, így azok már november elejétől életbe léphetnek, és átlagosan 5%-kal emelik meg ezen termékek behozatalára kiszabott vámokat. George Bush azt is kijelentette, hogy amennyiben Kína támogatja Oroszország hadműveleteit, úgy további szankciók bevezetését javasolja a kommunista országgal szemben.
 
-Támadás Izrael ellen
+#### Támadás Izrael ellen
 
 Október 7-én reggel rakéták tömegét lőtték Izrael déli és középső részére a Gázai övezetből valamint fegyveres terroristák tucatjai hatoltak be izraeli településekre. A harcok nap közben sem csitultak, a Hamas terrorszervezet vezetői szerint pedig ez csak a harcok kezdete. Az elmúlt évek legnagyobb fegyveres konfliktusa alakult ki a Közel-Keleten és a civil áldozatok száma már az első nap folyamán elérte a több százat. Közben a nemzetközi porondon is reagálnak a különböző hatalmak, Chease Young kancellár és Joe Biden amerikai elnök is teljes mértékben elítélte a Hamas támadását és a támogatás minden eszközét ajánlotta fel Izraelnek.
 
