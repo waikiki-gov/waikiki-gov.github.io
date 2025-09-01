@@ -4,56 +4,78 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 1999
 - Chease Young megalapítja Waikikit.
-- Az ország csatlakozik az ENSZ‑hez.
+- Csatlakozás az ENSZ‑hez.
 
 ## 2000
-- Chease Young hivatalba lép diktátorként.
-- A központi állami intézményrendszer felállítása és az alkotmányos keretek megszilárdítása.
+- Chease Youngot diktátorrá választják.
+- Első parlamenti választások a Demokratikus Párt győzelmével
+- Alkotmány elfogadása népszavazás álltal.
+- Állami intézményrendszer és alkotmányos keretek megszilárdítása.
+
+## 2001
+- Országos e‑kormányzati program és online ügyintézés indul.
+
+## 2002
+- Elektronikus választási infrastruktúra kiépítése.
 
 ## 2003
-- Atomhatalmi státusz elérése és a kapcsolódó nemzetközi együttműködések bővítése.
+- Atomhatalmak szövetségének megalapítása.
+
+## 2005
+- Kormányalakítás a Világuralmi Párt vezetésével, Rick Santorum elnöki beiktatása.
 
 ## 2006
-- Brazília népszavazást követően, államadóssága rendezéséért cserébe két új tartománnyal csatlakozik; kialakul a háromtartományos államszerkezet (Waikiki, Amazónia, Brazília).
-- Waikiki a világ leggazdagabb országává válik a csatlakozási évet követően.
+- Brazília népszavazást követően csatlakozik.
+- Kialakul a háromtartományos államszerkezet.
+- Waikiki a világ leggazdagabb országa lesz.
 
 ## 2007
-- Csatlakozás az Amerikai Gazdasági Unióhoz; a transzatlanti gazdasági integráció elmélyítésének kezdete.
+- Csatlakozás az Amerikai Gazdasági Unióhoz.
 
 ## 2008
-- Intézményi konszolidáció: új főbíró kinevezése (Sebastian Stark), a médiatanács új elnöke (Rupert Murdoch), a fegyveres erők főparancsnokának kinevezése (Logan Davis).
-- Honvédelmi és igazságügyi reformok végrehajtása.
+- Intézményi konszolidáció: főbíró (Sebastian Stark), médiatanács elnöke (Rupert Murdoch), főparancsnok (Logan Davis).
+- Védelmi és igazságügyi reformok.
 
 ## 2009
-- Új banktörvény: 50% saját tőke‑követelmény a hiteleknél; három engedélyezett hiteltermék; kötvénykibocsátás szabályozása és a prudenciális felügyelet megerősítése.
+- Új banktörvény, szigorúbb prudenciális követelmények.
+
+## 2010
+- Kormányalakítás a Demokratikus Párt vezetésével, Aaron Eckhart elnöki beiktatása.
 
 ## 2012
-- Országos jelentőségű sport‑ és kulturális rendezvények Nova Aureliában (olimpiai játékok megrendezése és megnyitóünnepség).
+- Olimpiai játékok Nova Aureliában.
 
 ## 2013
-- A gyermekgondozási segély (GYES) időtartamának 3 évre bővítése.
+- GYES időtartamának 3 évre bővítése.
 
 ## 2015
-- Raimondo Chease szenátorrá nevezése.
-- Költségvetési mérföldkő: az éves költségvetés volumene meghaladja a 7 000 milliárd USD‑t.
+- Szenátus megalakulása.
+- Raimondo Chease szenátor lesz.
+
+## 2016
+- Nemzeti Bank elnökváltás: Michael J. Cavanagh (2016–2023).
 
 ## 2017
-- A diktátori tisztség átadása Chease Youngtól Raimondo Chease részére.
+- Diktátori tisztség átadása Raimondo Chease‑nek.
 - Csatlakozás a Transzatlanti Szabadkereskedelmi Övezethez.
-- Az ingyenes állami egészségügyi ellátás bevezetése.
-- Konzuli vezetők kinevezése: Jessica Walker és Selena Gomez.
+- Ingyenes állami egészségügy bevezetése.
+- Konzuli kinevezések: Jessica Walker, Selena Gomez.
+- Megkezdődik a Transborder Missile Defense System kiépítése.
 
 ## 2018
-- A gazdaság teljes készpénzmentesítése; elektronikus fizetési módok bevezetése országos szinten.
-- Az ingyenes tömegközlekedés országos kiterjesztése.
-- Kulcsszerep a Világkormány megalapításában és a globális együttműködések erősítésében.
+- Készpénzmentes gazdaság bevezetése, kötelező elektronikus fizetés.
+- Ingyenes tömegközlekedés országosan.
+- A Világkormány megalapítása.
 
-## 2021
-- Demográfiai és jövedelmi statisztikák frissítése; a teljes GDP 39 818 milliárd USD.
-- A kongresszus összetételének frissítése (pártarányok aktualizálása).
+## 2020
+- George Bush megkezdi újabb elnöki ciklusát.
+- Chloe Bennet kabinetfőnök lesz.
+
+## 2022
+- Körforgásos gazdasági stratégia bejelentése, zéró hulladék célok 2030‑ig.
 
 ## 2023
-- Intézményi vezetőváltások: a médiatanács elnökének (Rupert Murdoch) és a titkosszolgálat igazgatójának (Elena Martinez) hivatali ciklusa lezárul.
+- Vezetőváltás: Médiatanács elnöke, Titkosszolgálat igazgatója.
 
 ## 2024
-- A Waikiki Nemzeti Bank elnökévé Jessica Walker kinevezése; a monetáris keretrendszer és az árstabilitási mandátum megerősítése.
+- Jessica Walker ismét a Waikiki Nemzeti Bank elnöke lesz.
