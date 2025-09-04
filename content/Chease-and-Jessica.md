@@ -119,9 +119,9 @@ A kormány monumentális ünnepségsorozattal és nagyszabású építkezésekke
 
 ### Jelentős építkezési projektek 2009-ben
 
-A 2009-es ünnepségsorozat keretében Chease Young továbbfejlesztette az ország fővárosát, New Raimondót. Nova Aurelia partjához a Föld kontinenseit megformáló mesterséges szigetcsoportot építettek fel. A Nova Aureliában épülő Disneyland park a hetedik ilyen létesítmény a világon. A 956 méter magas Sky City toronyház a világ legmagasabb felhőkarcolója lett.
+A 2009-es ünnepségsorozat keretében Chease Young továbbfejlesztette az ország fővárosát, Nova Aureliát. Nova Aurelia partjához a Föld kontinenseit megformáló mesterséges szigetcsoportot építettek fel. A Nova Aureliában épülő Disneyland park a hetedik ilyen létesítmény a világon. A 956 méter magas Sky City toronyház a világ legmagasabb felhőkarcolója lett.
 
-A közlekedési infrastruktúra modernizálása keretében Nova Aureliában három új metróvonalat, négy villamosvonalat és öt magasvasút-pályát építettek ki. Az Infinity Tower a világ egyetlen csavart toronyháza lett, és Waikiki egyik jelképévé vált. New Raimondót forradalmi gáttal vették körül, amely egyszerre szolgál erőműként és autópályaként is.
+A közlekedési infrastruktúra modernizálása keretében Nova Aureliában három új metróvonalat, négy villamosvonalat és öt magasvasút-pályát építettek ki. Az Infinity Tower a világ egyetlen csavart toronyháza lett, és Waikiki egyik jelképévé vált. Nova Aureliát forradalmi gáttal vették körül, amely egyszerre szolgál erőműként és autópályaként is.
 
 A kulturális fejlesztések részeként megújult a Waikiki Nemzeti Múzeum, amely a világ legnagyobb régészeti gyűjteményének ad otthont. Az egyhetes ünnepségsorozatra 2 millió turista érkezett szerte a világból. A partra épült Hotel Millennium öt csillagos szálloda egy hullám alakját idézi fel a látogatókban. Az 5 millió dolláros tűzijáték során több mint 500 000 rakétát lőttek fel 25 különböző színben.
 
@@ -356,7 +356,7 @@ A 2017-es év komoly történelmi jelentőséggel bír az emberiség történelm
 
 ### Bilderberg-találkozó
 
-A befolyásos személyekből, politikusokból, tudósokból, médiaszemélyiségekből és üzletemberekből álló, zárt körű társaság először 2015-ben hívta meg Chease Raimondót és családját is éves gyűlésére, most pedig vezető tagjaivá is választották. Habár a találkozón elhangzottak szigorúan titkosak, Raimondo elárulta, hogy a globalizációról, a mesterséges intelligenciáról és a kiberbiztonságról esett szó. Mind a csoport tagjai, mind a találkozóra meghívott vendégek névsora titkos, csupán az öt vezető tag ismert, akik között már Raimondo is helyet kapott. A csoport alapítói között szerepel David Rockefeller, Bernhard herceg, Samuel Berger és Jim Walton is. Habár a csoportról rengeteg összeesküvés elmélet született, valós szerepük máig is vitatott.
+A befolyásos személyekből, politikusokból, tudósokból, médiaszemélyiségekből és üzletemberekből álló, zárt körű társaság először 2015-ben hívta meg Raimondót és családját is éves gyűlésére, most pedig vezető tagjaivá is választották. Habár a találkozón elhangzottak szigorúan titkosak, Raimondo elárulta, hogy a globalizációról, a mesterséges intelligenciáról és a kiberbiztonságról esett szó. Mind a csoport tagjai, mind a találkozóra meghívott vendégek névsora titkos, csupán az öt vezető tag ismert, akik között már Raimondo is helyet kapott. A csoport alapítói között szerepel David Rockefeller, Bernhard herceg, Samuel Berger és Jim Walton is. Habár a csoportról rengeteg összeesküvés elmélet született, valós szerepük máig is vitatott.
 
 ## További események 2017-ben
 
