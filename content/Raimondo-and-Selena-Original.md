@@ -1,255 +1,129 @@
 # Raimondo és Selena
 Raimondo Chease
 
-Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. július 7-én. 10 éves koráig szüleivel otthon tanult, majd 2 évig a Nova Aurelia Main Primary Schoolba járt. 2008-tól tanulmányait a Nova Aurelia High Schoolban folytatta. Később a Seven Seas High Schoolba jelentkezett, ahol megismerkedett Bailey Pickettel, aki később Ray első barátnője lett. Raimondo 2015-től szenátorként csatlakozott Waikiki kormányához, majd miután 2017-ben elvégezte a Waikiki Economics University gazdasági képzését, apja Chease Young átadta neki az ország vezetését, így Ray Waikiki diktátora lett. A Forbes 2018-as felmérése szerint Raimondo a világ legbefolyásosabb embere, vagyonát pedig több mint 2.000 milliárd amerikai dollárra becsülik. A Világkormány megalapulása után Raimondót a Trilaterális Bizottság tagjává választották. Miután Raimondo februárban szakított Baileyvel, a híres énekesnővel, Selena Gomezzel kezdett járni, aki szintén a Waikiki-i szenátus tagja.
+Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. július 7-én. 10 éves koráig szüleivel otthon tanult, majd 2 évig a Nova Aurelia Main Primary Schoolba járt. 2008-tól tanulmányait a Nova Aurelia High Schoolban folytatta. Később a Seven Seas High Schoolba jelentkezett, ahol megismerkedett Bailey Pickettel, aki később Ray első barátnője lett. Raimondo 2015-től szenátorként csatlakozott Waikiki kormányához, majd miután 2017-ben elvégezte a Waikiki Economics University gazdasági képzését, apja Chease Young átadta neki az ország vezetését, így Ray Waikiki diktátora lett. A Forbes 2018-as felmérése szerint Raimondo a világ legbefolyásosabb embere, vagyonát pedig több mint 2.000 milliárd amerikai dollárra becsülik. A Világkormány megalakulása után Raimondót a Trilaterális Bizottság tagjává választották. Miután Raimondo februárban szakított Baileyvel, a híres énekesnővel, Selena Gomezzel kezdett járni, aki szintén a Waikiki-i szenátus tagja.
 
 Seven Seas High School
 ----------------------
 
-Raimondo 2011-ben jelentkezett a Seven Seas High School-ba az SS Tipton óceánjáró fedélzetén. Miután a hajó igazgatójánál, Mr. Mosebi-nál beiratkozott, az italbárnál futott össze osztálytársával, Bailey Pickettel akire véletlenül ráöntött egy pohár üdítőt. Raimondo kárpótlásul felajánlotta, hogy vesz egy új ruhát a lánynak. A vásárlás alatt Ray és Bailey megismerkedtek és első látásra egymásba szerettek. A SSHS-ben töltött egy év alatt a tengerjárón Raimondo saját akciófilmet is forgatott melynek ő volt férfi főszereplője, Bailey, aki akkorra már Ray barátnője lett, pedig a női főszerepet kapta meg. Középiskolai tanulmánya során Raimondo részt vett a Nemzetközi Jótékony Tehetségkutató Show-n és Baileyvel együtt meg is nyerte azt. Ennek megünneplésére, és barátnője kedvéért Raimondo megvásárolta London apjától, Mr. Tiptontól az óceánjárót, amit Princess Bailey-re nevezett át. Raimondo a Seven Seas High School-t 2012 júniusában fejezte be Mracus Little-lel, Bailey Pickett-tel, London Tipton-nal és Zack Martin-nal, majd az érettségi után a Waikiki Economics University gazdasági képzésére jelentkezett, ahova fel is vették.
+Raimondo 2011-ben jelentkezett a Seven Seas High School-ba az SS Tipton óceánjáró fedélzetén. Miután a hajó igazgatójánál, Mr. Moseby-nál beiratkozott, az italbárnál futott össze osztálytársával, Bailey Pickettel, akire véletlenül ráöntött egy pohár üdítőt. Raimondo kárpótlásul felajánlotta, hogy vesz egy új ruhát a lánynak. A vásárlás alatt Ray és Bailey megismerkedtek és első látásra egymásba szerettek. A SSHS-ben töltött egy év alatt a tengerjárón Raimondo saját akciófilmet is forgatott, melynek ő volt férfi főszereplője, Bailey, aki akkorra már Ray barátnője lett, pedig a női főszerepet kapta meg. Középiskolai tanulmánya során Raimondo részt vett a Nemzetközi Jótékony Tehetségkutató Show-n és Baileyvel együtt meg is nyerte azt. Ennek megünneplésére, és barátnője kedvéért Raimondo megvásárolta London apjától, Mr. Tiptontól az óceánjárót, amit Princess Bailey-re nevezett át. Raimondo a Seven Seas High School-t 2012 júniusában fejezte be Marcus Little-lel, Bailey Pickett-tel, London Tipton-nal és Zack Martin-nal, majd az érettségi után a Waikiki Economics University gazdasági képzésére jelentkezett, ahova fel is vették.
 
 Raimondo és Bailey élete az óceánjárón
+----------------------
 
 New York: Raimondo és Bailey első ölelése egy elektronikai boltban, ahol a riportereknek barátnőjeként mutatja be a lányt és itt készül róluk az első közös fénykép is.
-
 Rio de Janeiro: a szerelmes pár egy elhagyatott város romjaihoz kirándul a dzsungelben, Raimondo és Bailey több nemzetközi újság címlapján is szerepelnek.
-
 Peking: a kikötőben rengeteg rajongó fogadja őket, majd Raimondóék meglátogatják a császári palotát és megcsodálják a kínai fővárost és a Nagy Falat.
-
 Nova Aurelia: Raimondo és barátnője részt vesznek a Waikiki-i olimpia megnyitóján ahol Bailey szereplőként is fellép, a Country Girl című saját szerzésű dalával.
-
-Kettlecorn: ellátogatnak Bailey Családjához, ahol Raimondo megismerkedik barátnője szüleivel és a farmer életmód különlegességeivel.
-
+Kettlecorn: ellátogatnak Bailey családjához, ahol Raimondo megismerkedik barátnője szüleivel és a farmer életmód különlegességeivel.
 Kairó: megcsodálják a Gízai Piramisokat, majd pedig királyok völgyében egy újonnan felfedezett fáraó sírját látogatják meg díszvendégként.
-
 Hawaii: Bailey és Ray az egzotikus vulkáni szigeteken nyaralnak és Raimondo szüleivel és testvéreivel együtt élvezik a helyi ételkülönlegességeket és szokásokat.
-
 Új-Delhi: Indiába utaznak, ahol a miniszterelnök meghívására egy jótékonysági estélyen vesznek részt.
-
 Róma: Raimondo és Bailey Olaszországban, Rómában töltenek egy hétvégét, ahol megcsodálják a Vatikáni Múzeum felbecsülhetetlen értékű műkincsgyűjteményét.
-
 Sydney: miután nappal megnézték a város legfontosabb turistaattrakcióit, az operaházban egész estés komolyzenei koncerten vesznek részt.
-
 Tokió: Raimondo és osztálytársai remekül szórakoznak a 12 milliós japán fővárosban, ahol az éjszakai életbe és bulizásba is becsatlakoznak.
-
 Quebec: a hajó utasai meglátogatják a Kanadai város történelmi központját, majd pedig motorcsónakkal bejárják a városba vezető tengeröblöt.
-
 Raimondo tanárai és személyes alkalmazottai
 
 Raimondo palotája
-
+----------------------
 Raimondo 2012 szeptemberétől a Waikiki Gazdasági Egyetem közgazdasági képzésén folytatja tanulmányait. A sikeres felvételiért és 16. születésnapjára Raimondo egy palotát kapott szüleitől, amely 2014 februárjában készült el, és hatalmas területének valamint pazar felszereltségének köszönhetően azóta is a világ legértékesebb ingatlanja.
 
-Raimondo palotája Nova Aurelia tengerpartján, egy 1600 hektár területű telken található. Az ingatlan jelenlegi értékét nagyjából 300 milliárd dollárra becsülik, melyből csupán a telek értéke több, mint 100 milliárd dollár. A palota a legmodernebb technológiákkal lett felszerelve, ház bármelyik helyiségébe érve, az intelligens elektronika a látogató személyiségéhez igazítja a hőmérsékletet, a zenét, illatokat vagy akár a falon függő elektronikus festmények megjelenítőit is. A palotában rengeteg híres szobor és ókori műkincs található. Ezeken kívül Raimondo több Monet ás Leonardo da Vinci képet is birtokol, melyek különböző Waikiki-i múzeumokban tekinthetők meg. A palota saját könyvtárral, koncertteremmel, sőt még a parlamenti nagyterem pontos másolatával is rendelkezik. A palota számos tárgyalóterme fontos diplomáciai találkozóknak adhat otthont, a 100 fő befogadására alkalmas, drágakövekkel díszített bálterem pedig ideális helyszín fogadások és jótékonysági események számára. A wellness komplexum része egy víz alatti zenerendszerrel ellátott óriásmedence, egy 5 vízi-csúszdából álló aquapark, és 4 különleges szauna is. A szórakozásról egy paintball pálya, egy Tropicarium és egy saját mozi is gondoskodik, ha pedig Raimondo hajózni szeretne, akkor saját jachtkikötőjéből választhat hozzá alkalmas eszközöket. A bentlakók biztonságáról a legmodernebb haditechnika gondoskodik. A palotában egy föld alatti, teljesen felszerelt műveleti és kommunikációs központ is rendelkezésre áll. A 200 fős személyzetből 20 séf felelős a lélegzetelállító ételek elkészítéséért, a botanikus kert növényeinek gondozását 12 kertész végzi, Raimondóék személyes élményeinek megörökítéséről pedig egy szakértő fotós gárda gondoskodik. Raimondo palotája minden bizonnyal a legtöbbet érő lakóingatlan a világon.
+Raimondo palotája Nova Aurelia tengerpartján, egy 1600 hektár területű telken található. Az ingatlan jelenlegi értékét nagyjából 300 milliárd dollárra becsülik, melyből csupán a telek értéke több mint 100 milliárd dollár. A palota a legmodernebb technológiákkal lett felszerelve, a ház bármelyik helyiségébe érve az intelligens elektronika a látogató személyiségéhez igazítja a hőmérsékletet, a zenét, illatokat vagy akár a falon függő elektronikus festmények megjelenítőit is. A palotában rengeteg híres szobor és ókori műkincs található. Ezeken kívül Raimondo több Monet- és Leonardo da Vinci-képet is birtokol, melyek különböző Waikiki-i múzeumokban tekinthetők meg. A palota saját könyvtárral, koncertteremmel, sőt még a parlamenti nagyterem pontos másolatával is rendelkezik. A palota számos tárgyalóterme fontos diplomáciai találkozóknak adhat otthont, a 100 fő befogadására alkalmas, drágakövekkel díszített bálterem pedig ideális helyszín fogadások és jótékonysági események számára. A wellness komplexum része egy víz alatti zenerendszerrel ellátott óriásmedence, egy 5 vízi-csúszdából álló aquapark, és 4 különleges szauna is. A szórakozásról egy paintball pálya, egy Tropicarium és egy saját mozi is gondoskodik, ha pedig Raimondo hajózni szeretne, akkor saját jachtkikötőjéből választhat hozzá alkalmas eszközöket. A bentlakók biztonságáról a legmodernebb haditechnika gondoskodik. A palotában egy föld alatti, teljesen felszerelt műveleti és kommunikációs központ is rendelkezésre áll. A 200 fős személyzetből 20 séf felelős a lélegzetelállító ételek elkészítéséért, a botanikus kert növényeinek gondozását 12 kertész végzi, Raimondóék személyes élményeinek megörökítéséről pedig egy szakértő fotós gárda gondoskodik. Raimondo palotája minden bizonnyal a legtöbbet érő lakóingatlan a világon.
 
 Raimondo és Selena megismerkedése
 ---------------------------------
 
-Raimondo együtt szerepelt Selena Gomezzel a Mátrix film 4. részében. A két fiatal híresség gyorsan megismerkedett a forgatáson és mivel jól mulattak együtt, egyből össze is barátkoztak. Selena a filmforgatás alatt szakított a korábbi fiújával, Justinnal, akivel 2013 óta járt. Selly ezután Raimondót szemelte ki, azonban a fiú egy csók után, abból az okból kifolyólag, hogy már van barátnője, visszautasította a lányt. Selena azonban nem hagyta magát könnyen és a forgatás alatt továbbra is többször kézen-fogva járt Rayyal. Raimondo és Selena barátsága a filmforgatás végeztével is megmaradt, gyakran találkoztak, többször s közösen mentek külföldre nyaralni, később pedig tanulmányaikat is közösen folytatták.
+Raimondo együtt szerepelt Selena Gomezzel a Mátrix film 4. részében. A két fiatal híresség gyorsan megismerkedett a forgatáson és mivel jól mulattak együtt, egyből össze is barátkoztak. Selena a filmforgatás alatt szakított a korábbi fiújával, Justinnal, akivel 2013 óta járt. Selly ezután Raimondót szemelte ki, azonban a fiú egy csók után, abból az okból kifolyólag, hogy már van barátnője, visszautasította a lányt. Selena azonban nem hagyta magát könnyen és a forgatás alatt továbbra is többször kézen fogva járt Rayjal. Raimondo és Selena barátsága a filmforgatás végeztével is megmaradt, gyakran találkoztak, többször is közösen mentek külföldre nyaralni, később pedig tanulmányaikat is közösen folytatták.
 
 A 2014-es Miss Supranational
+----------------------
 
 A 2014-es Miss Supranational szépségverseny a világ figyelmét Waikikire irányította, amikor a döntőt először rendezték meg a lenyűgöző Nova Aurelia Kulturális Központban. A versenyt a nemzetközi média a világ legfényűzőbb szépségversenyeként emlegette, amely nem csupán a szépséget, hanem az intelligenciát, a művészi tehetséget és a karizmát is díjazta. A korona Bailey Pickett fejére került, aki nemcsak káprázatos megjelenésével, de diplomáciai érzékével és társadalmi érzékenységével is lenyűgözte a zsűrit. A verseny idején már ismert volt, hogy Pickett a fiatal Raimondo Chease barátnője, így győzelme Waikiki lakosságát is büszkeséggel töltötte el. A második helyezést Jennifer Chease, Chease Young kisebbik lánya nyerte el. Fiatal kora ellenére kifinomult stílusa, eleganciája és humanitárius programja révén került a reflektorfénybe. A harmadik helyezést ért el a dobogón a világhírű énekes és színésznő, Selena Gomez, aki gyönyörű hangjával, káprázatos megjelenésével és tánctudásával hívta fel magára a figyelmet. A negyedik helyezést Chease Young másik lánya, Angelina szerezte meg, aki bájával és rendkívüli társalgási stílusával tűnt ki a mezőnyből. A verseny döntőjének ötödik helyezettje pedig a Harry Potter filmekből is ismert Emma Watson lett. Az eseményt máig az egyik legemlékezetesebb globális szépségversenyként tartják számon, és hagyománya tovább él a Waikiki-i Szépség és Bátorság Alapítvány éves gáláján keresztül.
 
-Bailey Pickett
-
-I. helyezett
-
-Jennifer Chease
-
-II. helyezett
-
-Selena Gomez
-
-III. helyezett
-
-Angelina Chease
-
-IV. helyezett
-
 Az Inter Medic egészségügyi cégcsoport 2015. március 19-én bemutatta az örök élet elixírjét. Az eseményt, melyre meghívták a világ 100 leggazdagabb emberét, több országban is élőben közvetítették. Chease Young, Smith Edward és a kutatás vezető tudósai felváltva tartották az előadást az elixírről, melyhez hasonlót korábban még sosem állítottak elő. Az Inter Medic 2012 óta folytat kutatásokat az emberi élet meghosszabbítására, és 2014 óta szűk körben megkezdte az életelixír szűk körű tesztelését olyan hírességek bevonásával, mint Selena Gomez, George Clooney vagy Oprah Winfrey. A több tévécsatorna által is élőben közvetített termékbemutatót záró árverésen első 100 évet fiatalító adagot Bill Gates vásárolta meg. Két nappal ezután bejelentették a hivatalos árakat, így már bármelyik extrém gazdag milliárdos megvásárolhatja az életelixírt, éves adagonként 5 millió Waikiki dollárért. Ezzel egy időben, ugyancsak 19-én az Inter Medic bejelentette az emberi szövetek mesterséges élőállításának kutatását, ami megoldást jelenthet a rákra és az egyéb hasonló típusú megbetegedésekre. A kutatók szerint az első áttörésekre azonban még éveket kell várni. A Waikiki-i állam az életelixír előállítására szabadalmat vezetett be, melyet a nemzetközi versenybizottság hamarosan el is fogadott. A bejelentés után Chease Young több vezető Waikiki-i politikust is fontos pozícióba nevezett ki az Inter Medic vállalatnál.
-
-
-Chease Young
-
-Tulajdonos
-
-
-Smith Edward
-
-Vezérigazgató
-
-
-Vincent Kartheiser
-
-Pénzügyi igazgató
-
-
-Colin Farrell
-
-Fejlesztési igazgató
-
-
-Kate Beckinsale
-
-Kommunikációs tanácsadó
 
 Egyetemi tanulmányok
 --------------------
 
-2012 szeptembere és 2015. júniusa között Raimondo, Jennifer, Selena, Bailey és Tyler olyan milliárdos tinédzserekkel tanultak együtt a Waikiki Economic University közgazdaságtan alapképzésén, mint Vanessa Hudgens, Rory Gates vagy Willow Smith. Alapvető közgazdasági, jogi és politikai tanulmányuk után 2015 szeptemberétől Raimondo barátnőjével, nővéreivel és a szenátus más tagjaival együtt az egyetem mesterképzésére jelentkezett, ahol egy négy féléves képzésben vesznek részt. A sztárok heti két napot a parlamentben dolgoznak két nap pedig egyetemi előadásokon és gyakorlatokon vesznek részt. A mesterképzés során Chease Young több előadást is tart gyerekeinek és barátaiknak olyan témákban, mint például a Modern gazdaság alapjai vagy a Környezettudatos gazdaság. Jessica a képzés részeként az egyetemen a bankrendszer működésével kapcsolatos két tantárgyat oktat, az egyiket előadás, a másikat pedig gyakorlat formájában.
+2012 szeptembere és 2015. júniusa között Raimondo, Jennifer, Selena, Bailey és Tyler olyan milliárdos tinédzserekkel tanultak együtt a Waikiki Economic University közgazdaságtan alapképzésén, mint Vanessa Hudgens, Rory Gates vagy Willow Smith. Alapvető közgazdasági, jogi és politikai tanulmányuk után 2015 szeptemberétől Raimondo barátnőjével, nővéreivel és a szenátus más tagjaival együtt az egyetem mesterképzésére jelentkezett, ahol egy négy féléves képzésben vesznek részt. A sztárok heti két napot a parlamentben dolgoznak, két nap pedig egyetemi előadásokon és gyakorlatokon vesznek részt. A mesterképzés során Chease Young több előadást is tart gyerekeinek és barátaiknak olyan témákban, mint például a Modern gazdaság alapjai vagy a Környezettudatos gazdaság. Jessica a képzés részeként az egyetemen a bankrendszer működésével kapcsolatos két tantárgyat oktat, az egyiket előadás, a másikat pedig gyakorlat formájában.
 
 Alapképzés
 ----------
 
-BSC
-
 1 félév
-
 Algebra (8 kr.)
-
 Közgazdaságtan I. (9 kr.)
-
 Jogi alapismeretek (9 kr.)
-
 Számvitel alapjai (8 kr.)
-
 Összesen 34 kredit
 
-BSC
-
 2 félév
-
 Analízis (8 kr.)
-
 Közgazdaságtan II. (9 kr.)
-
 Bevezetés a diplomáciába (7 kr.)
-
 Pénzügy (8 kr.)
-
 Összesen 32 kredit
-
-BSC
 
 3 félév
-
 Statisztika (8 kr.)
-
 Mikro és makroökonómia (10 kr.)
-
 Nemzetközi kapcsolatok (7 kr.)
-
 Befektetések (8 kr.)
-
 Összesen 33 kredit
 
-BSC
-
 4 félév
-
 Valószínűségszámítás (8 kr.)
-
 Világgazdaság (10 kr.)
-
 Vállalkozásgazdaságtan (7 kr.)
-
 Szociológia (7 kr.)
-
 Összesen 32 kredit
 
-BSC
-
 5 félév
-
 Diplomatervezés I. (15 kr.)
-
 Számítógépes modellezés (7 kr.)
-
 Környezetgazdaságtan (8 kr.)
-
 Külkereskedelem (7 kr.)
-
 Összesen 37 kredit
 
-BSC
-
 6 félév
-
 Diplomatervezés II. (15 kr.)
-
 Gazdasági elemzés (8 kr.)
-
 Államformák és ideológiák (9 kr.)
-
 Összesen 32 kredit
 
 Mesterképzés
 ------------
 
-MSC
-
 1 félév
-
 Modern gazdaság alapjai (7 kr.)
-
 Államigazgatás I. (7 kr.)
-
 Nézetek és ideológiák (7 kr.)
-
 Digitális marketing (4 kr.)
-
 Összesen 25 kredit
-
-MSC
 
 2 félév
-
 A bankrendszer működése (7 kr.)
-
 Államigazgatás II. (6 kr.)
-
 Gazdasági statisztika (6 kr.)
-
 Állampolgári jogok (6 kr.)
-
 Összesen 25 kredit
-
-MSC
 
 3 félév
-
 Mikroökonómia (6 kr.)
-
 Makroökonómia (6 kr.)
-
 Bankrendszerek a gyakorlatban (6 kr.)
-
 A jogállam működése (7 kr.)
-
 Összesen 25 kredit
-
-MSC
 
 4 félév
-
 Számvitel (7 kr.)
-
 Innovatív befektetések (6 kr.)
-
 Környezettudatos gazdaság (6 kr.)
-
 Önkormányzatok (6 kr.)
-
 Összesen 25 kredit
 
-Raimondo figyelemmel kíséri az egyetemi sport és tanulmányi versenyeket is. Legutóbb például a nemzetközi diákolimpia döntőjén vett részt személyesen.
-
-Selena Gomez még az egyetem által rendezett nyíltnapon is részt vett, ahol tanulmányairól és egyetemi élményeiről mesélt az érdeklődő gimnáziumi végzősöknek.
-
-Raimondo rendszeresen meglepi diáktársait, amikor újabb és újabb luxus-sportkocsikkal állít be az egyetemre. Legújabb autója, amit Selenától kapott egy Lamborghini Aventador.
-
-Selena UNICEF nagykövetként végzett munkájáról is sokat mesél csoporttársainak, és arra biztatja őket, hogy együtt vegyenek részt a jótékonysági szervezet munkájában.
+Raimondo figyelemmel kíséri az egyetemi sport és tanulmányi versenyeket is. Legutóbb például a nemzetközi diákolimpia döntőjén vett részt személyesen. Selena Gomez még az egyetem által rendezett nyíltnapon is részt vett, ahol tanulmányairól és egyetemi élményeiről mesélt az érdeklődő gimnáziumi végzősöknek. Raimondo rendszeresen meglepi diáktársait, amikor újabb és újabb luxus-sportkocsikkal állít be az egyetemre. Legújabb autója, amit Selenától kapott egy Lamborghini Aventador. Selena UNICEF nagykövetként végzett munkájáról is sokat mesél csoporttársainak, és arra biztatja őket, hogy együtt vegyenek részt a jótékonysági szervezet munkájában.
 
 Raimondo és Selena Egyiptomban
 ------------------------------
@@ -260,48 +134,6 @@ Raimondót már 2015-ben szoros kapcsolat fűzte a világhírű énekesnőhöz �
 -------------------------------
 
 2015 történelmi év volt Waikiki számára, ugyanis május 18-án Chease Young a parlament támogatásával jelentős alkotmánymódosítást vezetett be. Az új törvény értelmében a parlament a szenátus intézményével egészül ki, melynek tagjait a diktátor nevezi ki. Chease fiát, Raimondót és két lányát, Angelinát és Jennifert Waikiki első szenátorainak nevezte ki. Szenátori rangot kapott még Raimondo barátnője, Bailey Pickett, a híres énekesnő, Selena Gomez, valamint Taylor Lautner és Tyler Posey is. Az esemény célja az volt, hogy létrejöjjön egy olyan tanácskozó testület, amely támogatja a kormányzati munkát, elősegíti a társadalmi párbeszédet és hozzájárul a demokratikus diktatúra intézményesedéséhez.
-
-Raimondo Chease
-
-SZENÁTOR
-
-2015-ben végezte a Waikiki Economics University gazdasági alapképzését. Tanulmányait mesterképzésen folytatta, miközben szenátorként kezdett dolgozni.
-
-Angelina Chease
-
-SZENÁTOR
-
-1993-ban született. A Waikiki-i mérnöki egyetemre járt, 2010-ben végzett, majd elkezdte a gazdasági egyetemet is. Itt találkozott Taylor Lautnerrel, akibe szerelmes lett.
-
-Jennifer Chease
-
-SZENÁTOR
-
-Washingtonban, április 14-én született 1994-ben. A biológiai egyetemet 2012-ben, 17 évesen kezdte el. 17 évesen ismerte meg mostani barátját, Tyler Poseyt.
-
-Bailey Pickett
-
-SZENÁTOR
-
-Kettlecornból, Kansas államból származik,1996. február 18-án született. 12 éves koráig szülővárosában élt és a szülei Farmján dolgozott.
-
-Selena Gomez
-
-SZENÁTOR
-
-1995-ben született, amerikai színésznő és énekesnő. Karrierjét a Disney csatornánál kezdte a Wizards of Waverly Place című sorozattal, ahol ő alakítja Alex Russo karakterét.
-
-Taylor Lautner
-
-SZENÁTOR
-
-Taylor Lautner számára a Twilight Saga-ban alakított Jacob Black szerepe hozta meg az áttörést 2009-ben. Azóta több nagyobb filmben is főszerepet kapott.
-
-Tyler Posey
-
-SZENÁTOR
-
-Amerikai színész, zenész. Karrierjét 2002-ben az Álmomban Már Láttalak című filmben kezdte, majd a Teen Wolf sorozatban megkapta a főszerepet, így Scott McCallt alakítja.
 
 A szenátus első rendeletei között megszavazta egy új, egységes afrikai főváros létrehozását, a Nílus mellett sivatagban nemrégiben talált vízforrások felett. A főváros építése rengeteg munkahelyet teremtet a helyi lakosoknak és fontos bevétel Waikiki-i építkezési vállalkozóknak. Raimondo első feladatai közé tartozik, hogy megállapodást kössön a dubai befektetőkkel, a New Kairóba tervezett kaszinó center kivitelezéséről. A tárgyalás után Raimondo és Waikiki többi szenátora egy fogadásra voltak hivatalosak, ahol találkoztak az Egyesült Afrikai Nemzetek kormányának fontosabb tagjaival.
 
@@ -346,32 +178,15 @@ Raimondo és Bailey közösen meglátogatták korábbi barátaikat a Seven Seas 
 
 Az amazóniai látogatásuk alkalmával Raimondóék megnézték a Kennedy űrközpontot. A kiállítás elején bemutatták nekik az amerikai űrkutatási és űrhajózási program nevezetességeit, köztük a holdkomp modelljét. A körútjuk végigvezetett a kilövőállomások között, érintett egy szabadtéri bemutatót, ahol az eddig felhasznált különböző rakéták modelljeit állítják ki, majd a túravezető elvitte őket egy laboratóriumba, ahol az űrhajósok készülnek fel feladataik végrehajtására. 2016-ban Ray és Bailey többször meglátogatták Sel kistestvérét, Graciet, aki hamar összebarátkozott Mary Jane fiával, Jacobbal.
 
-Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat nőtt. Egyes becslések szerint a királyi család teljes vagyona 2016-ra elérte a 14 trilliárd waikiki dollár értéket. Abból is láthatjuk, hogy milyen jól ment a Waikiki-i kormánynak és cégeknek, hogy Ray 100.000.000 WUD-t adományozott jótékony célokra és 500 millió értékben vásárolt részvényeket. „Ezen kívül 40 milliót költöttem saját célra.” nyilatkozta a New York Times-nak az ifjú trónörökös. Chease Young a 100 milliós fizetésének, kétharmadát jótékony célra fordította. Olyan világhírű szervezeteknek adományozott, mint a WWF, az UNICEF vagy az UNESCO. "Bónuszként még egy 60 millió WUD-t érő tengerparti villát is kaptam, így új ingatlanra se kellett költenem." nyilatkozta Selena, aki szenátorként 2015-ben 50 milliót keresett. Selly fizetéséből szintén több milliót adott különböző jótékonysági szervezeteknek.
+Habár nincsen hivatalos számadat, Raimondo vagyona egy év alatt hatalmasat nőtt. Egyes becslések szerint a királyi család teljes vagyona 2016-ra elérte a 14 trilliárd waikiki dollár értéket. Abból is láthatjuk, hogy milyen jól ment a Waikiki-i kormánynak és cégeknek, hogy Ray 100.000.000 WUD-t adományozott jótékonysági célokra és 500 millió értékben vásárolt részvényeket. „Ezen kívül 40 milliót költöttem saját célra.” nyilatkozta a New York Times-nak az ifjú trónörökös. Chease Young a 100 milliós fizetésének, kétharmadát jótékonysági célra fordította. Olyan világhírű szervezeteknek adományozott, mint a WWF, az UNICEF vagy az UNESCO. "Bónuszként még egy 60 millió WUD-t érő tengerparti villát is kaptam, így új ingatlanra se kellett költenem." nyilatkozta Selena, aki szenátorként 2015-ben 50 milliót keresett. Selly fizetéséből szintén több milliót adott különböző jótékonysági szervezeteknek.
 
 A szenátus első éves konferenciája
 ----------------------------------
 
 2016 június 17-én, nagyjából egy évvel a szenátus létrehozása után után tartotta a kormány az első évi értékelést. A konferencián Chease Young három új szenátort nevetett ki, köztük a korábbi Disney sztár Zendaya Coleman-t, a Pókember filmek hősét, Tom Holland-ot és Selena barátját, Gregg Sulkin-t. Az értekezleten bemutatták egy hatalmas toronyház terveit, amely új bankközpontként szolgál majd Nova Aurelia belvárosában. Kiemelkedő munkájáért lovagi címet kapott Smith Edward kormányzó, valamint Waikiki három helytartója.
 
-Tom Holland
-
-SZENÁTOR
-
-Az 1996-ban született brit színész 2015-ben kapta meg Peter Parker aka Spider-Man szerepét a következő Pókember filmben, ami 2017-ben került a mozivásznakra.
-
-Zendaya Coleman
-
-SZENÁTOR
-
-Zendaya amerikai színésznő, énekesnő. Karrierjét a Disney-nél kezdte, mikor megkapta az egyik főszereplő, Rocky Blue szerepét az Indul a risza! című sorozatban.
-
-Gregg Sulkin
-
-SZENÁTOR
-
-Disney produkciókkal alapozta meg karrierjét, főszereplő volt az Avalon Gimiben, a Varázslók a Waverly helyről szériában pedig visszatérő szereplőként láthatták a nézők.
-
 Raimondo 20. születésnapja
+----------------------
 
 Raimondo Chease 2016. július 7-én ünnepelte 20. születésnapját Nova Aureliaban. A rendezvény a Diktátori Palota keleti szárnyában zajlott, exkluzív környezetben, szűk körű vendéglistával, így csak Ray legközelebbi barátai, bizalmasai és gyermekkori társai kaptak meghívást. Köztük volt barátnője Bailey, valamint Selena, aki egy holdkőzetből készült díszt hozott ajándékba. Miley pedig egy hatalmas lávalámpát ajándékozott a hercegnek. A vendégek között felbukkant Harry Styles, Bella Thorne, Zac Efron, Victoria Justice, Niall Horan és Zoey Deutch is. Az estét világhírű DJ-k és zenészek színesítették, miközben egy több emeletes torta látványos felvonultatása koronázta meg az ünnepséget.
 
@@ -385,43 +200,43 @@ Utazás Angliába
 Chease Young a munkatársaival együtt az Egyesült Királyságba utazott, egy diplomáciai útra. Chease repülőn elmesélte, hogy annak ellenére, hogy a média gyakran tévedhetetlennek állítja be, az ő vállalkozásai közül sem lett mind sikeres. Példaként említette a brazíliai űrreptér építésének esetét, amely azóta is befejezetlenül áll az esőerdő közepén. Ezután Chease a tini sztárokat kérdezte a fiatal korukról és arról, hogy hogyan váltak híressé. Raimondót és Waikiki szenátorait angliai tartózkodásuk alatt meghívták a This Morning Show-ba, ahol arról kérdezték őket, hogy milyen érzés a világ leghíresebb sztárjainak lenni, és mik a kedvenc angliai időtöltéseik. Mialatt Londonban tartózkodtak, találkoztak Joanna Noelle Levesquevel, aki VIP jegyeket adott nekik, a másnap tartandó koncertjére. A fellépése után megkérték Joannat, hogy csatlakozzon EAN nagyköveteihez. Jojo örömmel vállalta a pozíciót, melyhez hatalmas fizetés, céges limuzin és teljes ellátás jár. A nagykövetek feladata főleg a külpolitika, a miniszterek tanácsának felügyelete és a külkereskedelem ellenőrzése. A 22 éves popénekesen kívül nagykövetnek választották még a The Scene tagjait: Joey Clementet, Drew Taubenfeldet, Greg Garmant és Dane Forrestet valamint Vanessa Hudgenst és Ashley Bensont továbbá Rachel Korinet.
 
 Mega épületek
+----------------------
 
 Raimondo Chease 4 világcsodának számító épület terveit mutatta be, amelyek nemcsak az ország hatalmát és technológiai fejlettségét hivatottak szimbolizálni, hanem világszinten is a modern építészet csodáivá válhatnak. A Mega Piramis, a Royal Clock Tower, a Miapolis és a Kingdom Bridges megépítésével Waikiki új korszakot nyit az emberi mérnöki teljesítmények történetében. melyek közül a Mega Piramid és a Royal Clock Tower Nova Aureliaban, a Miapolis Rióban, a Kingdom Bridges pedig New Kairóban kap helyet.
 
 Raimondo és Selena további tanulmányai
+----------------------
 
 A sok munka, utazás és jótékonysági est mellett Selenának és Raimondónak még a továbbtanulásra is maradt ideje. Szabadidejükben számítástechnikai szakkörre járnak és politikai tanulmányokat folytatnak, sőt Selena még spanyol nyelvtudását is fejlesztette. A színésznő vigyáz az alakjára, hiszen ezeken kívül még az egészségtudatos táplálkozásra és a sportra is szakít időt. Mostanában éppen a lovaspólót gyakorolja barátaival. 2016. szeptember 1-jén az országos évnyitón Raimondo, Bailey és Selena személyesen vettek részt Waikiki első vállalati egyetemének, az Apple által finanszírozott Advanced Programming University megnyitóján. Beszédében Raimondo biztosította a diákokat, hogy minden korábbinál jobban felszerelt egyetemre járhatnak és a legkiválóbb oktatóktól és professzoroktól tanulhatnak Waikiki bármely egyetemére felvételt nyert hallgatók. Szintén hatalmas biztonságot nyújt a leendő pályakezdőknek, hogy Waikiki kormánya rengeteg álláslehetőséggel várja a friss diplomásokat.
 
-A 2016-os Young Hollywood Awards gálaest
--------------------------------
-
-Selena saját jótékonysági bolthálózatot alapít, melyet szenátornő személyesen jelentett be, amikor átvette a 2016-os Teen Choise Awardson nyert díját. "Mindenek előtt szeretnék köszönetet mondani a családomnak, akik a kezdetektől fogva mellettem álltak és támogattak. Másodszor a barátaimnak és a rajongóimnak, akik bármit tettem támogattak és a legnagyobb baj esetén is felvidítottak. Végül, de nem utolsó sorban pedig a Disney és a Waikiki kormány azon alkalmazottainak, akik felfigyeltek a tehetségemre és lehetővé tették, hogy részese legyek valami igazán nagynak. Nélkülük nem lennék itt. Ezt szeretném viszonozni és másoknak is lehetőséget teremteni azzal, hogy jótékonysági monobrand üzlethálózatot nyitok. Az első bolt megnyitóján, két hét múlva személyesen is részt veszek. " jelentette be Sel. Az üzletben többek közt ruhákat, cipőket, parfümöket és egyéb kiegészítőket lehet majd kapni. Selena mellett Raimondo is büszkélkedhet egy díj átvételével, melyet a legfelkapottabb sztár cím keretében nyert el. ”Nagyon megtisztelő élmény itt lenni és szeretném megköszönni mindazoknak, akik támogattak. A családom mindig mellettem állt és a tanácsaik is segítettek, hogy elkerüljem a bajt. Természetesen a rajongóim nélkül sem lehetnék itt, és örülök, hogy több millió embert tehettem boldoggá. Egy különleges alkalomra szántam a bejelentést, - de mi lehetne ennél különlegesebb? – hogy Baileyvel mi is fellépünk a Selena Gomez Store megnyitóján.” jelentette be Ray. Bailey, Gregg, Angelina és Jennifer szintén díjakat vehetett át. 
-
 A Selena Gomez Stores megnyitója
+----------------------
 
 A Chease Young sugárúton elhelyezkedő boltja megnyitóján Selena egyszerűen lélegzetelállító volt a Versace-, mélykék ruhájában, amely egyszerre volt komoly és szexi. Az eseményen a kormány tagjain kívül jelen volt a One Direction tagjai, akik csodálattal beszéltek Selről és szívesen koncerteznének vele együtt. Ott volt Brad Pitt és felesége Angelina Jolie, akik miután jótékonysági célból rengeteg ruhát vásároltak, hosszasan beszélgettek a tulajdonossal és barátaival.
 
 Nemzetközi kinevezések
+----------------------
 
 London apját, Wilfred Tiptont nevezték ki az EAN gazdaságért felelős szakállamtitkárának. Mióta a Tipton szállodabirodalom csődbe ment, Wilfred a korábbi megtakarításaiból valamint a lánya fizetéséből élt, most pedig Chease Young javaslatára kapott munkát az Egyesült Afrikai Nemzetek kormányában. Az államtitkár a testőrei jelenlétében azt nyilatkozta, hogy rengeteget tanult a hibáiból és nem követi el még egyszer azokat. Mr. Tipton szerint a jövő gazdaságának alapja a robotika, ezért rengeteg pénzt szán mesterséges intelligencia és robot fejlesztésekre. 
 
 A Varázslók a Waverly helyből híres színésze, David DeLuise az ENSZ jogvédelmi részlegének az igazgatói állását kapta meg. A korábbi színész az egységes jogrendszer híve, de mindennél fontosabbnak tartja a magánemberek jogait és mindent megtesz azok megőrzéséért. 
 
 A Transborder Missile Defense System
+----------------------
 
-A Waikiki-i kormány vezető alkalmazottai ismét részt vettek egy katonai bemutatón, ahol Gregg, Zendaya és Tom először találkoztak a Skynet nevezetű katonai védelmi rendszerrel. A mesterséges intelligencia és a katonai bemutató lenyűgözte a szenátorokat és mivel fontosnak tartják az ország állampolgárainak biztonságát, így az előző évinél 5%-kal nagyobb katonai költségvetes elfogadását szavazták meg, melyből a legfontosabb beruházás a Transborder Missile Defense System megépítése lesz. Ha elkészül, a TBMDS rakétavédelmi rendszer szinte a Föld teljes felszínén képes lesz megsemmisíteni az interkontinentális rakétákat, még mielőtt azok akár megközelítenék Waikiki határait.
+A Waikiki-i kormány vezető alkalmazottai ismét részt vettek egy katonai bemutatón, ahol Gregg, Zendaya és Tom először találkoztak a Skynet nevű katonai védelmi rendszerrel. A mesterséges intelligencia és a katonai bemutató lenyűgözte a szenátorokat, és mivel fontosnak tartják az ország állampolgárainak biztonságát, így az előző évinél 5%-kal nagyobb katonai költségvetés elfogadását szavazták meg, melyből a legfontosabb beruházás a Transborder Missile Defense System megépítése lesz. Ha elkészül, a TBMDS rakétavédelmi rendszer szinte a Föld teljes felszínén képes lesz megsemmisíteni az interkontinentális rakétákat, még mielőtt azok akár megközelítenék Waikiki határait.
 
 Történelmi jelentőségű korea-közi tárgyalások
 -------------------------------
 
-Észak-Korea vezetője, Kim Dzsongun látogatást tett Waikikire, ahol Raimondóval és Chease Younggal tárgyalt a Koreai Unió létrehozásáról. A Waikiki delegáció tagja volt még Selena, Gregg és az ország elnöke, George Bush, valamint James A. Winnefeld tábornok is. A koreai küldöttség tagjai a miniszterelnök és a hadsereg főparancsnoka voltak. A megegyezés értelmében az Unió előfeltételei közé tartozik, hogy mindkét fél hatástalanítja a nukleáris fegyvereit és leállítja a további atombombák gyártást, valamint az amerikai csapatok kivonulása. A szövetség következményei lehetnek egy Egységes koreai felügyelőbizottság létrehozása, a demilitarizált övezet megszüntetése, közös integráció létrehozatala valamint egy jövőbeli független rendfenntartó hadsereg felállítása. Habár valószínűtlen, hogy a Koreai Unió a közeljövőben létrejöjjön, a tárgyalások így is sikeresnek tekinthetőek.
+Észak-Korea vezetője, Kim Dzsongun látogatást tett Waikikire, ahol Raimondóval és Chease Younggal tárgyalt a Koreai Unió létrehozásáról. A Waikiki delegáció tagja volt még Selena, Gregg és az ország elnöke, George Bush, valamint James A. Winnefeld tábornok is. A koreai küldöttség tagjai a miniszterelnök és a hadsereg főparancsnoka voltak. A megegyezés értelmében az Unió előfeltételei közé tartozik, hogy mindkét fél hatástalanítja a nukleáris fegyvereit és leállítja a további atombombák gyártást, valamint az amerikai csapatok kivonulása. A szövetség következményei lehetnek egy Egységes koreai felügyelőbizottság létrehozása, a demilitarizált övezet megszüntetése, közös integráció létrehozatala valamint egy jövőbeli független rendfenntartó hadsereg felállítása. Habár valószínűtlen, hogy a Koreai Unió a közeljövőben létrejöjjön, a tárgyalások így is sikeresnek tekinthetők.
 
 Kemény munkájukért jutalmul Sel és Gregg egy hatalmas luxuspalotát kaptak ajándékba. Az új ingatlanjuk az indiai őserdőben fog felépülni, így ha a sztároknak egy keleti kiruccanáshoz van kedve, már a hotelfoglalással sem kell bajlódniuk. Raimondo szintén építtetett magának egy nyaralót Ausztráliában. A nyaraló különlegessége, hogy víz alatti szobákkal is rendelkezik, melyek összterülete meghaladja az ötszáz négyzetmétert. A fényűző komplexum felső része helikopter leszállóból, medencéből, étteremből, gyógyfürdőből és wellness központból áll. A megvilágított korallszirtekben, a környező állatvilágban, esetleg cápákban akár az ágyból, akár a jacuzzis fürdőszobából is lehet gyönyörködni, de ha ez nem elég, akkor különleges, luxus-tengeralattjárós expedíción is részt vehetünk. A víz alatti szobák különleges panorámaablakai szükség esetén sötétíthetők. A vízi világ rajongói egy távvezérelt járművel kutathatják fel a tengerfeneket.
 
 Utazás Afrikába
 -------------------------------
 
-Raimondóék Afrikába utaztak, hogy rész vehessenek a Szenátori Palota ünnepélyes megnyitóján. Az afrikai utazásuk alatt Logan Davis tábornok személyesen gondoskodott a sztárok biztonságáról. A megnyitón Raimondo beszélt az idén elért teljesítményekről és beszámolt a jövőbeli tervekről, melyek közt szerepelt Afrika visszaerdősítése, a Gízai fennsíkkal kezdve. Bailey az új munkahelyek teremtéséről és az oktatási színvonal növeléséről tartott prezentációt, Selena UNICEF nagykövetként a jótékonykodás és a természetvédelem fontosságát hangsúlyozta. Zendaya a nemzeti ellentétek miatt kialakult ellenségeskedés megszüntetését tartja fontosnak, szerinte a békés együttélésnek kell lennie egy stabil gazdaság alapjának. Gregg a nyíltabb külkereskedelemben és a vámok további csökkentésében látja a megoldást a pénzügyi helyzet és az életszínvonal javítására, Angelina pedig az idegenforgalom növelésével érne el nagyobb bevételt. Tyler és Jennifer a sivatagi területek megművelését kezdeményezte az élelmiszerhiány megfékezésére, Taylor és Tom pedig egyetértenek abban, hogy további modernizációra van szükség, hogy Afrika felzárkózzon az európai és amerikai országokhoz. A palota megnyitója után Raimondo és Selena személyesen vettek részt a Waikiki-i kormány által támogatott New Kairói óvoda kifestésében és felújításában.
+Raimondóék Afrikába utaztak, hogy részt vehessenek a Szenátori Palota ünnepélyes megnyitóján. Az afrikai utazásuk alatt Logan Davis tábornok személyesen gondoskodott a sztárok biztonságáról. A megnyitón Raimondo beszélt az idén elért teljesítményekről és beszámolt a jövőbeli tervekről, melyek közt szerepelt Afrika visszaerdősítése, a Gízai fennsíkkal kezdve. Bailey az új munkahelyek teremtéséről és az oktatási színvonal növeléséről tartott prezentációt, Selena UNICEF nagykövetként a jótékonykodás és a természetvédelem fontosságát hangsúlyozta. Zendaya a nemzeti ellentétek miatt kialakult ellenségeskedés megszüntetését tartja fontosnak, szerinte a békés együttélésnek kell lennie egy stabil gazdaság alapjának. Gregg a nyíltabb külkereskedelemben és a vámok további csökkentésében látja a megoldást a pénzügyi helyzet és az életszínvonal javítására, Angelina pedig az idegenforgalom növelésével érne el nagyobb bevételt. Tyler és Jennifer a sivatagi területek megművelését kezdeményezte az élelmiszerhiány megfékezésére, Taylor és Tom pedig egyetértenek abban, hogy további modernizációra van szükség, hogy Afrika felzárkózzon az európai és amerikai országokhoz. A palota megnyitója után Raimondo és Selena személyesen vettek részt a Waikiki-i kormány által támogatott New Kairói óvoda kifestésében és felújításában.
 
 A 2016-os Golden Globe díjátadó
 -------------------------------
@@ -429,6 +244,7 @@ A 2016-os Golden Globe díjátadó
 Gregg Sulkin, Selena és Jennifer Stone együtt vettek részt a 2016-os Golden Globe-díj átadó gálán. Hármójuk közül Sel kapott díjat az I Promise You című filmben alakított női főszerepért. Vanessa Hudgens lett a Marie Claire 2015.-ös októberi számának címlaplánya, így természetesen a jól megszokott többoldalas és mély hangvételű interjú sem maradhatott el, amely során rengeteg érdekességet és jó tanácsot osztott meg az olvasókkal. Azonban a magazin nem csak a 24 éves színésznőt, hanem egyik közeli barátját és egyben kolléganőjét is mikrofonvégre kapta, Selena Gomez személyében, akivel nem csak közös Disneys múltjuk, hanem filmjük, a Spring Breakers is összeköti. „Egyáltalán nincs elszállva magától és a figyelme nem lankad egy pillanatra sem. Az ember, akit te látsz és, akivel beszélsz, ugyanaz, mint akivel én beszélek” – mesélte Nessáról a fiatal színész-énekesnő, aki a Spring Breakers forgatása alatti időkre is visszaemlékezett, amikor a rengeteg rájuk szegeződött figyelem miatt folyton a nyomukban loholtak a paparazzik: „Nagyon védelmező. Volt, hogy nagyon zaklatott voltam, erre ő félrevitt és mindig arról beszélt nekem, azzal győzködött, hogy bízzak magamban és abban is, amit képviselek. Ezután mindig sokkal nagyobb biztonságban éreztem magam.”
 
 Jelentős beruházások
+----------------------
 
 Új múzeumnegyed építését jelentette be Raimondo a 2017-es parlament nyitóülésén. Az új városrészben kap helyet Waikiki megújult természettudományi múzauma, egy világszínvonalú modern művészeti múzeum és egy hatalmas tengerbiológiai akvárium. A Google az évszázad beruházására készül, jelentette be Larry Page, a cég vezérigazgatója. A befektetés 4 kontinenst és több mint 8 országot érint. A legintenzívebb fejlesztés azonban Waikikin lesz, ahol ugyanis mind a 3 tartományban egy-egy kutatási központ építését tervezik. Az új munkahelyek biztosításához az Európai és Amerikai Unió többmilliárdos támogatást fizetett az elektronikai mamutcégnek. A számítástechnika mellett Waikiki más területeken is nagy beruházásokat visz végbe. Chease vadonatúj hajóstársasága, a Quantum Cruises Waikiki-i hajóstársaság megépíti a világ legkörnyezetbarátabb hajóját, a Karib-tenger gyöngyét. Az óceánjáró luxushajó kizárólag környezetbarát energiaforrásokat használ, melyek közül a legfontosabbak a palládium, a szél és a nap. A Karib-tenger gyöngyét természetbarát anyagokból építették, rendelkezik egy saját víztisztítóval és a fedélzetére még fákat is ültettek, hogy semlegesítsék a hajó utasai által kibocsájtott szén-dioxidot. A tengerjáró másfél év múlva készül el, és 3500 utas szállítására lesz alkalmas.
 
@@ -457,7 +273,7 @@ Megválasztása után Raimondo először Donald Trump amerikai elnökkel és a w
 Új kormánytagok kinevezése
 --------------------------
 
-A 2017. szeptemberében tartott szenátusi ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzul rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát és Jessicát konzullá léptették elő, Olivia Holt-ot és Zac Efron-t a szenátus javaslatára Raimondo szenátorrá nevezte ki. Raimondo, Selena és legújabb munkatársuk, Olivia vettek részt az Apple felügyelőtanácsának gyűlésén, ahol Tim, Craigh és Phil számoltak be a cég jövőbeli terveiről és fejlesztés alatt álló termékeiről. Craig Federighi szerint az Apple forradalmian új és minden eddiginél gyorsabb számítógépek bemutatására készül a 2018-as fejlesztői konferencián. Tim Cook pedig hatalmas eladási számokat és profitot jósolt a következő évekre és szerinte tovább nő a PC-ről Mac-re váltó felhasználók száma. Phil Schiller a következő iPhone és iWatch tesztelés alatt álló prototípusait mutatta meg Raimondóéknak és az okos-otthon kiegészítők valamint a virtuális valóság fejlesztésekről is beszámolt.
+A 2017. szeptemberében tartott szenátusi ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzul rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát és Jessicát konzullá léptették elő, Olivia Holt-ot és Zac Efron-t a szenátus javaslatára Raimondo szenátorrá nevezte ki. Raimondo, Selena és legújabb munkatársuk, Olivia vettek részt az Apple felügyelőtanácsának gyűlésén, ahol Tim, Craig és Phil számoltak be a cég jövőbeli terveiről és fejlesztés alatt álló termékeiről. Craig Federighi szerint az Apple forradalmian új és minden eddiginél gyorsabb számítógépek bemutatására készül a 2018-as fejlesztői konferencián. Tim Cook pedig hatalmas eladási számokat és profitot jósolt a következő évekre és szerinte tovább nő a PC-ről Mac-re váltó felhasználók száma. Phil Schiller a következő iPhone és iWatch tesztelés alatt álló prototípusait mutatta meg Raimondóéknak és az okos-otthon kiegészítők valamint a virtuális valóság fejlesztésekről is beszámolt.
 
 Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik luxemburgi nagyherceget egy palládium reaktor építéséről. Ha a Techno Industries által tervezett reaktor megépül, ez lesz az első ilyen típusú erőmű Európában. Raimondo, Selena, Bailey és Olivia úgy döntöttek, hogy egy párizsi úttal meghosszabbítják az európai nyaralásukat. Raimondo vezetésével a csapat megtekintette a Louvre legkülönlegesebb termeit, köztük a Mona Lisát egy zártkörű esti tárlatvezetésen valamint a Le Monde másnap címlapon közölte, ahogy az elit csoport tagjai naplementében sétáltak a Szajna partján, és hajókáztak a folyón egy elegáns vacsorával egybekötött privát jachton.
 
@@ -467,6 +283,7 @@ Selena hercegnővé koronázása
 2017 október 16-án Selena Marie Gomezt Waikiki-i hercegnőnek koronázták. Sel kiskorától arról álmodozott, hogy egy napon hercegnő lesz és most élete nagy álma vált valóra. Selenát kétszer is bálkirálynőnek választották a Hercegnő védelmi program című filmekben, de most igazi koronát és ékszereket kapott. A jeles eseményre természetesen a családja, a volt munkatársai és a barátai is elkísérték. Megjelent Jennifer Stone, Vanessa Hudgens, Katie Cassidy, Leighton Meester és Demi Lovato is. "Tudom, hogy a Disneys múltam óta rengeteg dolog áll már mögöttem - nyilatkozta a szenátornő -, de mindig szívesen gondolok vissza a Waverly helyen eltöltött időre, és mivel úgy gondolom, hogy egy kis meséhez sosem lehetünk túl öregek, ezért örömmel jelentem be, hogy az egyetemig hátralevő fél évben szerepelek a Varázslók visszatérnek első évadjában." Az ünnepségre több nagy-múltú uralkodó család tagjai is hivatalosak voltak, jelen volt az angol és spanyol királyi család, öt bíboros, a francia miniszterelnök és a dalai láma is, aki szintén gratulált Selnek. A koronázást hatalmas színpompás tűzijáték és egy fogadás követte, ahol a világ minden tájáról összegyűjtött legfinomabb ételeket, borokat és pezsgőket szolgálták fel. a politikai, gazdasági és vallási elit jelenlévő tagjainak.
 
 Diplomáciai küldetés Moszkvában
+----------------------
 
 Raimondo és Selena ötnapos látogatást tettek Oroszországba, ahol Vlagyimir Putyin elnökkel tárgyaltak a szíriai konfliktusról. Az orosz látogatás nemcsak politikai, hanem kulturális és személyes jelentőséggel is bírt Raimondo és Selena számára, akiknek ez volt az első jelentős tárgyalássorozata, melyen egyedül kellett helytállniuk. Miután a hercegi párt állami díszszertartással fogadták a Vörös téren, az elnökkel és a Kreml más magas rangú vezetőivel folytattak tárgyalásokat. Az egész világ számára sorsdöntő megbeszélések között Ray és Sel meglátogatták Moszkva és Szentpétervár nevezetességeit majd pedig ellátogattak Szocsi luxusüdülőjébe is.
 
@@ -478,12 +295,12 @@ Raimondo aláírja a Transzatlanti Szabadkereskedelmi megállapodást
 Raimondo és Selena a világűrben
 -------------------------------
 
-A Waikiki-i űrprogram saját űrállomásának meglátogatását Ray már gyerekkora óta tervezte, mióta szülei 2010-ben a világűrbe utaztak. Selenával egy februárban tartott sajtótájékoztatón beszéltek arról, hogy együtt, 2018 februárjában a világűrbe látogatnak. A kéthetes világűri utazás során a hercegi pár kísérletek elvégzésében segédkezik, űrsétákon vesz részt és megtapasztalja a súlytalanság állapotát és életreszóló kalandokat él át. Előtte azonban hosszú kiképzésen vesznek részt, melynek során találkoznak az Aldrin űrsikló 19. küldetéséről visszatért személyzetével, megismerkednek az űrruhák használatával és az űrsikló valamint az űrállomás biztonsági előírásaival. A nagy napon a Columbus űrsikló sikeres kilövése után Föld körüli pályára állt, majd pedig dokkolt Waikiki űrállomásán. A közel 200km-es Föld körüli pályán töltött 14 napjuk során Raimondo-ék 5 másik astronautával osztoztak az űrállomás fedélzetén, többször is űrsétán vettek részt és hosszasan csodálták a semmi máshoz nem fogható panorámát. Az életreszóló élményt nyújtó utazás végül a Föld légkörébe való visszatérés majd pedig landolás zárta.
+A Waikiki-i űrprogram saját űrállomásának meglátogatását Ray már gyerekkora óta tervezte, mióta szülei 2010-ben a világűrbe utaztak. Selenával egy februárban tartott sajtótájékoztatón beszéltek arról, hogy együtt, 2018 februárjában a világűrbe látogatnak. A kéthetes világűri utazás során a hercegi pár kísérletek elvégzésében segédkezik, űrsétákon vesz részt és megtapasztalja a súlytalanság állapotát és életre szóló kalandokat él át. Előtte azonban hosszú kiképzésen vesznek részt, melynek során találkoznak az Aldrin űrsikló 19. küldetéséről visszatért személyzetével, megismerkednek az űrruhák használatával és az űrsikló valamint az űrállomás biztonsági előírásaival. A nagy napon a Columbus űrsikló sikeres kilövése után Föld körüli pályára állt, majd pedig dokkolt Waikiki űrállomásán. A közel 200 km-es Föld körüli pályán töltött 14 napjuk során Raimondo-ék 5 másik astronautával osztoztak az űrállomás fedélzetén, többször is űrsétán vettek részt és hosszasan csodálták a semmi máshoz nem fogható panorámát. Az életreszóló élményt nyújtó utazás végül a Föld légkörébe való visszatérés majd pedig landolás zárta.
 
 Donald Trump amerikai elnök Waikikire látogat
 ---------------------------------------------
 
-Egy évvel a megválasztása után az Egyesült Államok új elnöke, Donald Trump Waikikire látogatott, ahol találkozott Raimondóval, Selenával és a szenátus többi tagjával is. Donald feleségével, Melaniaval és fiukkal, az ifjabb Donalddal együtt a Hotel President elnöki lakosztályában szállt meg. Az Air Force One landolása és a díszes fogadtatás után Chease Younggal és Raimondóval együtt meglátogatta Waikiki parlamentjét, valamint a Világkormány központi épületét, ahol beszéltek a két vezető közös terveiről is. Este Trump és családja a Waikikik-i kormány tagjaival együtt egy elegáns étteremben vacsorázott. Másnap Donald és Melania megnézték a Miami Tropics - Atlanta Falcons amerikai-focimeccset, amíg fiuk Raimondóval és Selenával együtt a Nova Aurelia-i vidámparkban töltötte a napot. Késő délután Trump és családja Raimondóékkal együtt golfozni ment, ahol a minibajnokságot Chease Young nyerte meg. A két milliomos család este ismét együtt vacsorázott. Trump csak két napig maradhatott Waikikin, hiszen az elnöki tennivalóinak is eleget kell tennie az USA-ban.
+Egy évvel a megválasztása után az Egyesült Államok új elnöke, Donald Trump Waikikire látogatott, ahol találkozott Raimondóval, Selenával és a szenátus többi tagjával is. Donald feleségével, Melaniával és fiukkal, az ifjabb Donalddal együtt a Hotel President elnöki lakosztályában szállt meg. Az Air Force One landolása és a díszes fogadtatás után Chease Younggal és Raimondóval együtt meglátogatta Waikiki parlamentjét, valamint a Világkormány központi épületét, ahol beszéltek a két vezető közös terveiről is. Este Trump és családja a Waikiki-i kormány tagjaival együtt egy elegáns étteremben vacsorázott. Másnap Donald és Melania megnézték a Miami Tropics - Atlanta Falcons amerikai-focimeccset, amíg fiuk Raimondóval és Selenával együtt a Nova Aurelia-i vidámparkban töltötte a napot. Késő délután Trump és családja Raimondóékkal együtt golfozni ment, ahol a minibajnokságot Chease Young nyerte meg. A két milliomos család este ismét együtt vacsorázott. Trump csak két napig maradhatott Waikikin, hiszen az elnöki tennivalóinak is eleget kell tennie az USA-ban.
 
 Raimondo és Selena iskolák építésében segítenek Indiában
 --------------------------------------------------------
