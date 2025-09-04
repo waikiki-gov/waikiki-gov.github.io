@@ -12,7 +12,7 @@ Chease Young stratégiai beruházásai révén indult el a nemzeti űrprogram (W
 
 Jessica Walker pénzügyi szakemberként és közéleti vezetőként kezdte karrierjét. Pályafutása során vállalati tanácsadóként szerzett tapasztalatokat, majd 2008–2015 között a Waikiki Nemzeti Bank elnökeként bankreformokat és prudenciális szabályozásokat vezetett be. A 2008–2009-es globális pénzügyi válság idején kidolgozott bankrendszer-stabilizációs programjaiért Chease Younggal megosztva 2009-ben közgazdasági Nobel-díjban részesült.
 
-2017-től konzuli tisztséget tölt be pénzügyi és humanitárius portfólióval. Szakpolitikai munkássága során jelentős szerepet játszott a készpénzmentes gazdaság bevezetésében, a közösségi közlekedés országos ingyenessé tételében és a digitális közigazgatási reformok végrehajtásában. 2024-ben visszatért a Waikiki Nemzeti Bank elnöki tisztségébe, ahol a monetáris politika irányítását a pénzügyi stabilitás, a fenntartható növekedés és a technológiai innováció hármas stratégiai célja határozza meg.
+2017-től konzuli tisztséget tölt be pénzügyi és humanitárius portfólióval. Szakpolitikai munkássága során jelentős szerepet játszott a készpénzmentes gazdaság bevezetésében, a közösségi közlekedés országos ingyenessé tételében és a digitális közigazgatási reformok végrehajtásában. Nemzetközi szinten 2013-tól az ENSZ főtitkár-helyetteseként, majd a Világkormány megalapítása után a Világbank igazgatójaként is tevékenykedik. 2024-ben visszatért a Waikiki Nemzeti Bank elnöki tisztségébe, ahol a monetáris politika irányítását a pénzügyi stabilitás, a fenntartható növekedés és a technológiai innováció hármas stratégiai célja határozza meg.
 
 ## Családi háttér és közéleti szerepvállalás
 
@@ -154,7 +154,7 @@ A humanitárius tevékenység terén Chease Young és Jessica Walker 100 millió
 
 A tudományos kutatás területén áttörést jelentett, hogy a waikiki-i tudósok a részecskegyorsítóban sikeresen előállítottak antianyagot. Jessica Walker jelentős nemzetközi elismerést kapott, amikor az ENSZ főtitkár-helyettesi pozícióját kapta meg. Chease Young és Smith Edward Dubaiban bemutatott egy automata katonai robotot, amely a hadiipar fejlődésének újabb mérföldkövét jelentette.
 
-A királyi család bővülése is fontos esemény volt: Raimondo barátnőjét, Bailey Pickettet Waikiki hercegnőjévé koronázták. Raimondo ekkor szerepelt a "Belvárosi hercegnő" című sorozatban Bailey Pickettel, Selena Gomezzel és Debby Ryannal együtt. Smith Edwardot kinevezték Waikiki első kormányzójává. Raimondo Chease 16. születésnapjára közel 3 milliárd dolláros palotát kapott ajándékba.
+Smith Edwardot kinevezték Waikiki első kormányzójává. Raimondo Chease 16. születésnapjára közel 3 milliárd dolláros palotát kapott ajándékba. Raimondo ekkor szerepelt a "Belvárosi hercegnő" című sorozatban Bailey Pickettel, Selena Gomezzel és Debby Ryannal együtt.
 
 2013-ban Waikiki gazdasági mutatói kiemelkedőek voltak: a GDP elérte a 28 750 milliárd dollárt, ami 115 000 dollár egy főre vetítve. Az államháztartási tartalék a GDP 83%-át tette ki, míg a gazdasági növekedés évi 13%-os ütemben folytatódott.
 
@@ -406,11 +406,11 @@ Az első szakaszban 2019-ig megépítik a mágnesvasutat a Santiago és Moron k�
 
 ### Új kormánytagok kinevezése
 
-A 2017. novemberében tartott évértékelő kormányzati ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzuli rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát konzullá léptették elő, a következő fontos döntés a szenátus megüresedő helyét betöltő tizedik szenátor kiválasztása lett.
+A 2017-ben tartott évértékelő kormányzati ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzuli rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát konzullá léptették elő, a következő fontos döntés a szenátus megüresedő helyét betöltő tizedik szenátor kiválasztása lett.
 
 Jessica Walker konzulként folytatja munkáját, akinek legismertebb alakítása a "Chuck" című sorozat volt. 2012-ben ő lett az ENSZ főtitkára, majd a Világkormány megalapítása után a Világbank igazgatója is. Selena Gomez szintén konzuli rangot kapott.
 
-Selena Gomez, a korábbi Disney-sztár és a Stars Dance előadója 2015-ben szenátor lett. 2017-től Raimondóval alkot párt, és 2017 novemberében Waikiki egyik konzuljává léptették elő.
+Selena Gomez, a korábbi Disney-sztár és a Stars Dance előadója 2015-ben szenátor lett. 2017-től Raimondóval alkot párt, és 2017-ben Waikiki egyik konzuljává léptették elő.
 
 Olivia Holt karrierje háromévesen kezdődött; szélesebb ismertséget a Kickin' It című Disney-sorozat hozott számára, később pedig a Nem én voltam! sorozatban Lindy Watson szerepét alakította. Zac Efron javaslatára Raimondo szenátorrá nevezte ki. Miután Chease Young tájékoztatta Oliviát és családját az ajánlatról, Raimondo, Selena, Bailey és Gregg személyesen is felkereste őt; másnap este a Nem én voltam! sztárja a szenátorokkal együtt egy nova aureliai szórakozóhelyre látogatott. Egy héttel később Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik nagyherceget egy palládiumreaktor megépítéséről, amely Európa első ilyen típusú erőműve lehet. Raimondóék a főváros nevezetességeit Henrik herceg vezetésével tekintették meg, aki első látásra elnyerte London Tipton tetszését. A delegáció Luxemburg hagyományaival ismerkedett, lovagolt, íjászkodott és megkóstolta a nemzeti ételeket. Raimondo, Selena, Bailey és Olivia végül egy párizsi kitérővel hosszabbították meg az utat. 2017 novemberének végén Selena Gomez az USA-ba utazott egy UNESCO-megbeszélésre, ahol a fenntartható fejlődésről és a természetes élőhelyek védelméről tárgyalt. Közben Raimondo Waikikin maradt, hogy Chease Younggal együtt a Bilderberg-csoport vezetőivel egyeztessen. Mivel Ray magányosnak érezte magát barátnője távollétében, Jennifer társaságában szórakozni ment, ahol találkozott a S.H.I.E.L.D. ügynökei című sorozatban Sky szerepét játszó Chloe Bennet-tel; együtt is táncoltak, majd Raimondo meghívta őt és színésztársait a palotába.
 

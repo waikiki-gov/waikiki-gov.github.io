@@ -9,7 +9,7 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 ## 2000
 - Chease Youngot diktátorrá választják.
 - Első parlamenti választások a Demokratikus Párt győzelmével, John Boehmer elnök lesz.
-- Alkotmány elfogadása népszavazás álltal.
+- Alkotmány elfogadása népszavazás által.
 - Állami intézményrendszer és alkotmányos keretek megszilárdítása.
 
 ## 2001
@@ -69,7 +69,7 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 
 ## 2015
 - Szenátus megalakulása.
-- Raimondo. Angelina, Jennifer, Tailor, Tyle és Bailey szenátor lesz.
+- Raimondo, Angelina, Jennifer, Taylor, Tyler és Bailey szenátor lesz.
 - Inter Medic bejelenti az élettartam‑hosszabbító elixírt.
 - Afrika egységes fővárosának építésének kezdete.
 - Bilderberg‑találkozó Waikikin.
