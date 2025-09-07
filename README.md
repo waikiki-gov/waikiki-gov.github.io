@@ -24,34 +24,4 @@ Waikiki egy demokratikus diktatúraként működő, szuverén állam, amelynek f
 A törvényhozói hatalmat a kétkamarás Parlament gyakorolja, a végrehajtó hatalom az Elnök vezette Kormány kezében összpontosul, míg az igazságszolgáltatást független bírósági rendszer biztosítja. Az Alkotmány különös védelemben részesíti a nemzeti kultúrát, a család intézményét, a gyermeknevelést és a természeti erőforrásokat. Az állampolgároknak széles körű jogokat garantál, többek között az oktatáshoz, az egészségügyi ellátáshoz, a munkához és a szabad mozgáshoz való jogot. Az állampolgárok kötelesek hozzájárulni a közteherviseléshez, valamint részt venni a haza védelmében. Waikiki gazdasági berendezkedése piacgazdaság, amely protekcionista elveken nyugszik, és amelyben a stratégiai jelentőségű erőforrások az állam különleges védelmét élvezik.
 
 ## [Események](content/Events.md)
-* 1972 – Chease Young születése.
-* 1973 – Jessica Walker születése.
-* 1990 – Chease Young diplomát szerez a Stanford Egyetemen és átveszi a Starlight Hotels vezetését.
-* 1991 – Chease és Jessica megismerkednek.
-* 1992 – Chease és Jessica összeházasodnak.
-* 1993 – Megszületik Angelina Chease.
-* 1994 – Megszületik Jennifer Chease.
-* 1996 – Megszületik Raimondo Chease.
-* 1999 – Chease megalapítja Waikikit.
-* 2000 – Waikiki alkotmányát népszavazással megerősítik.
-* 2005 - Chease Youngot Waikiki királyává koronázzák.
-* 2006 – Chease Young a világ leggazdagabb embere.
-* 2007 – Waikiki elindítja első nagyobb űrprogramját és tudományos kutatóközpontját.
-* 2008 – Chease Young felvásárolja az első nagyobb technológiai cégeit, Jessica Walker lesz a Nemzeti Bank elnöke.
-* 2009 - Chease és Jessica közgazdasági Nobel-díjat kap
-* 2010 - Jennifer és Taylor először találkoznak, mialatt Chease és Jessica a világűrbe utaznak.
-* 2011 – Angelina megismerkedik Taylorral, Raimondo pedig Baileyvel találkozik.
-* 2012 – Angelina és Taylor először nyaralnak együtt.
-* 2013 – Angelina befejezi mesterképzését és humanitárius misszión vesz részt Venezuelában.
-* 2014 – Angelina fellép a Davosi Világgazdasági Fórumon és nyáron Taylorral Ázsiai körutat tesznek.
-* 2015 - A szenátus megalapítása, melynek első tagjai Raimondo, Angelina, Jennifer, Tyler, Taylor és Bailey.
-* 2016 – Raimondo kulcsszerepet vállal Waikiki energiaprogramjában, Angelina pedig a Nemzeti Bank monetáris tanácsának gyakornoka lesz.
-* 2017 – Chease Young lemond a diktátori címről, melyet Raimondónak ad át, ő maga pedig kancellár és a Világkormány elnöke lesz. Raimondo szakít Baileyvel és Selenával kezd járni.
-* 2018 – Raimondo a Forbes felmérése szerint a világ legbefolyásosabb embere lett.
-* 2019 – Raimondo és Selena közösen indítják el a Waikiki 2030 stratégiai programot a fenntartható fejlődés és technológiai innováció érdekében.
-* 2020 – Raimondo vezető szerepet vállal a nemzetközi klímavédelmi konferenciákon; Angelina és Taylor diplomáciai kapcsolatok erősítésében vesznek részt.
-* 2021 – Raimondo és Selena hivatalos külpolitikai körutakat tesznek Tokióban és Rómában; Angelina és Taylor diplomáciai kapcsolatok erősítésében vesznek részt.
-* 2022 – Angelina a Nemzeti Bank vezető tanácsosa lesz.
-* 2023 – Raimondo a nemzetközi energiaválság kezelésében kulcsszerepet játszik; Selena a nemzetközi oktatási és kulturális projektekért felel; Angelina és Taylor új humanitárius kezdeményezést indítanak Dél-Amerikában.
-* 2024 – Angelina hivatalosan is a Nemzeti Bank monetáris tanácsának tagja; Raimondo vezetésével Waikiki nemzetközi gazdasági konferenciákon vesz részt, Selena a külügyi tárgyalásokon képviseli az országot.
-* 2025 – Raimondo és Selena Waikiki nemzetközi technológiai és energiakonferencián mutatják be az ország új fenntarthatósági programját; Angelina és Taylor a Nemzeti Bank és humanitárius projekteken keresztül koordinálják az ország gazdasági és társadalmi stratégiáját.
+Waikiki Állam huszonhat éves történelme egy kivételes fejlődési folyamat, amely során egy kis karibai ország a világ vezető gazdasági és politikai hatalmává vált. 1999-ben Chease Young megalapította Waikikit és azonnal csatlakozott az Egyesült Nemzetek Szervezetéhez, ezzel biztosítva az új állam nemzetközi elismerését. A következő évben kialakították a demokratikus diktatúra egyedülálló rendszerét, Chease Youngot diktátorrá választották, megtartották az első parlamenti választásokat, valamint népszavazás útján elfogadták az alkotmányt és megszilárdították az állami intézményrendszert. 2003 fordulópontot jelentett a Pacifikus háború kitörésével, amikor Waikiki belépett a konfliktusba és megalapította az Atomhatalmak Szövetségét. 2004-ben a Pacifikus háború Waikiki győzelmével és a New York-i béke aláírásával zárult. 2005-ben Chease Youngot és családját Waikiki királyává koronázták. 2006 történelmileg meghatározó év volt, amikor Brazília népszavazást követően csatlakozott Waikikihez, kialakítva a háromtartományos államszerkezetet. Ennek eredményeként Waikiki a világ leggazdagabb országává vált, Chease Young pedig a világ leggazdagabb emberévé. 2007-ben az ország csatlakozott az Amerikai Gazdasági Unióhoz és elindította saját űrprogramját. 2008-ban Jessica Walker átvette a Nemzeti Bank elnöki posztját majd új banktörvényt fogadtak el szigorúbb prudenciális követelményekkel. 2012-ben Nova Aureliában rendezték meg az olimpiai játékokat, majd 2013-ban kormányzókat és helytartókat neveztek ki. 2015 kiemelkedő jelentőségű év volt a Szenátus megalakulásával és az Inter Medic élettartam-hosszabbító elixír bejelentésével. 2016-ban Michael J. Cavanagh lett a Nemzeti Bank új elnöke és kibővítették a szenátust. 2017-ben Chease Young átadta a diktátori tisztséget Raimondónak, maga pedig kancellár lett. Waikiki csatlakozott a Transzatlanti Szabadkereskedelmi Övezethez, bevezették az ingyenes állami egészségügyet, oktatási reformot hajtottak végre és Jessica Walker valamint Selena Gomez konzuli kinevezést kapott. 2018-ban bevezették a készpénzmentes gazdaságot kötelező elektronikus fizetéssel, országosan ingyenessé vált a tömegközlekedés, megalapították a Világkormányt és Raimondo a Trilaterális Bizottság tagja lett. 2019-ben jubileumi ünnepségsorozattal ünnepelték Waikiki függetlenségének 20. évfordulóját, 2020 és 2021 során sikeresen kezelték a COVID-19 világjárványt, és előkészítették a négy napos munkahét bevezetését. 2022-ben Waikiki Ukrajna mellett foglalt állást az orosz-ukrán háború kitörése után és megkezdődött a Kaméleon mesterséges szigetcsoport projekt Nova Aurelia partjainál. 2024-ben Jessica Walker ismét a Waikiki Nemzeti Bank elnöke lett. 2025-ben Waikiki teljes jogú NATO-taggá vált, ezzel befejezve a korábban megkezdett csatlakozási folyamatot.
