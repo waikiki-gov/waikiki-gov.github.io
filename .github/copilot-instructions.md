@@ -45,24 +45,32 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Judicial**: Supreme Court with constitutional powers
 
 ### Key Institutions
-- **Waikiki Nemzeti Bank**: Central bank, current president Jessica Walker (2024-)
-- **Waikiki Space Agency**: National space program with orbital stations
+- **Waikiki Nemzeti Bank**: Central bank, current president Jessica Walker (2024-), previously Michael J. Cavanagh (2016-2024)
+- **Waikiki Space Agency**: National space program with orbital stations and $200B space station project
+- **Inter Medic**: Life-extension elixir company, breakthrough announced 2015, $5M WUD annual treatment cost, Bill Gates first customer
+- **Seven Seas High School**: Elite floating school on SS Tipton ocean liner, attended by Raimondo, Bailey, and international students
+- **Szenátus**: Senate established 2015, appointed by dictator, includes Raimondo, Jennifer, Angelina, Selena, Tyler, Taylor
+- **G9**: Global economic forum, Waikiki joined 2016, headquarters in New Mavericks
+- **World Government**: Established 2018, Chease Young president, Raimondo Trilateral Commission member
 
 ### Major Personalities
-- **Raimondo Chease**: Current dictator (2017-), partner of Selena Gomez, former senator (2015-2017)
-- **Chease Young**: Founder-dictator (1999-2017), current chancellor, partner of Jessica Walker
-- **Jessica Walker**: Consul (2017-), WNB president (2024-, previously 2008-2015)
-- **Selena Gomez**: Consul (2017-), partner of Raimondo
-- **Jennifer Chease & Tyler Posey**: Senators, detailed biography available
-- **Angelina Chease & Taylor Lautner**: Senators (green finance/environment), Angelina on Monetary Council (2024-)
-- **George Bush**: Current president (government executive)
+- **Raimondo Chease**: Current dictator (2017-), partner of Selena Gomez, former senator (2015-2017). Born 1996, Seven Seas High School graduate, owns $200B palace, Forbes 2018 most influential person, Trilateral Commission member
+- **Chease Young**: Founder-dictator (1999-2017), current chancellor since 2017, World Government president (2018-), partner of Jessica Walker, world's wealthiest person (2006), Nobel Prize Economics (2009)
+- **Jessica Walker**: Consul (2017-), WNB president (2008-2015, 2024-), key architect of cashless economy and banking reforms, Nobel Prize Economics (2009) with Chease
+- **Selena Gomez**: Consul (2017-), partner of Raimondo since 2017, former relationship with Gregg Sulkin, UNICEF youngest ambassador, Waikiki princess (crowned 2017), founder Selena Gomez Stores
+- **Jennifer Chease & Tyler Posey**: Senators focused on digital government, healthcare innovation, KKV digitalization, green infrastructure, and budget transparency
+- **Angelina Chease & Taylor Lautner**: Environmental senators, Angelina on Monetary Council (2024-), Taylor former Twilight actor who moved to Waikiki (2012)
+- **George Bush**: Current president (government executive), Világuralmi Párt leader
+- **Bailey Pickett**: Former Miss Supranational 2014, Raimondo's first girlfriend (2011-2017), Seven Seas High School alumna
 
 ## Content Files Structure
 
 ### Core Narrative
-- `content/Waikiki.md`: Master state overview (demographics, government, economy)
-- `content/Constitution.md`: Legal framework
-- `content/Events.md`: Chronological timeline
+- `content/Waikiki.md`: Master state overview (demographics, government, economy) with territorial breakdown and 2018-2021 population/economic data
+- `content/Constitution.md`: Complete legal framework including basic rights, state structure, parliament rules, and national symbols
+- `content/Events.md`: Comprehensive chronological timeline (1999-2025) with detailed year-by-year political/economic milestones
+- `content/Economy.md`: Detailed economic analysis with historical GDP data (1999-2025), budget breakdowns, monetary policy, and future projections
+- `content/Society.md`: Cultural foundations, royal family dynamics, social values, and Time Magazine analysis of the Chease dynasty
 
 ### Biographical Content
 - `content/Raimondo-and-Selena.md`: Detailed dictator/consul profiles and relationship
@@ -78,9 +86,11 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Consistency**: Maintain established names, dates, institutional roles
 
 ### Narrative Conventions
-- **Economic Data**: Services 84%, GDP ~$40T, per capita ~$187k, reserves 58% GDP, inflation less than 1%
+- **Economic Data**: GDP $41.8T (2025), per capita $196k, state reserves $25.6T (61% GDP), inflation <1%, employment rate 90%+
+- **Economic Structure**: Services‑dominated, state sector leads employment (health/education 20%, administration 14%)
+- **Monetary System**: WUD stable vs USD (~2.3:1 ratio), gold reserves grew 52→350 tons (2000‑2004), cashless since 2018
 - **Demographics**: 212M population, 90+ year life expectancy, 0% illiteracy
-- **Energy**: Cashless since 2018, renewable/nuclear mix, free public transport since 2018
+- **Energy**: Renewable/nuclear mix, free public transport since 2018
 - **Timeline**: Founded 1999, Brazil joined 2006, leadership transition 2017, WNB Jessica Walker 2024
 
 ### Style Guidelines
@@ -94,7 +104,10 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Critical Facts to Maintain
 - **Population**: 212M (2021), growing 35k/year, distributed across 3 provinces
-- **Economy**: World's largest GDP ($39,818B), services dominate (84%), minimal agriculture (1%)
+- **Economy**: World's largest GDP ($41.8T, 2025), GDP/capita $196k, state reserves $25.6T (61% GDP)
+- **Economic Structure**: State‑led employment (health/education 20%, admin 14%), export strength in electronics/pharma/aerospace
+- **Monetary Policy**: WUD inflation <1%, employment 90%+, National Wealth Fund managing diversified portfolio
+- **Budget**: Healthcare spending quintupled 2015‑2020, major projects (space station $200B, defense systems $132B)
 - **Government**: Democratic dictatorship, 5-year elections for Congress, appointed Senate
 - **International**: G9 member, UN Security Council permanent member, World Government founder
 - **Technology**: 10% GDP on R&D, Digitális Alapjogok Chartája creator, space stations operational
@@ -120,9 +133,8 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Cross-Reference Requirements
 - **Leadership Changes**: Must update Events.md, Waikiki.md, and relevant biography files
-- **Economic Updates**: Sync between Waikiki.md, Economy-Summary.md and Culture.md social programs
+- **Economic Updates**: Sync between Waikiki.md, Economy.md and Society.md social programs
 - **Institutional Changes**: Reflect in government structure, timeline, and affected personality files
-- **Holiday References**: Culture.md holidays section is authoritative, avoid conflicting dates elsewhere
 - **Title Consistency**: Same person must have same titles across all files
 - **International Context**: Maintain Waikiki's status as global leader and World Government founder
 - **File consistency**: Maintain consistency between the .md and matching .html files
