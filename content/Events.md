@@ -65,7 +65,7 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 - Olimpiai játékok Nova Aureliában.
 - Raimondo felvételt nyer a Waikiki Economics Universityre.
 - Megkezdődik Raimondo palotájának építése.
-- Zachel Zane lesz Chease Young titkára
+- Rachel Zane lesz Chease Young titkára
 
 ## 2013
 - Kormányzó és helytartók kinevezése.
@@ -89,7 +89,7 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 - Inter Medic bejelenti az élettartam‑hosszabbító elixírt.
 - Afrika egységes fővárosának építésének kezdete.
 - Bilderberg‑találkozó Waikikin.
-- Angelina városfejlesztési körútja (São Paulo, Rio de Janeiro, Curitiba, Recife).
+- Angelina városfejlesztési körútja (Sao Paulo, Rio de Janeiro, Curitiba, Recife).
 - Selena Gomez UNICEF nagykövet lesz.
 
 ## 2016

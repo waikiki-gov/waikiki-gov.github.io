@@ -308,7 +308,7 @@ Egy másik grandiózus épület, a Royal Clock Tower Nova Aurelia kormányzati n
 
 Waikiki mindhárom tartományába egy-egy extra luxus szálloda építését kezdte meg. A 12 csillagos Hotel Amazonas már majdnem a President szálloda luxus ellátását kínálja, ráadásul páratlan helyszínen. Az Amazonas medre fölé tornyosuló szálloda vendégei lélegzetelállítóan közelről csodálhatják meg a természetes élővilágot úgy, hogy nem kell feladniuk a szálloda által nyújtott kényelmet.
 
-A Hotel Pearl New Mavericks partjainál nyúlik el. A 10 csillagos szálloda minden vendége egy valóságos kis szigetet kap lakosztályul. A páratlan tengeri élővilág látványa mellett a szálloda különlegességei közé tartozik, hogy csónakkal hozzák a pincérek a vacsorát. Az Ivory Castle szintén a világ legdrágább szállodái közé fog tartozni. A 9 csillaggal kitüntetett luxusszálló belseje szinte tiszta arany, márvány és különböző drágakövek ezrei díszítik. Az Ivory Castle a brazíliai São Paulo városban fog megépülni.
+A Hotel Pearl New Mavericks partjainál nyúlik el. A 10 csillagos szálloda minden vendége egy valóságos kis szigetet kap lakosztályul. A páratlan tengeri élővilág látványa mellett a szálloda különlegességei közé tartozik, hogy csónakkal hozzák a pincérek a vacsorát. Az Ivory Castle szintén a világ legdrágább szállodái közé fog tartozni. A 9 csillaggal kitüntetett luxusszálló belseje szinte tiszta arany, márvány és különböző drágakövek ezrei díszítik. Az Ivory Castle a brazíliai Sao Paulo városban fog megépülni.
 
 ## Donald Trump az USA elnöke lett
 
@@ -572,7 +572,7 @@ Az Egyesült Királyság az Európai Unióból való kilépése kapcsán tovább
 
 2019-ben több ikonikus projekt valósult meg vagy indult el. A Mega Pyramid City – egy hatalmas bevásárló-, lakó- és irodakomplexum – Waikiki 20. évfordulójára készül el. Folytatódik a Kaméleon-szigetek, Waikiki harmadik nagy mesterséges szigetcsoportjának építése Nova Aureliában. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba áll. A több toronyból álló Royal Clock Tower elsősorban minisztériumi irodáknak ad helyet, és a 2019-es ünnepségsorozat keretében Raimondo bemutatta Waikiki új parlamentjének terveit is.
 
-Elkészült a Waikiki két szigetét összekötő, 100 km-es vasúti alagút – jelenleg a világ leghosszabb tenger alatti vasúti alagútja –, és átadták Nova Aurelia 27. metróvonalát. São Paulo közelében megkezdődött az ötödik fúziós erőmű építése, és csak 2019-ben 150 milliárd WUD értékű megújuló energia projektet valósított meg a kormány. New Mavericks jachtkikötőjében elkészült a Sydney-i Operaház pontos mása, miközben a Nemzeti Múzeum új kiállításokkal és kölcsönzött műalkotásokkal bővítette kínálatát. A fővároshoz hasonlóan New Mavericks köré is megkezdődött az árvízvédelmi gát építése.
+Elkészült a Waikiki két szigetét összekötő, 100 km-es vasúti alagút – jelenleg a világ leghosszabb tenger alatti vasúti alagútja –, és átadták Nova Aurelia 27. metróvonalát. Sao Paulo közelében megkezdődött az ötödik fúziós erőmű építése, és csak 2019-ben 150 milliárd WUD értékű megújuló energia projektet valósított meg a kormány. New Mavericks jachtkikötőjében elkészült a Sydney-i Operaház pontos mása, miközben a Nemzeti Múzeum új kiállításokkal és kölcsönzött műalkotásokkal bővítette kínálatát. A fővároshoz hasonlóan New Mavericks köré is megkezdődött az árvízvédelmi gát építése.
 
 ## Waikiki fennállásának 20. évfordulója
 
@@ -718,7 +718,7 @@ Decemberben Raimondo Chease és Rachel Zane együtt tárgyaltak a Mezőgazdaság
 
 Waikiki harmadik, nagy kiterjedésű mesterséges szigetcsoportjának építése Nova Aureliában tovább halad. A fővárosban és környékén új közlekedési fejlesztések valósulnak meg: a két szigetet összekötő, mintegy 100 kilométeres vasúti alagút jelenleg a világ leghosszabbja, a metróhálózat pedig új vonallal bővült, amely immár a 27. járatot jelenti a fővárosban. A kormány a kulturális kínálatot is erősíti: a Nemzeti Múzeum új kiállításokkal és kölcsönzött műtárgyakkal bővül, New Mavericks jachtkikötőjében pedig a Sydney-i operaház pontos másolata készült el. A várost – a fővároshoz hasonlóan – új árvízvédelmi gát védi.
 
-A tudományos és energetikai fejlesztések terén is jelentős előrelépések történtek. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba állt, Brazíliában pedig São Paulo közelében épül az ország ötödik fúziós erőműve. 2019-ben a kormányzat 150 milliárd WUD értékű zöldenergia‑programot valósított meg.
+A tudományos és energetikai fejlesztések terén is jelentős előrelépések történtek. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba állt, Brazíliában pedig Sao Paulo közelében épül az ország ötödik fúziós erőműve. 2019-ben a kormányzat 150 milliárd WUD értékű zöldenergia‑programot valósított meg.
 
 #### Boeing 7107
 
