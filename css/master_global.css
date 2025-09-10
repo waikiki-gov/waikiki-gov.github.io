@@ -254,7 +254,7 @@ iframe.animation {
 }
 
 /* Flex */
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
     .Flex:not(.clip_frame.colelem) {
         width: 100vw !important;
         left: -49vw !important;
