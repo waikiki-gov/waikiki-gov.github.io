@@ -427,8 +427,7 @@ text.large {
 /* Dark mode */
 .body-dark,
 .body-dark .TabbedPanelsContent,
-.body-dark #page,
-.body-dark #phome {
+.body-dark #page {
     background-color: var(--color-dark) !important;
 }
 
