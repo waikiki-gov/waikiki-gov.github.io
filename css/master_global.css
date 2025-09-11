@@ -254,7 +254,7 @@ iframe.animation {
 }
 
 /* Flex */
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
     .Flex:not(.clip_frame.colelem) {
         width: 100vw !important;
         left: -49vw !important;
@@ -427,9 +427,8 @@ text.large {
 /* Dark mode */
 .body-dark,
 .body-dark .TabbedPanelsContent,
-.body-dark #page,
-.body-dark #phome {
-    background: var(--color-dark) !important;
+.body-dark #page {
+    background-color: var(--color-dark) !important;
 }
 
 .body-dark .infogram-embed {
@@ -680,6 +679,6 @@ text.large {
 }
 
 .browser_width.colelem,
-.browser_width.colelem>div {
+.browser_width.colelem>div:not(.museBGSize) {
     min-height: 0px !important;
 }
