@@ -77,6 +77,7 @@ Az alábbi idővonal a Waikiki államát meghatározó főbb politikai, gazdasá
 ## 2014
 - Angelina fellép a Davosi Gazdasági Fórumon.
 - Elkészül a Diktátori Palota.
+- Raimondo és Selena először találkoznak a Mátrix 4 forgatásán
 - Angelina és Taylor ázsiai körutazása (Kiotó, Tokió, Szingapúr, Bhután, Bangkok, Agra, Peking).
 - Elkészül Angelina Palazzo Versace palotája.
 - Jennifer BSc diplomát szerez politikai gazdaságtanból.
