@@ -73,10 +73,10 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - `content/Society.md`: Cultural foundations, royal family dynamics, social values, and Time Magazine analysis of the Chease dynasty
 
 ### Biographical Content
-- `content/Raimondo-and-Selena.md`: Detailed dictator/consul profiles and relationship
+- `content/Raimondo-and-Selena.md`: Dictator couple
+- `content/Chease-and-Jessica.md`: Consul couple
 - `content/Jennifer-and-Tyler.md`: Senator couple
 - `content/Angelina-and-Taylor.md`: Senator couple
-- `content/Chease-and-Jessica.md`: Royal couple
 
 ## Editorial Standards
 
