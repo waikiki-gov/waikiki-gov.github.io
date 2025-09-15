@@ -32,7 +32,3 @@ Regionális viszonylatban Waikiki haderője hegemón, egyértelműen meghaladja 
 
 ### Jövőkép 2030
 A haderő fejlesztésének iránya a teljes spektrumú integráció: a föld‑, levegő‑, tenger‑, kibertér‑ és űrműveletek egységes, mesterséges intelligencia által támogatott parancsnoki környezetben valósulnak meg. A fenntarthatóságot energiahatékony platformok és zöld üzemanyagok szolgálják, a katonai logisztika környezetterhelésének csökkentése mellett. A reziliencia érdekében a hazai ellátási láncok megerősítése, a kritikus komponensek szuverén gyártása és a térségi előretolt készletezés kap kiemelt figyelmet.
-
-—
-
-Ez a dokumentum a fegyveres erők legfontosabb szerkezeti, képesség‑ és irányítási jellemzőit foglalja össze. A leírás összhangban van Waikiki hivatalos biztonság‑ és védelempolitikai irányelveivel, a 2025‑ös NATO‑csatlakozásból fakadó kötelezettségekkel, valamint a TBMDS és a WSA által fémjelzett modernizációs programokkal.
