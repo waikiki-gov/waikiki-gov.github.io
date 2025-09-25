@@ -17,9 +17,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=37355663"/>
   <title>Bankrendszer</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=371907124"/>
-  <link rel="stylesheet" type="text/css" href="css/master_global.css?crc=4287615283"/>
-  <link rel="stylesheet" type="text/css" href="css/banking.css?crc=494947715" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4173681132"/>
+  <link rel="stylesheet" type="text/css" href="css/master_global.css?crc=3932349506"/>
+  <link rel="stylesheet" type="text/css" href="css/banking.css?crc=4046130019" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
@@ -36,13 +36,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="phome"><!-- column -->
     <a class="anchor_item colelem" id="home" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
-    <div class="clearfix colelem" id="pu543419-4"><!-- group -->
-     <div class="browser_width grpelem" id="u543419-4-bw">
-      <div class="clearfix" id="u543419-4"><!-- content -->
-       <p>Waikiki Bankrendszere</p>
-      </div>
+    <a class="anchor_item colelem" id="szereplok" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></a>
+    <a class="anchor_item colelem" id="tevekenysegek" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="tozsde" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="dollar" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="kamat" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+    <a class="anchor_item colelem" id="inflacio" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
+   </div>
+   <div class="browser_width" id="u117597-bw">
+    <div class="Header" id="u117597"><!-- simple frame --></div>
+   </div>
+   <div class="clearfix grpelem" id="pu543419-4"><!-- column -->
+    <div class="browser_width colelem" id="u543419-4-bw">
+     <div class="clearfix" id="u543419-4"><!-- content -->
+      <p>Waikiki Bankrendszere</p>
      </div>
-     <a class="anchor_item grpelem" id="szereplok" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></a>
     </div>
     <div class="clearfix colelem" id="u543390-4"><!-- content -->
      <p>Ismerd meg a pénzügyi rendszer szereplőit!</p>
@@ -51,7 +59,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <h5>Waikiki pénzügyi rendszerének legfontosabb szereplői a Nemzeti Bank, a kereskedelmi bankok és a befektetési bankok. Waikiki szinte egyedülálló állami bankrendszerének alapja, hogy csak a Nemzeti Bank teremthet pénzt, így ez a tevékenység a kormányzati bevételeket növeli.</h5>
     </div>
     <div class="Row clearfix colelem" id="u543850"><!-- group -->
-     <a class="anchor_item grpelem" id="tevekenysegek" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
      <div class="clearfix grpelem" id="u543841"><!-- column -->
       <div class="museBGSize colelem" id="u543424" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
       <div class="clearfix colelem" id="u543391-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
@@ -108,7 +115,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="museBGSize grpelem" id="u550156" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- simple frame --></div>
     </div>
     <div class="Row clearfix colelem" id="u544266"><!-- group -->
-     <a class="anchor_item grpelem" id="tozsde" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
      <div class="clearfix grpelem" id="u544257"><!-- column -->
       <div class="clearfix colelem" id="u543401-4" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- content -->
        <h6>Pénzteremtés és állami tartalék</h6>
@@ -164,9 +170,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu553950"><!-- group -->
-     <div class="Svg grpelem" id="u553950"><!-- custom html -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
+    <div class="Svg colelem" id="u553950"><!-- custom html -->
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
     <path fill="none" stroke="#b8b8b8" stroke-width=".3" d="M71 274.4h1200m-1200-37h1200m-1200-38h1200m-1200-37h1200m-1200-38h1200M71 87.4h1200M71 49.4h1200M71 12.4h1200" />
     <text class="small" transform="translate(1287 316)">0 trilliárd USD</text>
     <text class="small" transform="translate(1282 256)">12 trilliárd USD</text>
@@ -221,8 +226,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <path fill="#dcba3e" d="M989 336.9h11v12h-11z" />
     <text class="medium" transform="translate(1009 349)">Waikiki ingatlanárak</text>
 </svg>
-     </div>
-     <a class="anchor_item grpelem" id="dollar" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     </div>
     <a class="nonblock nontext anim_swing clearfix colelem" id="u543430-4" href="banking.html#dollar"><!-- content --><p>Waikiki Dollár</p></a>
     <div class="clearfix colelem" id="u543412-4"><!-- content -->
@@ -254,9 +257,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu553968"><!-- group -->
-     <div class="Svg grpelem" id="u553968"><!-- custom html -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
+    <div class="Svg colelem" id="u553968"><!-- custom html -->
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
     <path fill="none" stroke="#b8b8b8" stroke-width=".3" d="M89 262.4h1200m-1200-50h1200m-1200-50h1200m-1200-50h1200M89 62.4h1200M89 12.4h1200" />
     <text class="small" transform="translate(1305 316)">0 trilliárd WUD</text>
     <text class="small" transform="translate(1305 256)">2 trilliárd WUD</text>
@@ -308,8 +310,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <path fill="#dcba3e" d="M963 336.9h12v12h-12z" />
     <text class="medium" transform="translate(984 349)">A Nemzeti Bank aranytartaléka</text>
 </svg>
-     </div>
-     <a class="anchor_item grpelem" id="kamat" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     </div>
     <a class="nonblock nontext anim_swing clearfix colelem" id="u543440-4" href="banking.html#kamat"><!-- content --><p>Kamatok és árfolyamok</p></a>
     <div class="clearfix colelem" id="u543433-4"><!-- content -->
@@ -341,9 +341,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu553972"><!-- group -->
-     <div class="Svg grpelem" id="u553972"><!-- custom html -->
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
+    <div class="Svg colelem" id="u553972"><!-- custom html -->
+     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1380 354">
     <path fill="none" stroke="#b8b8b8" stroke-width=".3" d="M82 252.4h1200m-1200-60h1200m-1200-60h1200M82 72.4h1200M82 12.4h1200" />
     <text class="small" transform="translate(1298 316)">0%</text>
     <text class="small" transform="translate(1298 256)">2%</text>
@@ -394,8 +393,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <path fill="#dcba3e" d="M999 336.9h11v12h-11z" />
     <text class="medium" transform="translate(1019 349)">Waikiki betéti kamat</text>
 </svg>
-     </div>
-     <a class="anchor_item grpelem" id="inflacio" data-sizePolicy="fixed" data-pintopage="page_fluidx"></a>
     </div>
     <a class="nonblock nontext anim_swing clearfix colelem" id="u543450-4" href="banking.html#inflacio"><!-- content --><p>Árstabilitás</p></a>
     <div class="clearfix colelem" id="u543443-4"><!-- content -->
@@ -490,10 +487,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="colelem" id="u544522"><!-- simple frame --></div>
    </div>
-   <div class="clearfix grpelem" id="pu117597"><!-- group -->
-    <div class="browser_width" id="u117597-bw">
-     <div class="Header" id="u117597"><!-- simple frame --></div>
-    </div>
+   <div class="clearfix grpelem" id="paccordionu117599"><!-- group -->
     <ul class="AccordionWidget clearfix" id="accordionu117599"><!-- vertical box -->
      <li class="AccordionPanel clearfix colelem" id="u117600"><!-- vertical box --><div class="AccordionPanelTab clearfix colelem" id="u117601-3" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u117601">&nbsp;</p></div><div class="AccordionPanelContent disn clearfix colelem" id="u117602"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu117603" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- vertical box --><div class="MenuItemContainer clearfix colelem" id="u117639"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117642" href="index.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117644-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Kezdőlap</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117674"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117677" href="administration.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117679-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Államszervezet</p></div></a><div class="SubMenu MenuLevel1 clearfix" id="u117675"><!-- vertical box --><ul class="SubMenuView clearfix colelem" id="u117676"><!-- vertical box --><li class="MenuItemContainer clearfix colelem" id="u552518"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u552519" href="government.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u552520-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Kormány</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u552497"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u552500" href="senate.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u552503-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Szenátus</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u552476"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u552478" href="congress.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u552482-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Kongresszus</p></div></a></li></ul></div></div><div class="MenuItemContainer clearfix colelem" id="u566443"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u566467" href="state.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u566469-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Kormányzat</p></div></a><div class="SubMenu MenuLevel1 clearfix" id="u566444"><!-- vertical box --><ul class="SubMenuView clearfix colelem" id="u566445"><!-- vertical box --><li class="MenuItemContainer clearfix colelem" id="u567505"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567508" href="dictator.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567509-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Diktátor</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567196"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567198" href="ministers.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567202-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Miniszterek</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567418"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567421" href="parlament.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567422-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Parlament</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567592"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567593" href="court.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567596-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Bíróságok</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567679"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567680" href="national-bank.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567682-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Nemzeti Bank</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567766"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567767" href="constitution.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567769-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Alkotmány</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u567853"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u567854" href="policy.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u567857-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Irányelvek</p></div></a></li></ul></div></div><div class="MenuItemContainer clearfix colelem" id="u463942"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u463943" href="royal-family.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u463945-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Királyi család</p></div></a><div class="SubMenu MenuLevel1 clearfix" id="u463947"><!-- vertical box --><ul class="SubMenuView clearfix colelem" id="u463948"><!-- vertical box --><li class="MenuItemContainer clearfix colelem" id="u571055"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u571056" href="chease-and-jessica.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u571059-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Chease és Jessica</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u571357"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u571358" href="angelina-and-taylor.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u571360-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Angelina és Taylor</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u571530"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u571531" href="jennifer-and-tyler.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u571532-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Jennifer és Tyler</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u558916"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u558918" href="raimondo-and-selena.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u558922-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Raimondo és Selena</p></div></a></li></ul></div></div><div class="MenuItemContainer clearfix colelem" id="u117604"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117605" href="sights.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117606-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Látnivalók</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117618"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117619" href="history.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117621-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Történelem</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117667"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117668" href="economy.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117669-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Gazdaság</p></div></a><div class="SubMenu MenuLevel1 clearfix" id="u117672"><!-- vertical box --><ul class="SubMenuView clearfix colelem" id="u117673"><!-- vertical box --><li class="MenuItemContainer clearfix colelem" id="u558139"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u558141" href="economy-policy.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u558145-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Gazdaságpolitika</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u558663"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u558666" href="monetary-policy.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u558669-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Monetáris politika</p></div></a></li><li class="MenuItemContainer clearfix colelem" id="u558758"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u558761" href="budget-policy.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u558762-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Költségvetés</p></div></a></li></ul></div></div><div class="MenuItemContainer clearfix colelem" id="u542809"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix grpelem" id="u542812" href="banking.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u542814-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Bankrendszer</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117660"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117661" href="nature.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117663-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Természet</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117611"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117612" href="citizenship.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117613-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Állampolgárság</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117653"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117654" href="education.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117656-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Oktatás</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117632"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117635" href="military.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117638-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Hadsereg</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u117646"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u117647" href="science.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u117648-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Űrkutatás</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u397549"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix grpelem" id="u397550" href="application.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u397553-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>Alkalmazás</p></div></a></div></nav></div></li>
     </ul>
