@@ -1,4 +1,4 @@
-# AI Project Summary
+# GitHub Copilot Instructions
 
 ## Project Overview
 This is a static website for the fictional nation of Waikiki, originally exported from Adobe Muse. The site combines HTML/CSS public pages with canonical Markdown content sources under `content/` that serve as the authoritative narrative foundation.
@@ -15,7 +15,6 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Territory**: 3 provinces (Waikiki, Amazónia, Brazília) - 8.84M km², 212M population (2021)
 - **Capital**: Nova Aurelia
 - **Currency**: Waikiki dollár (₩/WUD)
-- **Language**: Waikiki-i (English), Portuguese, Spanish, Mandarin widely spoken
 - **Founded**: 1999 by Chease Young
 
 ### Critical Timeline
@@ -39,7 +38,7 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **2025**: NATO membership
 
 ### Government Structure
-- **Dictator**: Raimondo Chease (2017-), succeeded father Chease Young (2000-2017)
+- **Dictator**: Raimondo Chease (2017-), succeeded his father Chease Young (2000-2017)
 - **Parliament**: Kongresszus (elected) + Szenátus (appointed)
 - **Executive**: 20-minister government led by elected president
 - **Judicial**: Supreme Court with constitutional powers
@@ -82,7 +81,9 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Language & Typography
 - **Primary Language**: Hungarian with official tone
-- **Typography**: Non-breaking hyphens (‑) in compound terms
+- **Continous text**: Use formal, natural continous text, avoid lists if possible
+- **Avoid special characters**: Avoid using ':', ';', '(' and ')' characters if possible
+- **Use correct hypen**: Always prefer '-' over '‑'
 - **Consistency**: Maintain established names, dates, institutional roles
 
 ### Narrative Conventions
@@ -95,11 +96,11 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Style Guidelines
 - **Official Tone**: Formal, governmental language appropriate for state documentation
-- **Concise Format**: Bullet points for timelines, structured sections for longer content
+- **Concise Format**: Bullet points for timelines, structured sections for longer content, continous text when possible
 - **Canon Consistency**: All content must align with established facts in core files
 - **Hungarian Conventions**: Use official Hungarian governmental style, formal address
 - **Date Format**: Years prominently featured, specific months when established (március 10., augusztus 4.)
-- **Currency**: Always ₩ or WUD, never mix with USD in same context
+- **Currency**: Always ₩ or WUD or dollar, never mix with USD in same context
 - **Institutional Titles**: Maintain hierarchy (Diktátor > Kancellár > Konzul > Szenátor)
 
 ### Critical Facts to Maintain
