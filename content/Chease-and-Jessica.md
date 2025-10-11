@@ -474,8 +474,6 @@ A Rocket Lab Electron rakétája forradalmi technológiákat használ az űr el�
 
 ## A 2019-es választáson induló politikai pártok
 
-## A 2019‑es választáson induló politikai pártok
-
 #### Milliomosok Pártja
 
 A Milliomosok Pártja jövedelemalapú szavazati jog bevezetését, az adók csökkentését, valamint a bevándorlás szigorítását tervezi programjába építeni. A párt jelenlegi vezetője, Matt Damon támogatná a waikiki‑i tulajdonú vállalkozásokat, a lord‑ valamint lady‑állampolgárok jogainak kiterjesztését, valamint a magánegyetemek további létrehozását. A párt támogatja a WSA és a SpaceX űrturista programját, a környezetvédelmi intézkedéseket, továbbá a szenátus bővítését. Matt fontosnak tartja a nemzeti hadsereg fejlesztését és hatalmas eredményként tekint a Világkormány létrehozására, ugyanakkor ellenzi az alapjövedelem bevezetését vagy az adók emelését. Nemzetközi szinten a Milliomosok Pártja egy ENSZ‑parlament létrehozását kezdeményezte, ahová az országok közvetlenül küldhetnének képviselőket.
