@@ -26,7 +26,8 @@ Az elefántok a békét, a pálmafák a harmóniát, a babérkoszorú a jóléte
 Az ország címerének két fele a hagyományos és modern értékek harmóniáját ábrázolja. A címer felső részén megjelenő piramisok az ókori műemlékek iránti megbecsülést mutatják.
 Waikiki jelképe az ország nevét tartalmazó kék felirat arany babérkoszorúval körbeölelve. Az arany, a fehér, a türkiz és a kék országunk hivatalos színei, és a királyi család jelképei.
 Waikiki himnusza a This is our world című dal.
-A Király a nemzet egységét jelképezi, személye szent és sérthetetlen. A királyi cím fiú ágon öröklődik, a trónörökös a koronahercegi címet viseli.
+A Király a nemzet egységét jelképezi, személye szent és sérthetetlen. 
+A királyi cím fiú ágon öröklődik, a trónörökös a koronahercegi címet viseli. Ha nincs fiúági leszármazó a jog a Király legidősebb leányára száll.
 A királyi család tagjai nem minősülnek közszereplőnek, politikai felelősségre nem vonhatóak, a Királynak hatalma van, hogy elkövetett vétkekért elítélteket kegyelemben részesítsen.
 A nemzeti és állami ünnepek a hagyományok őrzését szolgálják és munkaszüneti napnak minősülnek.
 Országunk nemzeti ünnepei

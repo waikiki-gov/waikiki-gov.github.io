@@ -1,0 +1,28 @@
+## Waikiki fegyveres erői
+
+### Küldetés és alapelvek
+Waikiki fegyveres erői a 21. század egyik legmodernebb és legjobban finanszírozott haderői közé tartoznak. Küldetésük a nemzeti függetlenség és a területi integritás védelme, a stratégiai erőforrások és a létfontosságú infrastruktúra biztonságának garantálása, továbbá a kollektív védelemben való részvétel. Waikiki védelmi doktrínáját a hiteles elrettentés és a gyors reagálás elve határozza meg, a nukleáris és a hagyományos eszközök kiegyensúlyozott kombinációjára építve.
+
+### Haderőnemek és parancsnokságok
+A haderő három fő ágra tagolódik, amelyeket stratégiai parancsnokságok egészítenek ki. A szárazföldi erők modern páncélos és gépesített dandárokkal, korszerű tüzérséggel és jelentős légimozgékonysággal rendelkeznek. A légierő gerincét többfeladatú vadászgépek és stratégiai bombázók adják, képességeit légi utántöltő flotta és hálózat‑központú irányítás támogatja. A haditengerészet repülőgép‑hordozók, nukleáris tengeralattjárók, rakétás rombolók és kétéltű kötelékek révén biztosítja az óceáni kivetíthetőséget. A Stratégiai Rakétaerő az interkontinentális ballisztikus képességért és a nukleáris elrettentésért felel. A Kiber‑ és Űrműveleti Parancsnokság a műholdas, drónos és elektronikai hadviselési képességekért felel, szoros együttműködésben a Waikiki Space Agency katonai támogató komponensével.
+
+### Lényeges adatok (kapacitások)
+A fegyveres erők aktív állománya megközelítőleg 450 000 fő, amelyet mintegy 250 000 fős tartalékos komponens egészít ki. A nukleáris elrettentés 380 robbanófejre támaszkodik; ezek közül 120 stratégiai rakétahordozókon, 60 tengeralattjárókon áll készenlétben, míg 200 a stratégiai készletekben található. A főbb eszközpark több száz harckocsit és páncélozott járművet, mintegy 250 többfeladatú vadászgépet, 40 stratégiai bombázót, továbbá 3 repülőgép‑hordozót, 15 nukleáris tengeralattjárót és 30 rakétás rombolót foglal magában.
+
+### Vezetés és irányítás
+Waikiki fegyveres erőinek irányítása átlátható, kettős miniszteriális struktúrában zajlik a civil kontroll erősítése mellett. Az állam és a fegyveres erők legfőbb parancsnoka a diktátor. Az összhaderő‑nemi műveletek szakmai irányítását a vezérkari főnök látja el, akit közvetlenül a diktátor nevez ki. A védelmi miniszter a határvédelemért, a légvédelemért, a rakéta‑elhárító rendszerekért és a belső biztonsági támogatásért felel, míg a hadügyminiszter a támadó‑műveleti komponens, a flotta és a külföldi katonai műveletek politikai‑stratégiai irányítását gyakorolja.
+
+### Doktrína és kulcsképességek
+ A Transborder Missile Defense System országos, többrétegű rakéta‑elhárító rendszerként az interkontinentális fenyegetések kivédésére is képes; a program a védelmi modernizáció zászlóshajója, kiemelt – mintegy ₩132 milliárd WUD nagyságrendű – beruházással. A légi fölényt hálózat‑központú hadviselés és precíziós csapásmérő eszközök biztosítják. A tengeri jelenlétet repülőgép‑hordozók, tengeralattjárók és kétéltű kötelékek adják, amelyek az óceáni kivetíthetőséget garantálják. A kiber‑ és űrképességek terén a mesterséges intelligencia‑támogatott kibervédelem, a drónraj‑műveletek és a műholdas felderítés‑kommunikáció képezik a gerincet; a WSA pályamenti platformjai kettős (civil‑katonai) feladatkörben működnek. A polgári védelem és a humanitárius műveletek katasztrófa‑elhárítást, egészségügyi és logisztikai támogatást foglalnak magukba belföldön és külföldön egyaránt.
+
+### Kiképzés, tartalék és hadgyakorlatok
+A haderő hivatásos, szerződéses és önkéntes tartalékos komponense moduláris beosztásban biztosítja a hadrafoghatóságot. A kiképzési rendszer kompetencia‑alapú tisztképzésre, digitális szimulációkra és rendszeres éleslövészeti ciklusokra épül, külön szakirányokkal a kiber‑ és az űrhadviselés területén. Évente többnemzeti naggyakorlatokra kerül sor – NATO‑keretben és regionális partnerekkel –, amelyek a közös légi és tengeri harcászati eljárások begyakorlását szolgálják.
+
+### Bázisstruktúra és logisztika
+A hadszíntér‑parancsnokságok tartományi bontásban – Waikiki, Amazónia és Brazília – szervezik a műveleteket. A stratégiai légibázisok és mélytengeri támaszpontok hálózata előretolt ellátó pontokkal és úszó logisztikai platformokkal egészül ki. A multimodális utánpótlás nagy sebességű vasúti és tengeri folyosókra támaszkodik; a jövőben a Floridát és Waikikit összekötő alagút‑ és mágnesvasút‑korridor logisztikai integrációja tovább növeli a rendszer hatékonyságát.
+
+### Költségvetés, beszerzések és hadiipar
+A védelmi kiadások középtávon a GDP mintegy 2–3 százalékát érik el, WUD‑ban tervezve és elszámolva; a finanszírozásban a Nemzeti Vagyonalap bevételei is szerepelnek. A kiemelt fejlesztések közé tartozik a TBMDS, a többfeladatú vadászflotta megújítása, a tengeralattjáró‑csendesítési program, a drónraj‑képesség kialakítása, a kiber‑SOC hálózat és a műholdas konstelláció bővítése. A hadiipari ökoszisztéma állami‑magán partnerségekre épül; a WSA, a Techno Industries és az United Holdings Defense beszállítói láncai magas hazai hozzáadott értéket biztosítanak.
+
+### Nemzetközi szerepvállalás
+Waikiki 2025‑től a NATO tagja, a kollektív védelmi kötelezettségek és a kompatibilitási szabványok maradéktalan teljesítésével. Az ország aktívan vesz részt ENSZ‑ és regionális missziókban, békefenntartó, válságkezelő és humanitárius feladatok ellátásával. A védelmi diplomácia két‑ és többoldalú együttműködéseket, közös fejlesztéseket és kiképzési programokat foglal magában.

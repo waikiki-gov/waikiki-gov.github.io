@@ -1,4 +1,4 @@
-# AI Project Summary
+# GitHub Copilot Instructions
 
 ## Project Overview
 This is a static website for the fictional nation of Waikiki, originally exported from Adobe Muse. The site combines HTML/CSS public pages with canonical Markdown content sources under `content/` that serve as the authoritative narrative foundation.
@@ -15,7 +15,6 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Territory**: 3 provinces (Waikiki, Amazónia, Brazília) - 8.84M km², 212M population (2021)
 - **Capital**: Nova Aurelia
 - **Currency**: Waikiki dollár (₩/WUD)
-- **Language**: Waikiki-i (English), Portuguese, Spanish, Mandarin widely spoken
 - **Founded**: 1999 by Chease Young
 
 ### Critical Timeline
@@ -39,29 +38,28 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **2025**: NATO membership
 
 ### Government Structure
-- **Dictator**: Raimondo Chease (2017-), succeeded father Chease Young (2000-2017)
+- **Dictator**: Raimondo Chease (2017-), succeeded his father Chease Young (2000-2017)
 - **Parliament**: Kongresszus (elected) + Szenátus (appointed)
 - **Executive**: 20-minister government led by elected president
 - **Judicial**: Supreme Court with constitutional powers
 
 ### Key Institutions
-- **Waikiki Nemzeti Bank**: Central bank, current president Jessica Walker (2024-), previously Michael J. Cavanagh (2016-2024)
-- **Waikiki Space Agency**: National space program with orbital stations and $200B space station project
-- **Inter Medic**: Life-extension elixir company, breakthrough announced 2015, $5M WUD annual treatment cost, Bill Gates first customer
-- **Seven Seas High School**: Elite floating school on SS Tipton ocean liner, attended by Raimondo, Bailey, and international students
-- **Szenátus**: Senate established 2015, appointed by dictator, includes Raimondo, Jennifer, Angelina, Selena, Tyler, Taylor
-- **G9**: Global economic forum, Waikiki joined 2016, headquarters in New Mavericks
-- **World Government**: Established 2018, Chease Young president, Raimondo Trilateral Commission member
+- **Waikiki Nemzeti Bank**: Central bank, Jessica Walker president (2024-)
+- **Waikiki Space Agency**: National space program with $200B space station project
+- **Inter Medic**: Life-extension elixir company, $5M WUD annual treatment
+- **Seven Seas High School**: Elite school on SS Tipton ocean liner
+- **Szenátus**: Senate (2015-), includes royal family members
+- **World Government**: Established 2018, Chease Young president
 
 ### Major Personalities
-- **Raimondo Chease**: Current dictator (2017-), partner of Selena Gomez, former senator (2015-2017). Born 1996, Seven Seas High School graduate, owns $200B palace, Forbes 2018 most influential person, Trilateral Commission member
-- **Chease Young**: Founder-dictator (1999-2017), current chancellor since 2017, World Government president (2018-), partner of Jessica Walker, world's wealthiest person (2006), Nobel Prize Economics (2009)
-- **Jessica Walker**: Consul (2017-), WNB president (2008-2015, 2024-), key architect of cashless economy and banking reforms, Nobel Prize Economics (2009) with Chease
-- **Selena Gomez**: Consul (2017-), partner of Raimondo since 2017, former relationship with Gregg Sulkin, UNICEF youngest ambassador, Waikiki princess (crowned 2017), founder Selena Gomez Stores
-- **Jennifer Chease & Tyler Posey**: Senators focused on digital government, healthcare innovation, KKV digitalization, green infrastructure, and budget transparency
-- **Angelina Chease & Taylor Lautner**: Environmental senators, Angelina on Monetary Council (2024-), Taylor former Twilight actor who moved to Waikiki (2012)
-- **George Bush**: Current president (government executive), Világuralmi Párt leader
-- **Bailey Pickett**: Former Miss Supranational 2014, Raimondo's first girlfriend (2011-2017), Seven Seas High School alumna
+- **Raimondo Chease**: Current dictator (2017-), partner of Selena Gomez, born 1996, Forbes 2018 most influential person
+- **Chease Young**: Founder-dictator (1999-2017), current chancellor, World Government president, partner of Jessica Walker, Nobel Prize Economics (2009)
+- **Jessica Walker**: Consul (2017-), WNB president, architect of cashless economy, Nobel Prize Economics (2009)
+- **Selena Gomez**: Consul (2017-), partner of Raimondo, UNICEF ambassador, Waikiki princess (2017)
+- **Jennifer Chease & Tyler Posey**: Senators focused on digital government and healthcare
+- **Angelina Chease & Taylor Lautner**: Environmental senators, Angelina on Monetary Council (2024-)
+- **George Bush**: President (2015-2025), Világuralmi Párt leader
+- **Bailey Pickett**: Former Miss Supranational 2014, Raimondo's first girlfriend (2011-2017)
 
 ## Content Files Structure
 
@@ -82,7 +80,9 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Language & Typography
 - **Primary Language**: Hungarian with official tone
-- **Typography**: Non-breaking hyphens (‑) in compound terms
+- **Continous text**: Use formal, natural continous text, avoid lists if possible
+- **Avoid special characters**: Avoid using ':', ';', '(' and ')' characters if possible
+- **Use correct hypen**: Always prefer '-' over '‑'
 - **Consistency**: Maintain established names, dates, institutional roles
 
 ### Narrative Conventions
@@ -95,11 +95,11 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Style Guidelines
 - **Official Tone**: Formal, governmental language appropriate for state documentation
-- **Concise Format**: Bullet points for timelines, structured sections for longer content
+- **Concise Format**: Bullet points for timelines, structured sections for longer content, continous text when possible
 - **Canon Consistency**: All content must align with established facts in core files
 - **Hungarian Conventions**: Use official Hungarian governmental style, formal address
 - **Date Format**: Years prominently featured, specific months when established (március 10., augusztus 4.)
-- **Currency**: Always ₩ or WUD, never mix with USD in same context
+- **Currency**: Always ₩ or WUD or dollar, never mix with USD in same context
 - **Institutional Titles**: Maintain hierarchy (Diktátor > Kancellár > Konzul > Szenátor)
 
 ### Critical Facts to Maintain
@@ -115,15 +115,11 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ## Technical Notes
 
-### File Operations
-- **Content Updates**: Always edit `content/*.md` files for canonical changes
-- **HTML Sync**: Public pages may need updates to reflect content changes
-
-### AI Continuation Guidance
+### AI Guidance
 - **Fact Checking**: Reference `content/Waikiki.md` for authoritative state data
 - **Character Consistency**: Maintain established relationships and career timelines
 - **Timeline Integrity**: New events must fit established chronology in `content/Events.md`
-- **Tone Matching**: Follow official governmental style established in existing content
+- **Tone Matching**: Follow professional, official governmental style established in existing content
 - **Economic Coherence**: Any financial data must align with established GDP, reserves, sector breakdown
 - **Political Hierarchy**: Respect constitutional order (Dictator > Chancellor > Consuls > Senators > Ministers)
 - **Institutional Memory**: Reference previous leadership roles when introducing changes
