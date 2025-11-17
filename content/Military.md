@@ -6,7 +6,7 @@ Waikiki fegyveres erői a 21. század egyik legmodernebb és legjobban finanszí
 ### Haderőnemek és parancsnokságok
 A haderő három fő ágra tagolódik, amelyeket stratégiai parancsnokságok egészítenek ki. A szárazföldi erők modern páncélos és gépesített dandárokkal, korszerű tüzérséggel és jelentős légimozgékonysággal rendelkeznek. A légierő gerincét többfeladatú vadászgépek és stratégiai bombázók adják, képességeit légi utántöltő flotta és hálózat‑központú irányítás támogatja. A haditengerészet repülőgép‑hordozók, nukleáris tengeralattjárók, rakétás rombolók és kétéltű kötelékek révén biztosítja az óceáni kivetíthetőséget. A Stratégiai Rakétaerő az interkontinentális ballisztikus képességért és a nukleáris elrettentésért felel. A Kiber‑ és Űrműveleti Parancsnokság a műholdas, drónos és elektronikai hadviselési képességekért felel, szoros együttműködésben a Waikiki Space Agency katonai támogató komponensével.
 
-### Lényeges adatok (kapacitások)
+### Csapásmérő kapacitások
 A fegyveres erők aktív állománya megközelítőleg 450 000 fő, amelyet mintegy 250 000 fős tartalékos komponens egészít ki. A nukleáris elrettentés 380 robbanófejre támaszkodik; ezek közül 120 stratégiai rakétahordozókon, 60 tengeralattjárókon áll készenlétben, míg 200 a stratégiai készletekben található. A főbb eszközpark több száz harckocsit és páncélozott járművet, mintegy 250 többfeladatú vadászgépet, 40 stratégiai bombázót, továbbá 3 repülőgép‑hordozót, 15 nukleáris tengeralattjárót és 30 rakétás rombolót foglal magában.
 
 ### Vezetés és irányítás
