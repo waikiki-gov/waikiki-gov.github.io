@@ -255,19 +255,22 @@ iframe.animation {
 
 /* Flex */
 @media (max-width: 1000px) {
-    .Flex:not(.clip_frame.colelem) {
-        width: 100vw !important;
-        left: -49vw !important;
-    }
+  .Flex:not(.clip_frame.colelem) {
+    width: 100vw !important;
+    left: -49vw !important;
+  }
 
-    .Flex>iframe {
-        width: 98% !important;
-    }
+  .Flex>iframe {
+    width: 98% !important;
+  }
 
-    .Flex>img {
-        width: 98% !important;
-        height: auto !important;
-    }
+  .Flex>img {
+    width: 98% !important;
+  }
+}
+
+.Flex>img {
+  height: auto !important;
 }
 
 /* Panel */
