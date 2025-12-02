@@ -1,567 +1,1472 @@
-# Chease Young és Jessica Walker
+# Chease és Jessica
+Chease Young
 
-A waikiki‑i államalapítás legmeghatározóbb személyiségei közé tartozó Chease Young és Jessica Walker életpályája szorosan összefonódott nemcsak egymással, hanem az általuk megteremtett modern állam történelmével is. Chease Young 1972-ben született az Egyesült Államokban, ahol kiemelkedő tanulmányi eredményeket követően 1991-ben a Stanford Egyetemen szerzett közgazdaságtudományi diplomát. Egyetemi tanulmányainak befejezését követően azonnal a családi tulajdonban lévő Starlight Hotels szállodabirodalom irányítását vette át, ahol korszerű menedzsment‑módszerek alkalmazásával és innovatív technológiai, valamint pénzügyi befektetések révén alapjaiban modernizálta a vállalkozás üzleti portfólióját. Az 1993-ban Jessica Walkerrel kötött házasságkötése nemcsak személyes életének mérföldköve volt, hanem egy olyan stratégiai partnerség kezdetét jelentette, amely később Waikiki politikai és gazdasági fejlődésének alapját képezte.
+Chease Young 1972-ben New York államban született amerikai állampolgárként. 1991-ben gazdasági diplomát szerzett a Stanford Egyetemen, majd 1992-ben apja vállalkozását folytatta és továbbfejlesztette a Starlight szállodabirodalmat. Egy évvel később feleségül vette Jessica Walkert, akivel a mai napig harmonikus házasságban él. 1999-ben a kubai államcsődöt követően átvette az ország vezetését és Waikikire nevezte át. Chease átfogó gazdasági reformjai rövid idő alatt látványos eredményeket hoztak és jelentős társadalmi támogatottságot biztosítottak számára. A hatalmas kőolaj, földgáz és ásványkincs készletek kiaknázásának köszönhetően 2006-ra Chease Young a világ leggazdagabb emberévé vált, Waikiki pedig a világ legfejlettebb országává emelkedett. Cheasenek és Jessicának három közös gyereke született Angelina, Jennifer és Raimondo. 2017-ben Chease lemondott a diktátori rangról és Waikiki kancellárja lett, majd pedig a Világkormány első elnökévé választották.
 
-Az 1999-es kubai államcsőd következményeként Chease Young átvette az ország irányítását és megalapította a Waikiki Szigetállamot, ezzel megkezdődött az egyik legambiciózusabb államépítési program a modern történelemben. Kormányzásának kezdeti időszakától fogva prioritásként kezelte a demokratikus intézményrendszer alapjainak lerakását, amelynek eredményeként 2000-ben népszavazással elfogadásra került az alkotmány, majd megtartásra kerültek az ország első szabad parlamenti választásai is. Chease Young államépítési koncepciójának központi pillérei között szerepelt az államigazgatás teljes körű modernizálása, az igazságszolgáltatás demokratikus elvek szerinti átalakítása, a Waikiki Nemzeti Bank megalapítása és működtetése, valamint a digitális infrastruktúra szisztematikus kiépítése és fejlesztése.
+Chease Young tanulmányai
+------------------------
 
-A 2003–2004-es Csendes‑óceáni háború során Waikiki nemzetközi szerepvállalása és katonai kapacitása egyaránt meghatározó jelentőségűvé vált. Az általa létrehozott és vezetett Atomhatalmak szövetsége kulcsfontosságú szerepet játszott a háborús koalíció sikerében és a New York‑i békeszerződés létrehozásában. A háborús győzelmet követően, 2005-ben országos referendum eredményeként került sor a királyi család ünnepélyes koronázására, amely ceremonialis és szimbolikus jogkörökkel ruházta fel az uralkodó családot, ezzel is megerősítve Chease Young legitimitását és néptámogatását. A döntő jelentőségű 2006-os év Brazília csatlakozásával hozta magával a háromtartományos államszerkezet kialakítását, amely geopolitikai és gazdasági szempontból egyaránt Waikiki világ élvonalába történő felemelkedését eredményezte.
+Chease Young gyermekkorától kezdve élénken érdeklődött a gazdasági folyamatok iránt, rendszeresen követte a tőzsdei híreket és különös figyelmet szentelt a nemzetközi kereskedelmi tendenciáknak. Családja már korán felismerte kivételes üzleti érzékét és intellektuális kíváncsiságát és ennek megfelelő oktatást biztosított számára. Középiskolás éveiben aktívan bekapcsolódott gazdasági szakkörök és vitaklubok munkájába, ahol kiemelkedő elemzőkészsége és stratégiai gondolkodása már ekkor megmutatkozott. 1987-ben felvételt nyert a kaliforniai Stanford Egyetemre, ahol tanulmányait a gazdaságtudományok területén folytatta. Egyetemi évei alatt a nemzetközi kereskedelem, a vállalatirányítás, valamint a pénzügyi piacok működésének mélyebb megértésére összpontosított. Hallgatóként több kutatási projektben vett részt, amelyek a feltörekvő gazdaságok fejlődési lehetőségeit és a globalizálódó pénzügyi környezet kihívásait vizsgálták. 1991-ben kitüntetéssel szerzett gazdasági diplomát, amely megalapozta későbbi pályafutását és hozzájárult ahhoz, hogy a világ egyik meghatározó üzletemberévé váljon.
 
-Chease Young stratégiai befektetési politikájának és hosszú távú víziójának köszönhetően indult meg a nemzeti űrprogram (WSA) fejlesztése, valamint a megújuló és fúziós energetikai projektek megvalósítása. Kormányzási időszakában megkezdődött a digitális állam koncepciójának gyakorlati megvalósítása és a készpénzmentes gazdaságra való átállás tervezése és előkészítése. A 2017-ben történt diktátori tisztségéről való lemondását követően kancellári minőségben folytatta államférfiúi tevékenységét, miközben a végrehajtó hatalmat a konzuli rendszer keretei között gyakorolta. Nemzetközi színtéren Waikiki külképviseletének meghatározó személyiségeként aktív és befolyásos szerepet tölt be mind a G9, mind a Világkormány működésében és döntéshozatali folyamataiban.
+![](images/universalupscaler_4d2e5167-c42a-4592-9ced-7653a5b7077c.jpg?crc=4079958538)
 
-Jessica Walker szakmai pályafutását pénzügyi szakértőként és közéleti vezetőként kezdte meg, ahol kiemelkedő elméleti és gyakorlati tudását a vállalati tanácsadás területén kamatoztatva szerzett meg az a szakmai tapasztalat, amely később államférfiúi tevékenységének alapjául szolgált. A 2008–2015 közötti időszakban a Waikiki Nemzeti Bank elnöki tisztségét betöltve olyan átfogó bankreformokat és prudenciális szabályozásokat vezetett be, amelyek nemcsak a hazai pénzügyi rendszer stabilitását biztosították, hanem nemzetközi szinten is példaértékűvé váltak. A 2008–2009-es globális pénzügyi válság kezelése során kidolgozott és megvalósított bankrendszer‑stabilizációs programjainak elismeréseként Chease Younggal megosztva 2009-ben közgazdaságtudományi Nobel‑díjban részesült.
+![](images/universalupscaler_65b133e9-0c8e-42bb-b721-8f0c6981c900.jpg?crc=4153958909)
 
-A 2017-ben átvett konzuli tisztsége keretében pénzügyi és humanitárius portfólió felügyeletével megbízva kiemelkedő szerepet játszott a készpénzmentes gazdaság bevezetésének koordinálásában, az ingyenes közösségi közlekedés országos kiterjesztésében, valamint a digitális közigazgatási reformok stratégiai tervezésében és végrehajtásában. Nemzetközi tevékenysége során 2013-tól az ENSZ főtitkár‑helyetteseként, majd a Világkormány megalapítását követően a Világbank igazgatójaként is jelentős befolyást gyakorolt a globális gazdaságpolitika alakítására. A 2024-ben történt visszatérése a Waikiki Nemzeti Bank elnöki tisztségébe új fejezetet nyitott karrierjében, ahol monetáris politikai irányítási tevékenységét a pénzügyi stabilitás megőrzése, a fenntartható gazdasági növekedés elősegítése és a technológiai innováció támogatásának hármas stratégiai célrendszere határozza meg.
+Chease első vállalkozása
+------------------------
 
-## Családi háttér és közéleti szerepvállalás
+Tanulmányai befejezését követően Chease Young csatlakozott családja vendéglátóipari vállalkozásához és az apjától örökölt luxus szállodabirodalom, a Starlight Hotels igazgatójaként és tulajdonosaként kezdett dolgozni. A vállalat sikereinek köszönhetően jelentős kezdeti vagyont halmozott fel, amelyet pénzügyi és ingatlanbefektetések révén tovább növelt. Portfóliója hamarosan túlnőtt a vendéglátóiparon. Részvényeket vásárolt feltörekvő technológiai vállalatokban, valamint nagy értékű ingatlanfejlesztésekbe fektetett, elsősorban Észak-Amerika és Európa fővárosaiban. A Starlight a kilencvenes évek végére a globális luxus szállodaipar egyik meghatározó szereplőjévé vált, a vállalat sikerei pedig megalapozták Chease későbbi gazdasági és politikai pályafutását.
 
-Chease Young és Jessica Walker 1993 óta fennálló házasságából született három gyermek — Angelina (1993), Jennifer (1994) és Raimondo (1996) — mindannyian aktív és meghatározó szerepet vállalnak Waikiki politikai és közéletében. Raimondo 2015 óta betöltött szenátori tisztségét követően 2017-ben kulcsszerepet játszott a hatalmi átmeneti folyamatok koordinálásában és lebonyolításában. Angelina 2024-től a Monetáris Tanács tagjaként szolgálja az ország pénzügyi stabilitásának ügyét, míg Jennifer szenátori kvalitásában és közéleti személyiségként vesz részt a politikai döntéshozatali folyamatokban. A királyi család tagjai közötti feladatmegosztás és a közéleti szerepvállalás harmonikus egyensúlya biztosítja Waikiki politikai rendszerének stabilitását és folytonosságát.
+Találkozás Jessicával
+---------------------
 
-## Kitüntetések és nemzetközi elismerések
+Chease Young és Jessica Walker találkozására 1992 elején került sor, a New York-i Starlight szállodában. Jessica, aki akkoriban pénzügyi tanulmányai utolsó évében reklámfilmes projektekben vett részt, műveltségével és határozottságával rögtön felkeltette Chease érdeklődését. Kapcsolatuk a kezdetektől kölcsönös tiszteleten és szellemi vonzalmon alapult. Rendszeresen folytattak beszélgetéseket a világgazdaság átalakulásáról, a geopolitikai változásokról és a kulturális sokszínűség társadalmi szerepéről. Nem sokkal a találkozásuk után Jessica a Starlight Hotels pénzügyi igazgatójaként csatlakozott a vállalathoz, támogatása és értékrendje pedig hamar meghatározóvá vált Chease személyes és szakmai életében egyaránt. Együttműködésük nem csupán a magánéletben bizonyult tartósnak és harmonikusnak. Jessica a későbbiekben is szerepet vállalt abban, hogy Chease pályafutása nemzetközi elismerést nyerjen és Waikiki társadalmi fejlődése szilárd alapokra épüljön.
 
-Chease Young és Jessica Walker kiemelkedő szakmai tevékenységének nemzetközi elismeréseként 2009-ben megosztva közgazdaságtudományi Nobel‑díjat kaptak a válságkezelési tevékenységük, a bankreformok kidolgozása és a pénzügyi stabilitás megteremtése terén elért eredményeikért. A 2010 és 2024 közötti időszakban számos nemzetközi szakmai díjat és elismerést vehettek át, amelyek mind az általuk képviselt gazdaságpolitikai elvek és módszerek sikerét, mind pedig Waikiki nemzetközi presztízsének növekedését tükrözték. Ezek az elismerések nemcsak személyes szakmai sikereiket honorálták, hanem Waikiki mint modern, innovatív állam nemzetközi megítélésének javulását is elősegítették.
+Házasság és nászút
+------------------
 
-## Korai évek és karrierkezdés
+Chease Young nagyjából a megismerkedésüket követően egy évvel kérte meg Jessica kezét. Az esküvői ceremóniát 1993. június 21-én tartották egy exkluzív, de csendes birtokon a Csendes-óceán partján. A helyszínt pompa, elegancia és meghittség jellemezte, hófehér baldachinok, pálmalevelekből font díszítések és egy természetes sziklazátonyon kialakított oltár alkotta a díszletet. Jessica egy klasszikus, selyem anyagból készült ruhát viselt, amelyet a tervező kifejezetten a tengerparti ceremónia stílusához igazított. A szertartáson főként barátok, egyetemi évfolyamtársak és a fiatal pár családtagjai vettek részt. Az esküvőt követően Chease és Jessica két hónapos nászútra indultak, amely során bejárták Délkelet-Ázsia egzotikus országait. A fiatal pár a meghittség és a felfedezés jegyében töltötte ezt az időt, miközben a térség gazdag kultúrája, természeti szépsége és hagyományai mély benyomást tettek rájuk. Utazásuk Szingapúrban kezdődött, ahol a modern technológia és a természet egyensúlyát tanulmányozták, majd az út egyik legemlékezetesebb állomása Bali volt, ahol egy tengerparti villában töltöttek el egy hetet. A nászút zárásaként ellátogattak Japánba és Dél-Koreába, ahol több egyetemen tettek látogatást.
 
-Chease Young 1972-ben amerikai állampolgárként született, majd kiemelkedő tanulmányi eredményeket követően 1991-ben gazdaságtudományi diplomát szerzett a Stanford Egyetemen. Egyetemi tanulmányainak befejezését követően azonnal átvette a családi vállalkozás, a Starlight szállodalánc operatív irányítását, ahol a családi örökségre építve, de azt jelentősen meghaladó módon hajtott végre stratégiai technológiai és pénzügyi befektetéseket, amelyek révén rövid időn belül számottevően növelte a vállalat piaci értékét és versenyképességét. Az 1992-ben történt megismerkedés egy szállodafejlesztési beruházás kapcsán vezette össze Chease Young és Jessica Walker útját, aki ekkor már pénzügyi elemzői végzettséggel és színészeti képesítéssel is rendelkezett, és éppen filmforgatási munkálatok során tartózkodott a szálloda előterében. A találkozást követően kialakuló személyes kapcsolat gyorsan mélyült, és hamarosan közös háztartást is alapítottak. Jessica ezt követően pénzügyi tanácsadói pozícióban kezdte meg munkáját a Starlight szállodaláncnál, ahol szakmai kompetenciái révén jelentős szerepet játszott a vállalat üzleti stratégiájának kialakításában. Az 1993-ban kötött házasságuk alapot teremtett nemcsak személyes életük, hanem későbbi közös politikai pályafutásuk számára is, mivel együttes munkájuk során világszerte fontos szakmai és üzleti kapcsolatokat építettek ki, amelyek később államférfiúi tevékenységük során is hasznosnak bizonyultak. A házaspár három gyermekkel büszkélkedhet, akik mindannyian a waikiki‑i politikai élet meghatározó alakjaivá váltak: legidősebb lányuk, Angelina 1993-ban született, majd egy évvel később Jennifer látta meg a napvilágot, míg a legfiatalabb, Raimondo 1996-ban jött világra. Jessica a későbbi időszakban alapvető fontosságú szerepet játszott Waikiki megalapításában és intézményi fejlesztésében, eleinte a Nemzeti Bank elnökeként, majd pénzügyminiszteri tisztségben, jelenleg pedig konzuli minőségben szolgálja az országot. A család minden tagja aktív részt vállalt Waikiki államépítési folyamatában, így személyes sorsuk elválaszthatatlanul összefonódott az ország történelmének alakulásával.
+Waikiki megalapítása
+--------------------
 
-## Waikiki megalapítása és az államépítés kezdetei
+A Szovjetunió összeomlása után, a támogatások megszűnésével Kuba elvesztette külkereskedelmi partnereinek többségét, az energiahordozókhoz és alapvető élelmiszerekhez való hozzáférés drámaian csökkent. Chease Young először 1998-ban utazott Havannába, amikor üzleti delegáció keretében szállodaipari befektetési lehetőségeket vizsgált. Ekkor szembesült az ország kilátástalan helyzetével, ugyanakkor felismerte a benne rejlő gazdasági és geopolitikai potenciált. A kubai diktátort Fidel Castrót 1999-ben a NATO légicsapással fenyegette meg, mivel nem engedélyezte az ENSZ segélyszállítmányainak az országba történő belépését. Chease tanácsadói minőségben nyitottabb kereskedelempolitikát és modernizációs csomagot javasolt a kormány számára, amely elnyerte az akkori legfelsőbb vezetés támogatását, azonban a megvalósításra már nem állt rendelkezésre elegendő idő. A külföldi beavatkozás elkerülése érdekében Fidel Castro 1999. március 10-én a hatalmat Chease Youngnak adta át, aki azonnal elrendelte a demokratikus választásokat, ugyanakkor az átmeneti időszak stabilitásának biztosítása érdekében megtartotta a diktátori rangot. Az államalapítás folyamatának részeként az új korszak kezdetének szimbolikus kifejezésére az ország hivatalos elnevezését Chease Young javaslatára Waikikire változtatták, melyet később népszavazás keretében erősítettek meg.
 
-Az 1999. március 10‑én bekövetkezett kubai hatalomátvétel történelmi jelentőségű eseménysorozata során Fidel Castro, a NATO légicsapásokkal való fenyegetés nyomásának engedve, a hatalmat Chease Youngnak adta át, aki azonnal megkezdte a demokratikus intézményrendszer alapjainak lerakását, miközben az átmeneti időszak stabilitásának biztosítása érdekében megtartotta a diktátori rangot. Waikiki első demokratikus választását 2000-ben rendezték meg, amelyen a Waikiki Demokratikus Párt győzelmével megkezdődött a parlamentáris demokrácia működése. Ezzel párhuzamosan Chease Young korábbi jogi tanácsadója, Sebastian Stark közreműködésével megalkotta az ország alkotmányát, amely kisebb módosításokkal a mai napig érvényben van és amely alapjogi garanciákat, államszerkezeti elveket és demokratikus működési mechanizmusokat rögzít. Az alkotmányt 2000-ben tartott országos népszavazás megerősítette, ezzel biztosítva annak demokratikus legitimitását. Az ország átfogó modernizációs folyamata során Chease Young a nemzetközi szaksajtóból és tudományos intézményekből toborozta a legkiválóbb jogászokat, közgazdászokat és egyéb szakembereket annak érdekében, hogy más fejlett államok bevált gyakorlatait és intézményi megoldásait adaptálja Waikiki sajátos körülményeihez. Ebben az időszakban csatlakozott a kormányzati munkához Emily Whiteborough és Aaron Shore is, akik azóta is folyamatosan tanácsadói minőségben támogatják Chease Young stratégiai döntéshozatalát. A korábban megkezdett reformpolitika folytatásaként alakította át az országot olyan módon, hogy a lakosság jólétének növelése és a nemzeti gazdaság versenyképességének javítása került a középpontba. Népszerűségének és politikai támogatottságának felhasználásával Chease Young a parlament jóváhagyásával olyan kulcsfontosságú jogköröket szerzett meg, mint a Nemzeti Bank elnökének és a katonai vezérkar tagjainak kinevezési joga, rendeletalkotási hatáskör, valamint törvényhozási vétójog gyakorlása.
+Első demokratikus választások
+-----------------------------
 
-## Nemzetközi támogatás és gazdasági alapok
+Az államalapítást követően a politikai stabilitás megteremtése érdekében Chease Young azonnal elrendelte az ország első általános parlamenti választásának előkészítését. A szavazást 2000. március 5-én tartották a nemzetközi közösség megfigyelőinek felügyelete mellett, biztosítva az átláthatóságot és a legitimitást. Az első választáson a Demokratikus Párt került fölénybe, amely a modernizáció, a gazdasági reformok és a nemzetközi nyitottság programját hirdette. A párt szoros szövetségben állt Chease Younggal, aki megtartotta államfői pozícióját, miközben a Demokratikus Párt John Boehmer elnök vezetésével biztosította számára a parlamenti többség intézményi hátterét. Az első választás részvételi aránya meghaladta a 80%-ot, jelezve a lakosság elkötelezettségét az új demokratikus berendezkedés iránt. A választásokat követően koalíciós kormány alakult, amelyben a győztes párt mellett a Kapitalista Párt és a Nemzeti Összefogás Pártja is miniszteri pozíciókhoz jutott.
 
-Chease Young hatalomra kerülése és a kommunista rendszer megszüntetése kedvező fogadtatásra talált az Egyesült Államok kormányzati köreiben, így jelentős politikai és gazdasági támogatást sikerült megszereznie amerikai képviselőktől és szenátoroktól, akik nemcsak pénzügyi segítséget, hanem katonai támogatást is megszavaztak Waikiki számára. Amikor Chease Young nyilvánosságra hozta, hogy Waikiki a Szovjet Uniótól korábban beszerzett interkontinentális atomrakétákkal rendelkezik, még fontosabbá vált az amerikaiakkal való biztonságpolitikai együttműködés elmélyítése. Ennek keretében érkezett Morgan Clark tábornok Waikiki területére, aki később az ország hadügyminiszteri tisztségét is betöltötte. Az ország megalapítását követő időszakban Waikiki kormánya jelentős kőolaj‑ és földgázmezőkre bukkant a sziget körüli tengerekben, amelynek exportálásából származó bevételek fedezték az államháztartás első működési kiadásait és keresletet generáltak az újonnan bevezetett nemzeti valuta, a WUD iránt. A petrokémiai iparág gyors fellendülése munkahelyek százezreit teremtette meg, így minden korábbinál alacsonyabb szintre csökkent a munkanélküliség mértéke. Chease Young döntése alapján, hogy a fosszilis energiahordozók az ország nemzeti vagyonát gyarapítsák, monopóliumot biztosított a kőolajfúrásokhoz a Waikiki Petrol és az OilExp számára, amelyekből később létrejött a mai Royal Oil Group. Chease Young a korábbinál sokkal nyitottabb kereskedelmi rendszer kialakításával Waikiki számára biztosította a globalizációs folyamatokba való gyors és sikeres bekapcsolódást. A korábban nem elérhető technológiák és termékek széles körű elérhetővé válásával párhuzamosan a hazai vállalatok is lehetőséget kaptak arra, hogy termékeiket és szolgáltatásaikat a nemzetközi piacokon értékesítsék. Ezzel egyidőben Chease fejlett tőkepiacokat alakított ki, ahol állami intézményekkel és digitális infrastruktúrával támogatta az állampolgárok tőzsdei befektetéseit, lehetővé téve számukra, hogy a legnagyobb vállalatokban maguk is részvényesi pozíciót szerezzenek. A kedvező befektetési lehetőségek jelentős külföldi tőkebevonáshoz vezettek, ami tovább növelte a beruházási kapacitásokat és felgyorsította a gazdasági fejlődést.
+Sebastian Stark
 
-## Az államigazgatás kiépítése
+Waikiki első igazságügy minisztere
 
-A 2000. március 5‑én tartott választásokon a Demokratikus Párt a leadott szavazatok 36 százalékának megszerzésével koalíciós kormányalakítási lehetőséget nyert, így John Boehmer vehette át a miniszterelnöki tisztséget. A kormánykoalícióba bekerült a Kapitalista Párt és a Nemzeti Összefogás Pártja is, így a kormányban helyet kapott Ayden Roberts és Rick Santorum, míg Sebastian Stark az igazságügyminiszteri portfóliót kapta meg. A vezető állami tisztségek betöltésénél a pártok közötti kompromisszumos egyeztetések eredményeként a Nemzeti Bank elnöki pozícióját Robert Menendez, a hadsereg főparancsnoki tisztségét pedig Winnefeld Daniels tölthette be. Chease Young szakértő tanácsadók bevonásával biztosította a döntéshozatali folyamatok szakmai megalapozottságát, ahol sokan gyakornokként kezdték meg pályafutásukat a waikiki‑i közigazgatásban, azonban kiemelkedő teljesítményük révén gyorsan vezető pozícióba kerülhettek. A fejlett bürokrácia kiépítésének köszönhetően Chease Young sikeresen stabilizálta az ország gazdaságát, és Waikiki az Egyesült Államok meghatározó kereskedelmi partnerévé vált. Az ország által elért egyedülálló sikerek hatására több környező szigetcsoport, köztük Haiti, Jamaica és a Dominikai Köztársaság is csatlakozott Waikikhez, először konföderációs formában, majd teljes jogú területként.
+Ayden Roberts
 
-## A Csendes‑óceáni háború és Waikiki szerepe
+Waikiki első kereskedelmi minisztere
 
-A 2002. október 5‑én kirobbant világpolitikai válság során a túlnépesedés miatt területszerzési igényekkel rendelkező Kína megkezdte katonai támadását Oroszország ellen, míg Észak‑Korea régi riválisát, Dél‑Koreát kívánta elfoglalni területi expanziós törekvései keretében. Japán csatlakozásával megalakult az Internacionális Unió, amellyel szemben Oroszország, az Egyesült Államok, Nagy‑Britannia, Spanyolország, Franciaország, Olaszország és Németország szövetségi rendszert alakított ki. A konfliktus kiterjedése a Közel‑Keletre is megtörtént, amikor Irán, Afganisztán és Pakisztán koordinált támadást indított Izrael ellen és elfoglalta annak területeit. Waikiki 2003. április 2‑án a NATO oldalán való belépésével és Chease Young vezetésével megalapította az Atomhatalmak szövetségét, amely döntő jelentőségű szerepet játszott a háború kimenetelében. A szövetség keretében sikerült megvédeni Líbiát a környező országok támadásaitól, valamint 2004‑re felszabadítani Izrael területeit. Miközben a kínai csapatok Szibériában az orosz erők ellenállásával voltak elfoglalva, Waikiki erői elfoglalták Japán területét és végül megadásra kényszerítették Kínát is. A háború során Waikiki különleges műszaki megoldásokkal és technológiai innovációkkal is hozzájárult a szövetséges erők győzelméhez, különösen kiemelendő, hogy a fejlett csapásmérő műhold lézerrel lőtte le az egyik kínai nukleáris hadihajót, ezzel megelőzve az atomháború kitörésének veszélyét. A háborús műveletekben Waikiki összesen 3526 tankot vetett be, amely jelentős katonai erőt képviselt a szövetséges erők között és döntő szerepet játszott a végső győzelemben. A konfliktust a 2004. november 24‑én megkötött New York‑i béke zárta le, amelynek aláírására 23 ország képviselői gyűltek össze. A háborús vereséget követően az Internacionális Szövetségből létrejövő Ázsiai Unió jelentős hadi jóvátételt fizetett a győztes feleknek. A tízéves időtávon keresztül kifizetett, összesen 5000 milliárd USD értékű jóvátételből Waikiki hatalmas nemzeti vagyonra tett szert, amelyet nagymértékben tudományos kutatások finanszírozására fordított. Az Atomhatalmak szövetsége jelenleg tíz tagországból áll, és továbbra is jelentős nemzetközi tényezőt képvisel a geopolitikai térben.
+Winnefeld Daniels
 
-## A királyi koronázás és az állam további fejlődése
+Waikiki első
 
-A háborús győzelem és az országért végzett kiemelkedő államférfiúi munkásság elismeréseként Waikiki állampolgárai 2005‑ben országos népszavazás keretében döntöttek arról, hogy Chease Youngot és családját Waikiki uralkodócsaládjává koronázzák. A parlamenti döntést követően az országos népszavazás döntő többséggel megerősítette Chease Young királlyá történő megválasztását. A történelmi jelentőségű koronázási ünnepségre 2005. augusztus 4‑én került sor, ahol a királyi koronát személyesen II. János Pál pápa helyezte Chease Young fejére. Jessica Walker Waikiki királynőjévé, Raimondo herceggé, Angelina és Jennifer pedig hercegnővé lett koronázva. Az ünnepségen olyan tradicionális európai királyi családok képviselői is megjelentek, mint a brit, a belga és a svéd uralkodóház. Gratulációját és tiszteletét fejezte ki Abu Dhabi emírje, Zayed Al Nahyan is, aki Chease és Jessica személyes barátja. Chease és Zayed kalifa több közös projektben is együttműködött, többek között a mesterséges szigetépítés és az olajkitermelés területén. Habár a királyi tisztség nem jár közvetlen politikai hatalommal, mégis hatalmas jelentőséggel bír, hogy Chease Young Waikiki királyává lett, hiszen ezzel az állampolgárok döntő többsége támogatását fejezte ki abban, hogy az ország élén maradjon. A királyi rang szertartásos jogkörei közé tartozik a parlament által megválasztott elnök hivatalba iktatása és Waikiki külföldi diplomáciai képviselete. A királyi rang a családon belül öröklődik, az öröklési rend szerint az elsőszülött fiúgyermek, azaz Raimondo fogja örökölni a trónt, őt követi Angelina, majd Jennifer. A parlament döntése értelmében a koronázás napját, augusztus 4‑ét nemzeti ünneppé nyilvánították.
+főparancsnoka
 
-## Waikiki gazdasági és területi expanziója
+![](images/waikiki%20flag.png?crc=6794698)
 
-Chease Young irányítása alatt az új állam gyors és átfogó fejlődésen ment keresztül, amely minden területen példátlan eredményeket hozott. A kedvező adópolitikának köszönhetően számtalan nemzetközi nagyvállalat helyezte át székhelyét Waikiki területére, ezzel jelentős külföldi működőtőke‑befektetést vonzva az országba. A Kubai‑öbölben felfedezett hatalmas mennyiségű olajkészleteknek köszönhetően Waikiki hamarosan a világ vezető nagyhatalmai közé emelkedett mind gazdasági, mind geopolitikai szempontból. A Csendes‑óceáni háború kitörését követően Chease Young által megalapított Atomhatalmak szövetsége döntő katonai sikereket ért el a Kína által vezetett Internacionális Unió ellen, ami nemcsak politikai, hanem gazdasági előnyöket is hozott. A háború során folyósított hitelekből, értékesített fegyverekből, valamint a New York‑i béke utáni jóvátételből Waikiki gazdaságilag felzárkózott az Egyesült Államok mellé, majd 2006‑ra meg is előzte azt. Waikiki kormánya rövid időn belül hatalmas nemzeti vagyonra tett szert, így a kormányzatban felmerült a területi terjeszkedés lehetősége is. Ezzel egyidőben Brazília kormánya súlyos pénzügyi válságba került és külső segítségért folyamodott. Chease Young az IMF és a FED támogatásával felajánlotta az adósság átvállalását abban az esetben, ha Brazília csatlakozik Waikiki államszövetségéhez. Brazíliában 2005. júniusában népszavazást tartottak a csatlakozás kérdéséről, ahol a javaslatot az állampolgárok döntő többsége támogatta. Nem sokkal ezután, szeptemberben Waikiki hivatalosan két új tartománnyal bővült, így az ország elnyerte jelenlegi formáját három tartománnyal: Waikiki, Amazónia és Brazília. Jelenleg Waikiki területe meghaladja a nyolc millió négyzetkilométert, lakossága pedig eléri a kétszázmillió főt.
+![](images/quote_01.png?crc=3897378290)
 
-## Tudományos kutatás és technológiai fejlesztések
+A demokrácia sohasem csupán a választásokról szólt. A demokrácia azt jelenti, hogy a nép kormányoz, a nép akarata érvényesül.
 
-Az állam rendelkezésére álló hatalmas pénzügyi forrásokból Chease Young olyan átfogó kutatási programokat finanszírozott, amelyek alapjaiban határozták meg a modern élet számos területének fejlődését. Waikiki jelentős befektetéseket hajtott végre a mesterséges intelligencia, a gyógyászat, a haditechnika, az informatika, a mezőgazdaság és az űrkutatás forradalmi fejlesztéseinek területén. Ezen kutatási programok eredményeként 2006‑ban Waikiki saját űrállomás építésébe kezdett, 2008‑ban megépítették az ország első hidrogénerőművét, majd 2010‑ben Brazília tartományban felépült a világ legnagyobb hadronütköztetője. Waikiki kormánya világszerte elismert multinacionális vállalatok felvásárlásába kezdett, amelynek révén olyan élvonalbeli cégek kerültek Chease Young tulajdonába, mint az Apple, a Coca‑Cola, az Intel, a General Motors, a LEGO, a T‑Mobile, a Disney, a Universal Pictures, a Samsung és a Walmart Stores. Ezen vállalatok révén Waikiki hatalmas piaci részesedésre tett szert a filmipar, az informatika és az autógyártás területén. A cégek működéséből származó nyereségből a kormány folyamatosan növelte az életszínvonalat, javította az egészségügyi ellátást, valamint újabb vállalatfelvásárlásokat hajtott végre. Chease emellett jelentős részesedést szerzett a pénzügyi és bankszektorban is.
+![](images/quote_02.png?crc=148063674)
 
-### Jelentős tudományos programok 2007‑től
+~ Chease Young
 
-A Waikiki Űrkutatási Ügynökség (WSA) saját űrállomás építési programja keretében olyan létesítmény megvalósítását tűzte ki célul, amely egyidejűleg tizenkét asztronauta számára nyújt lakhatási és kutatási lehetőségeket. Az emberi genom teljes feltérképezésére irányuló program célja a rák és az örökletes betegségségek gyógyítási módszereinek fejlesztésében való áttörés elérése. A NASA mintájára Waikiki saját űrsiklók fejlesztését kezdte meg, amelyek elsődleges feladata az űrállomás építési munkálatainak támogatása. A klímakutatás területén Waikiki műholdak alkalmazásával folyamatos monitorozást végez a klímaváltozás jelenségeit illetően és aktívan dolgozik annak megállítására irányuló megoldások kidolgozásán. Az első kísérleti fúziós hidrogénerőmű 2007 novemberétől kezdte meg működését, ezzel új fejezetet nyitva a tiszta energia termelés területén. Waikiki tudósai nagy távolságú kommunikációs szabványok kifejlesztésén dolgoznak a nemzetközi összeköttetés hatékonyságának növelése érdekében. A mesterséges intelligencia és gépi tanulás kutatásához a Waikiki Nemzeti Tudományos Intézet három szuperszámítógép beszerzését hajtotta végre a kutatási kapacitások jelentős növelése érdekében. A szupravezetők fejlesztése révén olyan technológiai áttörés várható, amely veszteségmentes áramtovábbítást tesz lehetővé nagy távolságokon keresztül. Waikiki részecskegyorsítójában a tudósok a húrelmélet és az antianyag létezésének kérdéseit kutatják alapvető fizikai törvényszerűségek megismerése céljából. A génmódosítási programok keretében olyan ellenállóbb, finomabb és egészségesebb növények termesztése válik lehetővé, amelyek hozzájárulhatnak a globális élelmezési problémák megoldásához. A biokémiai kutatólaboratórium az élő szervezetek kémiai felépítésének és életfolyamatainak tanulmányozásával foglalkozik. A WSA távcsövei földön kívüli élet nyomainak felkutatását és lakható bolygók azonosítását célozzák meg.
+![](images/cimer.png?crc=7434305)
 
-### Waikiki Nemzeti Űrállomása
+![](images/quote_01.png?crc=3897378290)
 
-A Waikiki Nemzeti Űrállomása minden eddiginél nagyobb, ember által épített űrbéli objektumként került kialakításra a Föld körüli pályán. Az építési munkálatok 2006 és 2012 között zajlottak le, amelynek során Waikiki négy űrsiklója összesen százharminc‑hat küldetést teljesített az űrállomás komponenseinek összeszerelése érdekében. A fedélzetén 2007 óta folyamatosan tartózkodik személyzet, amelynek létszáma fokozatosan emelkedett az először négy főről nyolc, majd végül tizenkét főre. Az energiaellátás biztosítására négyezer négyzetméternél nagyobb felületű napelemrendszer került telepítésre, amely kétszáznegyven kilowatt energiatermelésre képes. Az asztronauták és ellátmányok szállítását az űrsiklók biztosítják, amelyek számára három dokkolóhely került kialakításra, bár ilyen számú űrhajó egyidejű csatlakoztatására még nem került sor. Az űrállomáson egy átlagos küldetés időtartama hat hónapos periódust ölel fel, és eddig összesen kétszáznegyvennnégy asztronauta teljesített szolgálatot a fedélzetén. A különleges vendégek között kiemelendő Chease Young látogatása, aki 2014‑ben feleségével, Jessicával együtt személyesen megtekintette az akkor még építés alatt álló űrállomást és tizenkét napot töltött a világűrben.
+![](images/quote_02.png?crc=148063674)
 
-## A 2008‑as globális pénzügyi válság és Waikiki válasza
+A liberalizmus az a politikai jogelv, mely szerint a közhatalom, noha mindenható, mérsékli magát, még a tulajdon kárára is.
 
-A 2008‑as világméretű gazdasági és pénzügyi válságból Chease Young és Jessica Walker stratégiai intézkedéseinek köszönhetően Waikiki egyértelműen nyertesként került ki, szemben a világon tapasztalt általános gazdasági visszaeséssel. Miközben a világ legtöbb országában gazdasági recesszió, növekvő államadósság és magas munkanélküliségi ráták voltak megfigyelhetőek, addig Waikikin húsz százalékos GDP‑növekedés volt tapasztalható, az állami tartalék meghaladta a nyolc billió dollárt, és a foglalkoztatottság elérte a nyolcvannégy százalékot. Emellett a királyi család mintegy tíz billió dolláros vagyonra tett szert, és fokozatosan Waikiki vált a világ pénzügyi és kereskedelmi központjává. Továbbá Waikiki a válság alatt is fenntartotta a nulla százalékos inflációs szintet, és Jessica Walker új banktörvények bevezetésével megteremtette a stabil és biztonságos bankrendszer alapjait.
+~ Chease Young
 
-### A válság háttere és Waikiki stratégiája
+Az ország közigazgatása
+-----------------------
 
-A 2008‑as válság közvetlen előzményeként az amerikai ingatlanpiacból kiinduló subprime‑válság szolgált, amely 2006 végén kezdődött el az ingatlan‑ és bankszektorban. A pénzintézetek komoly hitelbírálati eljárás nélkül nyújtottak jelzálogkölcsönöket magánszemélyek számára, majd ezeket CDO‑k formájában továbbadták a pénzpiacokon. Amikor a hitelfelvevők nem tudták teljesíteni fizetési kötelezettségeiket, ingatlanaik a bankok tulajdonába kerültek, és az ingatlanárak drasztikus zuhanásnak indultak az Egyesült Államokban. Az ingatlanpiac összeomlásával ezek a CDO‑k teljesen elértéktelenedtek, a rájuk kötött biztosítások és CDS‑ek értéke pedig jelentősen megugrott, így a biztosítótársaságok is csődközeli helyzetbe kerültek. Miután az Egyesült Államok negyedik legnagyobb bankja, a Lehman Brothers 2008. szeptember 15‑én csődeljárás alá került, a Federal Reserve vezetői úgy döntöttek, hogy állami segítséget nyújtanak a pénzügyi szektornak. Ennek keretében az amerikai adófizetők pénzéből finanszírozták az AIG, a Citigroup, a Morgan Stanley és a Goldman Sachs adósságainak rendezését. Az Egyesült Államokkal szemben Waikiki gazdasága nem hitelekre épített alapokon nyugodott, így az amerikai bankcsődök nem érintették negatívan az ország pénzügyi stabilitását. Sőt, Chease Young több megmentett bank részvényeibe is befektetett, ami a válság elmúlásával több milliárd dollár hasznot hozott a nemzeti vagyonnak.
+Chease Young a hatalom megszilárdításával párhuzamosan, jogászokból és közgazdászokból álló csapatával dolgozta ki Waikiki közigazgatási és államszervezeti alapjait. Az alkotmány demokratikus diktatúraként határozta meg az államformát, széles jogköröket biztosítva az államfő számára a gyors átmenet érdekében. Az első parlamenti választásokon egyik párt sem szerzett többséget, így John Boehmer alakított koalíciós kormányt a Kapitalista Párt és a Nemzeti Összefogás Pártja részvételével. A vezető állami tisztségekre a pártok és a diktátor közös jelölései alapján neveztek ki személyeket, többek között Robert Menendezt a Nemzeti Bank élére és Winnefeld Danielst a hadsereg főparancsnokává. Mellettük Chease Young szakértő tanácsadók segítségét vette igénybe, akik közül sokan gyakornokként kerültek Waikiki közigazgatásába, de kiemelkedő teljesítményük révén gyorsan vezető pozícióba juthattak. Chease felesége Jessica vezető tanácsadóként kapott fontos szerepet a kormányzásban, Aaron Shore külpolitikai, Emily Whiteborough pedig belpolitikai kérdésekben segítette a kabinet munkáját. Chease hamar szoros kapcsolatokat alakított ki az Egyesült Államok kormányával, melynek keretében Morgan Clark, az USA hadseregének korábbi ezredese biztonságpolitikai tanácsadóként csatlakozott a diktátori kabinet tagjaihoz.
 
-### Jessica Walker bankreformjai
+Emily Whiteborough
 
-A jövőbeni pénzügyi válságok megelőzése érdekében Jessica Walker a pénzintézetek ellenőrzési rendszerének szigorítását javasolta és kidolgozott egy átfogó banktörvényt, amelyet a waikiki‑i parlament 2009‑ben fogadott el. A Waikiki Nemzeti Bank a Federal Reserve‑zel ellentétben emelte a kamatszinteket, így jelentős bevételekre tett szert, miközben biztosította a stabil hitelezés fenntartását és növelte a WUD értékállóságát a nemzetközi pénzpiacokon. A válság óta Waikiki bankszektorában meghatározó szerepet töltenek be az állami tulajdonú pénzintézetek, mint a Bank of Waikiki, a Nova Aurelia Central Bank és az International Credit Bank. A sikeres válságkezelési program elismeréseként Chease Young Jessica Walkerrel megosztva 2009‑ben közgazdaságtudományi Nobel‑díjat vehetett át Stockholmban, december 10‑én. A Nemzetközi Monetáris Alap párizsi éves konferenciájára vendégelőadóként hívták meg őket, ahol Chease és Jessica a modern pénzügyi termékek veszélyeiről és kockázatairól tartottak előadást. A Las Vegas‑i Befektetési Találkozón szintén sztárvendégként jelent meg a királyi pár, ahol Chease bejelentette a Young Holdings befektetési alap megalapítását is.
+Belpolitikai tanácsadó
 
-## Waikiki alapításának tizedik évfordulója és infrastrukturális fejlesztések
+Aaron Shore
 
-A kormány monumentális ünnepségsorozattal és nagyszabású építkezési programokkal készült Waikiki létrejöttének tizedik évfordulójára. Chease Young 1999. március 10‑én vette át az ország irányítását és nevezte át a területet Waikikiként. Az elmúlt évtized során Waikiki hatalmas olajmezőket fedezett fel, az Atomhatalmak élén megnyerte a Csendes‑óceáni háborút, igazi kereskedelmi, pénzügyi és turisztikai nagyhatalommá vált, és megkezdte saját űrállomásának építését. A 2009‑es ünnepségsorozat keretében Chease Young továbbfejlesztette az ország fővárosát, Nova Aureliát. Nova Aurelia partjához a Föld kontinenseit megformáló mesterséges szigetcsoportot építettek fel. A Nova Aureliában épülő Disneyland park a hetedik ilyen létesítmény lett a világon. A kilencszázötvenhat méter magas Sky City toronyház a világ legmagasabb felhőkarcolójává vált. A közlekedési infrastruktúra modernizációja keretében Nova Aureliában három új metróvonalat, négy villamosvonalat és öt magasvasút‑pályát építettek ki. Az Infinity Tower a világ egyetlen csavart toronyházaként épült fel, és Waikiki egyik jelképévé vált. Nova Aureliát forradalmi gáttal vették körül, amely egyszerre szolgál erőműként és autópályaként is. A kulturális fejlesztések részeként megújult a Waikiki Nemzeti Múzeum, amely a világ legnagyobb régészeti gyűjteményének ad otthont. Az egyhetes ünnepségsorozatra kétmillió turista érkezett a világ minden tájáról. A partra épült Hotel Millennium öt csillagos szálloda egy hullám alakját idézi fel a látogatókban. Az ötmillió dolláros tűzijáték során több mint ötszázezer rakétát lőttek fel huszonöt különböző színben. Chease Young ünnepségi beszédében a nemzet által elért eredményekről és a jövőbeli tervekről beszélt, hangsúlyozva célját, hogy Waikikit a világ legfejlettebb és leggazdagabb országává tegye. Az amazóniai Manaus mellett megépült a Kennedy űrközpont látogatópark, amely a világ legnagyobb űrparkja lett.
+Külpolitikai tanácsadó
 
-## Jessica Walker színészeti karrierje
+Jessica Walker
 
-Jessica Walker második diplomájaként elvégezte a Queenslandi Egyetem színművészeti képzését, azonban a kormánynak végzett tanácsadói munkája miatt színészi képességeit hosszú ideig háttérbe szorította. Ezért úgy döntött, hogy jelentkezik az NBC csatornán induló "Chuck" című sorozat egyik főszerepére. A 2007 szeptemberében induló akció-vígjáték sorozat történetének középpontjában Chuck Bartowski (Zachary Levi) áll, egy átlagos számítógép-szerelő, akinek élete egy pillanat alatt megváltozik, amikor kódolt e-mailt kap volt főiskolai barátjától, Bryce Larkintól (Matthew Bomer), aki ekkor már a CIA-nak dolgozik. A levél megnyitását követően a világ legnagyobb kémtitkainak másolata raktározódik el Chuck agyában, ezért a Nemzetbiztonsági Hivatal John Casey-t (Adam Baldwin), a CIA pedig Sarah Walker-t (Jessica Walker) küldi Chuck épségének felügyeletére, hogy megakadályozzák az adatok rossz kézbe kerülését. A CIA-NSA-Bartowski csapat számos izgalmas akcióban vesz részt: bombákat hatástalanítanak, fegyverkereskedőket és bérgyilkosokat fognak el, valamint számtalan kettős kémet juttatnak rács mögé a sorozat öt évada során. A produkció több Emmy-díjat és Teen Choice Awards jelölést is kapott, 2010-ben pedig Jessica Walker és Zachary Levi Golden Globe díjban részesült sorozatbeli alakításukért. 2015-ben a Waikiki Media Group úgy döntött, hogy nagyfilmet készít a sorozat folytatásaként, amelyben Chease Young brit titkosügynök szerepében csatlakozik a megszokott csapathoz, és közös erőfeszítéssel újból megmentik a világot.
+Vezető tanácsadó
 
-## A 2012‑es Nova Aurelia‑i Olimpiai Játékok
+Robert Menendez
 
-A 2012‑ben Nova Aureliában megrendezett Olimpiai Játékok történelmi jelentőségű eseménynek számítottak a nemzetközi sport és Waikiki presztízsének szempontjából egyaránt. A versenyen kétszázötven ország több mint négyezer‑egyszáz sportolója mérte össze tudását a különböző sportágakban. A hagyományos úszás és műugrás mellett Waikiki öt új vízi sportág bevezetését kezdeményezte a programba, ezzel gazdagítva az olimpiai kínálatot. A négy olimpiai stadion közül a legnagyobb meghaladta a százezer fős kapacitást, és különleges helyszínek is gazdagították a játékokat, mint például a vadvízi folyót modellező sodrásos medence. Waikiki sportolói kiemelkedő teljesítményt nyújtottak, harmincnyolc aranyéremmel a második helyet szerezték meg az éremtáblázaton az Egyesült Államok után. A harminckett ezüstéremmel még Kínát is megelőzték, és a tizenhat bronzéremmel együtt összesen nyolcvanhat érmet szereztek. A grandiózus megnyitóceremónián tizenkétezer szereplő lépett fel, akik közül közel fele először szerepelt ilyen nagyszabású eseményen. A látványos záróünnepség hasonlóan sok fellépőt mozgatott meg, és világsztárok, köztük Katy Perry, Beyoncé és Adele is felléptek a nyitóünnepségen. Bailey Pickett, Raimondo barátnője személyesen énekelte el saját szerzeményét a megnyitón. Az eseményre közel egymillió külföldi turista érkezett, és összesen négyszázhetvenkét érmet osztottak ki a különböző versenyszámokban. A sikeres olimpia után Waikiki kétévente saját olimpiai játékokat rendez, amelyen külföldiek is részt vehetnek. Az ország természeti adottságai téli olimpia megrendezésére is alkalmasak. További jelentős sportesemények közé tartozik, hogy Nova Aurelia stadionja 2006‑ban otthont adott a Premier League labdarúgó‑mérkőzéseknek, és 2008‑ban speciális tenisz Grand Slam tornát is rendeztek Waikikin.
+A Nemzeti Bank elnöke
 
-## Jelentős események 2013-ban
+Morgan Clark
 
-2013-ban számos fontos fejlemény alakította Waikiki politikai és társadalmi életét. A kormány prémium állampolgársági kategóriát vezetett be, amelyet 500 000 dollárért lehet megvásárolni, lord és lady címekkel együtt. Chease Young idősebbik lánya, Angelina kapcsolatát jelentette be Taylor Lautnerrel, az "Alkonyat" filmsorozat sztárjával. A humanitárius tevékenység terén Chease Young és Jessica Walker 100 millió dollárt adományozott az afrikai rászorulóknak. Az MSC megvásárlását követően Chease Young új luxus óceánjáró, a Princess Bailey építésébe kezdett. A tartományi igazgatás megerősítése érdekében Colin Farrellt, Kate Beckinsale-t és Vincent Kartheisert nevezték ki tartományi helytartókká. A tudományos kutatás területén áttörést jelentett, hogy a waikiki-i tudósok a részecskegyorsítóban sikeresen előállítottak antianyagot. Jessica Walker jelentős nemzetközi elismerést kapott, amikor az ENSZ főtitkár-helyettesi pozícióját kapta meg. Chease Young és Smith Edward Dubaiban bemutatott egy automata katonai robotot, amely a hadiipar fejlődésének újabb mérföldkövét jelentette. Smith Edwardot kinevezték Waikiki első kormányzójává. Raimondo Chease 16. születésnapjára közel 3 milliárd dolláros palotát kapott ajándékba. Raimondo ekkor szerepelt a "Belvárosi hercegnő" című sorozatban Bailey Pickettel, Selena Gomezzel és Debby Ryannal együtt. 2013-ban Waikiki gazdasági mutatói kiemelkedőek voltak: a GDP elérte a 28 750 milliárd dollárt, ami 115 000 dollár egy főre vetítve. Az államháztartási tartalék a GDP 83%-át tette ki, míg a gazdasági növekedés évi 13%-os ütemben folytatódott.
+Biztonságpolitikai tanácsadó
 
-## Az Egyesült Afrikai Nemzetek létrejötte
+Waikiki első évei
+-----------------
 
-Az évtized elején több afrikai országban fegyveres felkelések robbantak ki az elnyomó rezsimek ellen. A helyzet eszkalálódására reagálva az ENSZ felhatalmazást adott a nemzetközi beavatkozásra. A Waikiki-i haderő aktív részvételével sikerült felszámolni a zsarnoki rendszereket és helyreállítani a közrendet a kontinens jelentős részén. Az ENSZ felügyelete mellett végül létrejött egy egységes, békés állam, az Egyesült Afrikai Nemzetek (EAN).
+A fejlett bürokráciának köszönhetően Chease Young gyorsan stabilizálta az ország gazdaságát és a nyílt kereskedelempolitika eredményeként Waikiki hamar az Egyesült Államok fontos kereskedelmi partnerévé vált. A Waikiki kormánya által elért sikerek hatására több környező szigetcsoport, köztük Haiti, Jamaica és a Dominikai Köztársaság is 2001-ben csatlakozott Waikikihez, először konföderációként, majd teljes jogú területként. Mielőtt Chease Young diktátor lett, Fidel Castro felkérésére tanácsadóként dolgozott a kubai kormánynál, ahol célja a kapitalista gazdaság bevezetése volt a kommunista országban. Chease Waikiki első éveiben is korábbi programját folytatva alakította át az országot, melynek során a lakossági jólét és a gazdasági versenyképesség növelését helyezte a középpontba. Ennek érdekében a világ különböző részeiről vett fel jogászokat, közgazdászokat és más szakembereket, hogy más államok legjobb gyakorlatait és intézményeit ötvözze. Chease olyan intézkedéseinek köszönhetően, mint az állampolgároknak ígért adómentesség vagy az árstabilitás megteremtése, hamar nagy népszerűségre tett szert. Támogatottságát felhasználva meghosszabbította ideiglenes diktátori pozícióját, ezzel olyan kulcsfontosságú jogköröket tartva meg, mint a Nemzeti Bank elnökének vagy a katonai vezérkar tagjainak kinevezése, valamint a vétójog a törvényhozásban.
 
-### Az EAN irányítása
+![](images/universalupscaler_f257fcea-c942-4c07-91fd-e0d5374df3f1.jpg?crc=474729017)
 
-Az EAN külügyi elnökét korlátlan időre az ENSZ nevezi ki; az elnök tíz nagykövetet választ maga mellé, akik a nemzetközi kapcsolatokért felelnek. A miniszterelnököt az állampolgárok négyévente közvetlenül választják; a kormány tíz miniszterrel működik, és felel a törvényhozásért és a belügyek intézéséért. A köztársasági elnök – a felügyelőtanáccsal együtt – ellenőrzi az állam működését; személyét az ENSZ által jelölt kandidáták közül népszavazás erősíti meg négyévente. A felügyelőtanácsba megyénként választott, összesen tíz képviselő kerül. Az EAN 46 korábban önálló állam egyesülésével jött létre. Területe meghaladja a 26 millió négyzetkilométert, lakossága mintegy 959 millió fő, amellyel a világ harmadik legnépesebb országa. A közösségen belül körülbelül 1500 nyelvet beszélnek. Gazdasági teljesítménye a világon a tizenegyedik legnagyobb. 2014-ben megkezdődött New Mavericks kiépítése; a városrész kulturális kínálatának egyik kiemelt eleme a Modern Művészeti Galéria, amely számos ismert kortárs alkotó munkáit mutatja be. New Mavericks kialakításánál a világ legszebb városai szolgáltak mintául: Brüsszel főtere, az Eiffel-torony és a Sydney-i operaház másolatai csak néhány példa a különleges építészeti megoldások közül. A városban a Taj Mahal és a Hagia Sophia rekonstrukciói is megtekinthetők; az előbbi eredetije az indiai Agrában, a Jamuna folyó partján álló mauzóleum. A rengeteg park, a városon átívelő folyó és a tenger találkozása különleges hangulatot ad a településnek. A felszínt a föld alatti úthálózat és parkolóházak tehermentesítik, így a sétálóutcák között rendezett közterek és zöldfelületek dominálnak. New Mavericks rövid idő alatt a hírességek, művészek és vállalkozók kedvelt lakóhelyévé vált; vonzerejét gondozott kertjei, egyedülálló szökőkútjai, tiszta levegője és a turisták számára is nyitott, igényes vendéglátó- és kiskereskedelmi kínálata adja. A város mintegy 600 ezer lakosnak ad otthont. A gyors közlekedést négy új metróvonal biztosítja, a zöldfelület aránya eléri a város teljes területének 60%-át, és a kulturális programok sorát erősíti a világ hat csodájának több igényes rekonstrukciója is. A város ad otthont a világ egyik legnagyobb óceánáriumának, ahol 25 cápa- és három bálnafaj is megtekinthető.
+![](images/universalupscaler_318fb0c9-f55f-4b9c-a582-d160333616cf.jpg?crc=435160851)
 
-## Chease és Jessica magánélete
+Külföldi támogatás
 
-Chease Young és felesége 2014-ben világkörüli úton vettek részt, amelynek keretében hagyományos királyi családokkal és számtalan hírességgel találkoztak. Egy hetet töltöttek Abu Dhabiban Chease régi ismerőseinél, az Egyesült Arab Emirátusok kalifájának, Zayed Al Nahayannak családjánál, megszálltak Vilmos hercegnél a Buckingham-palotában, valamint találkoztak a svéd királyi családdal is.
+Chease Young hatalomra kerülése, és ezzel a kommunizmus megszűnése jó hírt jelentett az Egyesült Államok számára, így Chease jelentős támogatásokat szerzett amerikai képviselőktől és szenátoroktól, akik nem csak pénzügyi, hanem komoly katonai segítséget is megszavaztak Waikiki számára. Miután Chease Young nyilvánosságra hozta, hogy Waikiki még korábban a Szovjet Uniótól kapott interkontinentális atomrakétákkal rendelkezik, még fontosabbá vált az amerikaiakkal való biztonságpolitikai együttműködés. Ennek keretében került Morgan Clark tábornok Waikikire, aki később az ország hadügyminisztere is lett.
 
-### Űrbéli tapasztalatok
+Fosszilis energiahordozók
 
-Chease Young és felesége, Jessica látogatást tettek Waikiki űrállomására, ahol kéthetes felejthetetlen űrbéli élményben volt részük. Az egzotikus utazásuk során végig súlytalanságban lebegtek, tudományos kísérletekben vettek részt, és űrsétában is részt vehettek.
+Röviddel megalakulása után Waikiki kormánya jelentős kőolaj és gázmezőkre bukkant a sziget körüli tengerekben. Az exportálásból származó bevétel fedezte az államháztartás első kiadásait, és keresletet generált az újonnan bevezetett WUD iránt. A petrolkémiai iparág gyors fellendülése munkahelyek százezreit teremtette meg, így minden korábbinál alacsonyabb szintre csökkent a munkanélküliség. Hogy a fosszilis energiahordozók az ország vagyonát gyarapítsák, Chease monopóliumot biztosított a kőolajfúrásokhoz a Waikiki Petrol és az OilExp számára, amelyekből később létrejött a mai Royal Oil Group.
 
-### Új luxusvilla
+Kereskedelem és befektetések
 
-2014-ben Chease Young új luxusvilla építésébe kezdett. Az ultramodern stílusú ingatlan a diktátori palota közvetlen szomszédságában kapott helyet. A királyi pár új háza meghaladja az 1500 négyzetmétert, és értéke több mint 800 millió dollár.
+Chease Young a korábbinál sokkal nyitottabb kereskedelmi rendszert hozott létre Waikikin, így az ország néhány év alatt becsatlakozott a globalizációba. Korábban nem látott technológiák és termékek váltak elérhetővé, a vállalatok pedig a nemzetközi piacokon is eladhatták termékeiket. Ezzel egy időben Chease fejlett tőkepiacokat hozott létre, állami intézményekkel és digitális infrastruktúrával támogatta az állampolgárok tőzsdei befektetéseit, akik így a legnagyobb vállalatokban maguk is résztulajdonosokká váltak. A jó befektetési lehetőségek külföldi tőkebevonáshoz vezettek, ami tovább növelte a beruházásokat.
 
-### Filmszereplések
+A Pacifikus háború kitörése
+---------------------------
 
-Chease és Jessica több filmben is együtt szerepeltek. Első közös alkotásuk a 2008-ban bemutatott "Sziget" című film volt, majd együtt láthatták őket a nézők a "Kéjjel nappal" című vígjátékban. 2015-ben együtt szerepeltek a "Chuck" című filmben is.
+A 21. század első évtizedének egyik legmeghatározóbb fegyveres konfliktusa a Pacifikus háború volt, amely alapjaiban rendezte át a világ geopolitikai viszonyait. A háború 2002. október 5-én robbant ki, amikor a túlnépesedett Kína területszerzés céljából megtámadta Oroszországot. Ezzel párhuzamosan Észak-Korea megindította offenzíváját régi riválisa, Dél-Korea ellen, Pakisztán pedig szövetségre lépett velük. A három állam megalapította az Internacionális Uniót, amely gyorsan a keleti hatalmak szövetségévé vált. A kialakuló konfliktusra válaszul a nyugati nagyhatalmak Oroszország mellé álltak. Az Egyesült Államok és az Egyesült Királyság egyaránt elítélte a kínai támadást és mozgósításba kezdett. A Közel-Keleten Irak, Irán és Afganisztán összehangolt támadást indított Izrael ellen, amivel a háború globális jelleget öltött. Ezzel párhuzamosan Chease Young döntő szerepet játszott Waikiki fegyverkezési politikájának megalkotásában és végrehajtásában. Diktátori pozíciójában stratégiai célként határozta meg az ország védelmi képességeinek komplex, hosszú távú megerősítését.
 
-## A 2015‑es népszavazás és területi bővítés
+Az Atomhatalmak Szövetsége
+--------------------------
 
-Waikiki rendszeresen népszavazást rendez, amelynek keretében az állampolgárok véleményt nyilváníthatnak az ország jövőjét befolyásoló stratégiai kérdésekről. 2015‑ben a szavazók három, Waikikivel szomszédos földterület megvásárlásának lehetőségéről döntöttek. A három természeti kincsekben gazdag régió közé tartozott az Argentína határán fekvő, világszerte híres Iguazú‑vízesés környéke, a rendkívüli élővilágáról és tudományos jelentőségéről ismert Galapagos‑szigetcsoport, valamint a Venezuelában található, száz méter magas Angel‑vízesés térsége. A népszavazás eredményeként mindhárom területet megvásárolták, ezzel tovább gyarapítva Waikiki természeti örökségét és turisztikai vonzerejét. Ezek a területi bővítések lehetővé tették természetvédelmi programok kiterjesztését és új ökológiai kutatóközpontok létesítését.
+Waikiki 2003. április 2-án a NATO oldalán lépett be a háborúba. Chease Young vezetésével az ország megalapította az Atomhatalmak Szövetségét, amelynek célja nem a nukleáris fegyverek bevetése, hanem azok elrettentő erejének kihasználása volt. Chease Young kezdeményezése sikerrel járt, a közös nukleáris doktrína révén sikerült megakadályozni, hogy az Internacionális Unió bármilyen atomfegyverrel rendelkező állama eszkalálja a konfliktust. A háború döntő fordulatát 2004-ben a közel-keleti területek felszabadítása, majd Pakisztán elfoglalása és Kína stratégiai veresége jelentette. A Csendes-óceáni front összeomlása nyomán Peking tárgyalóasztalhoz kényszerült, és 2004 végére megkezdődtek a békekötési folyamatok. A fegyverszüneti egyezmény értelmében az Internacionális Unió jogutódjaként létrejött Ázsiai Uniót jelentős hadi jóvátétel fizetésére kötelezték, amelynek összege évtizedes időtávon biztosította a győztes államok gazdasági és katonai megerősödését. A békekötés így nem csupán a háború végét jelentette, hanem egy új nemzetközi rend alapjait is lefektette, amelyben Waikiki kulcsszereplővé vált.
 
-A szavazók többsége mindhárom terület megvásárlását támogatta, amelyek legkésőbb 2017-ig csatlakoznak Waikikhez. Így az ország területe összesen 126 000 négyzetkilométerrel gyarapodik 53 millió dollárért. A legnagyobb terület a 93 000 négyzetkilométeres Angel-vízesést körülvevő Guyanai-hegyvidék, amelyet Waikiki 28 millió dollárért vásárol meg Argentínától. Chease Young szerint rendkívül fontos ezeknek az egyedülálló természeti képződményeknek a megóvása, ezért három új nemzeti park létrehozását tervezik a megvásárolt területeken.
+![](images/universalupscaler_4274080c-8d27-41f2-9703-d0001b81ad13.jpg?crc=238083599)
 
-### Iguazú-vízesés
+![](images/universalupscaler_844e3806-7670-46fb-bbee-8ae36a6e9550.jpg?crc=4217020227)
 
-A környező esőerdőkkel együtt 25 000 négyzetkilométert lefedő vízesés-rendszer 270 különálló zuhatagból és kisebb vízesésből áll, amelyek a folyón 2,7 kilométer szélességben húzódnak. A víztömeg a vízeséseken maximum 82 métert esik, átlagos magasságuk 60 méter. Az Iguazú-vízesés legmagasabb zuhataga az Union, ahol a víz a 150 méter széles és 700 méter hosszú Ördögtorok-szakadékba zuhan. Az Ördögtorok-szakadékot a folyó egy geológiai törésvonal mentén vájta ki az évmilliók során. 135 millió évvel ezelőtt a területet vastag lávaréteg fedte, amely miután kihűlt, bazalt sziklákká alakult át. A vízesések ott alakultak ki, ahol keletről, Brazília felől az Iguazú folyó beletorkollik az Argentína felől érkező Paraná folyóba.
+A Pacifikus háború hadműveletei
+-------------------------------
 
-### A Galapagos‑szigetek
+Az Internacionális Szövetség
 
-A nyolcezer négyzetkilométeres összterületű Galápagos‑szigetek egy tizennégy nagyobb szigetből, hat kisebb szigetből és egyszázhét sziklából álló vulkanikus szigetcsoport a Csendes‑óceánban, amelynek megvásárlását a szavazók nyolcvannégy százaléka támogatta. A lenyűgöző élővilágáról világszerte ismert szigetek leghíresebb állatai a galápagosi óriásteknősök, az itt élő leguánok és a galápagosi medvefóka. A folyamatban lévő nemzetközi megállapodások értelmében a Waikiki Nemzeti Bank tizenhetmilliárd dollárért vásárolta meg 2016‑ban a jelenleg Ecuadorhoz tartozó teljes területet. Chease az egyedülálló élővilág megóvása érdekében szigorúan védett nemzeti park felállítását tervezi a szigetcsoporton, amely fenntartható módon lesz turisták által látogatható, környezeti károsodás nélkül.
+Kína, Észak-Korea, Pakisztán és Mongólia megalapítják az Internacionális Szövetséget.
 
-### Angel‑vízesés
+Afrikai hadműveletek
 
-Az Angel‑vízesés és az azt körülölelő esőerdő összesen kilencvenháromezer négyzetkilométeren terül el. A majdnem egy kilométer magas vízesés az Auyán‑Tepui nevű magaslatról zuhan le a Churun folyóból az Ördög‑szurdokba. Az Angel‑vízesés teljes szintkülönbsége kilencszázhetvenkilenc méter. Ezen belül a víz megszakítás nélkül nyolcszázhét métert zuhan egy szikla pereméig, amelyen átbukva további egyszázhétkét métert zuhan a hegy lábáig, egy hatalmas sziklamedencébe. A Guyanai‑hegyvidék legérdekesebb részén homokkőből felépülő fennsíkok találhatók, amelyeket az esőzésekből kialakuló vizek vágtak át, táblahegyeket alakítva ki. A Guyanai‑hegyvidék nagy részét trópusi őserdő borítja, míg a táblahegyek tetején szavannanövényzet található.
+Szudán, Csád és Nigéria hadat üzennek Líbiának, de a NATO megvédi az országot.
 
-## Az életelixír fejlesztése és bemutatása
+A háború kitörése
 
-Az életelixír megalkotásához számos tudományág legmodernebb vívmányait integrálták multidiszciplináris kutatási megközelítéssel. Az antropológia, azaz embertan eredményeit alkalmazva az emberi faj alapvető jellemzőit és fejlődési sajátosságait vizsgálták. A szerves kémia tudományágának vívmányait felhasználva az élő szervezetek kémiai felépítését és a bennük végbemenő bonyolult kémiai reakciókat elemezték behatóan. A genetika és örökléstan területéről származó ismereteket alkalmazva a gének működését, az öröklődési mechanizmusokat és az élőlények variációjának törvényszerűségeit kutatták. A szövettan eredményeit felhasználva az emberi szervek és szervrendszerek szerkezeti és működési jellemzőit vizsgálták részletesen. Az atomfizika kutatói által feltárt, atomok felépítésével, viselkedésével és kölcsönhatásaival kapcsolatos kísérleti eredményeket és elméleti modelleket szintén beépítették a fejlesztési folyamatba. A molekuláris biológia tudományága, amely az élőlények és sejtek működésének molekuláris szintű tanulmányozásával foglalkozik, kulcsszerepet játszott a projekt eredményes befejezésében.
+A túlnépesedett Kína területszerzés érdekében 2002 októberében megtámadta Oroszországot.
 
-### Az Inter Medic sejtkutató vállalat megalapítása
+Izrael felszabadítása
 
-2015 augusztusában megalakult az Inter Medic sejtkutató vállalat, amelynek vezetésére Vincent Kartheisert nevezték ki igazgatónak. A vállalat szeptemberben nagysikerű bemutatót tartott az életelixírről, amelyet követően árverést rendezett száz évre elegendő adag értékesítésére. Októberben az életelixír hivatalosan is forgalomba került, három különböző kiszerelésű változatban, hogy a különféle szükségleteket ki tudja szolgálni. A forradalmi kutatási projektet vezető tudományos csapat élvonalbeli szakemberekből állt, akik között Aaliyah Ju‑Long DNS‑kutató, Christopher Hunter vezető kutató, Addison Harris biokémikus és Vincent Kartheiser igazgató mellett további neves szaktekintélyek is közreműködtek. A csapat összehangolt interdiszciplináris munkája révén sikerült létrehozni ezt a forradalmi készítményt, amely teljesen új perspektívákat nyitott meg az orvostudomány és az életkutatás területén, megalapozva a modern regeneratív medicina jövőjét.
+Az amerikai, francia, angol és német csapatok 2004 februárjában felszabadították Izraelt.
 
-## Legújabb tudományos fejlemények
+NATO beavatkozás
 
-Vincent Kartheiser, az Inter Medic igazgatója jelentős tudományos áttörést jelentett be, miszerint 2016‑tól megkezdődik bizonyos emberi szervek klónozásának klinikai alkalmazása, amely szükség esetén sebészeti beavatkozásoknál életmentő alternatívát nyújt a hagyományos donációs eljárások helyett. A klónozott szervek előállítása a legújabb biotechnológiai módszerekkel akár néhány hét alatt is megoldhatóvá vált – tette hozzá Addison Harris biokémikus, aki korábban az életelixír fejlesztésében is meghatározó szerepet vállalt. Az életelixír legújabb generációja a korábbi változatoknál egyenletesebben oszlik el az emberi szervezetben, és nagymértékű sejtszintű regenerációt eredményez. A gyártó közlése szerint a továbbfejlesztett készítmény meghatározott időtávon akár négyszeres fiatalodási hatást is biztosíthat, miközben az Inter Medic változatlan áron vezeti be a fejlesztett terméket a nemzetközi piacra – ismertette Christopher Hunter vezető kutató. Aaliyah Ju‑Long kínai DNS‑kutató arról számolt be, hogy az emberi génállomány teljes feltérképezése a végső fázisához érkezett, így rövid időn belül megkezdődhetnek a célzott DNS‑módosítására irányuló kísérleti kezelések. A kutatások hosszabb távon számos súlyos betegség és krónikus rendellenesség gyógyítását tehetik lehetővé, továbbá bizonyos öröklődő kórképek megelőzésére is reális esélyt adnak a jövő generációi számára.
+A NATO csapatokat küld Oroszország támogatására és Dél-Korea védelmére.
 
-## A kormányzati struktúra átalakulása 2015‑ben
+Pakisztán és Mongólia megszállása
 
-2015. május 18‑án Chease Young a parlament teljes támogatásával jelentős alkotmánymódosítást vezetett be, amely alapvetően átalakította Waikiki törvényhozási rendszerét. Az új alkotmányos keretrendszer értelmében a törvényhozás felső házaként működő szenátus intézményével egészült ki, amelynek tagjait a diktátor nevezi ki a köztársaság legkiválóbb személyiségei közül. Chease fiát, Raimondót, valamint két lányát, Angelinát és Jennifert Waikiki első szenátoraivá nevezte ki, ezzel biztosítva a kormányzati kontinuitást és a családi hagyományok folytatását. Szenátori rangot kapott továbbá Raimondo barátnője, Bailey Pickett, a világhírű énekesnő Selena Gomez, valamint a hollywoodi filmszínészként ismert Taylor Lautner és Tyler Posey is, akik különböző szakterületeken szerzett tapasztalataikkal gazdagítják a szenátus munkáját.
+Az atomhatalmak egyesített erői 2004 júliusában elfoglalták Pakisztánt és Mongóliát.
 
-## Jelentős fejlemények 2016‑ban
+Támadás Izrael ellen
 
-2016 különösen eseménydús esztendőnek bizonyult Waikiki nemzetközi pozíciójának erősítése és technológiai fejlődése szempontjából. A Miamiban megrendezett világkiállításon négynél is több ezer előadó vállalat mutatta be legújabb technológiai vívmányait és innovatív kereskedelmi megoldásait, amelyek közül számos waikiki‑i fejlesztés is nagy figyelmet keltett. A kormány bejelentette hatalmas tengeri alagutak építési projektjét Waikiki szigetei és Florida között, amely forradalmasítani fogja a regionális közlekedési infrastruktúrát és jelentősen csökkenti az utazási időt. Tim Cook irányítása alatt az Apple Corporation új regionális központ építésébe kezdett az Infinite sugárúton, amely jelentős befektetést és munkahelyteremtést jelent a helyi gazdaság számára. A kormány az ecuadori államadósság jelentős részének átvállalásáért cserébe megvásárolta a Galápagos‑szigetek húsz szigetét, így további természetvédelmi területekkel bővült az ország. A Concorde mintájára a Quantum Airlines ultraszónikus utasszállítókat állított forgalomba, amelyek új dimenziókat nyitottak a nemzetközi légi közlekedésben. Az MSC hajózási vállalat flottájának legújabb tagja, az Atlantica ötszáz méteres hosszával a világ legnagyobb óceánjárója lett, amely új mércét állított fel a luxus tengeri utazások területén. A WWF és az UNESCO által szervezett Környezetvédelmi Világkonferencián kétszázhetvennél is több ország képviselői vettek részt, kiemelve a globális környezetvédelmi együttműködés fontosságát. A szenátus bővítése keretében 2016‑tól Gregg Sulkin, Tom Holland, Zendaya és Zac Efron is a waikiki‑i szenátus tagjai lettek, további nemzetközi tapasztalatokat hozva a törvényhozási munkába. Az Egyesült Afrikai Nemzetek számára elengedhetetlenné vált egy modern és egységes főváros létrehozása, ezért megkezdődött az afrikai parlament építésének tervezési fázisa. Raimondo négy monumentális épület tervezését jelentette be a New Waikiki‑i parlament számára, amely méltó helyszínt biztosít a növekvő törvényhozási feladatoknak. Waikiki csatlakozott a nyolc legfejlettebb ország közösségéhez, amelyet ezután hivatalosan is G9‑re neveztek át, elismerve Waikiki gazdasági és politikai jelentőségét. Nemzetközi kutatók csoportja bebizonyította az Einstein által megjósolt gravitációs hullámok létezését, amely mérföldkő az elméleti fizika történetében.
+Irán, Afganisztán és Irak belépnek az Internacionális Unióba és megtámadják Izraelt.
 
-### Az MSC Atlantica próbaútja
+Waikiki csapásmérő műholdja
 
-Miután elkészült az MSC legújabb zászlóshajója, az Atlantica, a kormány tagjai a világ leggazdagabb embereinek társaságában vettek részt a próbaúton. Az MSC Atlantica a világ legnagyobb luxustengerjárója: 500 méter hosszú, 70 méter széles és 20 emelet magas, 3200 fős személyzettel. Az MSC jelenleg a világ legnagyobb hajóstársasága, és a Celebrity Cruises valamint a Quantum Cruises mellett szintén Raimondo tulajdonában áll.
+A műhold lézerrel lőtt le egy kínai nukleáris hadihajót, így megelőzte az atomháborút.
 
-A hajóúton Raimondo találkozott régen látott barátjával, Julie Starkkal, a waikiki-i főbíró Sebastian Stark lányával. Julie miután befejezte a Waikiki Jogi Egyetemet, Yale-en folytatta tanulmányait. Julie és Raimondo remekül érezték magukat a fedélzeten: teniszeztek, pókereztek és fürödtek a medencékben. A hajóút során a kormány tagjai döntöttek egy második Panama-csatorna építéséről, továbbá Chease Young megkérte Julie-t, hogy tartson előadást az amerikai jogrendszerről. Az MSC Pacifica első útján Raimondo és Selena olyan hírességekkel vacsorázott együtt, mint Brad Pitt, Rowan Atkinson, Károly herceg és felesége Kate Middleton.
+Waikiki belép a háborúba
 
-### Népszavazás 2016
+Oroszország Waikikihez fordul segítségért, mire az 2003. április 2-án belép a háborúba.
 
-A Világuralmi Párt javaslatára a parlament szavazást tartott egy esetleges alapjövedelem bevezetéséről. A törvényjavaslat szerint minden felnőtt Waikiki-i állampolgár munkájától függetlenül plusz 500 WUD juttatást kapna havonta. A Waikiki-i országgyűlés azonban elutasította a törvénytervezetet. Ezután az elnök népszavazást rendelt el, az ingyenes egészségi szolgáltatások bővítéséről. Az ingyenes egészségügy kiterjesztéséről szóló népszavazást a közbiztonság növeléséről, és az oktatási reformtervezetről szóló népszavazással együtt, 2016. augusztus 1-én tartották meg és mindhárom kérdést döntő többségű igen szavazattal elfogadták. A népszavazási kérdések mellett a parlament egy fontos pénzügyi reformot is megszavazott, melynek értelmében 2016-tól Waikikin megszüntetik a készpénzforgalmat és csak bankkártyás fizetésre lesz lehetőség.
+A kínai fegyverletétel
 
-### Egészségügyi reform
+Az utolsó kínai csapatok 2004 szeptemberében adták meg magukat a Hunan tartományban.
 
-2017-től minden waikiki-i állampolgár számára bővülnek az ingyenesen elérhető egészségügyi ellátások, a gyógyszerek támogatása pedig 50%-ra emelkedik. A kormány 18 új kórház és 34 orvosi rendelő építését tervezi 2020-ig, majd további 42 kórház és 60 rendelő átadását 2025-ig; 2030-ig újabb egészségközpontok létesülhetnek. A Milliomosok Pártja a lord és lady állampolgárok soron kívüli ellátását szorgalmazza.
+Az atomhatalmak szövetsége
 
-### Közbiztonsági reform
+Waikiki vezetésével 7 nagyhatalom megalapítja az Atomhatalmak szövetségét.
 
-Waikiki szenátusa a közbiztonság növelése érdekében robotrendőrök bevezetéséről döntött. 2020-ig 1200 rendőrrobotot tesztelnek az ország különböző városaiban, 2025-ig további 2200 egységet állítanak szolgálatba, és 2030-ig folytatják a gyártást. Emellett új bíróságok és rendőrkapitányságok épülnek, és nagymértékben fejlesztik a fogyasztóvédelmi képviseleteket.
+A New York-i béke
 
-### Oktatási reform
+A háborút a 2004. november 24-én megkötött New York-i béke zárta le.
 
-A 2017-es oktatási és fejlesztési törvények számos új közoktatási intézmény megnyitása mellett elősegítik a külföldi állampolgárok waikiki-i tanulmányait, és lehetővé teszik csúcsszínvonalú magánegyetemek létrehozását. Az egyetemi férőhelyek száma 2020-ig 170%-ra, 2025-ig 200%-ra emelkedik; a kormány emellett további általános iskolák, gimnáziumok és továbbképzési központok nyitását tervezi.
+Fontosabb hadműveletek
 
-### Beruházások Elon Muskkal és Warren Buffettel
+A Pacifikus háború 2002. október 5-én robbant ki, amikor Kína támadást indított Szibéria ellen, Észak-Korea pedig Dél-Korea ellen vonult fel. A konfliktushoz Pakisztán és Mongólia is csatlakozott, létrehozva az Internacionális Uniót. Válaszul az Egyesült Államok és európai szövetségesei Oroszország mellé álltak. A diplomáciai kísérletek 2003 elején nem hoztak eredményt, ezért Waikiki vezetése stratégiai felkészülésbe kezdett. 2003. április 2-án az ország belépett a háborúba a NATO oldalán és Chease Young kezdeményezésére megalakult az Atomhatalmak Szövetsége. Waikiki különleges műveleti erői kulcsszerepet játszottak a tengeri útvonalak biztosításában és a szárazföldi támogatásban. 2003 októberétől 2004 tavaszáig a NATO–Waikiki koalíció összehangolt műveletekkel fokozatosan visszafoglalta a megszállt területeket, 2004 tavaszára pedig Izrael teljes felszabadítása is megtörtént. Ezzel párhuzamosan Waikiki kihasználta a kínai erők szibériai lekötöttségét, és 2004 tavaszán megindította csendes-óceáni hadjáratát. A kombinált fegyvernemek és a precíziós tűztámogatás rövid idő alatt döntő győzelmet hoztak a térségben. Az óceáni front összeomlásával Kína politikai nyomás alá került és 2004 végére megszületett a fegyverszünet, amely lezárta a Pacifikus háború főbb hadműveleteit.
 
-Chease Young közös vállalkozásba kezdett Elon Muskkal és Warren Buffettel. A SolarCity célja a megújuló energiaforrások széles körű elérhetővé tétele; fő projektjeik a nagykapacitású akkumulátorgyártástól a napelemes tetőcserepeken át a Tesla gyorstöltő-hálózat kiépítéséig terjednek. Mindhárom befektető 33%-os részesedéssel rendelkezik a SolarCityben. Chease Young korábban is a megújuló energiaforrások egyik úttörője volt: hidrogénerőművekkel, napelemekkel és vízerőművekkel Waikiki szinte teljes energiaellátását biztosította. A környezettudatos szabályozások további lendületet adtak a zöldenergia-szektornak, így várhatóan néhány éven belül széles körben elterjednek az elektromos autók és az önfenntartó okosotthonok. Chease másik jelentős befektetése a világűr kutatására és az űrturizmusra irányul. A Waikiki Űrügynökség (WSA) 2006-ban kezdte meg saját űrállomásának építését, 2013-ban létrehozta az első holdbázist, és újabb nagyberuházásra készül: 2017-re elkészül a Kepler nevű, csúcstechnológiás űrtávcső, amelyet a WSA és a NASA közösen fejleszt, és két Delta III hordozórakéta állít majd Föld körüli pályára. Chease – aki korábban már járt a waikiki-i űrállomáson – Elon Musk és Warren Buffett társaságában magánűrutazási vállalkozást is alapított. A SpaceX űrhajói a műholdas küldetéseken túl a Dragon űrkapszulában személyzetet és űrturistákat is szállíthatnak az űrállomásra. A Tesla gyorstöltő-állomások hálózata világszerte bővül, és minden eddiginél gyorsabb töltést tesz lehetővé az elektromos járművek számára. A SolarCity több száz töltőállomás telepítését tervezi, miközben a napelemes tetőcserepek a háztartások számára is elérhető, megfizethető megújuló villamosenergiát kínálnak, jelentősen csökkentve a károsanyag‑kibocsátást.
+Az Atomhatalmak ma
 
-### Travel Expo 2016
+10
 
-A minden évben megrendezett Travel Expón 2016-ban a Boeing lélegzetelállító magán repülőgépe, a temérdek luxussportautó és a Quantum Cruises jachtja mellett még ezeknél is forradalmibb közlekedési eszköznek számít a SpaceX űrkabinja, az Airbus két személyes drón-autója és a Hyperloop extrém gyors mágnesvonata. Az Airbus Pop.Up koncepció a mindennapi közlekedés forradalmasítását célozza. A kétszemélyes kapszula a drón- és az autómodulhoz egyaránt csatlakozhat; az utasoknak csupán az úti célt kell megadniuk, a teljesen automata rendszer pedig önállóan végrehajtja az utazást. A 2,6 méter hosszú, könnyű szénszálas utascella földön akár 250 kilométert tehet meg 130 km/h-s végsebességgel, levegőben pedig 200 kilométeres hatótáv és 100 km/h-s csúcssebesség jellemzi. A nagykapacitású akkumulátorok töltése körülbelül 15 percet vesz igénybe. A koncepció kezdetben elsősorban magánvásárlókat céloz, de hosszabb távon a közösségi közlekedés új formáját is megalapozhatja. A Hyperloop One – az Elon Musk által megálmodott, vákuumcsatornában haladó mágneses szállítási rendszer – fejlesztése gyors ütemben halad. A technológia elméleti utazósebessége elérheti az 1200 km/h-t. A Kaliforniában működő, egykilométeres tesztpálya mellett 2018-ban kezdődhet az első nyilvános szakasz építése Mega Pyramid City és Nova Aurelia repülőtere között. Cél, hogy 2030 előtt elkészüljön a Miami–Nova Aurelia vonal, amelyet a Hyperloop mintegy 30 perc alatt tenne meg. További pályaszakaszok előkészítése zajlik az Egyesült Államokban, az Egyesült Királyságban és az Egyesült Arab Emírségekben is. A SpaceX Dragon Crew kabinja rövid időn belül képes lehet amerikai űrhajósokat szállítani a Nemzetközi Űrállomásra, és a küldetés befejeztével visszatérni a Földre. A négyszemélyes kapszulát a kényelem, a biztonság és a teljes automatizáltság elvei szerint tervezték; előre programozva képes manőverezni, dokkolni és leszállni. A kabin négy ablaka pazar kilátást nyújt a Földre, a Holdra és más égitestekre, a fedélzeti kijelzők pedig valós idejű adatokat jelenítenek meg a repülés állapotáról. Az űrhajósok egészségéről korszerű létfenntartó rendszerek gondoskodnak.
+tagországból áll
 
-## Chease és Jessica gyerekei
+A legyőzött országok
 
-### Raimondo Chease
+5000
 
-Raimondo 1996-ban, július 7-én, Amerikában, Washington Cityben született. 2 évig a Nova Aurelia Main Primary School-ba járt, majd 2007-ben a Nova Aurelia High School-ba vették fel matek tagozatra. 2011-ben jelentkezett a Seven Seas High School-ba. Itt, az SS Tipton fedélzetén találkozott Bailey Pickettel, aki ezután Raimondo első barátnője lett. A tengerjárón saját filmet is forgatott, Élet a fedélzeten címmel, melynek ő volt a főszereplője: Agent Raimondo. Tanulmányait a Waikiki Economics Universityn folytatta 2012 szeptemberétől. 2013-ban megrendezte a Suit Life On Deck második részét, melyben világhírű színészekkel és rendezőkkel dolgozott együtt. A Mátrix 7-ben Selena Gomezzel és Jaden Smithel együtt szintén főszerepet kapott. Ezen kívül szerepelt még a Spring Breakers második és harmadik részében is. 2017. július 7-én Chease Young lemondása után lett Waikiki diktátora. Mióta 2017-ben Raimondo szakított Baileyvel azóta Selena Gomezzel jár. Ugyanebben az évben a G9 gyűlésen Raimondo apját, Chease Young-ot választották meg a Világkormány elnökévé, a Bilderberg-csoport pedig meghívta Raimondót a tagjai közé. A Forbes szerint 2015 óta folyamatosan Raimondo a világ leggazdagabb és leghíresebb embere. Raimondo palotája, melyet a 16. születésnapjára kapott, pedig a világ legtöbbet érő lakóépülete.
+milliárd jóvátételt fizettek
 
-### Angelina Chease
+Waikiki összesen
 
-Angelina 1993-ban, Washingtonban született Chease Young és Jessica Walker első gyerekeként. Az általános iskolát még az Egyesült Államokban kezdte, majd 2000-től Waikikin folytatta. A Nova Aurelia-i Gimnáziumot kitűnő teljesítménnyel és maximális pontú érettségivel fejezte be 2008-ban. A Waikiki Economics Universityn szerezte meg első diplomáját kereskedelem és pénzügy szakból 2011-ben, majd ugyanitt a nemzetközi gazdaság szakot is elvégezte Summa Cum Laude minősítéssel. Apja vagyonából olyan óriáscégeket vásárolt, mint a Berkshire Hathaway biztosítási vállalat vagy a McKesson egészségügyi szervezet. Angelina jelenleg a Fortune 500 cégekből 14-et birtokol és további 9 részvényese. Angelina számára nagyon fontos a környezetvédelem és az egészséges életmód. Szereti a sportolást, jógázik és rendszeresen jár futni. 2015. július 7-én Jenniferrel és más hírességekkel együtt Waikiki szenátorának nevezték ki. Barátjával, Taylor Lautnerrel, akivel most együtt dolgozik, még az egyetem alatt ismerkedett meg, és azóta járnak. A királyi család többi tagjához hasonlóan Angelina is Nova Aurelia elit tengerparti városrészében, egy palotában lakik. Habár egyetlen filmben sem szerepelt, imádja a vígjátékokat és a vicces sorozatokat. Gyakran utazik külföldre, ahol szereti megismerni a helyi szokásokat.
+816
 
-### Jennifer Chease
+tankot vetett be
 
-Jennifer 1994‑ben testvéreihez hasonlóan Washingtonban született. Gyermekkora óta mély vonzalom köti a művészetek, a tánc és a divat világához. Kezdetben otthoni oktatásban részesült, majd 2001‑ben Nova Aureliában folytatta tanulmányait általános iskolában. Nővérével ellentétben a magánkézben működő West Point Academy‑n végezte középfokú tanulmányait, majd 2010‑ben kitűnő érettségit szerzett. A fiatal hercegnő már egyetemi évei előtt jelentős vagyonra tett szert, és első befektetései közé tartozott a Costco kereskedelmi lánc és a Johnson & Johnson egészségügyi óriáscég felvásárlása. Egy társasági eseményen ismerkedett meg Tyler Posey‑vel, akivel hamarosan kapcsolatot kezdett. Jennifer Raimondóval együtt szerzett diplomát a Waikiki Economics University‑n, majd az egyetem után autentikus divatbirodalmat épített fel. Megvásárolta a Gucci, Prada és Armani prémium márkákat, valamint jelentős tőkeösszegeket fektetett Chanel, Burberry és Louis Vuitton részvényekbe. 2015 óta Jennifer is Waikiki kormányában dolgozik szenátorként, barátjával és testvéreivel együtt szolgálva a közösséget. Szívesen látogatja a társasági eseményeket, zenei előadásokat és táncbemutatókat, a koncerteken VIP vendégként többször színpadra is lépett. Különös kedvvel követi a kémthriller filmeket és sorozatokat, így érthetően James Bond rajongónak számít. Jennifer és barátja Tyler egy monumentális luxuspalotában laknak közvetlenül a Diktátori Palota szomszédságában.
+A New York-i békét
 
-## Nagyszabású építési projektek
+23
 
-Chease Young vezetésével Waikiki újabb monumentális építkezéseket indított meg. Egy luxusapartmanokkal, bevásárlóközpontokkal, szórakozóhelyekkel és gasztronómiai egységekkel megtöltött hatalmas piramis formájú épület alapkövét tették le Nova Aureliától néhány kilométeres távolságra. Az elegáns épület kialakítását parkok és sportlétesítmények egészítik majd ki, és minden eddiginél több ember számára nyújt otthont, valamint munkahelyi lehetőségeket. Egy másik grandiózus építmény, a Royal Clock Tower Nova Aurelia kormányzati negyedének további fejlesztését szolgálja majd. Belső tereiben reprezentatív irodák, tárgyalótermek, szálloda, apartmanok és számos szórakozási lehetőség kap helyet. A kormányzati tervek szerint Brazília tartományban is megkezdődik egy felhőkarcoló építése a közeljövőben. A hétszáz méternél magasabb toronyház Rio de Janeiro közelében épül, és a Miapolis elnevezést viseli majd. Belső struktúrájában egy teljes város funkciói kapnak helyet: lakónegyedek, éttermek, kereskedelmi egységek és üzleti irodák. Waikiki mindhárom tartományába egy‑egy exkluzív luxusszálloda építését kezdte meg. A tizenkét csillagos Hotel Amazonas már majdnem a President szálloda prémium ellátását kínálja, ráadásul páratlan természeti környezetben. Az Amazonas medre fölé tornyosuló szálloda vendégei lenyűgözően közelről csodálhatják meg a természetes élővilágot úgy, hogy nem kell feladniuk a szálloda által nyújtott kiváló kényelmet. A Hotel Pearl New Mavericks partvidékénél helyezkedik el. A tíz csillagos szálloda minden vendége egy autentikus kis szigetet kap lakosztályul. A páratlan tengeri élővilág látványának élvezete mellett a szálloda különlegességei közé tartozik, hogy csónakkal szállítják ki a szolgáltatók a vacsorát. Az Ivory Castle szintén a világ legexkluzívabb szállodái közé fog tartozni. A kilenc csillaggal kitüntetett luxusszálló belseje szinte tiszta aranyból készül, míg márvány és különböző drágakövek ezrei díszítik a falakat. Az Ivory Castle a brazíliai São Paulo városban fog megvalósulni.
+ország írta alá
 
-## Donald Trump az Egyesült Államok elnöke lett
+Chease Young megkoronázása
+--------------------------
 
-A 2016‑os amerikai elnökválasztást az elektori szavazatok többségének megszerzésével Donald Trump nyerte meg. A választási kampány során a waikiki‑i kormányzat nyíltan támogatta az amerikai milliárdos jelöltséget, amelynek keretében Chease Young, Raimondo és Selena egy‑egy kampányfilmben személyesen is szerepelt. Megválasztása után Chease Young szinte azonnal gratulált az Egyesült Államok új elnökének, akivel korábban több közös befektetésben is részt vett. Röviddel miután Donald Trump 2017. január 20‑án letette az elnöki esküt és hivatalba lépett, családjával együtt államlátogatást tett Waikikire. A hivatalos államközi megbeszélések mellett Trump családja szabadidejének nagyobb részét is Chease Young‑gal, Jessicával, Raimondóval és Selenával töltötte, megerősítve a két ország közötti barátságos kapcsolatokat.
+A Pacifikus háborúban aratott győzelmek, valamint az ország gazdasági és társadalmi újjáépítése érdekében végzett kimagasló munkája elismeréseként Waikiki állampolgárai népszavazás útján döntöttek arról, hogy Chease Youngot és családját a nemzet uralkodóházává emelik. A dinasztia alapítását támogató parlamenti határozatot követően az országos referendum is megerősítette a döntést, így 2005. augusztus 4-én Chease Youngot hivatalosan Waikiki királyává választották. A koronázási ünnepségre a fővárosban, a Parlament előtti főtéren került sor, amelyet erre az alkalomra nemzeti színekbe öltöztettek. Az esemény nem csupán belpolitikai jelentőséggel bírt, hanem világméretű figyelmet keltett. Az ünnepélyes szertartás egyik történelmi pillanatát jelentette, hogy a királyi koronát maga II. János Pál pápa helyezte Chease Young fejére, ezzel is szimbolizálva a hagyomány és a modernitás összekapcsolódását. A szertartás során Jessica Walker hivatalosan Waikiki királynője lett, Raimondo a hercegi, míg Angelina és Jennifer a hercegnői címet kapta meg.
 
-### Donald Trump intézkedései
+Az eseményen számos európai uralkodóház képviselői is jelen voltak, többek között a brit, a belga és a svéd királyi család küldöttei, ami nemzetközi szinten is elismerte Waikiki új politikai és társadalmi berendezkedését. A koronázás mérföldkőnek bizonyult az ország történetében, egyszerre jelentette az addigi gazdasági sikerek megkoronázását, valamint egy új korszak kezdetét, amelyben Waikiki a monarchikus hagyományokat a modern államépítéssel ötvözte. Habár a királyi tisztség nem jár közvetlen politikai hatalommal, mégis hatalmas jelentőséggel bír, hogy Chease Young Waikiki királya lett, hiszen ezzel az állampolgárok döntő többsége támogatta abban, hogy az ország élén maradjon. Az öröklési rendet meghatározó törvény szerint a királyi trónt az elsőszülött fiú gyermek, azaz Raimondo fogja örökölni, aki ennek tiszteletére a koronahercegi címet viseli. A trónörökösök sorában őt követi Chease két lánya, Angelina utána pedig Jennifer. A ceremónia utáni első ülésen a parlament úgy döntött, hogy a koronázás napját, augusztus 4-ét nemzeti ünneppé nyilvánítják.
 
-### Belpolitikai program
+A koronázáson résztvevő uralkodócsaládok:
 
-Az új amerikai elnök legfőbb belpolitikai célja a munkahelyteremtés volt, amelynek érdekében több nagyvállalat vezetőjével is stratégiai tárgyalásokat folytatott. Trump több milliárd dolláros átfogó terveket dolgozott ki az infrastruktúra-fejlesztésre. Választási programjának központi eleme volt, hogy véget vet a harmadik világbeli területekről érkező korlátlan illegális migrációnak. Trump azt is megígérte, hogy falat építtet a mexikói határra, amelynek költségeit tervei szerint Mexikó állná. Egyik első elnöki intézkedéseként visszavonta Obama egészségbiztosítási reformját.
+II. Erzsébet
 
-### Külpolitikai irányok
+Nagy Britannia
 
-Trump súlyos hibának nevezte a 2008 és 2016 közötti kormányzat által Kínának, Iránnak és Észak‑Koreának tett engedményeket, és megígérte, hogy elnöksége alatt szigorúbb felügyeletet rendel el a három ország számára. Donald nemcsak politikailag, hanem személyesen is kiváló viszonyt ápol Waikiki vezetőivel, ráadásul Chease Young személyes barátja. Trump megválasztásával jelentős javulás következett be az Egyesült Államok és Oroszország viszonyában. A két nagyhatalom már szövetségesként áll egymás mellett, és számos projektben együttműködik.
+II. János Ádám
 
-### Klímapolitikai stratégia
+Liechtenstein
 
-Választási programjához híven Trump célja az amerikai gazdaság világelsőségének visszaszerzése volt. Első intézkedései közé tartozott, hogy kilépett a szerinte igazságtalannak tartott párizsi klímaegyezményből, így az Egyesült Államok nehézipara újra fejlődésnek indulhatott. Mindazonáltal Trump biztosította az Egyesült Államok polgárait, hogy az ország teljes mértékben alkalmazkodni fog a Világkormány környezetvédelmi törvényeihez, és a szénhidrogének betiltása miatt kieső energiát atomerőművekkel és hidrogénerőművekkel fogja pótolni.
+Henrik nagyherceg
 
-## Hadászati mérföldkövek 2017‑ben
+Luxemburg
 
-2017‑ben számos jelentős katonai fejlesztés valósult meg Waikiki védelmi képességeinek alapvető erősítése érdekében. Elkészült az ország legnagyobb katonai projektje, az interkontinentális rakétavédelmi rendszer, amely átfogó védelmet nyújt az ország teljes területe számára minden típusú rakétatámadással szemben. A palládium harci robotok sorozatgyártása megkezdődött, amelyek akár száz évig is képesek szolgálatot teljesíteni feltöltés nélkül. Chease Young megalapította a Techno Industries nevű vállalatot, amely a jövő fegyverrendszereit tervezi és gyártja a legmodernebb technológiai megoldások alkalmazásával. Logan Davis tábornok vezetésével a NATO egységes, koordinált hadsereget állított fel, jelentősen növelve a szövetség együttműködési és reagálási képességeit. Chease Young szerint a modern hadviselés kulcsa az automatizált drón vadászgépek széleskörű alkalmazása. Megépült az első szuperhordozó, amely körülbelül ötszázhúsz méter hosszúságával büszkén Waikiki legnagyobb katonai eszköze lett. A hadsereg egyre több automatizált egységet alkalmaz, amelyek megvédik a katonák életét és növelik a hadászati hatékonyságot.
+Waikiki fejlődése
+-----------------
 
-### Technológiai hadászati fejlesztések
+Chease Young vezetése alatt Waikiki rendkívül gyors ütemben fejlődött és rövid időn belül a nemzetközi közösség egyik meghatározó szereplőjévé vált. Az általa bevezetett kedvező és átlátható adórendszer következtében számos multinacionális vállalat helyezte át székhelyét az országba, ezzel erősítve a gazdasági aktivitást és a befektetési hajlandóságot. Az ország stratégiai jelentőségét tovább növelte a Kubai-öböl térségében feltárt, hatalmas mennyiségű kőolaj, amely Waikikit rövid idő alatt a világ egyik legfontosabb energiatermelő és exportáló államává emelte. A háború időszakában Waikiki jelentős bevételhez jutott a fosszilis energiahordozók exportja, valamint a New York-i békeszerződés keretében megítélt jóvátételi összegek révén. Ezen források lehetővé tették, hogy az ország gazdasága felzárkózzon az Egyesült Államokéhoz, 2006-ra pedig azt meghaladva a globális gazdasági és politikai erőtér egyik vezető hatalmává váljon.
 
-Az R‑7 helikopter képes helyből felszállni, majd rotorjait vízszintesre állítva nagy sebességgel haladni előre. A Boeing FX‑140 vadászgépe a hangsebesség akár négyszeresét is eléri, és fejlett álcatechnológia védi az ellenséges radarrendszerektől. A Heimdall szuperszámítógép nyolcvanhárom petaflopos teljesítményével a harmadik leggyorsabb számítógép a világon.
+További tartományok
+-------------------
 
-### Védelmi költségvetés
+Waikiki kormánya a rendkívüli gazdasági növekedésnek köszönhetően rövid időn belül hatalmas vagyonra tett szert, amely előtérbe helyezte a területi bővülés szükségességét is. Ezzel egy időben Brazília súlyos pénzügyi válságba került, az állam a csőd szélére sodródott és külföldi partnereihez fordult segítségért. Chease Young, felismerve a helyzet geopolitikai jelentőségét, az IMF és a Federal Reserve támogatásával átfogó gazdasági mentőcsomagot ajánlott fel, amely magában foglalta Brazília államadósságának teljes átvállalását. Az ajánlat fő feltétele az volt, hogy Brazília hivatalosan is csatlakozzon Waikiki államalakulatához. 2006 júniusában Brazíliában országos népszavazást tartottak a csatlakozás kérdéséről, amelyen az állampolgárok döntő többsége támogatta az egyesülést. Ennek nyomán még ugyanazon év szeptemberében sor került a hivatalos integrációra, amelynek eredményeként az ország elnyerte jelenlegi formáját, Waikiki, Amazónia és Brazília tartományokkal egy gazdasági, politikai és katonai egységet alkotva.
 
-Waikiki védelmi költségvetése meghaladja az 500 milliárd dollárt, mellyel az Egyesült Államok után második a világranglétrán. A rendelkezésre álló összeg nagy részét a hadsereg katonai kutatásokra és fejlesztésekre költi, melyek révén létrejöhetett a palládium reaktor. A Védelmi Minisztérium fontos célja a lehető legtöbb emberélet megvédése, így az interkontinentális rakétavédelmi rendszer III. fázisának elkészülte után a robotikus haderő fejlesztése kap nagy hangsúlyt. Waikiki jelenlegi katonai kiadásai még mindig hatalmasak, azonban az elmúlt években a GDP arányában folyamatos csökkenést mutatnak és messze alulmaradnak a 2010 előtti időszakhoz viszonyítva. Waikiki jelenleg a GDP csupán 1,5%-át fordítja katonai célokra, mégis a világ legfejlettebb hadseregével rendelkezik. Chease Young szerint a kölcsönösen előnyös katonai szövetségek tovább növelhetik az állampolgárok biztonságát, amellett hogy csökkentik a védelmi költségeket. Az ország védelmi kapacitásai jelentősek: 500 milliárd dolláros védelmi költségvetéssel, 2025-ig 3 szuperhordozóval, 14 rakétavédelmi műholddal és 31 tagú NATO szövetséggel rendelkezik.
+Az Amerikai Unió megalapítása
+-----------------------------
 
-## További események 2017-ben
+A Pacifikus háború utáni geopolitikai változások nyomán egyre erősebben körvonalazódott az igény az amerikai kontinens államai közötti szorosabb koordinációra. A folyamat élére Chease Young, Waikiki vezetője, valamint George Bush és az Egyesült Államok kormánya állt. 2006 végén New Yorkban és Washingtonban kezdetét vették az előkészítő tárgyalások, Kanada, Mexikó és Argentína részvételével. A tárgyalások célja egy olyan gazdasági szövetség létrehozása volt, amely laza keretek között hangolja össze a kontinens országainak érdekeit és közös platformot biztosít számukra. 2007. március 15-én Washingtonban írták alá az Amerikai Unió Alapokmányát, amelyben az alapító tagállamok rögzítették a közös céljaikat és együttműködésük kereteit. A gazdasági területen a tagállamok kölcsönösen kedvezményes kereskedelmi megállapodásokat írtak alá, amelyek erősítették a kontinensen belüli áruforgalmat és a befektetéseket. Különös hangsúlyt kapott a határokon átnyúló infrastrukturális hálózat fejlesztése, elősegítve a kontinens szorosabb belső integrációját.
 
-A 2017-es év komoly történelmi jelentőséggel bír az emberiség történelmében: Az ekkor alapított Világkormány kibővül a Trilaterális Bizottsággal, melynek feladata az ENSZ által hozott törvények betartásának felügyelete és a Külkapcsolatok Tanácsával, amely a Világkormányon kívüli államok gazdaságának ellenőrzését és irányítását fogja végezni. Szintén 2017-ben került be Raimondo a titokzatos Bilderberg-csoport vezető tagjai közé, és ebben az évben jelentette be a Chease Young által alapított Techno Industries vállalat a palládium reaktort. 2017-ben fogadták el népszavazáson a Transzatlanti Szabadkereskedelmi Egyezményt és Raimondo barátnőjét, Selena Gomezt is ekkor koronázták Waikiki-i hercegnővé.
+Tudományos fejlesztések
+-----------------------
 
-### Bilderberg-találkozó
+Chease Young vagyonát nem csupán személyes vagy állami gazdasági célokra fordította, hanem tudatosan olyan kutatási és fejlesztési programok finanszírozásába irányította, amelyek hosszú távon az egész emberiség életét alapvetően formálták át. Az általa kezdeményezett beruházások és tudományos projektek Waikikit a világ egyik vezető innovációs központjává emelték. Jelentős forrásokat allokált mesterséges intelligencia és informatikai fejlesztésekre, amelyek új alapokra helyezték a digitális gazdaság működését. A gyógyászatban Waikiki kutatói áttörést értek el a génterápia, a személyre szabott orvoslás és a korszerű vakcinák területén, amivel nemzetközi szinten is meghatározó szereplővé váltak. 2007-ben megkezdődött az ország saját űrállomásának építése, amely a nemzetközi űrtevékenységekben is új korszakot nyitott. 2008-ban üzembe helyezték Waikiki első hidrogénerőművét, amely a fenntartható energiatermelés egyik mérföldkövévé vált. 2010-ben pedig Brazília tartományban megépült a világ legnagyobb hadronütköztetője, amely hozzájárult az univerzum működésének mélyebb megértéséhez.
 
-A befolyásos személyekből, politikusokból, tudósokból, médiaszemélyiségekből és üzletemberekből álló, zárt körű társaság először 2015-ben hívta meg Raimondót és családját is éves gyűlésére, most pedig vezető tagjaivá is választották. Habár a találkozón elhangzottak szigorúan titkosak, Raimondo elárulta, hogy a globalizációról, a mesterséges intelligenciáról és a kiberbiztonságról esett szó. Mind a csoport tagjai, mind a találkozóra meghívott vendégek névsora titkos, csupán az öt vezető tag ismert, akik között már Raimondo is helyet kapott. A csoport alapítói között szerepel David Rockefeller, Bernhard herceg, Samuel Berger és Jim Walton is. Habár a csoportról rengeteg összeesküvés elmélet született, valós szerepük máig is vitatott.
+Állami befektetések
+-------------------
 
-## További események 2017-ben
+Chease irányítása alatt az állam átfogó befektetési programot indított, amelynek eredményeként olyan globálisan ismert és piacvezető társaságok kerültek részben vagy teljes egészében Waikiki állami érdekeltségébe, mint az Apple, a Coca-Cola, az Intel, a General Motors, a LEGO, a T-Mobile, a Disney, a Universal Pictures, a Samsung és a Walmart Stores. A felvásárlások révén Waikiki jelentős piaci részesedést szerzett több stratégiai ágazatban, különösen a filmiparban, az információs technológiák területén, valamint az autógyártásban. A megszerzett vállalatok nyeresége hozzájárult az ország gazdasági stabilitásához, lehetővé téve az életszínvonal folyamatos emelését, az egészségügyi ellátórendszer korszerűsítését, valamint további befektetések megvalósítását. Waikiki gazdaságpolitikájának részeként aktívan növelte jelenlétét a pénzügyi és a bankszektorban is, ahol szintén jelentős részesedést szerzett több vezető nemzetközi intézményben.
 
-A 2017-es év komoly történelmi jelentőséggel bír az emberiség történelmében. Az ekkor alapított Világkormány kibővült a Trilaterális Bizottsággal, melynek feladata az ENSZ által hozott törvények betartásának felügyelete, valamint a Külkapcsolatok Tanácsával, amely a Világkormányon kívüli államok gazdaságának ellenőrzését és irányítását végzi. Szintén 2017-ben került be Raimondo a titokzatos Bilderberg-csoport vezető tagjai közé, és ebben az évben jelentette be a Chease Young által alapított Techno Industries vállalat a palládium reaktort. 2017-ben fogadták el népszavazáson a Transzatlanti Szabadkereskedelmi Egyezményt, és Raimondo barátnőjét, Selena Gomezt is ekkor koronázták waikiki-i hercegnővé.
+Tudományos kutatások 2007-től
+-----------------------------
 
-### A palládium reaktor feltalálása
+Waikiki Nemzeti Űrállomása
 
-A 2017-es harcászati expón Chease Young megalapította a Techno Industries vállalatot, amely a jövő legmodernebb fegyvereit fogja gyártani. A vállalat vezetőjének az ismert színészt, Robert Downey Jr.-t nevezték ki. A cég első szabadalmai közé tartozik a palládium reaktor, amely kis helyen hatalmas energia előállítására képes káros melléktermék nélkül. Chease szerint ez az áramforrás fogja működtetni a jövő autóit, repülőit, de idővel még a mobiltelefonokat is. A Techno Industries alapvetően harcászati vállalat, de rengeteg fejlesztéssel foglalkozik az űrkutatás, a mesterséges intelligencia, a megújuló energiaforrások, a holografikus megjelenítés és a robotika területein is. Az első palládium erőmű megépítése máris megkezdődött.
+A WSA saját űrállomás építésébe kezd, amely egyszerre 12 asztronautának nyújt otthont.
 
-### Politikai és gazdasági szövetségek
+Az emberi genom feltérképezése
 
-Waikiki a 2002-ben létrejött Atomhatalmak alapító tagjaként az USA egyik legfontosabb szövetségese. Mind gazdasági, mind katonai szempontból a két ország rengeteg projektben működik együtt. A Brexit óta Anglia az EU helyett transzatlanti szövetségeseket keres, így Waikikivel is jelentős együttműködést tervez. A transzatlanti szabadkereskedelmi egyezmény csupán az egyik megállapodás a Waikiki és az Európai Unió közötti rengeteg kereskedelmi kapcsolat közül. Az Egyesült Afrikai Nemzetek, aminek létrejöttében Chease Young sokat segített, szintén Waikiki erőteljes szövetségesének számít. Waikiki kormánya egyre több beruházást tervez az EAN területére, ami tovább erősíti a két ország kapcsolatát. Trump elnöki beiktatása újabb dimenziót adott ezeknek a kapcsolatoknak.
+Az emberi DNS megfejtése segíthet a rák és az örökletes betegségek gyógyításában.
 
-### Magán egyetemek Waikikin
+Űrrepülő program
 
-A parlament és a szenátus által elfogadott törvény értelmében 2017-től magántulajdonú intézmények is alapíthatnak felsőoktatási intézményeket Waikikin. Az első három magánegyetemet az Apple, az Inter Medic és a Techno Industries alapította. A Techno Industries Mechatronikai, az Inter Medic Sejtbiológiai és az Apple Fejlett Programozói Egyetemére külön felvételi teljesítésével juthatnak be a hallgatók. Mindhárom intézmény a világon egyedülálló színvonalú képzést nyújt, diákjaik a legmodernebb technológia felhasználásával tanulhatnak és olyan kutatásokban vehetnek részt, mint az antigravitáció, a génmódosítás vagy a mesterséges intelligencia. A tervek szerint a közeljövőben további vállalatok csatlakozhatnak: az Adobe digitális művészetekkel, az Intel számítógépes hardvergyártással, a SpaceX pedig űrkutatással kapcsolatos egyetem építését tervezi. Waikiki ezen kívül részt vesz egy egyetemek közti nemzetközi összefogásban, ahol a Cambridge-i, Oxford-i és Massachusetts-i egyetemekkel együtt közös fejlesztésekben vesz részt. Ennek köszönhetően a waikiki-i diákok a világ legokosabb hallgatóival és oktatóival együtt dolgozhatnak ötleteiken. A Techno Industries Egyetem már működik.
+A NASA mintájára Waikiki is saját űrsiklókat fejleszt, melyek az űrállomást fogják építeni.
 
-### Bitcoin konferencia
+Klímakutatás
 
-Chease Young a Bitcoin megjelenése után többségi részt szerzett a kriptovalutát kibocsátó vállalatból. 2017-ben pedig előadást tartott a Bitcoin jövőjéről. A legfontosabb újdonság egy egyszerű kliensprogram bemutatása volt, mellyel bárki vásárolhat Bitcoint, kereskedhet vele vagy akár bányászhatja is. A jövőben mobilos alkalmazással az Apple Pay-hez hasonlóan érintéssel fizethetünk, vagy üzenetben is küldhetünk kriptopénzt. Szintén előremutató, hogy egyre több helyen válik lehetővé a Bitcoinnal való fizetés - 2018-tól például a Burger King, a Starbucks, a Nike, a Mercedes-Benz és a SpaceX is elfogadja a Bitcoint. A kriptovaluták szerzésének egy fontos módja a bányászat, melynek során a bányászok gépei bonyolult számításokat végeznek és algoritmusokat futtatnak, és ezért cserében Bitcoinban vagy más kriptopénzben kapnak jutalmat. Ezen kívül a bányászok hitelesítik a tranzakciókat, így nincs szükség egy központi nyilvántartásra, tehát minden pénzmozgás titokban tartható. Chease Young bejelentésének hatására a Bitcoin árfolyama még tovább emelkedett, 2017. augusztus 1-jén elérte a 27 ezer dolláros árfolyamot is.
+Waikiki műholdak segítségével követi a klímaváltozást és próbálja megállítani azt.
 
-## Raimondo lett Waikiki diktátora
+Fúziós erőművek
 
-2017 július 7‑én Chease Young lemondott Waikiki diktátori tisztségéről, és a parlament jóváhagyásával fiát, Raimondót nevezte ki utódjául. A kormánypártok kivétel nélkül támogatták Raimondo kinevezését, aki a szavazást követően azonnal fel is esküdött Waikiki alkotmányának védelmére és az ország szolgálatára. Az ifjú diktátor aznap este beszédet intézett az ország lakosságához, amelyben biztosította őket arról, hogy legjobb tudásához mérten fogja az ország érdekeit szolgálni, továbbá kitért arra is, hogy az állam készen áll a jövő kihívásainak sikeres leküzdésére. Raimondo másnap egy médiainterjú során azt is bejelentette, hogy már egyeztetett a kormány több vezető tagjával, és Waikiki jó úton halad a négynapos munkahét bevezetése felé, amely az új adminisztráció egyik legfontosabb rövidtávú célja.
+Az első kísérleti hidrogénerőmű 2007. novemberétől lép működésbe.
 
-### Infrastrukturális nagyprojektek
+Telekommunikáció
 
-Raimondo első nyilvános beszédét július 14‑én tartotta, amelyen több tízezer támogatója személyesen vett részt. A beszéd során Raimondo és Selena bejelentették, hogy a kormányzat az évszázad infrastrukturális beruházására készül, amelynek célja alagutakkal összekötni Waikiki szigetét és Floridát. Az első szakaszban 2019‑ig megépítik a mágnesvasutat a Santiago és Moron közötti kétszáznyolcvan kilométeres szakaszon, amelyből száz kilométert a tenger alatt tesznek meg. 2024‑ben fog elkészülni ugyanitt a tenger alatti autópálya, amely a terv második szakaszának számít. A harmadik szakasz a Havannát és Miamit összekötő háromszázhatvan kilométeres vasúti‑ és autóalagút, amely pedig 2030‑ra van tervezve. Az infrastrukturális fejlesztéssorozat jelentősen megkönnyítheti a kereskedelmet és a közlekedést Waikiki tartományai valamint az Egyesült Államok között.
+Waikiki tudósai nagy távolságú kommunikációs szabványok kifejlesztésén dolgoznak.
 
-### Új kormánytagok kinevezése
+Mesterséges intelligencia
 
-A 2017‑ben tartott évértékelő kormányzati ülésen Raimondo barátnőjét, Selena Gomezt konzullá léptették elő. A másik konzuli rangot Jessica Walker, Chease Young felesége kapta meg. Miután Selenát konzullá léptették elő, a következő fontos döntés a szenátus megüresedő helyét betöltő tizedik szenátor kiválasztása lett. Jessica Walker konzulként folytatja munkáját, akinek legismertebb alakítása a "Chuck" című sorozatban volt. 2012‑ben ő lett az ENSZ főtitkára, majd a Világkormány megalapítása után a Világbank igazgatója is. Selena Gomez szintén konzuli rangot kapott. Selena Gomez, a korábbi Disney‑sztár és a Stars Dance előadója 2015‑ben szenátor lett. 2017‑től Raimondóval alkot párt, és 2017‑ben Waikiki egyik konzuljává léptették elő. Olivia Holt karrierje háromévesen kezdődött; szélesebb ismertséget a Kickin' It című Disney-sorozat hozott számára, később pedig a Nem én voltam! sorozatban Lindy Watson szerepét alakította. Zac Efron javaslatára Raimondo szenátorrá nevezte ki. Miután Chease Young tájékoztatta Oliviát és családját az ajánlatról, Raimondo, Selena, Bailey és Gregg személyesen is felkereste őt; másnap este a Nem én voltam! sztárja a szenátorokkal együtt egy nova aureliai szórakozóhelyre látogatott. Egy héttel később Waikiki kormányának tagjai Luxemburgba utaztak, hogy találkozzanak a királyi családdal. Az európai út során Chease Young meggyőzte Henrik nagyherceget egy palládiumreaktor megépítéséről, amely Európa első ilyen típusú erőműve lehet. Raimondóék a főváros nevezetességeit Henrik herceg vezetésével tekintették meg, aki első látásra elnyerte London Tipton tetszését. A delegáció Luxemburg hagyományaival ismerkedett, lovagolt, íjászkodott és megkóstolta a nemzeti ételeket. Raimondo, Selena, Bailey és Olivia végül egy párizsi kitérővel hosszabbították meg az utat. 2017 novemberének végén Selena Gomez az USA-ba utazott egy UNESCO-megbeszélésre, ahol a fenntartható fejlődésről és a természetes élőhelyek védelméről tárgyalt. Közben Raimondo Waikikin maradt, hogy Chease Younggal együtt a Bilderberg-csoport vezetőivel egyeztessen. Mivel Ray magányosnak érezte magát barátnője távollétében, Jennifer társaságában szórakozni ment, ahol találkozott a S.H.I.E.L.D. ügynökei című sorozatban Sky szerepét játszó Chloe Bennet-tel; együtt is táncoltak, majd Raimondo meghívta őt és színésztársait a palotába.
+A mesterséges intelligencia és gépi tanulás kutatásához a WNS 3 szuperszámítógépet vesz.
 
-## Kormányzati beruházások 2017-től
+Szupravezetők fejlesztése
 
-2017-től a kormány több, stratégiai jelentőségű beruházást indított. Megkezdődött a Waikiki tartomány és Miami között tervezett, három ütemben megvalósuló alagútrendszer előkészítése. A Quantum Cruises a világ egyik legkörnyezetbarátabb óceánjárójának megépítésén dolgozik, miközben a Royal Clock Tower – Waikiki egyik kiemelt kormányzati épülete – kivitelezése is elrajtolt. Szaúd‑Arábiában a King Abdullah Economic City a térség egyik legnagyobb beruházásaként épül, a transzamerikai autópálya terve pedig egy egész kontinensen átívelő közúti folyosót hoz létre. Chease Young több milliárd dollár értékben fektetett be a Goldman Sachs, a HP és a Bayer részvényeibe. Brazíliában egy több mint 3000 négyzetkilométeres ökológiai park létesül, amely a világ minden tájáról fogad állatokat. Oroszországban, a kormányzattal együttműködésben, Moszkva mellett kaszinóváros épül. Dubaiban megkezdődik az Elon Musk által tervezett Hyperloop gyorsvasút első szakaszának kivitelezése, a 280 négyzetkilométeres Dubailand szórakoztató komplexum pedig 2025-re nyitja meg kapuit. Az Apple az EAN területén, New Cairoban a világ egyik legnagyobb processzorgyárát építi, miközben Waikiki kormánya több nyersanyag-kitermelő bánya létesítését is megkezdi Afrikában.
+A szupravezetők lényegében veszteség nélkül lennének képesek az áram továbbítására.
 
-### Alagutak a Karib-tengeren
+Hadronütköztető
 
-November 24-én Raimondo és Selena bejelentették, hogy a kormány az évszázad legnagyobb infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki tartományt és Floridát. Az első szakaszban 2019-ig megépítik a mágnesvasutat a Santiago és Moron közti 280 km-es szakaszon, melyből 100 kilométer a tenger alatt halad. 2024-ben ugyanitt elkészül a tenger alatti autópálya is, amely a terv második üteme. A harmadik szakasz a Havannát és Miamit összekötő, 360 kilométeres vasúti és közúti alagút, amely 2030-ra készül el. A fejlesztéssorozat jelentősen megkönnyíti a kereskedelmet és a közlekedést Waikiki tartományai és az Egyesült Államok között. A teljes alagúthálózat mintegy 330 kilométer hosszú lesz, becsült költsége 30 milliárd dollár, és 2030-ra készül el; a waikiki-i állampolgárok számára az áthaladás díjmentes lesz.
+Waikiki részecskegyorsítójában a tudósok a húrelméletet és az antianyag létezését kutatják.
 
-## Népszavazás 2017‑ben
+Génmódosítás
 
-A waikiki‑i politikai rendszerben igen fontos szerepet játszanak az elmúlt időszakban majdnem éves rendszerességgel tartott országos népszavazások. Az állampolgárok 2017‑ben is fontos kérdésekben dönthettek, mint a Transzatlanti Szabadkereskedelmi Övezethez való csatlakozás, a négynapos munkahét bevezetése és a bevándorlás szigorítása. A választók többsége mindhárom kérdésben egyetértett a kormányzattal, így Waikiki folytatja a szabadkereskedelmi tárgyalásokat az Európai Unióval, továbbá 2018‑tól minden munkahelyen bevezetik a négynapos munkahetet, hogy az emberek több időt tölthessenek családjukkal és barátaikkal. Az állampolgársági követelmények szigorítását még decemberben megkezdi a kormányzat. Ennek részeként a kérelmezőknek legalább egy évig az ország területén kell lakniuk, mielőtt megkapnák a teljes jogú állampolgári státuszt. A sikeres népszavazások eredményeként a jelenleg hatalmon lévő Világuralmi Párt támogatottságát minden eddiginél magasabbra, csaknem ötvennégy százalékra becsülik az elemzők.
+A génmódosítással ellenállóbb, finomabb és egészségesebb növényeket termeszthetünk.
 
-### Szabadkereskedelmi Egyezmény
+Biokémiai kutatólabor
 
-Az Amerikai, Európai és Afrikai Unió részvételével alakuló Transzatlanti Szabadkereskedelmi Övezet a Föld legnagyobb kereskedelmi társulása, mintegy 59 országot magába foglalva. Mivel a népszavazáson résztvevők 81%-a támogatja a nemzetközi vámmentességről szóló megállapodást, ezért Waikiki kormánya ennek megfelelően jár el a tárgyalások során. A tervek szerint az övezeten belül szinte az összes termékre eltörlik a vámokat, közös minőségi és fogyasztóvédelmi előírásokat vezetnek be, és ezáltal jelentősen megkönnyítik a nemzetközi kereskedelmet. A tervek szerint a szabad kereskedelem a tagországok exportját akár 15%-kal is megnövelheti az elkövetkező években.
+A biokémia az élő szervezetek kémiai felépítését és folyamatait tanulmányozza.
 
-### Négy napos munkahét
+A világegyetem feltérképezése
 
-Waikiki az első ország, ahol bevezetik a 4 napos munkahetet és a 3 napos hétvégét. A tervek szerint 2018-tól vezetik be a választók 89%-a által támogatott javaslatot. A kormány terve, hogy a csökkentett munkaórákkal lehetővé tegye, hogy az állampolgárok több időt töltsenek szeretteikkel, kiegyensúlyozottabb életet éljenek és munkájukat is hatékonyabban végezzék. A várakozások szerint a négy napos munkahét bevezetése semmilyen jövedelem csökkenést nem okoz majd a háztartásoknak, sőt a megnövekedő munkaerő kereslet miatt csökkenhet a munkanélküliség. A négy napos munkahét az oktatási intézményekre is vonatkozik majd, így az oktatási minisztérium megkezdte egy új tanterv kidolgozását.
+A WSA távcsövei földönkívüli élet nyomai és lakható bolygók után kutatnak.
 
-### Bevándorlás szigorítása
+Waikiki Űrállomása
 
-A bevándorlás és az állampolgárság megszerzése egészen Waikiki megalapulásától kezdve fontos téma az ország politikájában. A 2017-es népszavazáson a választók 56%-a az állampolgárság megszerzésének további szigorítása mellett döntött. A kormány szerint marad a jelenlegi 5 kérelmezői kategória, ám azok követelményeit kis mértékben emelni fogják és a legtöbb kérelmezőnek legalább egy évig Waikiki területén kell laknia, mielőtt megkapná az állampolgárságot. Ezen kívül szigorúbb ellenőrzés alá esnek majd az ideiglenes munkavállalói státuszért folyamodók is, és az állandó munkavállalói státusz megszerzéséhez 5 helyett 10 év munkaviszony lesz szükséges. Az új előírások bevezetésére 2018-tól kerül majd sor.
+Waikiki Nemzeti Űrállomása a világ legnagyobb, ember által épített, Föld körül keringő mesterséges objektuma. Építése 2007 és 2016 között zajlott, a projekt során Waikiki négy űrsiklója összesen 136 sikeres küldetést hajtott végre a szerkezeti modulok szállítására és összeszerelésére. Az űrállomáson 2008 óta folyamatosan tartózkodik állandó legénység, amelynek létszáma a kezdeti négy főről előbb nyolcra, majd tizenkettőre emelkedett, ezzel lehetővé téve a tudományos és technológiai kutatások széles körű bővítését. Az energiaellátásról napelemek gondoskodnak, melyek felülete meghaladja a 4000 négyzetmétert, energiatermelése pedig eléri a 240 kilowattot is. Az asztronauták és ellátmányok szállításáról azóta is az űrsiklók gondoskodnak, így az állomást 3 dokkolóval is felszerelték, habár ennyi űrhajó egyidejűleg még sosem volt csatlakozva hozzá. Az űrállomáson egy átlagos küldetés hossza 6 hónap, és eddig 244 asztronauta járt a fedélzetén. A különleges látogatók között szerepel Chease Young, aki 2010-ben feleségével, Jessicával együtt személyesen is meglátogatta az akkor még épülő űrállomást és 12 napot töltött a világűrben.
 
-## Waikiki űrprogramja 2018-ban
+Személyzet létszáma
 
-2018-ban a waikiki-i űrprogram új szakaszba lépett. A Delta IV hordozórakéta nagy tömegű műholdakat állít Föld körüli pályára, miközben az Expeditioner osztályú, ionhajtóműves űrsiklók készen állnak akár a Hold megkerülésére is. A Spirit II marsjáró 2018-ban indul a vörös bolygó felé, a WSA pedig még 2030 előtt emberes Mars-küldetést tervez, oda-vissza utazással. Elkezdődött a Minas Gerais űrteleszkóp építése, amely idegen életformák nyomait kutatja majd, a 2017-ben pályára állított Kepler űrtávcső pedig megkezdi fő feladatát, az Androméda-galaxis vizsgálatát. Elon Musk szerint a SpaceX Interplanetary Shuttle rendszere 2024-re embereket juttathat a Marsra, a Dragon űrkapszula pedig 2018 áprilisától szállítja az asztronautákat a Nemzetközi Űrállomásra. A Saturn Nova – a valaha tervezett legnagyobb, 137 méter magas rakéta – 2020-ra készül el. A WSA és a NASA közösen egy, a Hold körül keringő űrállomás építését is tervezi, miközben az űrturizmus előkészítése is megkezdődött.
+12
 
-### SpaceX
+fő
 
-Elon Musk a 2017-es Nemzetközi Asztronauta Kongresszuson ismét megerősítette a marsi kolóniáról alkotott elképzeléseit és tovább pontosította terveit a vörös bolygóra történő utazásról. Az újonnan bemutatott Big Falcon Rocket, vagy röviden BFR ugyan lényegesen kisebb, mint a korábban tervezett Interplanetary Shuttle, de Musk szerint ezáltal gazdaságosabban megépíthető, és több funkcióra is használható, mint például az űrállomás legénységének szállítására és műholdak Föld körüli pályára állítására. Ezeken kívül Elon tervei szerint a BFR-ral különböző földi városok között is utazhatunk, és bárhová eljuthatunk bolygónkon kevesebb, mint 60 perc alatt. A SpaceX az első teherszállítmányt 2022-re, az első emberi küldetést pedig 2024-re tervezi. Musk szerint hamarosan a Mars akár 1 millió embernek is otthont adhat. Az űrturizmus a tervek szerint már 10 millió dollártól elérhető lesz; az első ember akár 2024-ben elindulhat a Marsra. A BFR‒rel földi városok között is utazhatunk, elméletileg 60 perc alatt bármely két pont között. Elon Musk víziója szerint a Mars hosszú távon akár egymillió ember otthonává válhat.
+Keringési magasság
 
-### Nemzetközi politika
+500 km
 
-A 2017-ben alapított világkormány egy év alatt hatalmas változásokon ment át. Az ENSZ 144 tagállamából 113 ország csatlakozott a világkormányhoz, amelyet szinte az összes vezető hatalom támogat. Az egyesített NATO hadsereg az EAN szoros együttműködésével győzelmet aratott Szíriában, ezáltal az Egyesült Afrikai Nemzetek is felvételt kapott az ENSZ Biztonsági Tanácsának állandó tagjai közé. Szintén fontos változás, hogy a tervek szerint a Trilaterális Bizottság és a Külkapcsolatok Tanácsának helyét a jövőben egy, közvetlenül a polgárok által választott szervezet, az ENSZ parlamentje venné át. Ezzel a módosítással az átlag választók jobban részt tudnának venni a nemzetközi politikában és döntéshozatalban. Ezalatt Waikiki és Oroszország kapcsolata tovább javul, melynek jeleként Raimondo és Selena látogatást tesznek Moszkvába, ahol fontos tárgyalásokat folytatnak az orosz elnökkel és Kreml vezetésével. Chease Young szerint ez a látogatás egy hosszútávú együttműködés kezdete.
+a Föld felett
 
-### ENSZ-tagdíj
+A megépítéséhez
 
-A Világkormány javaslatára minden ENSZ tagállamnak kötelező tagdíjat fizetni, amely az ország GDP-jének 2%-a, de maximum 100 milliárd dollár. Az ENSZ éves költségvetése a befolyt összegekből több mint 1000 milliárd dollár, melyet nemzetközi beruházásokra, támogatásokra és a hadsereg fenntartására költenek. A befolyt pénzből olyan környezetvédelmi szervezeteket támogatnak, mint a WWF, az UNESCO pedig az emberiség legnagyobb értékeit védi, és rászoruló családoknak nyújt segítséget.
+136 db
 
-### Környezetvédelmi törvények
+küldetésre volt szükség
 
-A Világkormány 2018-as nyitó ülésén pontosították a korábban kiadott, a fosszilis energiahordozók korlátozásáról szóló törvényjavaslatot. A módosítások szerint 2020-tól világszerte betiltják a szén, kőolaj és földgáz tüzelésű erőművek építését, 2025-től pedig benzin és dízel személyautókat sem lehet majd gyártani. 2030-tól minden szárazföldi tömegközlekedési eszköz elektromos energiával kell, hogy működjön, a meglévő fosszilis üzemanyagú személyautókat pedig még 2035-ig lehet majd használni.
+Építési költségek
 
-### NATO-hadsereg
+200
 
-Chease Young szerint a szíriai hadműveletek sikeressége azt támasztja alá, hogy a világnak szüksége van egy egybefüggő hadseregre, amely fenntartja a békét, és megelőzi egy újabb világháború kialakulását. Az egyesített NATO-haderő, melynek 31 tagállama van, jelenleg a legerősebb hadsereg a világon. A Világkormány további, szorosabb katonai együttműködést javasol a még hatékonyabb fellépés érdekében. A NATO hadseregének parancsnokát a Világkormány nevezi ki korlátlan időre, és a tisztséget jelenleg Logan Davis tábornok tölti be.
+milliárd USD
 
-## Chease Young, Raimondo és Selena az űrállomásra utaznak
+Jessica Walker filmszerepei
+---------------------------
 
-Raimondo Chease barátnőjével, Selenával együtt egy űrutazáson vett részt. A két űrturista a Columbus űrsikló fedélzetén hagyta el a Föld légkörét, majd Michael Shepard kapitány irányításával dokkolt a Waikiki-i űrállomáson. A világűrben töltött két hét alatt Raimondóék 500 km magasról csodálhatták a Föld természeti szépségeit, érdekes kísérleteket végeztek a súlytalanságban és több űrsétán is részt vettek. Raimondo és Selena szerint az űrutazás volt az eddigi legjobb közös nyaralásuk, mivel mindketten nagyon élvezték a súlytalanságban eltöltött napokat. Selena a csodálatos földi panorámáról, Raimondo pedig a különleges étkezési módokról számolt be rajongóiknak, abban pedig mindketten egyetértenek, hogy pár éven belül a Holdra fognak ellátogatni. A kéthetes küldetés után a Columbus levált az űrállomásról, belépett a Föld légkörébe, majd Floridában landolt. A 21 éves Raimondo vált a világ legfiatalabb férfi űrutazójává, az egy évvel idősebb Selena pedig a legfiatalabb női űrhajós lett. Chease Young, akinek ez élete második űrutazása volt, azt nyilatkozta, hogy az elmúlt 10 évben rengeteget fejlődött az űrtechnológia és szerinte az űrturizmus a közeljövőben sokkal elterjedtebbé fog válni. Chease Young két lánya, Angelina és Jennifer szintén tervezik, hogy barátaikkal hamarosan a világűrbe látogatnak, és Jessica Walker sem járt még a Föld körül, tehát hamarosan a WSA további űrturistákat szállíthat. Addig is Waikiki kormánya további fejlesztéseket kíván véghezvinni az űrkutatásban, melynek következő lépcsője a Mars meghódítása. Ezen a projekten a SpaceX-szel közösen dolgozva, Elon Musk szerint a Big Falcon Rockettel akár 2022-re eljuthatunk a vörös bolygóra, és már tervezik az ITS építését is.
+Habár Jessica Walker a kormányzati tanácsadói feladatokra fordított figyelem miatt háttérbe szorította színészi pályafutását, ennek ellenére 2007-ben elhatározta, hogy visszatér régi hobbijához, és jelentkezett a Chuck című sorozat egyik főszerepére. Az NBC csatorna akció-vígjáték sorozata egy átlagos számítógép-szerelő, Chuck Bartowski (Zachary Levi) történetét meséli el, akinek életét gyökeresen megváltoztatja, amikor egy kódolt üzenet révén a világ legnagyobb kém titkai az agyába kerülnek. Innentől kezdve a CIA és az NSA ügynökei, Sarah Walker (Jessica Walker) és John Casey (Adam Baldwin) védelme alatt áll, miközben együtt számos veszélyes küldetést teljesítenek. A széria öt évadot ért meg, több rangos díjra jelölték és 2010-ben Jessica Walker és Zachary Levi Golden Globe-díjat nyertek.
 
-## Nagyhatalmi viszonyok
+A 2008-as gazdasági válság hatása Waikikin
+------------------------------------------
 
-Az elnökválasztás előtti értékelő beszédében Vlagyimir Putyin orosz elnök az ellenség által felderíthetetlen és elfoghatatlan, manőverező nukleáris fegyverek kifejlesztéséről számolt be Moszkvában. Putyin azt állította, hogy az új fegyverrendszerek nem sértik a meglévő fegyverzetkorlátozási egyezményeket, és az új eszközök jellemzőit Moszkva a szerződések értelmében meg fogja osztani a Nyugattal. Hangsúlyozta ugyanakkor, hogy Oroszország senkit sem fenyeget, és katonai erejének növekedése a béke garanciája. Waikiki és Oroszország a háborús szövetségük óta folyamatosan egyre barátibb politikát folytatnak. Habár a moszkvai vezetés ellenezte a NATO hadsereg fejlesztését, Oroszország mégis aktívan részt vesz a Világkormány működtetésében, és törvényeinek betartatásában. A fegyverfejlesztési bejelentése után Chease Young gratulált Putyinnak az elért technológiai vívmányokhoz, és kifejezte szándékát Oroszország és Waikiki hosszú távú gazdasági, politikai és katonai együttműködésére. Putyin szintén jó viszonyt ápol az USA új elnökével, Donald Trumppal, így a közeljövőben egy erős szövetség jöhet létre a három vezető hatalom között.
+A 2008-as globális pénzügyi válságból Waikiki Chease Young és Jessica Walker intézkedéseinek köszönhetően nyertes országként került ki. Míg a világ számos gazdaságát recesszió, növekvő államadósság és magas munkanélküliség sújtotta, addig Waikikin 20%-kal nőtt a GDP, az állami tartalék meghaladta a 4 trillió dollárt, a foglalkoztatottsági ráta pedig elérte a 84%-ot. A királyi család vagyona több mint 1.300 milliárd dollárra emelkedett és az állam fokozatosan a globális pénzügyi, valamint kereskedelmi hálózat egyik központjává vált. A válság idején az infláció 0% maradt, Jessica Walker pedig új banktörvényekkel megteremtette a stabil és prudens bankrendszer kereteit.
 
-## Gazdaságpolitikai események 2018-ban
+A válság kitörése
 
-A The Waikiki News Channel élő adásában Chease Young kancellár a klíma- és gazdaságpolitikai terveiről beszélt egy exkluzív interjú keretében. A beszélgetést Bill O'Reilly vezette, a résztvevők között volt Darius Tanz (a Rocket Lab elnöke) és Michael Bloomberg amerikai üzletember is. Chease Young minden eddiginél fontosabbnak tartja a bolygónk klímájának és környezeti értékeinek megóvását és ezzel kapcsolatos terveit a The Waikiki News Channel nézőivel élőben osztotta meg egy exkluzív interjú keretében. Chease több nemzetközileg elismert tudós, mérnök, színész, befektető, művész és újságíró segítségét kérte, hogy a közösségi média segítségével támogassák környezetvédelmi programját, ugyanis Chease szerint jelenleg még kis áldozatok árán megállítható a globális felmelegedés. Chease a támogatói közül Darius Tanz, Chloe Bennet és Michael Bloomberg társaságában, Bill O'Reilly vezetésével tartott különleges beszélgetésen vett részt, ahol a klímaváltozás hatásairól, az emberiség jólétéről és a közeljövő megoldandó problémáiról esett szó. A megbeszélésen olyan konkrét közgazdasági intézkedések is felmerültek, mint a környezetvédelmi költségvetés növelése, az olajexport csökkentése, vagy egy világméretű forgalmazható szennyezőanyag kibocsátási jogrendszer is. Miután Donald Trump amerikai elnök júniusban protekcionista kereskedelmi háborút indított, szeptemberben a Waikiki-i parlament is a védővámok emeléséről döntött. A javaslatot, miszerint a korábbi 10% helyett 20%-os vámokat vezetnek be a külföldi termékekre, a képviselők 71%-a támogatta. Továbbra is vámmentesek maradnak azonban a nyersanyagok és a szabadkereskedelmi övezet országaiból származó termékek. A Chease Investment Group befektetési cégóriás lett a világ legértékesebb tőzsdei vállalata, miután szeptemberben egyesült a JPMorgan Chease amerikai befektetési bankkal. A fúzió során Chease Young részesedése a cégóriásban ugyan 72%-ra csökkent, de részvényeinek teljes értéke majdnem megkétszereződött, így a Chease Investment Group az első részvénytársaság, amely átlépte a 2000 milliárd dolláros piaci értéket. Fontos bejelentést tett Waikiki pénzügyminisztere, melynek során a Nemzeti Bank jövőbeli tervei is elhangzottak. Ezek szerint 2019-től szigorítják, 2020-tól pedig adókötelessé is teszik a kriptovaluták kereskedelmét, így csökkentve a nem hivatalos fizetőeszközök jelenlétét a piacon. Habár a Nemzeti Bank a jövőben is folytatja a WUD pénzmennyiség növelését, de egyre lassuló ütemben teszi ezt és így 2020-ra szándékozik elérni a 20 trilliárd WUD-t. A 2018-as, állampolgári jogok kiterjesztéséről és a környezetvédelemről szóló népszavazáson a választók 3 kérdésben dönthettek. Az első kérdés a feltétel nélküli alapjövedelmet kínálta fel minden állampolgár számára, a második ingyenes városi tömegközlekedésről szólt, a harmadiknál pedig az ingyenes internetelérésről lehetett szavazni. A javaslatok közül a szavazók többsége támogatta az ingyenes tömegközlekedést és az alanyi jogú internet-hozzáférést, így ezeket a parlament hamarosan törvénybe fogja iktatni. A Milliomosok Pártjának vezetője, Matt Damon a parlament tavaszi évadnyitó ülésén felvetette, hogy pártja szigorítaná az állampolgárság megszerzésének feltételeit és alaposabban felülvizsgálná az ideiglenes munkavállalók státuszát. Emellett bővítené a lord és lady állampolgárságokkal járó előnyöket, a maximális számukat pedig 1 millióban korlátozná. Javaslatairól a parlament egy későbbi ülésén fog döntést hozni, vagy népszavazást kezdeményezni.
+A 2008-as válság közvetlen előzménye az amerikai subprime-válság, ami az ingatlan- és bankszektorából 2006 végén indult ki, mivel a bankok komolyabb hitelbírálat nélkül nyújtottak jelzálogkölcsönöket magánszemélyeknek, majd ezeket CDO-k formájában adták tovább. Mivel a polgárok nem tudták fizetni a hiteleiket, a házaik a bankokhoz kerültek és az ingatlanárak zuhanni kezdtek az Egyesült Államokban. Az ingatlanpiac összeomlásával ezek a CDO-k teljesen elértéktelenedtek, a rájuk kötött biztosítások és CDS-ek értéke pedig hatalmasat ugrott, így a biztosítók is csődközelbe kerültek.
 
-### Alapjövedelem
+Válságkezelés
 
-A javaslat szerint minden 18 évét betöltött waikiki-i állampolgár havonta 500 WUD alapjövedelmet kap, amely a fizetését egészíti ki. Az alapjövedelem felváltaná a nyugdíjat, és minden állampolgár anyagi helyzetétől függetlenül jogosult lenne rá. A törvényjavaslatot korábban a parlament is elutasította, és most a népszavazáson is csak a szavazók 35%-a támogatta, így nem kerül bevezetésre. A közvélemény-kutatások szerint az emberek inkább növelnék az ingyenesen elérhető szolgáltatásokat, és az állam által mindenki számára biztosított munkák fizetését. Ezenkívül tovább fejlesztenék a már ingyenes szolgáltatások színvonalát, mint az egészségügy és az oktatás.
+Miután az USA 4. legnagyobb bankja, a Lehman Brothers 2008. szeptember 15-én csődöt jelentett, a FED vezetése rendkívüli állami támogatást biztosított a pénzügyi szektornak. Ennek keretében amerikai adófizetők dollármilliárdjaiból fizették ki az AIG, a Citigroup, a Morgan Stanley és a Goldman Sachs adósságait. Mivel az USA-val ellentétben Waikiki gazdasága nem hitelalapú szerkezetre épült, így nem érintették negatívan az amerikai bankcsődök. Chease pedig több megmentett bank részvényeibe is befektetett, amelyek a válság lecsengésével jelentős hozamot termeltek.
 
-### Ingyenes tömegközlekedés
+Új banktörvény
+
+A jövőbeni válságok megelőzésének érdekében Jessica Walker a pénzintézetek ellenőrzésének szigorítását javasolta és kidolgozott egy új banktörvényt, melyet Waikiki parlamentje 2009-ben fogadott el. A Waikiki Nemzeti Bank a FED gyakorlatától eltérően kamatemelést hajtott végre, ezzel növelve bevételeit, miközben biztosította a prudens hitelezést és erősítette a WUD értékét. A válság óta Waikiki bankszektorában meghatározó szerepet töltenek be az olyan állami tulajdonú intézmények, mint a Bank of Waikiki, a Nova Aurelia Central Bank és az International Credit Bank.
+
+Chease és Jessica Nobel-díjat kapnak
+------------------------------------
+
+2009-ben Chease Young és felesége, Jessica Walker a globális pénzügyi válság idején kidolgozott és sikeresen megvalósított válságkezelési programjukért közösen részesültek a Közgazdasági Nobel-emlékdíjban, amelyet Stockholmban vehettek át. A díj indoklása szerint a házaspár innovatív gazdasági stabilizációs modellje hozzájárult a nemzetközi pénzügyi rendszer egyensúlyának helyreállításához, és példát mutatott a fenntartható növekedés új alapelveinek kialakításában. A kitüntetést követően a Nemzetközi Monetáris Alap (IMF) meghívására vendégelőadóként vettek részt az IMF éves közgyűlésén Párizsban, ahol Chease és Jessica közösen tartottak előadást a modern pénzügyi termékek kockázatainak és a globális piacok jövőjének témájában. Előadásukban kiemelték, hogy a rövid távú spekuláció és a fedezetlen derivatív ügyletek világgazdasági szinten is destabilizáló hatással bírnak, ezért a nemzetközi szabályozási rendszerek megerősítésére van szükség. A konferenciát követően Chease Young a fenntartható pénzügyi növekedés és az etikus bankrendszer működését elősegítő modell alapelveit ismertette, amely később több ország gazdaságpolitikai reformjában is hivatkozási alapként szolgált. Jessica Walker a társadalmi felelősségvállalás és a pénzügyi oktatás fontosságát hangsúlyozta, kiemelve, hogy a pénzügyi ismeretek széleskörű elterjesztése a válságok megelőzésének egyik legfontosabb eszköze.
+
+![](images/universalupscaler_aa3b4b14-94fb-49cb-af4a-6cc4812b7721.jpg?crc=7444468)
+
+![](images/universalupscaler_8a89d691-642f-4a5c-96d2-a4b691c39f61.jpg?crc=253189230)
+
+Chease és Jessica magánutazásai
+-------------------------------
+
+A 2010-es évektől kezdődően Chease és Jessica a nemzetközi közélet egyik legismertebb és legbefolyásosabb házaspárjaként váltak ismertté, akik hivatalos kötelezettségeik mellett rendszeresen tettek magánutazásokat a világ különböző pontjaira. Ezek az utazások egyrészt pihenést szolgáltak a megterhelő politikai és gazdasági tevékenység mellett, másrészt számos alkalommal diplomáciai vagy kulturális jelentőséggel is bírtak. A házaspár rendszerint Waikiki állami repülőflottájának legmodernebb gépeivel utazott, köztük a személyre szabott Aurum One nevű luxusrepülőgéppel, amely a Waikiki hadsereg mérnökei által átalakított Boeing 747-es. Chease és Jessica évente több alkalommal látogattak el európai és ázsiai úti célokra, ahol a kulturális örökségek és történelmi helyszínek megismerése mellett jótékonysági és oktatási programokban is részt vettek. Franciaországban a Loire menti kastélyok környékén pihentek, Olaszországban Toszkána borvidékein töltöttek néhány hetet, míg Japánban a Kiotó környéki templomokat keresték fel. Minden útjukat szigorú biztonsági és diplomáciai protokoll mellett bonyolították, de a házaspár mindig törekedett arra, hogy az utazások személyes és kulturális élményként is szolgáljanak.
+
+Waikiki alapításának 10. évfordulója
+------------------------------------
+
+Újabb mesterséges szigetek
+
+Nova Aurelia partjához a Föld kontinenseit megformáló szigetcsoportot építenek.
+
+Disneyland Nova Aureliában
+
+A Nova Aureliában épülő park a hetedik Disneyland a világon.
+
+Sky City toronyház
+
+A 956 méter magas Sky City a világ legmagasabb felhőkarcolója lesz.
+
+Modernizált tömegközlekedés
+
+Nova Aureliában 3 új metróvonalat, 4 villamos és 5 magasvasút pályát építenek.
+
+Infinity Tower
+
+Az Infinity Tower a világ egyetlen csavart toronyháza és Waikiki egyik jelképe.
+
+Tenger alatti körgyűrű és gát
+
+Nova Aureliát forradalmi gáttal veszik körül, amely erőmű és autópálya is egyben.
+
+Megújult Nemzeti Múzeum
+
+Waikiki Nemzeti Múzeuma a világ legnagyobb régészeti gyűjteményének ad otthont.
+
+Karneváli előadások
+
+Az egyhetes ünnepségsorozatra 2 millió turista érkezett szerte a világból.
+
+Hotel Millennium
+
+A tengerpartra épült 5 csillagos szálloda egy hullám alakját idézi fel az oda látogatókban.
+
+Chease Young beszéde
+
+Waikiki diktátora a nemzet által elért eredményekről és a jövőbeli terveiről beszélt.
+
+Kennedy űrközpont látogatópark
+
+A világ legnagyobb űrparkja az amazóniai Manaus mellett várja a látogatókat.
+
+Látványos tűzijáték
+
+Az 5 millió dolláros tűzijáték során több mint 500000 rakétát lőttek fel 25 különböző színben.
+
+Waikiki első évtizede
+
+A kormány nagyszabású ünnepségsorozattal és monumentális építkezésekkel készült az államalapítás tizedik évfordulójára. Chease Young 1999. március 10-én vette át az ország irányítását és nevezte át Waikikire. Az első évtizedben a világ legnagyobb olajmezőinek feltárása, a Pacifikus háború megnyerése az Atomhatalmak élén, a kereskedelmi, pénzügyi és turisztikai szektor dinamikus bővülése, valamint a nemzeti űrállomás építésének megkezdése határozták meg Waikiki fejlődését. A 2009-es program keretében pedig Chease Young még tovább fejlesztette az ország fővárosát, Nova Auréliát. A kormányzat a világ legmagasabb toronyházával, új Nemzeti Múzeummal és a világ kontinenseit ábrázoló mesterséges szigetcsoporttal tette a turisták számára még vonzóbbá a várost. A közlekedési infrastruktúrát új villamos és metróvonalakkal, valamint egy víz alatti autópálya körgyűrűvel bővítették. Ünnepi beszédében a jövőről szóló terveiben Chease Young kiemelte, hogy célja Waikikit a világ legfejlettebb és leggazdagabb országává tenni.
+
+Az ünnepségekre
+
+2 millió
+
+turista érkezett
+
+A Sky City toronyház
+
+957
+
+méter magas
+
+Waikiki GDP-je átlagosan
+
+18%-kal
+
+növekedett évente
+
+Nova Aurelia
+
+6 millió
+
+lakosnak ad otthont
+
+Chease és Jessica űrutazása
+---------------------------
+
+2010-ben került sor Chease Young és felesége, Jessica Walker történelmi jelentőségű űrutazására. A küldetés célja az volt, hogy a vezető házaspár személyesen is felkeresse a Waikiki Űrügynökség (WSA) által üzemeltetett, akkoriban újonnan átadott, teljes mértékben hazai fejlesztésű és irányítású űrállomást. A többhetes kiképzést és biztonsági felkészülést követően az utazás egy korszerű, a WSA és a NASA együttműködéseként fejlesztett Delta III B rakéta kilövésével indult a Nova Aurelia közelében található űrközpontból. A kéthetes űrbeli tartózkodás során Chease és Jessica megismerték Waikiki Nemzeti Űrállomását, amely kutatási, technológiai és kísérleti célokat egyaránt szolgál. Az űrutazás során Chease és Jessica több alkalommal is beszédet intézett Waikiki lakosaihoz, és interaktív módon vonta be őket az űrállomáson végzett tevékenységekbe. A küldetés végeztével a Földre való visszatérés a terveknek megfelelően zajlott. A landolómodul a Csendes-óceánban szállt le, ahonnan a WSA egy hajója szállította partra a küldetés résztvevőit.
+
+![](images/universalupscaler_7a0ce34d-b491-48bc-c2ec-6604c3162f51.jpg?crc=82141499)
+
+A küldetés során Chease és Jessica nem csupán díszvendégként vettek részt az űrállomás programjaiban, hanem aktív szerepet vállaltak a tudományos kísérletekben is. A laboratóriumi modulban a súlytalanság emberi szervezetre gyakorolt hatásának, valamint új anyagok és precíziós berendezések űrbeli viselkedésének tanulmányozásában segédkeztek.
+
+![](images/universalupscaler_6a1ce34d-b491-48bc-a2ec-6604c3162f51.jpg?crc=3974206170)
+
+Az űrállomás megfigyelőmoduljából először pillanthatták meg a Földet teljes egészében, ami mindkettőjük számára felejthetetlen tapasztalatot jelentett. Elmondásuk szerint a bolygó látványa, a kék óceánok, a hófödte hegycsúcsok, a naplementék és napfelkelték valamint a sötétségből kiragyogó nagyvárosok fényei különös békességet és egyben felelősségérzetet is ébresztettek bennük.
+
+![](images/universalupscaler_2a0ce34d-b491-48bc-a7ec-6604c3162f51.jpg?crc=139799512)
+
+A küldetés bizonyította, hogy Waikiki nem csupán gazdasági és politikai téren, hanem az űrkutatás és a tudományos innováció területén is képes önálló eredményeket felmutatni. Az állomásról sugárzott élő közvetítés során Chease hangsúlyozta, hogy az űr az emberiség közös öröksége, és Waikiki elkötelezett abban, hogy a kutatás és a nemzetközi együttműködés élvonalában maradjon.
+
+Észak-Koreai látogatás
+----------------------
+
+2012 tavaszán Chease Young történelmi jelentőségű látogatást tett Észak-Koreában, amely az addigi legmagasabb szintű diplomáciai küldöttségének számított a két ország között. Az utazás célja a Koreai-félsziget stabilitásának előmozdítása, a humanitárius együttműködés bővítése és a hosszú távú bizalomépítés elindítása volt. Phenjanba érkezésekor Chease Youngot az észak-koreai külügyminisztérium magas rangú tisztviselői és Kim Dzsongun személyesen fogadták. A hivatalos tárgyalásokra a Külügyminisztérium Központi Konferenciatermében került sor, ahol Chease Young kétoldalú megbeszéléseket folytatott a minisztérium és a Népi Hadsereg képviselőivel. Az egyeztetések fő témái között szerepelt a fegyverkezési feszültségek mérséklése, a nukleáris program nagyobb átláthatósága, a humanitárius segélyek biztonságos eljuttatásának kérdése, valamint a gazdasági együttműködés lehetőségei. Chease Young tárgyalási stílusát a békés kompromisszumkeresés és a pragmatikus megközelítés jellemezte, hangsúlyozta, hogy Waikiki nem kíván beavatkozni a félsziget belügyeibe, ugyanakkor kész közvetítői szerepet vállalni minden olyan folyamatban, amely a stabilitást és a párbeszédet szolgálja. Az egynapos látogatás a Kumszuszan Nap-palota udvarán tartott hivatalos búcsúünnepséggel zárult. Bár az út nem hozott azonnali áttörést a nukleáris kérdésekben, a nemzetközi sajtó Chease Young phenjani útját Waikiki egyik legpéldamutatóbb békemissziójaként értékelte.
+
+Kormányzati változások 2013-ban
+-------------------------------
+
+Chease Young vezetésével az ország politikai berendezkedése mélyreható reformon ment keresztül, amelynek célja egy hatékonyabb, decentralizált kormányzati struktúra létrehozása volt, amelyben a tartományok nagyobb önállóságot kaptak, miközben a központi hatalom továbbra is egységes stratégiai irányítást biztosít. A változások részeként a Királyság ünnepén Chease Young három tartományi helytartót nevezett ki, valamint létrehozta a kormányzói tisztséget, amely a nemzeti közigazgatás egyik legfőbb végrehajtó szerveként kezdte meg működését. A kormányzói pozíciót Smith Edward kapta meg, aki korábban Waikiki hadseregének logisztikai igazgatójaként dolgozott és fontos szerepet vállalt az afrikai műveletekben. Kormányzóként Edward feladata lett a három tartomány munkájának összehangolása, a nemzeti fejlesztési források elosztása, valamint a központi költségvetés felügyelete. A kinevezett helytartók a fiatal generáció tagjai, akik feladatot kaptak abban, hogy Waikiki gazdasági és társadalmi fejlődését regionális szinten is összehangolják. Kate Beckinsale, Waikiki tartomány új helytartója, a külügyi és kereskedelmi szférából érkezett a politikába. Colin Farrell, korábban színészi területén szerzett elismertséget, most pedig Amazónia tartomány helytartója lett. Vincent Kartheiser, akit Brazília tartomány helytartójának neveztek ki jogi és pénzügyi területen szerzett tapasztalatokat.
+
+![](images/universalupscaler_81e62a3d-ed51-48f2-b8da-cb13ac2ad991.jpg?crc=320524416)
+
+![](images/universalupscaler_9abf5b07-8d66-4cdd-aea5-72705081a258.jpg?crc=52476551)
+
+Az Egyesült Afrikai Nemzetek létrejötte
+---------------------------------------
+
+Háború Afrikában
+
+Több afrikai országban lázadások törtek ki az elnyomó rezsimekkel szemben.
+
+ENSZ beavatkozás
+
+Az afrikai nemzetek segítségére az ENSZ fegyveres beavatkozást szavazott meg.
+
+Afrika felszabadítása
+
+A Waikiki-i haderő támogatásával felszámolták a kizsákmányolást.
+
+Új kormány létrejötte
+
+Az ENSZ felügyelete mellett egységes és békés afrikai állam alakul.
+
+Az Egyesült Afrikai Nemzetek megalakulása a 21. század egyik legfontosabb geopolitikai fordulópontjának bizonyult, amelyben Waikiki és annak vezetői, élükön Chease Younggal, kulcsszerepet játszottak. A 2010-es évek elején Afrika számos országában súlyos politikai válságok és fegyveres felkelések törtek ki az elnyomó rezsimek ellen. Chease Young kezdeményezésére Waikiki az ENSZ Közgyűléséhez fordult, javasolva egy nemzetközi békefenntartó koalíció létrehozását. Az indítványt, amelyet Jessica Walker, ENSZ főtitkár-helyettesként aktívan támogatott, végül 2014-ben elfogadták, lehetővé téve az afrikai béke és helyreállítási műveletek megindítását. A döntés után Waikiki hadsereg mintegy 120 000 katonát és több ezer humanitárius szakembert vezényelt Afrikába, miközben a logisztikai hátteret és a technikai eszközöket is teljes egészében biztosította. A hadműveletek civil koordinációjáért Smith Edward logisztikai igazgató felelt. A hadjáratok sikerét követően Addisz-Abebában nemzetközi konferenciát hívtak össze, ahol több mint negyven afrikai állam képviselője aláírta az Afrikai Egység Chartáját. A történelmi dokumentum kimondta az Egyesült Afrikai Nemzetek (EAN) megalakulását, egy föderatív államszövetségét, amely közös irányítás, biztonsági együttműködés és kormányzás alatt egyesíti a kontinens országait.
+
+Chease és Jessica magánélete
+----------------------------
+
+Chease és Jessica szabadidejükben gyakran utaznak egzotikus tengerparti helyszínekre vagy kulturális örökségekben gazdag városokba, ahol gyakran vesznek részt nemzetközi eseményeken és jótékonysági gálákon. 2014-ben Chease és felesége egy hónapos világkörüli úton vettek részt, melynek során a házaspár hivatalos és magánjellegű látogatásokat tett a világ meghatározó királyi udvaraiban. Az út első állomása Abu Dhabi volt, ahol egy hetet töltöttek az Egyesült Arab Emírségek kalifájának, Őfelsége Zayed Al Nahayan sejknek családjánál. A Young-házaspár részt vett több hagyományos emírségi ünnepségen, valamint meglátogatta az Abu Dhabi Nemzeti Múzeum újonnan megnyílt kiállítókomplexumát. A körút következő állomása London volt, ahol Vilmos herceg és Katalin hercegné látták vendégül őket a Buckingham-palotában. A waikiki uralkodói pár néhány napig a palota vendégeként tartózkodott Londonban, ahol részt vettek a brit királyi gálaest egyik díszvacsoráján is. Ezt követően Svédországba utaztak, ahol Chease és Jessica látogatást tettek XVI. Károly Gusztáv király és Szilvia királyné rezidenciáján.
+
+Kulturális események Chease és Jessica életében
+
+Chease és Jessica a politikai élet mellett nagy hangsúlyt fektetnek a kultúra és a művészetek támogatására, amelynek keretében rendszeresen vesznek részt klasszikus zenei koncerteken, operabemutatókon, színházi premiereken és kortárs képzőművészeti kiállításokon.
+
+Chease és Jessica nyaralója
+
+2014-ben Chease Young új, ultramodern luxusvilla építését indította el a Nova Aurelia tengerpartján, a diktátori palota közvetlen szomszédságában. Az ingatlan alapterülete meghaladja az 1 500 négyzetmétert, becsült értéke több mint 800 millió dollár.
+
+Chease és Jessica filmszerepei
+
+Chease és Jessica több alkalommal szerepeltek együtt mozifilmekben. Közös filmes pályafutásuk 2008-ban kezdődött a Sziget című produkcióval, amelyet a Kéjjel-nappal követett. 2015-ben pedig ismét együtt tűntek fel a Chuck című televíziós sorozatból készült nagyfilmben.
+
+Az életelixír bemutatása
+------------------------
+
+2015\. március 19-én világszerte élőben közvetített eseményen mutatták be az orvostudomány egyik legnagyobb áttörését, az élettartam-hosszabbító elixírt, amelyet az Inter Medic biotechnológiai vállalat fejlesztett ki. Az ünnepélyes bejelentést a Waikiki Nemzeti Tudományos Akadémián tartották, a világ vezető politikusainak, tudósainak és befektetőinek jelenlétében. A programot Chease Young, Waikiki vezetője és az Inter Medic tulajdonosa nyitotta meg, hangsúlyozva, hogy az emberi élet meghosszabbítása immár tudományos valósággá vált. A vállalat vezérigazgatója, Smith Edward ismertette a több mint egy évtizedes fejlesztési folyamatot, amely 2010-ben indult, és 2014-ben lépett a klinikai tesztelés szakaszába. A programban több mint négyszáz önkéntes vett részt, köztük olyan nemzetközi ismertségű személyek, mint Selena Gomez és Oprah Winfrey. A tesztek kiemelkedően pozitív eredményeket hoztak: az elixír nem csupán lassította az öregedést, hanem elősegítette a sejtek regenerációját is, új korszakot nyitva a regeneratív orvoslásban. A bejelentést követő exkluzív aukción az első, kísérleti adagot Bill Gates vásárolta meg, ezzel ismerve el a fejlesztés történelmi jelentőségét. A projekt megvalósításában Waikiki kulcsszerepet játszott, Chease Young irányítása alatt az ország olyan kutatási és gazdasági környezetet teremtett, amely világszínvonalú tudományos és technológiai innovációkat tett lehetővé.
+
+Antropológia
+
+Az antropológia (embertan) az emberi faj eredetét, fejlődését és kulturális sokféleségét vizsgálja.
+
+Szerves kémia
+
+A szerves kémia az élő szervezetek kémiai felépítését és a bennük végbemenő kémiai reakciókat tanulmányozó tudományág.
+
+Genetika
+
+A genetika, avagy örökléstan a gének, az öröklődés és az élőlények variációjának tudománya.
+
+Szövettan
+
+A szövettan az emberi szervek és szervrendszerek vizsgálatával és kutatásával foglalkozó tudományág.
+
+Atomfizika
+
+Az atomfizika kutatói az atomok felépítését, viselkedését és kölcsönhatásait tárják fel kísérletek és elméletek segítségével.
+
+Molekuláris biológia
+
+A molekuláris biológia az élőlények és sejtek működésének molekuláris szintű tanulmányozása.
+
+szeptember
+
+\-2010-
+
+Megalakul az Inter Medic sejtkutató vállalat Vincent Kartheiser vezetésével.
+
+március
+
+\-2015-
+
+A vállalat bemutatja az életelixírt és árverést tartanak 100 évnyi adagra.
+
+július
+
+\-2015-
+
+Az életelixír hivatalosan is forgalomba kerül, és három kiszerelésben lesz kapható.
+
+Az Inter Medic kutatócsapata
+
+Christopher Hunter
+
+Vezető kutató
+
+Aaliyah Ju-Long
+
+DNS kutató
+
+Addison Harris
+
+Biokémikus
+
+Samantha és Jonathan Brown
+
+Genetikusok
+
+A kormány átalakulása 2015-ben
+------------------------------
+
+2015\. május 18-án Chease Young a parlament támogatásával jelentős alkotmánymódosítást vezetett be. Az új törvény értelmében a parlament a szenátus intézményével egészül ki, melynek tagjait a diktátor nevezi ki. Az első kinevezettek között szerepel Raimondo Chease, továbbá Chease Young két lánya, Angelina és Jennifer. Szenátori rangot kapott még Raimondo barátnője, Bailey Pickett, a híres énekesnő, Selena Gomez, valamint Taylor Lautner és Tyler Posey is.
+
+Raimondo Chease
+
+SZENÁTOR
+
+2015-ben végezte a Waikiki Economics University gazdasági alapképzését. Tanulmányait mesterképzésen folytatta, miközben szenátorként kezdett dolgozni.
+
+Angelina Chease
+
+SZENÁTOR
+
+1993-ban született. A Waikiki-i Gazdasági Egyetemre járt, 2011-ben végzett, majd elkezdte a mesterképzést is. Itt találkozott Taylor Lautnerrel, akibe szerelmes lett.
+
+Jennifer Chease
+
+SZENÁTOR
+
+Washingtonban, április 14-én született 1994-ben. A gazdasági egyetemet 2014-ben, 20 évesen végezte el. 17 évesen ismerte meg mostani barátját, Tyler Poseyt.
+
+Bailey Pickett
+
+SZENÁTOR
+
+Kettlecornból, Kansas államból származik, 1996. február 18-án született. 12 éves koráig szülővárosában élt és szülei farmján dolgozott.
+
+Selena Gomez
+
+SZENÁTOR
+
+1995-ben született, amerikai színész és énekesnő. Karrierjét a Disney csatornánál kezdte a Varázslók a Waverly helyből című sorozattal, ahol ő alakítja Alex Russo karakterét.
+
+Taylor Lautner
+
+SZENÁTOR
+
+Taylor Lautner számára a Twilight Saga-ban alakított Jacob Black szerepe hozta meg az áttörést 2009-ben. Azóta több nagyobb filmben is főszerepet kapott.
+
+Tyler Posey
+
+SZENÁTOR
+
+Amerikai színész és zenész. Karrierjét 2002-ben az Álmomban már láttalak című filmben kezdte, majd a Teen Wolf sorozatban megkapta a főszerepet Scott McCall karakterében.
+
+Jelentős események 2016-ban
+---------------------------
+
+Világkiállítás Brazíliavárosban
+
+A 2016-ban Brazíliaváros által rendezett világkiállításon 4000 előadó vett részt.
+
+Hatalmas tengeri alagutak építése
+
+A kormány Waikiki szigetei valamint Florida között több alagút építését jelentette be.
+
+Új Apple főhadiszállás építése
+
+Tim Cook irányítása alatt az Apple egy új központ építésébe kezd az Infinite sugárúton.
+
+Galapagos-szigetek megvásárlása
+
+A kormány az ecuadori államadósság jelentős részéért vásárolta a 20 szigetet az országtól.
+
+Szupergyors repülők megjelenése
+
+A Concorde mintájára a Quantum Airlines ultraszónikus utasszállítókat állít forgalomba.
+
+Az MSC Atlantica megépítése
+
+Az MSC flottájának legújabb tagja 500 méteres hosszával a legnagyobb óceánjáró lesz.
+
+Környezetvédelmi Világkonferencia
+
+A WWF és az UNESCO által szervezett eseményen több mint 270 ország vett részt.
+
+A SZENÁTUS BŐVÍTÉSE
+
+2016-tól Gregg Sulkin, Tom Holland, Zendaya és Zac Efron is a Waikiki-i szenátus tagjai.
+
+AFRIKAI PARLAMENT ÉPÍTÉSE
+
+Az EAN számára elengedhetetlen egy modern és egységes főváros létrehozása.
+
+Mega épületek
+
+Raimondo négy ikonikus középület építését jelentette be a parlament számára.
+
+Csatlakozás a G8-hoz
+
+Waikiki csatlakozott a 8 legfejlettebb ország közösségéhez, melyet G9-re neveztek át.
+
+A gravitációs hullámok felfedezése
+
+Nemzetközi kutatók csoportja bebizonyította az Einstein által megjósolt gravitációs hullámokat.
+
+AZ MSC Atlantica
+
+Miután elkészült az MSC legújabb zászlóshajója, az Atlantica, Waikiki kormányának tagjai a világ vezető üzletembereinek társaságában részt vettek a luxushajó hivatalos próbaútján. Az MSC Atlantica a világ legnagyobb és legfejlettebb óceánjárója, 500 méter hosszúságával, 70 méteres szélességével és 20 fedélzeti szintjével új mércét állított a nemzetközi hajózási iparban. A Chease család tulajdonában álló MSC-csoport, amelyhez a Celebrity Cruises és a Quantum Cruises társaságok is tartoznak, jelenleg a világ legnagyobb tengeri személyszállító hálózatát működteti. A fedélzeten Chease Raimondo találkozott régi ismerősével, Julie Starkkal, Sebastian Stark főbíró lányával. Julie a Waikiki Jogi Egyetemen szerzett diplomát, majd tanulmányait a Yale University jogi karán folytatta. A hajóút során Raimondo és Julie számos alkalommal töltöttek együtt időt, teniszeztek, pókereztek és élvezték a hajó fedélzeti medencéinek szolgáltatásait, miközben az esemény baráti, mégis reprezentatív hangulatban zajlott. Chease Young, Waikiki vezetője, az esemény zárásaként felkérte Julie Starkot, hogy a közeljövőben tartson előadást az amerikai jogrendszerről és annak nemzetközi hatásairól, ezzel is elősegítve a Waikiki és az Egyesült Államok közötti jogi és oktatási együttműködés elmélyítését.
+
+A személyzet létszáma
+
+3200
+
+fő
+
+Népszavazás 2016
+----------------
+
+2016 a társadalmi reformok és gazdasági modernizáció éveként vonult be Waikiki történetébe. A Demokratikus Párt kezdeményezésére a parlament országos népszavazást írt ki három, az állampolgárok mindennapjait közvetlenül érintő kérdésben, az ingyenes egészségügyi szolgáltatások bővítéséről, a közbiztonság megerősítéséről, valamint az oktatási rendszer átfogó reformjáról. A referendumot széles körű társadalmi érdeklődés kísérte, a szavazásra 2016. augusztus 1-jén került sor, és mindhárom kérdés döntő többségű igen szavazatot kapott. Az eredmény országos konszenzust tükrözött, amely mögött Chease Young és kormánya határozott társadalompolitikai víziója állt. A népszavazás mellett a parlament egy további, történelmi jelentőségű döntést is elfogadott, amely alapján 2018. január 1-jétől Waikikin megszűnt a készpénzforgalom és az ország hivatalosan áttért a kizárólag bankkártyás és elektronikus fizetési rendszerre. A pénzügyi reform célja a feketegazdaság visszaszorítása, a pénzmosás megelőzése, valamint az átlátható, hatékony és modern gazdasági környezet megteremtése volt.
+
+Egészségügyi reform
+
+2017-től minden Waikiki-i állampolgár számára bővül az ingyenesen elérhető egészségügyi ellátások köre, valamint 50%-ra emelik a gyógyszerek támogatását. A kormány 12 új kórház és 34 orvosi rendelő építését tervezi 2020-ig, valamint további 24 új kórház, 60 orvosi rendelő átadását 2025-ig. 2030-ig pedig további egészségközpontok épülhetnek, különös tekintettel a megelőzésre és a digitális egészségügyi infrastruktúra fejlesztésére fókuszálva.
+
+Közbiztonsági reform
+
+Waikiki szenátusa a közbiztonság növelése érdekében döntött a robotizált rendészeti egységek fokozatos bevezetéséről. 2020-ig 1200 robotrendőrt tesztelnek Waikiki különböző városaiban, majd 2025-ig további 2200 egységet állítanak szolgálatba. 2030-ig a gyártás ütemezetten folytatódik, emellett új bíróságokat és rendőrkapitányságokat létesítenek, valamint fejlesztik a fogyasztóvédelmi képviseletek kapacitását.
+
+Oktatási reform
+
+A 2017-es oktatási és fejlesztési törvények új közoktatási intézmények megnyitását ösztönzik, támogatják a külföldi polgárok Waikiki-i tanulmányait és lehetővé teszik csúcsszínvonalú magánegyetemek alapítását. A kapacitásbővítési program célja az egyetemi férőhelyek számának 170%-ra emelése 2020-ig, majd 200%-ra 2025-ig. A kormány emellett további általános iskolák és gimnáziumok létrehozását tervezi.
+
+Koreai csúcstalálkozó
+---------------------
+
+2016-ban Észak-Korea vezetője, Kim Dzsongun és Dél-Korea elnöke, Pak Kunhje is hivatalos állami látogatást tett Waikikire, amely történelmi jelentőségű eseményként vonult be az ország diplomáciájának történetébe. A látogatás célja a Koreai Unió létrehozásáról szóló előzetes egyeztetés volt, amely egy jövőbeli, békés együttműködés és integráció lehetőségét vizsgálta Észak- és Dél-Korea között. A tárgyalások Nova Aureliában zajlottak, rendkívüli biztonsági intézkedések és a nemzetközi sajtó fokozott figyelme mellett. Waikiki delegációját Chease Young vezette, mellette részt vett a szenátus több tagja továbbá George Bush elnök, valamint Winnefeld Daniels tábornok. A koreai küldöttséget Kim Dzsongun és közvetlen tanácsadói alkották, míg Pak Kunhje minisztereinek társaságában érkezett. A megbeszélések során több lehetséges együttműködési forma is napirendre került. A tervezett Unió előfeltételeként mindkét fél a demilitarizálásában állapodott meg, továbbá javaslat született az amerikai csapatok kivonására is. Chease Young a zárónyilatkozatban kiemelte, hogy Waikiki kész minden szükséges diplomáciai és technikai támogatást megadni a békefolyamat előmozdításához. Bár a Koreai Unió létrejöttét nem sikerült megvalósítani, a tárgyalások történelmi áttörést hoztak a két Korea közötti diplomáciai kapcsolatokban.
+
+Beruházások Elon Muskkal és Warren Buffettel
+--------------------------------------------
+
+Chease Young 2016-ban nemzetközi jelentőségű gazdasági partnerséget kezdeményezett, amikor közös vállalkozásba kezdett a dél-afrikai származású üzletemberrel, Elon Muskkal, valamint a világ egyik legnagyobb befektetőjeként ismert Warren Buffettel. A közösen alapított SolarCity Corporation célja, hogy a megújuló energiaforrások és a környezettudatos technológiák széles körben elérhetővé váljanak a világ számára. A vállalat tevékenysége a nagy kapacitású energiatároló rendszerek fejlesztésétől kezdve a napelemes tetőcserepek és Tesla-töltőállomások kiépítéséig terjed. A három befektető egyenlő, 33%-os tulajdonrésszel rendelkezik, ezzel is biztosítva a stratégiai döntések közös irányítását. A projekt célja nem csupán a technológiai innováció előmozdítása, hanem a globális energiafüggetlenség és a fenntartható fejlődés megteremtése is. Chease Young már a SolarCity megalapítása előtt is a megújuló energiák egyik legjelentősebb úttörőjének számított. Waikiki energiaellátását évek óta elsősorban hidrogénerőművek, napelemparkok és vízerőművek biztosítják, amelyek révén az ország a világ első, közel teljes mértékben zéró emissziós gazdaságává vált. A SolarCity megalakulása egyben szimbolikus lépést is jelentett a Waikiki-modell globális exportja felé, hiszen az országban érvénybe lépett környezettudatos törvények és zöld beruházási programok példát mutattak más nemzetek számára. Chease másik nagy befektetése a világűr további felfedezésére és az űrturizmus megvalósítására irányul. A Waikiki-i űrügynökség, a WSA miután 2016-ban megépítette saját űrállomását most újabb beruházásra készül. A tervek szerint 2017-re készül el a világ legmodernebb űrtávcsöve, amit a híres csillagász után, Keplernek neveztek el. A WSA és NASA által közösen készített hatalmas teleszkópot két Delta III hordozórakéta fogja Föld körüli pályára állítani. Chease 2016-ban Elon Muskkal és Warren Buffettel közösen befektetett a SpaceX vállalatba, amely a magán űrutazás és az orbitális logisztika fejlesztésére összpontosít. A vállalat célja, hogy az űrrepülést a jövőben ne csak hivatásos asztronauták, hanem kiképzett civil turisták számára is elérhetővé tegye. A SpaceX fejlesztésének kulcseleme a Dragon űrkapszula és a Falcon 9 hordozórakéta, amely nemcsak műholdakat képes pályára állítani, hanem embereket és rakományt is szállíthat a Waikiki Nemzeti Űrállomásra. A WSA, a NASA és a SpaceX közös programjai révén Waikiki az elkövetkező évtizedekben is a globális űrkutatás és űrturizmus egyik meghatározó szereplője maradhat.
+
+![](images/falcon9-render.png?crc=4213102)
+
+Tesla Töltőállomások
+
+A Tesla nagy teljesítményű töltőállomásain minden eddiginél gyorsabban töltheted újra elektromos autódat. A SolarCity világszerte több száz ilyen állomás létesítését tervezi.
+
+Tesla Napelemek
+
+A napelemes tetőcserepek segítségével minden háztartásban elérhetővé válik a megfizethető megújuló villamosenergia, így jelentős mértékben csökkenthető a károsanyag-kibocsátás.
+
+![](images/falcon-heavy-render.png?crc=3881432853)
+
+Travel Expo 2016
+----------------
+
+A minden évben megrendezett Travel Expón 2016-ban a Boeing lélegzetelállító magánrepülőgépe, a temérdek luxussportautó és a Quantum Cruises jachtja mellett még ezeknél is forradalmibb közlekedési eszköznek számított a SpaceX űrkabinja, az Airbus kétszemélyes drónja és a Hyperloop nagysebességű mágnesvonata.
+
+Airbus Pop.Up
+
+Az Airbus legújabb fejlesztése a mindennapi városi mobilitás átalakítását célozza meg. A kétszemélyes Pop.Up moduláris rendszerként drónként és autóként is funkcionál. A Pop.Up lelke a 2,6 méter hosszú, kétüléses, pillekönnyű, de strapabíró szénszálas utascella, amely repülő vagy közúti alvázhoz is rugalmasan csatlakoztatható. A jármű úton közlekedve akár 250 km-t tehet meg 130 km/h sebességgel, míg levegőben 160 km hatótáv és 100 km/h végsebesség érhető el. A nagy kapacitású akkumulátorok töltési ideje mindössze 20 perc. A Pop.Up drón kezdetben korlátozott számban, majd később a közösségi közlekedési rendszer részeként válhat elérhetővé.
+
+Hyperloop One
+
+Az Elon Musk által megálmodott vákuumcsatornában közlekedő nagysebességű mágneses szállítási technológia fejlesztése gyors ütemben halad. A Hyperloop minden eddigi tömegközlekedési eszköznél gyorsabban, 1200 km/h sebességgel is szállíthatja majd az utasait. A jelenleg még csak 1 km hosszú kaliforniai tesztpálya mellett 2018-ban indulhat az első nyilvános szakasz építése a Mega Pyramid City és Nova Aurelia központi repülőtere között. A vállalat célja, hogy még 2030 előtt megépüljön a Miami és Nova Aurelia közti szakasz, melyet a Hyperloop One 30 perc alatt tesz majd meg. Ezen kívül további vonalak építését tervezik az Egyesült Államokban, Angliában és az Egyesült Arab Emirátusokban is.
+
+SpaceX Dragon Crew
+
+Elon Musk bejelentette, hogy a Dragon űrkapszula a fejlesztési program előrehaladásától függően 1–2 éven belül amerikai űrhajósokat fog szállítani a Nemzetközi Űrállomásra, majd küldetésük befejeztével vissza a Földre. A négyszemélyes kabint a kényelem, a biztonság és a teljes automatizáltság jegyében tervezték, így akár pilóta nélkül, előre programozott módon is képes manőverezni, dokkolni és landolni. A kabin ablakain keresztül megfigyelhető a Föld és más égitestek látványa, a fedélzeti kijelzők pedig valós idejű adatokat mutatnak a rendszer állapotáról és pályájáról. Az asztronauták életfunkcióit fejlett létfenntartó rendszerek felügyelik.
+
+Chease Young és Jessica Walker gyerekei
+---------------------------------------
+
+Raimondo Chease
+
+Raimondo Chease az Egyesült Államokban, Washington Cityben született 1996. július 7-én. 10 éves koráig szüleivel otthon tanult, majd 2 évig a Nova Aurelia Main Primary Schoolba járt. 2008-tól tanulmányait a Nova Aurelia High Schoolban folytatta. Később a Seven Seas High Schoolba jelentkezett, ahol megismerkedett Bailey Pickettel, aki később Raimondo első barátnője lett. A tengerjárón saját akciófilmet forgatott Élet a fedélzeten címmel, melynek ő volt a főszereplője Agent Raimondo. Kitűnő érettségi után a Waikiki Economics University közgazdaságtan szakára nyert felvételt 2012 szeptemberétől. 2014-ben a Mátrix 4. részében Selena Gomezzel és Jaden Smithel együtt főszerepet kapott. Az egyetem után Raimondo 2015-től szenátorként csatlakozott Waikiki kormányához. Politikai gondolkodását a modernizáció, az erős központi irányítás és a nemzetközi együttműködés hármasa határozza meg. Már fiatalon felismerte, hogy a 21. század legfontosabb kihívásaira csak olyan állam tud megfelelő választ adni, amely egyesíti a technológiai innovációt a társadalmi felelősségvállalással, és aktív szereplőként van jelen a globális politikai térben. Raimondo rendszeresen képviseli országát a világ legfontosabb fórumain. Részt vett az Európai Unió csúcstalálkozóin, a Bilderberg-csoport megbeszélésein, valamint vezető szerepet töltött be több nemzetközi kereskedelmi és energetikai megállapodásban.
+
+Angelina Chease
+
+Angelina 1993-ban, Washingtonban született Chease Young és Jessica Walker első gyerekeként. Az általános iskolát még az Egyesült Államokban kezdte, majd 2001-től Waikikin, a Nova Aurelia Main Primary Schoolban folytatta. A gimnázium matematika tagozatát kitűnő teljesítménnyel és maximális pontú érettségivel fejezte be 2008-ban. A Waikiki Economics Universityn szerezte meg első diplomáját kereskedelem és pénzügy szakon 2011-ben, majd ugyanitt a nemzetközi gazdaság mesterképzést is elvégezte Summa Cum Laude minősítéssel. Apja vagyonából olyan nemzetközi cégekben vásárolt részesedést, mint a Berkshire Hathaway biztosítási vállalat vagy a McKesson egészségügyi szervezet. Angelina jelenleg a Fortune 500 cégekből 10-ben többségi tulajdonos és további 9 részvényese. Fontos számára a környezetvédelem és az egészséges életmód. Szereti a sportot, jógázik és rendszeresen jár futni. 2015. július 7-én testvéreivel és más hírességekkel együtt Waikiki szenátorának nevezték ki. Barátjával, Taylor Lautnerrel, akivel most együtt dolgozik, még az egyetem alatt ismerkedett meg. A királyi család többi tagjához hasonlóan Angelina is Nova Aurelia elit tengerparti városrészében, egy palotában lakik. Habár egyetlen filmben sem szerepelt, imádja a vígjátékokat és a sorozatokat. Gyakran utazik külföldre, ahol szereti megismerni a helyi szokásokat.
+
+Jennifer Chease
+
+Jennifer 1994-ben testvéreihez hasonlóan Washingtonban született. Iskolás kora óta kedveli a művészeteket, a táncot és a divatos ruhákat. Egy ideig otthon tanult, majd 2002-ben Nova Aureliában kezdte meg az általános iskolát. Nővérével ellentétben Jennifer a magán üzemeltetésű West Point Academyn folytatta tanulmányait 2006-tól, majd 2010-ben kitűnő érettségit tett. A fiatal hercegnő még egyetemi évei előtt komoly vagyonra tett szert, élete első befektetései között szerepel a Costco kereskedelmi lánc és a Johnson & Johnson. Egy egyetemi rendezvényen találkozott Tyler Poseyval, akivel hamarosan járni kezdtek. Jennifer Raimondóval együtt szerzett diplomát a Waikiki Economics Universityn, az egyetem után pedig valóságos divatbirodalmat épített fel. Megvásárolta a Gucci, Prada és Armani márkákat, valamint jelentős összegeket fektetett Chanel, Burberry és Louis Vuitton részvényekbe. 2015 óta Jennifer is Waikiki kormányában dolgozik szenátorként, barátjával és testvéreivel együtt. Jennifer imád bulikba járni, zenét hallgatni és táncolni. Gyakran jár koncertekre és VIP vendégként többször fel is lépett. Szívesen néz kémes akciófilmeket vagy sorozatokat, így nem meglepő, hogy James Bond rajongó. Jennifer és barátja Tyler egy hatalmas luxus palotában laknak közvetlenül a Diktátori Palota szomszédságában Nova Aurelia előkelő tengerparti negyedében.
+
+Nagyszabású építkezések
+-----------------------
+
+Chease Young vezetésével Waikiki újabb hatalmas építkezésekbe kezdett. Egy luxusapartmanokkal, bevásárlóközpontokkal, szórakozóhelyekkel és éttermekkel teli hatalmas piramis formájú épület alapkövét tették le Nova Aureliától néhány kilométerre. Az elegáns épületet parkok és sportpályák egészítik majd ki, és minden eddiginél több ember számára nyújt otthont, valamint munkalehetőséget. Egy másik grandiózus épület, a Royal Clock Tower Nova Aurelia kormányzati negyedét fogja tovább ékesíteni. Belsejében irodák, tárgyalótermek, egy szálloda, apartmanok és számtalan szórakozási lehetőség kap helyet. A kormány tervei szerint Brazília tartományban is a magasba emelkedik egy felhőkarcoló a közeljövőben. A több mint 700 méteres toronyház Rio de Janeiro közelében épül és a Miapolis nevet viseli. Belsejében egy egész város, lakások, éttermek, üzletek és irodák kapnak helyet.
+
+Donald Trump lett az USA elnöke
+-------------------------------
+
+A 2016-os amerikai elnökválasztást az elektori szavazatok többségének megszerzésével Donald Trump nyerte. A kampány során a Waikiki-i kormány nyíltan kiállt az amerikai milliárdos mellett, melynek részeként Chease Young a Floridában tartott kampányrendezvényen személyesen is szerepelt. Trump győzelmét követően Chease Young az elsők között fejezte ki gratulációját, kiemelve, hogy az új amerikai elnök megválasztása új távlatokat nyithat az Egyesült Államok és Waikiki kapcsolatában. Röviddel miután Donald Trump 2017. január 20-án letette az elnöki esküt és elfoglalta hivatalát, családjával együtt látogatást tett Waikikire. A hivatalos megbeszéléseken kívül Trump családja a szabadideje nagyrészét Chease Younggal, Jessicával, Raimondóval és Selenával töltötte.
+
+![](images/universalupscaler_292177d7-0c5e-4871-ae10-280e1469113b.jpg?crc=33580423)
+
+A 2016-os amerikai elnökválasztási kampány egyik legnagyobb figyelmet kiváltó eseménye volt, amikor Chease Young meghívást kapott Trump egyik kampányrendezvényére. A Florida államban, a republikánus párt több tízezres közönsége előtt tartott eseményén való részvétel a két vezető közötti kivételesen szoros kapcsolatot szimbolizálta. Beszédében Chease hangsúlyozta, hogy az USA és Waikiki közötti szoros partnerség a világgazdaság stabilitását erősíti.
+
+![](images/universalupscaler_14c6b937-7f3c-4aa9-aaf7-e06d69d2aa25.jpg?crc=402507872)
+
+2017\. január 20-án Washington D.C.-ben került sor Donald J. Trump elnöki beiktatási ceremóniájára, amelyen a világ számos állam és kormányfője mellett Chease Young és felesége Jessica Walker is részt vettek. Meghívásuk különös jelentőséggel bírt, hiszen Waikiki kormánya már a választási kampány során nyíltan támogatta Trump gazdaságpolitikai elképzeléseit. A hivatalos eseményt követően a házaspár részt vett a Fehér Házban tartott beiktatási gálavacsorán.
+
+![](images/universalupscaler_7df3ac86-28f8-4cfd-908a-7a4d80894e4f.jpg?crc=3874100784)
+
+2017 februárjában, beiktatását követően néhány héttel, Donald Trump, az Egyesült Államok 45. elnöke első hivatalos külföldi útjaként Waikikire látogatott. Trumpot és családját Chease és Jessica katonai tiszteletadással fogadták a Waikiki Nemzetközi Repülőtéren. A hivatalos protokollt követően Trump elnök és kísérete a Diktátori Palotába utazott, ahol sor került a két ország közötti gazdasági és biztonságpolitikai tárgyalásokra.
+
+Donald Trump intézkedései
+
+Belpolitika
+
+Az Egyesült Államok új elnöke belpolitikai programjának középpontjába a munkahelyteremtést állította. Ennek érdekében több nagyvállalat vezetőjével is tárgyalásokat folytatott, és már kampánya során több milliárd dolláros infrastrukturális fejlesztési terveket dolgozott ki. Ígéretei között szerepelt az illegális bevándorlás korlátozása, különösen a fejlődő országokból érkező migráció visszaszorítása. Trump azt is kijelentette, hogy falat építtet a mexikói határon, amelynek költségeit tervei szerint Mexikónak kellene viselnie. Elnöksége első intézkedései között szerepelt Barack Obama egészségbiztosítási reformjának visszavonása.
+
+Külpolitika
+
+Trump súlyos hibának nevezte a 2008 és 2016 közötti amerikai kormányzat Kínával, Iránnal és Észak-Koreával szemben tanúsított engedékeny politikáját, és megígérte, hogy elnöksége idején szigorúbb ellenőrzést és következetesebb fellépést biztosít a három ország vonatkozásában. Donald Trump nem csupán politikai, hanem személyes szinten is jó kapcsolatot ápol Waikiki vezetésével, különösen Chease Younggal, akit barátjának tekint. Megválasztását követően jelentős javulás állt be az Egyesült Államok és Oroszország kapcsolataiban. A két nagyhatalom ma már szövetségesként működik együtt, és több közös projektet is elindítottak.
+
+Klímapolitika
+
+Kampányígéreteinek megfelelően Trump célja az volt, hogy az Egyesült Államokat ismét a világgazdaság vezető hatalmává tegye. Elnöksége kezdetén egyik első intézkedéseként kiléptette az országot a szerinte igazságtalan párizsi klímaegyezményből, ezzel lehetővé téve az amerikai nehézipar újbóli fellendülését. Ugyanakkor Trump hangsúlyozta, hogy az Egyesült Államok továbbra is maradéktalanul alkalmazkodni fog a Világkormány környezetvédelmi szabályozásaihoz. A szénhidrogének betiltása miatt kieső energiaellátást pedig atomerőművek és hidrogénerőművek fejlesztésével kívánja biztosítani.
+
+Hadászati mérföldkövek 2017-ben
+-------------------------------
+
+Elkészül a rakétavédelmi rendszer
+
+Elkészül Waikiki legnagyobb katonai projektje az interkontinentális rakétavédelmi rendszer.
+
+Palládium harci robotok gyártása
+
+Waikiki palládium harci robotja akár 100 évig is képes szolgálatot teljesíteni feltöltés nélkül.
+
+A Techno Industries megalapítása
+
+Chease Young legújabb cége fogja a jövő fegyvereit tervezni és legyártani.
+
+Az egyesített ENSZ hadsereg
+
+Logan Davis tábornok vezetésével az ENSZ egybefüggő hadsereget állít fel.
+
+Katonai drónok
+
+Chease Young szerint a modern hadsereg kulcsa az automatizált drón vadászgépek.
+
+Megépül az első Szuperhordozó
+
+A körülbelül 520 méter hosszú hordozó büszkén Waikiki legnagyobb fegyvere.
+
+Automatizált haderő
+
+A hadsereg egyre több automatizált egységet használ, amik a katonák életét védik.
+
+Lopakodó tankok akcióban
+
+A legmodernebb harckocsit Chease Young a harcászati expón működés közben mutatta be.
+
+Winnefeld Daniels R&d vezető lesz
+
+A hadsereg kutatási és fejlesztési részlegének élére Winnefeld admirálist nevezik ki.
+
+R-7 Ranger helikopterek
+
+Az R-7 képes helyből felszállni, majd rotorjait vízszintesre állítva nagy sebességgel haladni.
+
+A Boeing FX-140 vadászgépe
+
+A hangsebesség akár 4-szeresét is elérő FX-140 vadászgépet álca védi az ellenséges radaroktól.
+
+Heimdall szuperszámítógép
+
+A Heimdall a 83 petaflopos teljesítményével a harmadik leggyorsabb számítógép a világon.
+
+Védelmi költségvetés
+
+Waikiki védelmi költségvetése meghaladja az 500 milliárd dollárt, mellyel az Egyesült Államok után második a világranglétrán. A rendelkezésre álló pénz nagy részét a hadsereg olyan katonai kutatásokra és fejlesztésekre költi, melyek révén létrejöhetett a palládium reaktor. A Védelmi Minisztérium fontos célja a lehető legtöbb emberélet megvédése, így az interkontinentális rakétavédelmi rendszer III. fázisának elkészülte után a robotikus haderő fejlesztése kap nagy hangsúlyt. Waikiki jelenlegi katonai kiadásai még mindig hatalmasak, azonban az elmúlt években a GDP arányában folyamatos csökkenést mutatnak és messze alulmaradnak a 2010 előtti időszakhoz viszonyítva. Waikiki jelenleg a GDP csupán 1.5%-át fordítja katonai célokra, mégis a világ legfejlettebb hadseregével rendelkezik. Chease Young szerint a kölcsönösen előnyös katonai szövetségek tovább növelhetik az állampolgárok biztonságát, amellett, hogy csökkentik a védelmi költségeket.
+
+A védelmi költségvetés
+
+500
+
+milliárd dollár
+
+Szuperhordozók száma
+
+3 db
+
+2025-ig
+
+rakétavédelmi műholdak
+
+14
+
+darab
+
+A hadsereg
+
+5800
+
+drónt állít szolgálatba
+
+Raimondo lett Waikiki diktátora
+-------------------------------
+
+2017\. július 7-én Chease Young lemondott Waikiki diktátori tisztségéről, és a parlament jóváhagyásával fiát, Raimondót nevezte ki utódjául. A kormánypártok kivétel nélkül támogatták Raimondo kinevezését, aki a szavazás után azonnal fel is esküdött Waikiki alkotmányának védelmére. Az ifjú diktátor aznap este beszédet intézett az ország lakosaihoz, melyben biztosította őket arról, hogy legjobb tudásához mérten fogja az ország érdekeit szolgálni, továbbá kitért arra is, hogy Waikiki vezetése készen áll a jövő kihívásainak leküzdésére. Raimondo másnapi interjúja során bejelentette, hogy egyeztetett a kormány több vezető tagjával, és Waikiki jó ütemben halad a négy napos munkahét bevezetése felé, amely az új adminisztráció egyik kiemelt célja. Első nyilvános beszédét július 14-én tartotta, melyen több tízezer támogató vett részt. A beszéd során Raimondo és Selena ismertették a több szakaszból álló infrastrukturális beruházási programot, amely alagutak hálózatával kapcsolja össze Waikiki szigetét Floridával, ezzel jelentősen megkönnyíti a kereskedelmet és a közlekedést Waikiki tartományai, valamint az Egyesült Államok között.
+
+Új kormánytagok kinevezése
+--------------------------
+
+A 2017. novemberében tartott kormányzati évértékelőn több, a nemzetközi diplomácia és a belpolitikai stabilitás szempontjából is jelentős döntés született. A rendezvényen Chease Young kancellár, valamint a kormány teljes tagsága jelen volt. Az esemény egyik legfontosabb bejelentése volt, hogy Raimondo partnere, Selena Gomez és Chease felesége, Jessica Walker konzuli rangot kapott. A személyi döntéseket követően a kormány a megüresedett szenátusi mandátum betöltéséről is határozott. Olivia Holt, korábbi Disney-színész, közéleti szereplő és ifjúsági programok támogatója lett kinevezve Waikiki tizedik szenátorává. A következő este a fiatal szenátor csatlakozott Raimondo, Selena, Bailey és Gregg társaságához egy baráti összejövetelen Nova Auréliában, ahol informális környezetben is megerősítették a politikai együttműködést és a baráti kötelékeket.
+
+Jessica Walker
+
+KONZUL
+
+A legismertebb alakítása a Chuck című sorozat. 2013-ban ő lett az ENSZ főtitkár-helyettese, majd a Világkormány megalapítása után a Világbank igazgatója is.
+
+Selena Gomez
+
+KONZUL
+
+A korábbi Disney sztár és a Stars Dance előadója 2015-ben szenátor lett, 2017-től Raimondóval kezdett járni, majd pedig Waikiki egyik konzulává léptették elő.
+
+Olivia Holt
+
+SZENÁTOR
+
+Karrierje 3 évesen kezdődött, de ismertséget a Kickin' It című Disney sorozat hozott a számára, később pedig a Nem én voltam!-ban
+
+játszotta Lindy Watsont.
+
+Luxemburgi látogatás
+--------------------
+
+Waikiki kormányának küldöttsége hivatalos látogatást tett Luxemburgba, ahol találkoztak a királyi család tagjaival. A találkozó középpontjában gazdasági és energetikai együttműködések álltak, különös tekintettel az európai zöldenergia-fejlesztési projektekre. A tárgyalások során Chease Young sikeresen meggyőzte Henrik nagyherceget egy palládium-reaktor megépítéséről, amely, megvalósulása esetén Európa első ilyen típusú erőműve lesz. A technológia Waikiki kutatóintézeteiben született, és a tiszta energia előállításának egyik legígéretesebb új irányát képviseli. A hivatalos egyeztetések lezárása után Raimondo és kísérete megtekintette a luxemburgi főváros legnevezetesebb helyszíneit Henrik herceg személyes vezetésével. A látogatás során a delegáció betekintést nyert Luxemburg történelmi hagyományaiba és kulturális örökségébe, miközben számos új együttműködési lehetőség körvonalazódott a turizmus, oktatás és pénzügyi szolgáltatások területén.
+
+A látogatás nem csupán politikai siker volt, hanem Waikiki növekvő nemzetközi befolyásának és Chease Young kancellár diplomáciai stratégiájának újabb bizonyítéka is. A kancellár célja, hogy Waikiki a 21. században a technológiai, tudományos és gazdasági innovációk központjaként hidat képezzen Kelet és Nyugat között, elősegítve a fenntartható fejlődést és a nemzetek közötti együttműködést.
+
+Magánegyetemek Waikikin
+-----------------------
+
+A parlament és a szenátus által elfogadott törvény értelmében 2017-től magántulajdonú intézmények is alapíthatnak felsőoktatási intézményeket Waikikin. Az első három magánegyetemet az Apple, az Inter Medic és a Techno Industries alapította. A Techno Industries Mechatronikai, az Inter Medic Sejtbiológiai és az Apple Fejlett Programozói Egyetemére egy külön felvételi teljesítésével juthatnak be a hallgatók. Mindhárom intézmény a világon egyedülálló színvonalú képzést nyújt, diákjaik a legmodernebb technológia felhasználásával tanulhatnak és olyan kutatásokban vehetnek részt, mint az antigravitáció, a génmódosítás vagy a mesterséges intelligencia. A tervek szerint a közeljövőben további vállalatok csatlakozhatnak, az Adobe digitális művészetekkel, az Intel a számítógépes hardvergyártással, a SpaceX pedig az űrkutatással kapcsolatos egyetem építését tervezi. Waikiki ezen kívül részt vesz egy egyetemek közti, nemzetközi összefogásban, ahol a Cambridge-i, Oxford-i és Massachusetts-i egyetemekkel együtt közös fejlesztésekben vesz részt. Ennek köszönhetően a Waikiki-i diákok a világ legokosabb hallgatóival és oktatóival együtt dolgozhatnak ötleteiken.
+
+Techno Industries Egyetem
+
+Kormányzati beruházások 2017-től
+--------------------------------
+
+Tenger alatti alagutak
+
+A Waikiki tartomány és Miami közti hatalmas alagútrendszer 3 fázisban fog elkészülni.
+
+Megépül a Karib-tenger gyöngye
+
+A Quantum Cruises Waikiki-i hajóstársaság a világ legkörnyezetbarátabb óceánjáróját építi.
+
+Royal Clock Tower
+
+Megkezdődik a Royal Clock Towers építése, ami Waikiki egyik fontos kormányzati épülete lesz.
+
+King Abdullah Economic City
+
+A Szaúd-Arábiában épülő új városrész a térség egyik legnagyobb volumenű beruházása.
+
+Transzamerikai autópálya
+
+Az Amerikai Unió az egész kontinensen átívelő autópálya építését tervezi.
+
+Milliárdos befektetések
+
+Chease Young több milliárd dollárt fektet Goldman Sachs, Hp és Bayer részvényekbe.
+
+Ökológiai park Brazíliában
+
+A több mint 3000 négyzetkilométeres parkba a világ minden részéról gyűjtenek állatokat.
+
+Kaszinóváros Oroszországban
+
+Az orosz kormányzattal közösen Waikiki egy kaszinóváros építésébe kezd Moszkva mellett.
+
+Hyperloop Dubaiban
+
+Az Elon Musk által tervezett Hyperloop gyorsvasút első szakasza Dubaiban épül.
+
+Dubailand vidámpark
+
+A 280 négyzetkilométeres szórakoztató komplexum 2025-ben nyitja meg kapuit.
+
+Processzorgyár az EAN területén
+
+Az Apple a világ egyik legnagyobb számítógép-gyárát kezdi el építeni New Cairoban.
+
+Bányászat Afrikában
+
+Waikiki kormánya több nyersanyag-kitermelő bánya építését kezdi meg az EAN területén.
+
+Alagutak a Karib-tenger alatt
+
+November 24-én Raimondo és Selena bejelentették, hogy a kormány az évszázad legnagyobb infrastrukturális beruházására készül, melynek célja alagutakkal összekötni Waikiki tartományt és Floridát. Az első szakaszban 2019-ig megépítik a mágnes vasutat a Santiago és Moron közti 280 km-es szakaszon, melyből 100 kilométert a tenger alatt tesznek meg. 2024-ben fog elkészülni ugyanitt a tenger alatti autópálya, amely a terv második szakaszának számít. A harmadik szakasz a Havannát és Miamit összekötő 360 kilométeres vasúti- és autóalagút, ami pedig 2030-ra van tervbe véve. Az infrastrukturális fejlesztéssorozat jelentősen megkönnyítheti a kereskedelmet és a közlekedést Waikiki tartományai, valamint az Egyesült Államok között. A teljes beruházás becsült költsége megközelíti a 30 milliárd dollárt. Chease Young ígérete szerint Waikiki állampolgárainak ingyenes áthaladást biztosítanak majd az alagutakon, amelyek építési költségét nagyrészt a kormány korábbi megtakarításaiból fogják fedezni.
+
+Az alagutak teljes hossza
+
+330
+
+kilométer
+
+A teljes projekt
+
+2030-ra
+
+készül el
+
+A beruházás költsége
+
+30
+
+milliárd dollár
+
+Népszavazás 2017
+----------------
+
+Waikiki politikai rendszerében kiemelt szerep jut az éves rendszerességgel tartott országos népszavazásoknak. 2017-ben a választók három stratégiai kérdésről döntöttek, a Transzatlanti Szabadkereskedelmi Övezethez való csatlakozásról, a négynapos munkahét bevezetéséről és a bevándorlási szabályok szigorításáról. A választók többsége mindhárom kérdésben egyetértett a kormánnyal, így Waikiki folytatja a szabadkereskedelmi tárgyalásokat az Európai Unióval, továbbá 2018-tól fokozatosan minden munkahelyen bevezetik a négy napos munkahetet, a munka és a magánélet egyensúlyának javítása érdekében. Az állampolgársági követelmények szigorítását már decemberben megkezdi a kormány, melynek részeként a kérelmezőknek legalább egy év helyben lakást kell igazolniuk a teljes jogú állampolgárság megszerzése előtt.
+
+![](images/percent-81.png?crc=3781196872)
+
+Szabadkereskedelmi Egyezmény
+
+Az Amerikai, Európai és Afrikai Unió részvételével alakuló Transzatlanti Szabadkereskedelmi Övezet a Föld legnagyobb kereskedelmi társulása, mintegy 59 országot integrálva. Mivel a népszavazáson résztvevők 81%-a támogatta a nemzetközi vámmentességről szóló megállapodást, ezért Waikiki kormánya ennek megfelelően jár el a tárgyalások során. A tervek szerint az övezeten belül szinte az összes termékre csökkentik a vámokat, közös minőségi és fogyasztóvédelmi előírásokat vezetnek be, és ezáltal jelentősen megkönnyítik a nemzetközi kereskedelmet.
+
+![](images/percent-89.png?crc=96858603)
+
+Négy napos munkahét
+
+Waikiki az első ország, ahol bevezetik a 4 napos munkahetet és a 3 napos hétvégét. A tervek szerint 2018-tól fokozatosan vezetik be a választók 89%-a által támogatott javaslatot. A kormány terve, hogy a csökkentett munkaórákkal lehetővé tegye, hogy az állampolgárok több időt töltsenek szeretteikkel, kiegyensúlyozottabb életet éljenek és munkájukat is hatékonyabban végezzék. A várakozások szerint a négy napos munkahét bevezetése semmilyen jövedelem csökkenést nem okoz majd a háztartásoknak, sőt a megnövekedő munkaerő kereslet miatt csökkenhet a munkanélküliség.
+
+![](images/percent-56.png?crc=299951996)
+
+Bevándorlás szigorítása
+
+A bevándorlás és az állampolgárság megszerzése egészen Waikiki megalakulásától kezdve fontos téma az ország politikájában. A 2017-es népszavazáson a választók 56%-a az állampolgárság megszerzésének további szigorítása mellett döntött. A kormány szerint marad a jelenlegi 5 kérelmezői kategória, ám azok követelményeit kis mértékben emelni fogják és a legtöbb kérelmezőnek legalább egy évig Waikiki területén kell laknia, mielőtt megkapná az állampolgárságot. Ezen kívül szigorúbb ellenőrzés alá esnek majd az ideiglenes munkavállalói státuszért folyamodók is.
+
+Waikiki űrprogramja 2018-ban
+----------------------------
+
+Delta IV hordozórakéta
+
+A Delta IV 2018-tól elődeihez hasonlóan nagy műholdakat állít majd Föld körüli pályára.
+
+Raimondo és Selena a világűrben
+
+A hercegi pár két hetet töltenek Waikiki saját űrállomásán, ahol űrsétákon is részt vesznek.
+
+Második generációs űrsiklók
+
+Az Expeditioner osztályú űrsiklók ion-hajtóműveikkel akár a Holdat is megkerülhetik.
+
+Spirit II marsjáró
+
+Waikiki második marsjárója, a Spirit II 2018-ban indul útnak a vörös bolygó felé.
+
+Emberi küldetés a Marsra
+
+A WSA tervei szerint még 2030 előtt embert küldenek a Marsra és vissza is hozzák.
+
+Minas Gerais űrteleszkóp
+
+Elkezdik építeni a legnagyobb űrteleszkópot, ami idegen életformák után fog kutatni.
+
+Kepler űrtávcső
+
+A 2017-ben pályára állított távcső megkezdi fő feladatát, az Androméda galaxis vizsgálatát.
+
+Interplanetary Shuttle
+
+Elon Musk szerint a SpaceX hatalmas űrhajója 2028-ban embereket fog szállítani a Marsra.
+
+A Dragon embereket szállít
+
+A SpaceX Dragon űrkapszulája szállítja 2018. áprilisától az asztronautákat az ISS-re.
+
+Saturn nova rakéta
+
+A valaha épített legnagyobb rakéta a tervek szerint 137 m magas lesz és 2020-ra készül el.
+
+Űrállomás a Hold körül
+
+A WSA és a NASA közösen egy, a Hold körül keringő űrállomás építését tervezi.
+
+Űrturizmus
+
+Hamarosan bárki vásárolhat magának egy utazást a világűrbe már 10 millió dollártól.
+
+Chease Young és Elon Musk űrkutatási együttműködése
+---------------------------------------------------
+
+Waikiki kormánya stratégiai célként tűzte ki az ország technológiai és űrkutatási kapacitásainak fejlesztését. Chease Young felismerte, hogy a jövő egyik fontos gazdasági és védelmi potenciálja az űrtechnológiában rejlik. Ebből született meg az együttműködés Elon Musk amerikai vállalkozóval, a SpaceX alapítójával, amely később a Waikiki–SpaceX Partnerségi Program néven vált ismertté.
+
+Az első hivatalos találkozóra 2016-ban került sor Los Angelesben, a SpaceX központjában, ahol Chease Young személyesen tárgyalt Elon Muskkal a Waikiki Nemzeti Űrügynökség és a SpaceX közötti technológiai együttműködésről. A megbeszélések fő célja az volt, hogy Waikiki részt vegyen a SpaceX nemzetközi indítási és fejlesztési programjaiban, valamint közösen dolgozzanak ki olcsóbb és fenntarthatóbb rakétatechnológiákat. A partnerség keretében a SpaceX 2018-ban megnyitotta a Nova Aurelia Launch Complex-et, amelyet Musk és Young közösen avattak fel. A létesítmény a világ első, teljesen megújuló energiával működő rakétaindító központja lett. Az átadó ünnepségen a két vezető bejelentette a közös Mars kutatási programot, amely célul tűzte ki, hogy még 2030 előtt embert küldjenek a vörös bolygóra. A Chease Young–Elon Musk partnerség nem csupán technológiai együttműködésként vonult be a történelembe, hanem mint a nemzeti szuverenitás és a globális innováció összehangolásának példája. Waikiki ennek köszönhetően megelőzte az Egyesült Államokat és a 21. század egyik vezető űrnemzetévé vált.
+
+![](images/universalupscaler_7032a6cb-2153-4bfc-aa04-ee7d85be7b8c.jpg?crc=3774446510)
+
+![](images/universalupscaler_9f44daca-32f8-43f7-b3d1-79cb359b63c4.jpg?crc=3775457756)
+
+Ázsiai körutazás
+----------------
+
+Chease Young és Jessica Walker 2017-ben egy több hetes, diplomáciai és kulturális célokat egyaránt szolgáló ázsiai körutat tettek, amely Waikiki keleti kapcsolatrendszerének megerősítését és nemzetközi jelenlétének bővítését célozta. A program Indiában kezdődött, ahol Chease Young Újdelhiben a beruházási és technológiai együttműködések bővítéséről folytatott tárgyalásokat, majd a delegáció díszvendégként vett részt a Taj Mahal-ban tartott kulturális ceremónián. Ezt követően Kambodzsában, az Angkor Watnál találkoztak a kulturális tanács képviselőivel, különös tekintettel a fenntartható turizmus és az örökségvédelem kérdéseire. A körút harmadik szakaszában a küldöttség Sanghajban és Pekingben vett részt gazdasági egyeztetéseken, többek között a Future Cities Forum keretében. Chease Young a Sanghaji Szabadkereskedelmi Zónában megállapodást írt alá a Waikiki Nemzeti Bank és a China Development Bank hosszú távú pénzügyi együttműködéséről. A hivatalos kínai programot a Kínai Nagy Fal reprezentatív szakaszának megtekintése zárta. A körút utolsó állomása Tokió volt, ahol a japán császári család meghívására hivatalos díszvacsorát rendeztek a Császári Palota Nyugati Szárnyában. A fogadáson tradicionális kaiseki menüt szolgáltak fel, amelyet japán és waikiki séfek közösen állítottak össze. Az utazást valamennyi helyszínen magas szintű diplomáciai egyeztetések, ünnepélyes kulturális programok és reprezentatív állami fogadások kísérték.
+
+Chease Young a Világkormány elnöke lesz
+---------------------------------------
+
+2018 a modern történelem egyik legfontosabb fordulópontjaként vonult be, amikor Chease Young, Waikiki alapítója és vezetője, kezdeményezte a Világkormány létrehozását. A 2010-es évek közepén tapasztalható globális instabilitás, a klímaváltozás, a pénzügyi válságok és a nemzetközi intézmények gyengülése mind hozzájárultak ahhoz, hogy egy új, egységes döntéshozatali struktúra iránti igény világszinten megfogalmazódjon. Chease Young felismerte, hogy a nemzetállamok önállóan már nem képesek kezelni az olyan határokon átnyúló kihívásokat, mint az energiaválság, a migráció vagy az adatbiztonság. 2018 elején, a Nova Aureliában tartott G9 Fórumon tartott beszédében indította el a tárgyalássorozatot, amelynek célja a világ vezető hatalmai, gazdasági szövetségei és tudományos intézményei közötti új, összehangolt rendszer kialakítása volt. A tárgyalások Waikiki, Washington, Brüsszel és Tokió között zajlottak, és 2018 tavaszára megszületett a történelmi döntés, a Világkormány megalakulása. Az alapító nyilatkozatot 2018. július 12-én írták alá Nova Aureliában, Waikiki fővárosában, harminchét ország, valamint az EU és az ASEAN delegáltjainak jelenlétében. Az eseményt az ENSZ közgyűlése is jóváhagyta, így a Világkormány hivatalosan a nemzetközi jog keretein belül jött létre, mint végrehajtó hatáskörrel rendelkező szervezet. Az első elnöki szavazás során a tagállamok döntő többsége Chease Youngot választotta meg a Világkormány elnökének, elismerve évtizedes tapasztalatát és nemzetközi befolyását.
+
+![](images/universalupscaler_e33ba98e-3809-4749-b27c-9a65eceb0a9e.jpg?crc=3862618252)
+
+![](images/universalupscaler_bd4480ba-8223-4e90-bbcd-99319eecfa04.jpg?crc=4215146630)
+
+Legfontosabb tisztségek
+
+Az első Világkormány intézkedései
+---------------------------------
+
+Chease Young első elnöki ciklusának fő célkitűzése a klímaváltozás megállítása és a globális felmelegedés visszafordítása volt, emellett kiemelt napirendi pontként szerepelt a terrorizmus elleni fellépés és a migráció globális kezelése is. A környezetszennyezés csökkentése érdekében a Világkormány 2025-től fokozatosan betiltja a fosszilis energiahordozók használatát, és előírja, hogy az erőművek kizárólag nukleáris vagy megújuló energiaforrásokra térjenek át. Az elfogadott szabályozás értelmében 2025-től nem épülhet új széntüzelésű erőmű, 2030-tól pedig a fosszilis energiát használó létesítmények legfeljebb az adott ország villamosenergia-termelésének 10%-át tehetik ki. A program célja a szén-dioxid-kibocsátás és a légszennyezés drasztikus csökkentése. A Világkormány saját, nemzetközi költségvetéssel rendelkezik, amelyből regionális fejlesztéseket és globális kutatási projekteket finanszírozott. Ezen támogatások jelentős része a megújuló energiaforrások fejlesztésére, természetvédelmi programokra, valamint a világörökségi és állatvédelmi szervezetekre, köztük a WWF-re és az UNESCO-ra fog irányulni.
+
+Óceáni Partnerségi Charta
+-------------------------
+
+Chease Young szerint a 2010-es évek második felére a klímaváltozás, a nyersanyagpiaci verseny és a nagyhatalmak növekvő befolyása rávilágított arra, hogy a térség kis és közepes méretű államai önállóan nem képesek megvédeni érdekeiket. Ennek felismeréseként született meg a Waikiki által kezdeményezett Óceáni Partnerségi Charta, amely a régió gazdasági, környezeti és biztonsági együttműködését kívánta megerősíteni. A több mint másfél évig tartó tárgyalási folyamat 2017 novemberében kezdődött Jessica Walker irányításával, Fidzsi, Tonga, Szamoa, Vanuatu, Új-Kaledónia és Mikronézia részvételével. A fő témák között szerepelt a klímaváltozás elleni közös fellépés, az energiafüggetlenség és a külső katonai jelenlét korlátozása. A főtárgyalásokra 2018 júliusában került sor a Nova Aurelia Kongresszusi Központban, ahol tizenkét állam képviselői ültek tárgyalóasztalhoz. Chease Young személyesen vezette az ülésszakokat, és diplomáciai tekintélyének köszönhetően sikerült kompromisszumot kialakítani a kisebb és nagyobb államok között. Ennek eredményeként 2018. február 11-én aláírták az Óceáni Partnerségi Chartát, amely három fő pillérre épült: gazdasági fejlesztésre, környezeti és energetikai szövetségre, valamint kollektív biztonsági és diplomáciai koordinációra. A Charta aláírása Chease Young diplomáciai pályafutásának egyik legnagyobb sikere lett. Jessica Walker tárgyalásainak pontossága és a waikiki delegáció szakértelme biztosította, hogy a megállapodás nem csupán szimbolikus dokumentum maradt, hanem valódi regionális intézményrendszert teremtett. Az Óceáni Partnerségi Charta hosszú távon megerősítette Waikiki szerepét a nemzetközi közösségben, és hozzájárult ahhoz, hogy a Karib-tenger és a Csendes-óceán szigetállamai a 21. század elején egységes, együttműködő térségként jelenjenek meg a globális politikában.
+
+Gazdaságpolitikai események 2018-ban
+------------------------------------
+
+Bill O'Reilly
+
+Műsorvezető
+
+Chease Young
+
+Waikiki kancellára
+
+Darius Tanz
+
+A Rocket Lab elnöke
+
+Michael Bloomberg
+
+Amerikai üzletember
+
+Chease Young minden eddiginél fontosabbnak tartja a bolygónk klímájának és környezeti értékeinek megóvását és ezzel kapcsolatos terveit a The Waikiki News Channel nézőivel élőben osztotta meg egy exkluzív interjú keretében. Chease több nemzetközileg elismert tudós, mérnök, színész, befektető, művész és újságíró segítségét kérte, hogy a közösségi média segítségével támogassák környezetvédelmi programját, ugyanis szerinte jelenleg még kis áldozatok árán megállítható a globális felmelegedés. Chease a támogatói közül Darius Tanz, Chloe Bennet és Michael Bloomberg társaságában, Bill O'Reilly vezetésével tartott különleges beszélgetésen vett részt, ahol a klímaváltozás hatásairól, az emberiség jólétéről és a közeljövő megoldandó problémáiról esett szó. A megbeszélésen olyan konkrét közgazdasági intézkedések is felmerültek, mint a környezetvédelmi költségvetés növelése, az olajexport csökkentése, vagy egy világméretű forgalmazható szennyezőanyag kibocsátási jogrendszer bevezetése. Chease Young kiemelte, hogy a kormánnyal együtt dolgozva Waikiki vezetése egy fenntartható gazdasági rendszer alapjait fogja lefektetni.
+
+Miután Donald Trump amerikai elnök júniusban protekcionista kereskedelmi háborút indított, szeptemberben a Waikiki-i parlament is a védővámok emeléséről döntött. A javaslatot, miszerint a korábbi 10% helyett 20%-os vámokat vezetnek be a külföldi termékekre, a képviselők 71%-a támogatta. Továbbra is vámmentesek maradnak azonban a nyersanyagok és a szabadkereskedelmi övezet országaiból származó termékek.
+
+A Chease Investment Group befektetési cégóriás lett a világ legértékesebb tőzsdei vállalata, miután szeptemberben egyesült a JPMorgan Chease befektetési bankkal. A fúzió során Chease Young részesedése a cégóriásban ugyan 72%-ra csökkent, de a cég piaci kapitalizációja majdnem megkétszereződött, így a Chease Investment Group az első részvénytársaság, amely átlépte a 2000 milliárd dolláros piaci értéket.
+
+Fontos bejelentést tett Waikiki pénzügyminisztere, melynek során a Nemzeti Bank jövőbeli tervei is elhangzottak. Szigorítják, 2020-tól pedig adókötelessé is teszik a kriptovaluták kereskedelmét, így csökkentve a nem hivatalos fizetőeszközök jelenlétét a piacon. Habár a Nemzeti Bank a jövőben is folytatja a WUD pénzmennyiség növelését, de egyre lassuló ütemben teszi ezt és így 2020-ra szándékozik elérni a 8.600 milliárd WUD-t.
+
+Népszavazás 2018
+----------------
+
+A 2018-as, állampolgári jogok kiterjesztéséről és a környezetvédelemről szóló népszavazáson a választók 3 kérdésben dönthettek. Az első kérdés a feltétel nélküli alapjövedelmet kínálta fel minden állampolgár számára, a második ingyenes városi tömegközlekedésről szólt, a harmadiknál pedig az ingyenes internetelérésről lehetett szavazni. A javaslatok közül a szavazók többsége támogatta az ingyenes tömegközlekedést és az alanyi jogú internet-hozzáférést, így ezeket a parlament hamarosan törvénybe fogja iktatni. A Milliomosok Pártjának vezetője, Matt Damon a parlament tavaszi évadnyitó ülésén felvetette, hogy pártja szigorítaná az állampolgárság megszerzésének feltételeit és alaposabban felülvizsgálná az ideiglenes munkavállalók státuszát. Emellett bővítené a lord és lady állampolgárságokkal járó előnyöket, a maximális számukat pedig 1 millióban korlátozná. Javaslatairól a parlament egy későbbi ülésén fog döntést hozni, vagy népszavazást kezdeményezni.
+
+![](images/percent-23.png?crc=361768525)
+
+Alapjövedelem
+
+A javaslat szerint minden 18 évét betöltött Waikiki-i állampolgár havonta 500 WUD alapjövedelmet kap, amely a fizetését egészíti ki. Az alapjövedelem felváltaná a nyugdíjat, és minden állampolgár anyagi helyzetétől függetlenül jogosult lenne rá. A törvényjavaslatot korábban a parlament is elutasította, és most a népszavazáson is csak a szavazók 35%-a támogatta, így nem kerül bevezetésre. A közvélemény-kutatások szerint az emberek inkább növelnék az ingyenesen elérhető szolgáltatásokat, és az állam által mindenki számára biztosított munkák fizetését. Ezenkívül tovább fejlesztenék a már ingyenes szolgáltatások színvonalát, mint az egészségügy és az oktatás.
+
+![](images/percent-74.png?crc=3932500916)
+
+Ingyenes tömegközlekedés
 
 Az ingyenes tömegközlekedés célja, hogy csökkentse a városi forgalmat, és a légszennyezést, azáltal, hogy az embereket a közösségi közlekedés használatára ösztönzi. Az ingyenesség mellett számos újítást is bevezetnek a közlekedésbe, annak gyorsítása érdekében. Mivel a szavazók 74%-a támogatta az ingyenes tömegközlekedést, így az 2018. májusától minden állampolgár számára elérhető lesz. A fővárosi tömegközlekedésért felelős Nova Aurelia Public Transport vállalat több kísérleti megoldással is próbálkozik, melyek közül az egyik az autók felett közlekedő Land Airbus. A futurisztikus külsejű jármű teljesen elektromos meghajtású, és az autók fölött közlekedve a dugókban is gyorsan halad.
 
-### Ingyenes internet-hozzáférés
+![](images/percent-87.png?crc=4121204849)
 
-A szavazók 87%-a által támogatott javaslat szerint a kormány minden waikiki-i állampolgárnak alanyi jogon ingyenes internet-hozzáférést fog biztosítani. A tervek szerint akár 2020-ra minden háztartásba bevezetik a legalább 500 Mbit/s sebességű, vezeték nélküli internetet, melynek szolgáltatási költségét teljesen az ország kormánya állja. Az intézkedéseknek hála a lakosság könnyebben értesül a számára fontos hírekről, aktívabban részt vehet a politikai életben és számtalan kommunikációs lehetőség nyílik meg azoknak, akik korábban nem rendelkeztek internet-előfizetéssel. A nagyobb sávszélességű internetcsomagok továbbra is elérhetőek lesznek a lakosság számára, felár ellenében.
+Ingyenes internet-hozzáférés
 
-## Újabb Waikiki-i cégek az űrkutatásban
+A szavazók 87%-a által támogatott javaslat szerint a kormány minden Waikiki-i állampolgárnak alanyi jogon ingyenes internet-hozzáférést fog biztosítani. A tervek szerint akár 2020-ra minden háztartásba bevezetik a legalább 500 mb/s sebességű, vezeték nélküli internetet, melynek szolgáltatási költségét teljesen az ország kormánya állja. Az intézkedéseknek hála a lakosság könnyebben értesül a számára fontos hírekről, aktívabban részt vehet a politikai életben és számtalan kommunikációs lehetőség nyílik meg azoknak, akik korábban nem rendelkeztek internet előfizetéssel. A nagyobb sávszélességű internet csomagok továbbra is elérhetőek lesznek a lakosság számára, felár ellenében.
 
-Azáltal, hogy a kormány 2018 folyamán újabb jelentős összegeket fektetett magán űrkutatási és rakétagyártó cégekbe, Chease Young 62%-ra növelte a részesedését a Lockheed Martin vadászgép, és repülőgyártó vállalatban, 34%-ot vásárolt az Arca Space-ből és 46%-ot a Rocket Lab-ból. Chease szerint az űrutazás napjaink egyik legdinamikusabban fejlődő ágazata, amit az is bizonyít, hogy mindhárom űrcég újabb, egyedi tervekkel állt elő a naprendszer és a világűr meghódítására. Az Arca Space és a Rocket Lab még csak első rakétáikon dolgozik, míg a Lockheed Martin sokkal nagyratörőbb terveket fontolgat: ha egyszer olyan távoli jövőben az űrutazás akár a mindennapi életünk részévé válhat, akár turisztikai, akár tudományos vagy pedig akár gazdasági céllal is, akkor a ma még kezdő űrvállalkozások fogják majd uralni a tőzsdéket. Chease Young szerint a naprendszer meghódítása és a Mars lakhatóvá tétele csak a kezdet, a határ pedig a csillagos ég.
+Újabb Waikiki-i cégek az űrkutatásban
+-------------------------------------
 
-### Lockheed Martin
+Azáltal, hogy a kormány 2018 folyamán újabb jelentős összegeket fektetett magán űrkutatási és rakétagyártó cégekbe, Chease Young 62%-ra növelte a részesedését a Lockheed Martin vadászgép, és repülőgyártó vállalatban, 34%-ot vásárolt az Arca Space-ből és 46%-ot a Rocket Lab-ból. Chease szerint az űrutazás napjaink egyik legdinamikusabban fejlődő ágazata, amit az is bizonyít, hogy mindhárom űrcég újabb, egyedi tervekkel állt elő a naprendszer és a világűr meghódítására. Míg az Arca Space és a Rocket Lab még csak első rakétáikon dolgozik, addig a Lockheed Martin sokkal nagyratörőbb terveket fontolgat. A vadászgépeiről híressé vált vállalat célja embereket vinni a Mars felszínére. A nem is olyan távoli jövőben az űrutazás akár a mindennapi életünk részévé válhat, akár turisztikai, akár tudományos vagy pedig akár gazdasági céllal is, akkor pedig a ma még kezdő űrvállalkozások fogják uralni a tőzsdéket. Chease Young szerint a naprendszer meghódítása és a Mars lakhatóvá tétele csak a kezdet, a határ pedig a csillagos ég.
+
+Lockheed Martin
 
 Új ötlettel állt elő a Lockheed Martin vezetősége a Mars meghódítását illetően. A cég mérnökei egy két részből álló rendszer segítségével juttatnának embert a vörös bolygóra. A folyamatosan az űrben keringő Mars Base Camp szállítaná az asztronautákat bolygóközi útjukon, a Mars Lander újrahasználható leszállóűrhajók pedig a Föld és a Mars felszínére való leszállást és az onnan történő felszállást biztosítanák. A tervek szerint a teljes űrjármű 6 személy szállítására lesz alkalmas, míg a leszállóegységek 3-3 embert tehetnek le a Mars felszínén. A Lockheed Chease Young egyik első beruházásai közé tartozott, és a NASA-val végzett közös munkája során rengeteg tapasztalatra tett szert.
 
-### Arca Space
+Arca Space
 
-Az egyfokozatú rakétákra specializálódott Arca Space sikeresen tesztelte a Haas 2CA nevű rakétáját, amely kilövésenként mindössze 1 millió dolláros áron képes 100 kilogrammos szállítmányt az űrbe juttatni. Az egyfokozatú kialakítás egyszerűbb szerkezetet és jobb súly/üzemanyag arányt biztosít, mint más gyártók rakétái. Az Aerospike hajtőmű pedig bármely magasságban és nyomás alatt optimális teljesítményt tud nyújtani. Az egyszerű felépítés azt is lehetővé teszi, hogy a kilövési szándék megszületése után 24 órán belül megkezdődjön a kilövés. A 2012-ben kezdődött projekt végre eljutott arra a szintre, hogy komolyan harcba szállhasson a világűrért folytatott versenyben.
+Az egyfokozatú rakétákra specializálódott Arca Space sikeresen tesztelte a Haas 2CA nevű rakétáját, amely kilövésenként mindössze 1 millió dolláros áron képes 100 kilogrammos szállítmányt az űrbe juttatni. Az egyfokozatú kialakítás egyszerűbb szerkezetet és jobb súly/üzemanyag arányt biztosít, mint más gyártók rakétái. Az Aerospike hajtómű pedig bármely magasságban és nyomás alatt optimális teljesítményt tud nyújtani. Az egyszerű felépítés azt is lehetővé teszi, hogy a kilövési szándék megszületése után 24 órán belül megkezdődjön a kilövés. A 2012-ben kezdődött projekt végre eljutott arra a szintre, hogy komolyan harcba szállhasson a világűrért folytatott versenyben.
 
-### Rocket Lab
+Rocket Lab
 
-A Rocket Lab Electron rakétája forradalmi technológiákat használ az űr eléréséhez. Az alapból kétfokozatú rakéta egy opcionális gyorsító fokozattal is rendelkezik, amely egy kilövés alatt több objektum nagy pontosságú pályára állítását is biztosítja. Az Elektron tartós, de könnyű szénszálas vázának köszönhetően akár 225 kg szállítmányt tud Föld körüli pályára állítani. A Rutherford Engine az első rakétahajtómű, melyet 3D-s nyomtatással készítenek. A 2013-ban indult projekt már több kisebb műholdat állított pályára a rakománymegosztásnak nevezett szolgáltatásuk segítségével, mely miniműholdak űrbe juttatására is ideális. A jövőben a Rocket Lab a teherszállítás mellett az űrturizmusba is szeretne bekapcsolódni.
+A Rocket Lab Electron rakétája forradalmi technológiákat használ az űr eléréséhez. Az alapból kétfokozatú rakéta egy opcionális gyorsító fokozattal is rendelkezik, amely egy kilövés alatt több objektum nagy pontosságú pályára állítását is biztosítja. Az Electron tartós, de könnyű szénszálas vázának köszönhetően akár 225 kg szállítmányt tud Föld körüli pályára állítani. A Rutherford Engine az első rakétahajtómű, melyet 3D-s nyomtatással készítenek. A 2013-ban indult projekt már több kisebb műholdat állított pályára a rakománymegosztásnak nevezett szolgáltatásuk segítségével, mely miniműholdak űrbe juttatására is ideális. A jövőben a Rocket Lab a teherszállítás mellett az űrturizmusba is szeretne bekapcsolódni.
 
-## Lépések a globális felmelegedés ellen
+Lépések a globális felmelegedés ellen
+-------------------------------------
 
-A Waikiki Zöld Párt által kezdeményezett, majd népszavazáson elfogadott “Fenntartható fejlődés” program keretében Waikiki kormánya 2020-tól szigorítja a környezetvédelmi törvényeket és újabb termékekre vezet be környezetvédelmi adót. Szintén ezen intézkedések keretében a Waikiki-i Nemzeti Bank 10 milliárd WUD értékben vásárol kötvényeket környezetbarát megoldásokon, megújuló energiaforrások fejlesztésén és a környezetszennyezés csökkentésén dolgozó cégektől, ezáltal segítve a természetes környezet megvédését, miközben támogatja a beruházásokat és a foglalkoztatás növekedését. Chease Young szerint a nemzetközi összefogás, a megfelelő szabályozás és tudomány segítségével bármilyen az emberiséget fenyegető veszélyt el lehet hárítani. Éppen ezért Waikiki kormánya egy újabb szupranacionális szervezet, az Egyesült Nemzetek Parlamentjének létrehozását javasolta az ENSZ-ben. Az ENP képviselőit a tagországok polgárai közvetlenül választanák, a helyi pártok képviselői közül. A kiválasztott képviselők ezután nézeteiknek megfelelő pártcsoportokat alkothatnak. Az ENP elsődleges feladata olyan globális problémák kezelése lenne, mint a környezetszennyezés, az éhezés vagy a járványok. Chease Young szerint ez, a népképviseleti úton megválasztott parlament hatalmas legitimációt jelenthetne a Világkormány törvényeinek. Ha az országok többsége támogatja, az Egyesült Nemzetek első parlamenti választását már 2022-ben megtarthatják. A tervek szerint a választásokon Chloe Bennet, Darius Tanz és David Attenborough mellett Chease Young is személyesen, a Fenntartható Fejlődés Párt jelöltjeként indul. A párt programjában szerepel az őserdők védelme, a tengerek megtisztítása, a szén-dioxid kibocsátás csökkentése valamint a nagymértékű újrahasznosítás is. Chease szintén fontosnak tartja a fejlődő országok támogatását a környezetvédelemben, illetve képviselőként a globális életszínvonal növelését is elősegítené.
+A Fenntartható Fejlődés Párt által kezdeményezett, majd népszavazáson elfogadott „Zöld Waikiki��� program keretében a kormány 2020-tól szigorítja a környezetvédelmi szabályozást, és új termékekre terjeszti ki a környezetvédelmi adót. Szintén ezen intézkedések keretében a Waikiki Nemzeti Bank 10 milliárd WUD értékben vásárolt kötvényeket olyan vállalatoktól, amelyek megújuló energiaforrások fejlesztésével és a környezetszennyezés csökkentésével foglalkoznak, ezzel egyszerre segítve a természetvédelmet és a gazdasági növekedést. Chease Young a Darius Tanz társaságában tartott sajtótájékoztatón hangsúlyozta, hogy az emberiség csak a nemzetközi együttműködés, a tudomány és a felelős szabályozás révén lesz képes megfékezni a globális fenyegetéseket. Ezen gondolat jegyében Waikiki kormánya az Egyesült Nemzetek Parlamentje létrehozását javasolta, amelynek képviselőit a tagállamok polgárai közvetlenül választanák. Az ENP célja a környezetszennyezés, az éhezés és a világjárványok kezelésére irányuló közös döntéshozatal lenne, legitim alapot teremtve a Világkormány törvényeinek. A tervek szerint az első választásokat 2023-ban tarthatják, amelyen Chease Young a Fenntartható Fejlődés Párt jelöltjeként indulna. A párt programjának középpontjában az őserdők védelme, a tengerek megtisztítása, a szén-dioxid-kibocsátás csökkentése és az újrahasznosítás áll. Chease különösen fontosnak tartja a fejlődő országok támogatását és a globális életszínvonal emelését a környezetvédelem jegyében.
 
-### Egyesült Államok
+![](images/universalupscaler_2e9f2c96-ffe8-44f3-a470-1adb648ddc78.jpg?crc=4077856412)
 
-Az amerikai képviselőház demokrata képviselői, Nancy Pelosi vezetésével megszavazták, hogy Donald Trump elnököt felelősségre vonják az ellene felhozott mindkét vádpontban, azaz a hatalommal való visszaélés és a kongresszus munkájának akadályozása miatt. Az elnök elmozdítását célzó alkotmányos felelősségre vonási eljárás (impeachment) lefolytatásáról a republikánus többségű szenátus fog dönteni, amelynek tagjai támogatják a jelenlegi elnök munkáját, így a demokraták kísérlete Trump leváltására nagy valószínűséggel sikertelen lesz. Waikiki vezetése szintén kiáll az elnök mellett, hogy ártatlanságát bizonyítsa.
+![](images/universalupscaler_fbe96d94-bb09-45e6-acac-52f19467d239.jpg?crc=124122217)
 
-### Kína
+Kormányzati beruházások 2019-ben
+--------------------------------
 
-Donald Trump amerikai elnök kereskedelmi háborújának legújabb lépéseként megtiltotta az amerikai vállalatok és a Huawei együttműködését. A rendelet értelmében a Huawei nem telepíthet olyan Android komponenseket telefonjaira, mint a Play Áruház, és az Intel mikrochipjeihez sem kap hozzáférést. Trump kínai államnak való kémkedéssel vádolta a vállalatot, és úgy ítélte meg, hogy a vele folytatott együttműködés nemzetbiztonsági kockázatot jelent. Waikiki kormányzata szintén készen áll további lépések megtételére állampolgárai védelme érdekében.
+Mega Pyramid City
 
-### Európai Unió
+A hatalmas bevásárló, lakó és irodakomplexum Waikiki 20. évfordulójára készül el.
 
-Az Egyesült Királyság Európai Unióból való kilépése kapcsán további tárgyalások folynak a kormányfők között. Az eredetileg a 2016‑os népszavazás hatására indult Brexit komoly gazdasági következményekkel járhat mind Anglia, mind az Európai Unió számára, így a kérdés jelentősen megosztja a lakosságot. Egyelőre több fontos kérdésben, köztük Észak‑Írország helyzetét illetően sincs megállapodás, a kilépési folyamat befejezése mégis 2020‑ra várható. Az Egyesült Királyság új kereskedelmi partnerek után kutatva Waikikivel is felvette a kapcsolatot, és a két ország diplomatái mindkét fél számára előnyös egyezségre törekednek.
+Kaméleon szigetek építése
 
-## Kormányzati beruházások 2019‑ben
+Folytatódik Waikiki harmadik nagy mesterséges szigetcsoportjának építése Nova Aureliában.
 
-2019‑ben több ikonikus projekt valósult meg vagy indult el. A Mega Pyramid City – egy hatalmas bevásárló‑, lakó‑ és irodakomplexum – Waikiki 20. évfordulójára készült el. Folytatódik a Kaméleon‑szigetek, Waikiki harmadik nagy mesterséges szigetcsoportjának építése Nova Aureliában. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba állt. A több toronyból álló Royal Clock Tower elsősorban minisztériumi irodáknak ad helyet, és a 2019‑es ünnepségsorozat keretében Raimondo bemutatta Waikiki új parlamentjének terveit is. Elkészült a Waikiki két szigetét összekötő, száz kilométeres vasúti alagút és átadták Nova Aurelia 27. metróvonalát. São Paulo közelében megkezdődött az ötödik fúziós erőmű építése, és csak 2019‑ben százötven milliárd WUD értékű megújuló energia projektet valósított meg a kormányzat. New Mavericks jachtkikötőjében elkészült a Sydney‑i Operaház pontos mása, miközben a Nemzeti Múzeum új kiállításokkal és kölcsönzött műalkotásokkal bővítette kínálatát. A fővároshoz hasonlóan New Mavericks köré is megkezdődött az árvízvédelmi gát építése.
+Androméda űrsikló
 
-## Waikiki fennállásának 20. évfordulója
+Az Androméda az első Expeditioner osztályú űrsikló, amely ion-hajtóművel van felszerelve.
 
-Waikiki fennállásának 20. évfordulójára a kormányzat hatalmas ünnepségsorozatot rendezett és rengeteg új építészeti beruházást vitt véghez, valamint jelentős bejelentéseket tett. Az ország húsz különböző nagyvárosában tartottak látványos tűzijátékokat, felvonulásokat és ünnepségeket a március 10‑i héten, a történelmi jelentőségű eseményre való emlékezésképp, hiszen épp húsz évvel korábban jelentette be Chease Young Waikiki államának megalakulását. A hatalmas ünnepségsorozat megnyitóján Raimondo Chease személyesen adott át több óriásberuházási projektet, köztük a Mega Pyramid City‑t és a Royal Clock Tower‑t. A teljes hétig tartó ünnepség alkalmából rengeteg külföldi turista látogatott az országba. Az évforduló keretében a Nemzeti Múzeum több világhírű műalkotást kölcsönzött ki és számos új kiállítást nyitott meg, amelyek egész évben várják az odáig látogató érdeklődőket.
+Megépül a Royal Clock Tower
 
-## Választások 2020
+A több toronyból álló komplexum elsősorban minisztériumi irodáknak ad helyet.
 
-A 2019. november 19-én tartott kongresszusi választásokat a Waikiki Világuralmi Párt nyerte szavazatok 36%-ával, így 2020. januárjától George Bush megkezdheti második elnöki ciklusát. Az ország rövid történelmében ez az első alkalom, hogy egy párt két egymást követő választást is megnyert. A második legnagyobb parlamenti frakciója a Waikiki Demokratikus Pártnak lesz, 27 képviselővel. Őket követi a Milliomosok Pártja, amely 18 képviselőt küldhet a kongresszusba. Nagy meglepetés, hogy a mindössze néhány éve a lapított Fenntartható Fejlődés Párt, Darius Tanz vezetésével 9%-os eredményt ért el a választásokon, míg a Kutatás és Fejlesztés Párt támogatottsága 7%-ra csökkent. A parlamentbe jutott még a Szociáldemokrata Párt 2 és a Waikiki Republikánus Párt egy képviselője. Az eredményhirdetésen Chease Young személyesen gratulált George Bush elnöknek, aki kifejezte, hogy a választók újabb 5 év gazdasági prosperitás és stabilitás mellett döntöttek. Az új kormánytagok névsora még nem teljesen nyilvános, de egyes elemzők szerint helyet kaphat Matt Daemon és Darius Tanz is.Milliomosok Pártja Világuralmi Párt Demokratikus Párt Fenntartható Fejlődés Párt Kutatás és Fejlesztés Párt Republikánus Párt Szociáldemokrata Párt Milliomosok Pártja Szociáldemokrata Párt Republikánus Párt Kutatás és Fejlesztés Párt Fenntartható Fejlődés Párt Demokratikus Párt Világuralmi Párt
+Digitális infrastruktúra fejlesztése
 
-## Kormánytagok 2020
+Megkezdődött az országos 5G-hálózat kiépítése  technológiai vállalatokkal együttműködésben.
 
-A 2019-es választásokon a Waikiki Világuralmi Párt szerezte a legtöbb szavazatot, így ismét George Bush alakíthatott kormányt. A miniszteri pozíciókra tett javaslatot a kongresszus már az első szavazással 2/3-os többséggel fogadta el. A legtöbb fontos pozíció nem változott, továbbra is Scott Walker tölti be a pénzügyminiszteri, Aaron Eckhart a külügyminiszteri pozíciót, Ayden Roberts pedig ötödik alkalommal lett Waikiki kereskedelmi minisztere. Fontos változás azonban, hogy Selena Gomez apja, Ricardo Gomez fejlesztési miniszter, Matt Damon munkaügyi miniszter, Thomas Boone iparfejlesztési miniszter, Darius Tanz pedig környezetvédelmi miniszter lett. A kormányba összesen öt párt tagjai kaptak miniszteri pozíciót, így Waikikin ismét koalíciós kormány alakult.
+Alagút Santiago és Moron között
 
-A 2020-as kormány tagjai: Ayden Roberts (kereskedelmi miniszter), Mary Bono Mack (infrastrukturális miniszter), Scott Walker (pénzügyminiszter), Paul Ryan (igazságügyminiszter), Ruby Dhalla (erőforrásügyi miniszter), Jonathan Gruber (egészségügyminiszter), John Boehmer (belügyminiszter), Timothy John (tudományügyi miniszter), Rick Santorum (mezőgazdasági miniszter), Thomas Boone (iparfejlesztési miniszter), Nicole Minetti (turisztikai miniszter), Ricardo Gomez (fejlesztési miniszter), Matt Damon (munkaügyi miniszter), Darius Tanz (környezetvédelmi miniszter), George LeMieux (kulturális miniszter), Carte Goodwin (energetikai miniszter), David Vitter (oktatási miniszter), Aaron Eckhart (külügyminiszter), Morgan Clark (hadügyminiszter) és Winnefeld Daniels (védelmi miniszter).
+Waikiki két szigetét összekötő 100 km-es vasúti alagút jelenleg a leghosszabb a világon.
 
-## Új politikai Programterv
+Új metróvonal Nova Aureliában
 
-A globalizáció kihívásaira, a globális felmelegedés fenyegetésére és a digitalizáció által nyújtott lehetőségekre válaszul George Bush elnök új politikai irányvonalat hirdetett meg, melynek középpontjában Waikiki hosszú távú stabilitása és fejlődése áll. A miniszterek által bemutatott új programcsomag 4 alapvető pillérre épül, melyek az alábbiak.
+Az újonnan elkészült vonal immár a 27. metrójárat lesz a Waikiki-i fővárosban.
 
-### Fokozott nemzetközi szerepvállalás
+Újabb fúziós erőmű Brazíliában
 
-George Bush szerint Waikiki-nek nagyobb szerepet kell vállalnia a nemzetközi konfliktusok feloldásában és a külpolitikának nagyobb hangsúlyt kell fektetnie a nyugati világ olyan szövetségeseinek védelmére, mint például Izrael vagy Ausztrália. Erre azért is szükség van, mert az USA háttérbe szorulása hatalmi vákuumot eredményezhet, és a teljes emberiség érdeke az országok közti konfliktusos helyzetek békés rendezése. Az elnök szintén kifejezte, hogy Waikiki fel fog lépni Kína agresszív terjeszkedésével szemben, és tovább folytatja a kereskedelmi háborút és az importkorlátozásokat az ázsiai kommunista országgal szemben.
+A Sao Paolo közelében épülő fúziós reaktor már az 5. ilyen típusú erőmű lesz az országban.
 
-### Környezetvédelem
+Megújuló energiaforrások
 
-A kormány nagy hangsúlyt fektet a környezetvédelemre, ezt szimbolizálja Darius Tanz miniszterré történő kinevezése is, aki hatalmas erdőtelepítési és nemzeti park kiterjesztési javaslattal állt a parlament elé. Szintén a klímavédelem jegyében szigorítják a kriptovaluta bányászatot, amely több országban az egyik legkörnyezetszennyezőbb iparággá nőtt, és 2023-tól bevezetik a kereskedhető CO2 kvóták alkalmazását. Ezek az intézkedések jelentősen csökkenthetik az ország üvegházhatású gázkibocsátását. Ezen kívül Waikiki 2021-től korlátozni fogja a fosszilis energiahordozó kitermelését, a globális felmelegedés megfékezésének céljából.
+Csak 2019-ben a kormányzat 150 milliárd WUD értékű zöld energia projektet valósított meg.
 
-### Pénzügyi stabilitás
+A Sydney-i operaház pontos mása
 
-Scott Walker pénzügyminiszter szerint egy ország gazdasági stabilitása fontosabb, mint bármikor korábban, hiszen ez fogja meghatározni a következő válság kimenetelét. Ennek érdekében a parlament elfogadta Jessica Walker javaslatát, miszerint módosul a Nemzeti Bank hitelminősítési eljárása. Az eddigi 10 fokozatú skála helyett a cégek 5 db, betűvel jelölt főkategóriába, azokon belül pedig 3-3 alkategóriába lesznek besorolva. A minősítés során a pénzügyi stabilitás mellett a fenntarthatóság és a társadalomra gyakorolt hatás is szerepet kap majd. Az átmenet alatt, a Nemzeti Bank 2021-ig párhozamosan biztosítja a kettő értékelési rendszert.
+A Sydney-i operaház pontos másolata készült el New Mavericks yachtkikötőjében.
 
-### Csúcsszínvonalú oktatás
+A Nemzeti Múzeum bővítése
+
+A Nemzeti Múzeum új kiállításokkal és kölcsönzött műalkotásokkal bővíti kínálatát.
+
+Árvízvédelmi gátrendszer
+
+A fővároshoz hasonlóan New Mavericks köré is elkezdődött az árvízvédelmi gát építése.
+
+Waikiki fennállásának 20. évfordulója
+
+Waikiki fennállásának 20. évfordulójára a kormány hatalmas ünnepségsorozatot rendezett és rengeteg új építészeti beruházást vitt véghez valamit jelentett be újonnan. Az ország 20 különböző nagyvárosában tartottak látványos tűzijátékokat, felvonulásokat és ünnepségeket a március 10-i héten, a történelmi jelentőségű eseményre való emlékezésképp, hiszen épp 20 évvel ezelőtt jelentette be Chease Young Waikiki államának megalakulását. A hatalmas ünnepségsorozat megnyitóján Raimondo Chease személyesen adott át több óriásberuházási projektet, köztük, a Mega Pyramid City-t és a Royal Clock Tower-t. A teljes hétig tartó ünnepség alkalmából rengeteg külföldi turista látogatott az országba. Az évforduló keretében a Nemzeti Múzeum több világhírű műalkotást kölcsönzött ki és számos új kiállítást nyitott meg, melyek egész évben várják az oda látogató érdeklődőket.
+
+Az állami költségvetés
+
+3819 mrd
+
+WUD 2019-ben
+
+A Kaméleon szigetek a
+
+3.
+
+Mesterséges szigetcsoport
+
+A Royal Clock Tower
+
+120
+
+emelet magas
+
+Az energiatermelés
+
+50%-a
+
+megújuló forrás
+
+Itáliai körút
+-------------
+
+Chease Young és felesége, Jessica 2019 nyarán két és fél hetes, teljesen magánjellegű itáliai körútra indultak, amelyet a pihenés, a luxus és a kulturális feltöltődés határozott meg. Az utazás Velencében kezdődött, ahol a pár a filmfesztivál idején egy felújított, 17. századi palazzóban szállt meg, saját kikötővel és motorcsónakkal. Részt vettek több vörös szőnyeges eseményen és zártkörű gálán, majd esténként privát gondolán járták be a lagúnákat, és Michelin-csillagos éttermekben vacsoráztak. A következő állomás Firenze volt, ahol egy reneszánsz palotába költöztek, külön nekik fenntartott lakosztályba. Privát időpontot kaptak az Uffizi Galéri��ban, megtekintették a Palazzo Vecchio zárt részeit, és toszkán bor- valamint szarvasgomba-kóstoló túrákon vettek részt. Jessica élvezte a firenzei divatnegyed exkluzív butikjait, Chease pedig antik könyvesboltokat és kézműves műhelyeket látogatott. Az út Rómában zárult, ahol egy Aventinus-dombi luxusvilla privát szárnyában pihentek. A program itt is kötetlen volt, romantikus vacsorák, a Vatikáni Múzeumok éjszakai privát bejárása, hosszú séták a történelmi városrészekben és délutáni pihenés a villa saját medencéjénél. A körút összességében a nyugalomról, az elvonulásról és a kettesben töltött időről szólt, és a királyi pár is az egyik legemlékezetesebb közös utazásként tekint rá.
+
+A Nova Aurelia Királyi Operaház megnyitója
+------------------------------------------
+
+Waikiki kulturális életének egyik legnagyobb eseményét jelentette a Nova Aurelia Királyi Operaház megnyitója, amelyen a királyi család több tagja személyesen vett részt. Az esemény nem csupán egy új kulturális intézmény felavatása volt, hanem Waikiki művészeti és nemzeti identitásának megtestesülése, amely egyesítette az ország esztétikai igényességét és történelmi tudatát. A Királyi Operaház építése közel öt évig tartott, és a projektet Chease Young személyesen támogatta, mint a nemzeti kulturális újjászületés szimbólumát. Az épület tervezését a neves waikiki építész, Lorenzo Kahele, valamint nemzetközi szakértők közreműködésével valósították meg. A megnyitó ünnepségre a világ minden tájáról érkeztek vendégek, köztük diplomáciai küldöttségek, kulturális nagykövetek és világhírű művészek. Az első előadás, a „Waikiki – A Fény Szimfóniája” című monumentális opera, kifejezetten az alkalomra készült, és a szigetország történetét, szellemiségét és újjászületését mutatta be három felvonásban. A nyitóesten Chease Young elnök ünnepi beszédet mondott, amelyben az operaházat a művészet és a nemzeti büszkeség templomának nevezte. Az eseményt követő gálaesten gasztronómiai vállalkozások mutatták be termékeiket, az est zárásaként pedig az operaház tetőkertjében tartott fényshow koronázta meg az ünnepséget.
+
+Új politikai Programterv
+------------------------
+
+A globalizáció kihívásaira, a globális felmelegedés fenyegetésére és a digitalizáció által nyújtott lehetőségekre válaszul újraválasztását követően George Bush elnök új politikai irányvonalat hirdetett meg, melynek középpontjában Waikiki hosszú távú stabilitása és fejlődése áll. A miniszterek által bemutatott új programcsomag 4 alapvető pillérre épül, a nemzetközi szerepvállalás, a környezetvédelem, a pénzügyi stabilitás és az oktatás területein.
+
+![](images/universalupscaler_56ad2c84-858d-4d51-9064-de5a486e5f40.jpg?crc=361649898)
+
+![](images/universalupscaler_e0bf8656-53f8-40db-8b99-f9aa99e3247a.jpg?crc=384305078)
+
+Fokozott nemzetközi szerepvállalás
+
+George Bush szerint Waikikinek nagyobb szerepet kell vállalnia a nemzetközi konfliktusok feloldásában és a külpolitikának nagyobb hangsúlyt kell fektetnie a nyugati világ olyan szövetségeseinek védelmére, mint például Izrael vagy Ausztrália. Erre azért is szükség van, mert az USA háttérbe szorulása hatalmi vákuumot eredményezhet, és a teljes emberiség érdeke az országok közti konfliktusos helyzetek békés rendezése. Az elnök szintén kifejezte, hogy Waikiki fel fog lépni Kína agresszív terjeszkedésével szemben, és tovább folytatja a kereskedelmi protekcionizmust és az importkorlátozásokat az ázsiai kommunista országgal szemben.
+
+Környezetvédelem
+
+A kormány nagy hangsúlyt fektet a környezetvédelemre, ezt szimbolizálja Darius Tanz miniszterré történő kinevezése is, aki hatalmas erdőtelepítési és nemzeti park kiterjesztési javaslattal állt a parlament elé. Szintén a klímavédelem jegyében 2020-tól szigorítják a kriptovaluta bányászatot, amely több országban az egyik legszennyezőbb iparággá nőtt, és 2023-tól bevezetik a kereskedhető CO2 kvóták alkalmazását. Ezen intézkedések jelentősen csökkentik Waikiki üvegházhatású gázkibocsátását, 2021-től pedig a kormány korlátozni fogja a fosszilis energiahordozó kitermelését, a globális felmelegedés megfékezésének céljából.
+
+Pénzügyi stabilitás
+
+Scott Walker pénzügyminiszter szerint egy ország gazdasági stabilitása fontosabb, mint bármikor korábban, hiszen ez fogja meghatározni a következő válság kimenetelét. Ennek érdekében a parlament elfogadta Jessica Walker javaslatát, miszerint módosul a Nemzeti Bank hitelminősítési eljárása. Az eddigi 10 fokozatú skála helyett a cégek 5 db, betűvel jelölt főkategóriába, azokon belül pedig 3-3 alkategóriába lesznek besorolva. A minősítés során a pénzügyi stabilitás mellett a fenntarthatóság és a társadalomra gyakorolt hatás is szerepet kap majd. Az átmenet alatt a Nemzeti Bank 2021-ig párhuzamosan biztosítja a kettő értékelési rendszert.
+
+Csúcsszínvonalú oktatás
 
 David Vitter oktatási miniszter kijelentette, hogy célja az oktatási rendszer modernizálása és világelsővé tétele. Ennek keretében a kormányzati ciklus második felére jelentősen nőhetnek az oktatásra fordított költségvetési kiadások, de a miniszter szerint megéri ez a jövőbe történő befektetés. A kormány célja további együttműködések indítása multinacionális vállalatokkal a versenyképesebb és a piaci igényeknek maximálisan megfelelő tudásanyag kialakításáért. Ennek keretében a jövőben több olyan vállalati felsőoktatási intézmény jöhet létre, mint az Apple, a Techno Industries vagy az Inter Medic által alapított egyetemek.
 
-### Törvénymódosítások 2020-ban
+Koronavírus járvány
+-------------------
 
-A parlament mindkét háza elfogadta a médiatörvény módosítására irányuló javaslatot, melynek célja a közösségi platformok szigorúbb ellenőrzése és a személyi valamint politikai jogok védelme a digitális térben. Az új törvény lehetővé teszi, hogy amennyiben egy közösségi média platform korlátozza a vezető állami tisztségviselők szólásszabadságát, akkor a kormány ideiglenesen felfüggesztheti az adott platform működését. Ezt egészíti ki a Digitális Infrastruktúra Függetlenségi rendelet, melynek célja a kormányzati tájékoztatás minél nagyobb fokú függetlenítése a digitális platformoktól, közösségi média oldalaktól és egyéb internetes szolgáltatóktól. Ennek keretében a kormányzat a korábbinál több szolgáltatóval köt szerződést, és az állampolgárokkal folytatott kommunikáció is több csatornán folyik majd. Szintén átment a parlamenten a kriptovaluták szabályozására vonatkozó rendelet, aminek következtében a jogi személyek kötelesek tájékoztatni az adóhatóságot az 1 millió WUD-t meghaladó értékű kriptovaluta befektetésükről, valamint kötelesek jelenteni minden 100.000 WUD-t meghaladó kriptovalutát érintő tranzakciót. Ezzel egyidejűleg a kriptovaluta bányászatból származó bevételt 2020. áprilisától kezdve 5%-os környezetvédelmi adó terheli, ami magánszemélyekre is vonatkozik. A kormány a szigorításokat a szürkegazdaság visszaszorításával és a pénzügyi kockázatok mérséklésével indokolta.
+A kínai Vuhan városában 2019 decemberében azonosított koronavírus-járvány rövid idő alatt világszintű egészségügyi válsággá nőtte ki magát. A kínai hatóságok késedelmes és hiányos tájékoztatása következtében a vírus 2020 januárjára már több kontinensen is megjelent. A globális helyzetre reagálva Waikiki kormánya Chease Young vezetésével az elsők között hozott preventív intézkedéseket a járvány megfékezése érdekében. A kormány már februárban korlátozta a külföldiek beutazását és teljesen lezárta a nemzetközi repülőtereket. Ennek köszönhetően más államoknál jelentősen lassabban érte el a vírus az országot, így a kormánynak és az egészségügyi rendszernek több ideje maradt a felkészülésre. A United Health és Moderna közti nemzetközi együttműködés mellett Waikiki kormánya elindította saját vakcinafejlesztési programját, melyet az Inter Medic irányított, több mint 2 milliárd WUD állami támogatással. A sikeres fejlesztéseknek köszönhetően Waikikin már 2020 decemberében megkezdődött az egészségügyi dolgozók és kritikus kormányzati tagok oltása az Inter Medic vakcinájával, majd januártól széles körűen került alkalmazásra a United Health vakcinája eleinte az idősebb korosztályok körében. Februártól a német gyártású Pfizer oltóanyag engedélyezése és beszerzése, márciustól pedig a kínai Sinopharm és az orosz Sputnik V vakcinák engedélyezése is megtörtént, így a lakosság számára nagy mennyiségben és választékban váltak elérhetővé a biztonságos és hatásos koronavírus elleni oltóanyagok.
 
-## Koronavírus‑járvány és oltási program
+![](images/universalupscaler_5aef895f-7c5b-45b3-a336-1ef287d66ea2.jpg?crc=502123786)
 
-A kínai Vuhan városában kialakult koronavírus‑járványt először 2019. decemberében diagnosztizálták a kutatók. A kínai hatóságok felelőtlen intézkedései és az információ szándékos visszatartása miatt a vírus gyorsan átterjedt más országokba, és 2020. januárjára már több kontinensre is eljutott. A világjárvány ellen Waikiki kormányzata a határok lezárásával gyorsan és hatékonyan lépett fel. Chease Young javaslatára a kormányzat már februárban korlátozta a külföldiek beutazását és teljesen lezárta a nemzetközi repülőtereket. Ennek köszönhetően más államoknál jelentősen lassabban érte el a vírus az országot, így a kormányzatnak és az egészségügyi rendszernek több ideje maradt a felkészülésre. Waikikin már 2020. decemberében megkezdődött az egészségügyi dolgozók és kritikus kormányzati tagok oltása az Inter Medic vakcinájával, majd januártól széles körűen került alkalmazásra a United Health vakcinája először az idősebb korosztályok körében. Februártól a német gyártású Pfizer oltóanyag engedélyezése és beszerzése, márciustól pedig a kínai Sinopharm és az orosz Szputnyik V vakcinák engedélyezése is megtörtént, így a lakosság számára nagy mennyiségben és választékban váltak elérhetővé a biztonságos és hatásos koronavírus elleni oltóanyagok. Később a Johnson & Johnson, a CureVac és a Novavax oltóanyagai is jóváhagyásra kerültek.
+![](images/universalupscaler_ce83da09-1da5-46f6-932f-14ac62f36232.jpg?crc=104717416)
 
-## Kormányzati támogatások és segítségnyújtás
+Kormányzati támogatások és segítségnyújtás
+------------------------------------------
 
-A járványhelyzet hatékony kezelésének érdekében a parlament 2020. áprilisában rendkívüli jogrend bevezetését szavazta meg, az összes nagyobb párt és a képviselők kilencvenhárom százalékának támogatásával. A döntés következtében a járványhelyzet alatt a kormányzat rendeleti alapon, akár a parlament bevonása nélkül is irányíthatja az országot, illetve dönthet a költségvetés elosztásáról. Ezen felhatalmazás nyújtott lehetőséget a kormányzat számára, hogy öt hónapon keresztül, állampolgáronként összesen ezer WUD juttatást biztosítson munkaviszonytól és szociális státusztól függetlenül. A Nemzeti Bank által támogatott lakossági hitelekkel pedig a családok további ezer WUD értékű szabad felhasználású kölcsönt kaphattak, jövedelemigazolás nélkül, minimális kamatozással. A megnövekedett kiadások kezelésének érdekében Chease Young javaslatára a Waikiki‑i kormányzat örökjáradékot biztosító államkötvények kibocsátását hagyta jóvá, amelyek értékesítéséből származó bevétel jelentősen hozzájárult a költségvetés stabilitásához. Ezen kötvényekből az államnak 2020‑ban összesen kétezer‑hatszáz milliárd USD bevétele származott. Az anyagi támogatásokon kívül a kormányzat ügyfélszolgálatokkal és futárokkal is támogatja az alapvető élelmiszerek és bevásárlási cikkek házhoz szállítását, valamint ingyenes egészségügyi csomagokat biztosít a vírus elleni védekezéshez.
+A járványhelyzet hatékony kezelésének érdekében a parlament 2020 áprilisában rendkívüli jogrend bevezetését szavazta meg, az összes nagyobb párt támogatásával. A döntés következtében a járványhelyzet alatt a kormány rendeleti alapon, a parlament bevonása nélkül irányíthatja az országot, illetve dönthet a költségvetés elosztásáról. Ezen felhatalmazás nyújtott lehetőséget a kormány számára, hogy 5 hónapon keresztül, állampolgáronként összesen 1000 WUD juttatást biztosítson munkaviszonytól és szociális státusztól függetlenül. A Nemzeti Bank által támogatott lakossági hitelekkel pedig a családok szabad felhasználású kölcsönt kaphattak, jövedelemigazolás nélkül, minimális kamatozással. A megnövekedett kiadások kezelésének érdekében Chease Young javaslatára a Waikiki-i kormány örökjáradékot biztosító államkötvények kibocsátását hagyta jóvá, amelyek eladásából származó bevétel hozzájárult a költségvetés stabilitásához. Az anyagi támogatásokon kívül a kormányzat ügyfélszolgálatokkal és futárokkal is támogatja az alapvető élelmiszerek és bevásárlási cikkek házhoz szállítását valamint ingyenes egészségügyi csomagokat biztosít a vírus elleni védekezéshez. Chease Young és családja további adományokkal, Raimondo és Selena pedig a közösségi médiában közzétett tanácsokkal is segítette a járvány elleni védekezést.
 
-## Fontos események 2021-ben
+State of the Nation 2021
+------------------------
 
-### Joe Biden amerikai elnök lett
+A 2021-es State of the Nation beszédben Chease Young kancellár átfogó értékelést adott Waikiki gazdasági, társadalmi és külpolitikai helyzetéről, külön hangsúlyt fektetve a Covid elleni védekezésre és az ország járvány utáni helyreállítására. Beszéde első részében kiemelte, hogy Waikiki sikeres válságkezelési intézkedéseinek köszönhetően a gazdaság gyorsabban állt talpra, mint a nemzetközi átlag, és az ország 2021-re ismét növekedési pályára került. Young külön méltatta a technológiai és biotechnológiai szektor teljesítményét, amelyek a következő évtized gazdasági motorjának számítanak. A társadalompolitikai fejezetben hangsúlyozta a közbiztonság erősítésére irányuló reformok eredményességét, valamint az oktatási fejlesztéseket, amelyek célja, hogy Waikiki regionális tudásközponttá váljon. Bejelentette, hogy a következő években jelentős beruházások valósulnak meg a digitális oktatás, az egészségügyi infrastruktúra és a kutatás-fejlesztés területén. A külpolitikai részben Chease Young a stabilitás, a partnerség és a nyitottság elvét hangsúlyozta. Megerősítette Waikiki elköteleződését a nyugati együttműködés iránt, ugyanakkor jelezte, hogy az ország önálló diplomáciát folytat. Külön kitért a biztonsági együttműködések bővítésére, valamint azokra a technológiai és energetikai projektekre, amelyek Waikikit globálisan meghatározó innovációs központtá tehetik. A beszédet optimista üzenettel zárta, hangsúlyozva, hogy Waikiki a 2020-as években a stabilitás, a fejlődés és a nemzetközi együttműködés egyik vezető szereplőjévé kíván válni.
 
-Barack Obama korábbi alelnöke, Joe Biden lett az Egyesült Államok 46. elnöke. Az ellentmondásos választáson Donald Trump korábbi elnök csalással vádolta demokrata kihívóját, de nem tudott elegendő bizonyítékot felmutatni, ezért az elektorok jóváhagyták Biden kinevezését. Elnökként Biden első céljai a COVID-19-pandémia és az azt követő gazdasági válság kezelése. Habár a választáson nyíltan Trumpot támogatta, Chease Young gratulált Bidennek, és bejelentette, hogy szívesen működik együtt az új elnökkel a globális problémák megoldásában, és bízik abban, hogy Waikiki és az USA jó viszonya továbbra is megmarad.
+![](images/universalupscaler_3f153b81-e6dd-4c85-9df1-8a415bed3efa.jpg?crc=4024566298)
 
-### Az EAN felbomlása
+Az Orosz-Ukrán háború kitörése
+------------------------------
 
-A 2013-ban Chease Young és Smith Edward kezdeményezésére létrejövő afrikai nemzetszövetség elnöke, Emmanuel Ali több központi kormánytag, köztük Wilfred Tipton leváltásával destabilizálta az államot, így az ellenzéki pártok bizalmatlansági indítványt kezdeményeztek ellene. A szavazás ugyan elbukott, de erre válaszul a tagországok jelentős része bejelentette kilépését a szövetségből. Chease Young sajnálatát fejezte ki a történtek iránt, és kijelentette, hogy minden függetlenedő államot szívesen lát majd Waikiki szövetségeseként. Eközben az EAN által felhalmozott hatalmas adósság egy részét a Világbank vállalta át.
+2022\. február 21-én Oroszország hivatalosan elismerte a két magát szeparatistának valló Donbász államot, három nappal később pedig az orosz hadsereg megtámadta Ukrajnát. A nemzetközi közösség nagy része, köztük Waikiki vezetése is azonnal elítélte Oroszországot Ukrajnában tett lépései miatt, azzal vádolva, hogy megsérti a nemzetközi jogot és Ukrajna szuverenitását. A Putyin által bejelentett különleges katonai művelet keretében perceken belül rakéták és légicsapások érték egész Ukrajnát, köztük Kijevet, amit nem sokkal később egy nagyszabású szárazföldi invázió követett több fronton. Az orosz támadások az északi fronton Fehéroroszországtól Kijev felé, az északkeleti fronton Harkiv felé, a déli fronton a Krím felől, valamint a délkeleti fronton Luhanszk és Donyeck felől indultak. Zelenszkij ukrán elnök statáriumot hirdetett és általános mozgósítást rendelt el.
 
-### Az USA kivonul Afganisztánból
+Az orosz támadások főbb irányai
 
-Joe Biden amerikai elnök 2021. szeptemberében minden amerikai csapatot kivon Afganisztán területéről. A katonák rohamos kivonása után azonban hatalmi vákuum keletkezik az országban, és ennek következtében polgárháborús helyzet alakul ki, és a helyi erők az amerikaiak által hátrahagyott fegyvereket használnak egymás ellen. Waikiki kormányzata szerint a Biden adminisztráció elsietett kivonulása hosszú bizonytalanságot idézhet elő a régióban, és migrációs hullámokat indíthat el. Mindazonáltal Waikiki nem szándékozik beavatkozni a kialakult helyzetbe, és nem kockáztat meg egy háborús konfliktust.
+Orosz tankok Ukrajna területén
 
-### Klímacsúcs
+Waikiki reakciója az Ukrajnai háborúra
+--------------------------------------
 
-A világ vezetőinek 2021. novemberi csúcstalálkozójával kezdetét vette az ENSZ 26. éghajlatváltozási konferenciája, melyen az ENSZ 197 tagja vett részt, köztük az EU és valamennyi uniós tagállam. Waikiki kormányát Darius Tanz környezetvédelmi miniszter képviselte a 2021-es klímacsúcs találkozón, ahol előkerült a magánszektorral való együttműködés, a szén-dioxid-kvóták árazása és a gazdaságpolitikák közötti összhang biztosítása a klímavédelem céljából. Waikiki konkrét kötelezettséget nem vállalt, de bejelentette, hogy a közeljövőben tovább növeli megújuló energiatermelését.
+A háború kitörését követően Chease Young azonnal elítélte az Orosz agressziót, kiemelve, hogy egy szuverén állam elleni fegyveres támadás semmilyen körülmények között nem igazolható és felszólította Putyint a támadás beszüntetésére. Ugyanakkor Chease hangsúlyozta Waikiki stratégiai álláspontját, hogy az ország nem kíván katonailag részt venni a konfliktusban, és külpolitikai érdekei, valamint a nemzetbiztonsági szempontjai miatt mindent megtesz annak érdekében, hogy távol maradjon a háború következményeitől. A kormány egyértelművé tette, hogy Waikiki diplomáciai eszközökkel kíván hozzájárulni a béke megteremtéséhez, miközben megőrzi politikai függetlenségét. Morgan Clark hadügyminiszter az események fényében országos katonai készenlétet rendelt el, melynek célja, hogy Waikiki minden eshetőségre felkészüljön, különösen az esetleges kibertámadásokkal és információs műveletekkel kapcsolatban. Winnefeld Daniels védelmi miniszter szintén értékelte a helyzetet és sajtótájékoztató keretében a lakosságot megnyugtató nyilatkozatot tett, ugyanis elemzései szerint a konfliktus nem fenyeget globális eszkalációval.
 
-## Államháztartási adatok 2021
+![](images/universalupscaler_a7d1e7af-5bfd-4eaa-aab5-234832dedf58.jpg?crc=218781381)
 
-Az elhúzódó világjárvány, a globális ellátási láncok összeomlása és az EAN-nel kötött kereskedelmi megállapodás felbomlása miatt a költségvetési bevétel ugyan nem érte el a 2019-es szintet, de meghaladta a 2020-as bevételeket. A 2021-es költségvetés teljes kiadása 5030 milliárd WUD, bevétele pedig a kötvénykibocsátást leszámítva 4230 milliárd WUD volt. A megnövekedett kiadásokat a Nemzeti Bank egy örök lejáratú, fix kamatozású kötvénycsomag kibocsátásából fedezte. Ez 2020-ban és 2021-ben összesen 4400 milliárd USD egyéb többletbevételt jelent a kormányzatnak, melyet a Covid válság kezelésére használhat fel. A bevételek túlnyomó résztét továbbra is az állami cégek profitja, valamint a vállalati adóbevételek teszik ki, de növekvő tendenciát mutat a környezetvédelmi adó is. Az ingyenes kórházi ellátás bevezetése óta nagy mértékben emelkedtek egészségügyi kiadások, melyek önmagukban a költségvetés egyharmadát teszik ki. Szintén jelentősen nőtt az infrastrukturális beruházások költsége, hiszen a kormány az utóbbi olyan megaprojektekbe kezdett, mint a Karib-tengeri alagútrendszer. Waikiki teljes állami tartaléka a Covid hatására csak minimálisan változott, 2021-ben elérte a 10,34 trilliárd WUD-t, ami az éves GDP 58%-át fedezi.
+![](images/universalupscaler_6b8cb9bc-2c04-4464-9fda-cba2c0f2640a.jpg?crc=478396134)
 
-## Befektetési hozamok az elmúlt 20 évben
+Gazdaságpolitika 2022
+---------------------
 
-A Nemzeti Bank egy jelentést tett közzé, melyben Waikiki és az USA befektetési hozamait hasonlítja össze a 2000 és 2020 közötti időszakban. A közzétett adatokból jól látszik, hogy míg 2000-ben és 2005-ben az Egyesült Államokban nagyobb hozamokat érhettek el a befektetők, addig 2010. óta egyértelműen Waikiki nyújtja a jobb befektetési lehetőségeket. Ennek egyik oka, hogy a 2008-as pénzügyi válságot követően világ jelentős részén 0% közeli kamatkörnyezetet alkalmaztak, Waikiki ebben az időszakban is 2,5% körüli alapkamatot biztosított. Az alapvető tendenciák, mint például, hogy a hosszabb lejáratú hitelek magasabb kamattal rendelkeznek, a Covid válság hatására sem változott. Habár 2020-ban a FED által nyújtott alapkamat szintje magasabb, a hosszabb távú hiteleknél már egyértelműen Waikikin érhetők el nagyobb hozamok. 2021. szeptemberben a WNB által meghatározott betéti alapkamat 0,9%, a hitel alapkamat pedig 3,5%. 2021-ben a Nemzeti Bank legfőbb célkitűzése az árstabilitás, melynek érdekében kis mértékű kamatemelési ciklusra lehet számítani az elkövetkező időszakban.
+A háború kitörésének következtében Chease Young új gazdaságpolitikai programot jelent be az árstabilitás megőrzésének érdekében. A program részeként a Nemzeti Bank tovább emeli az alapkamatot, hogy külföldi befektetőket vonzzon az országba, a kormányzat pedig hatékonyságnövelő intézkedéseket vezet be, hogy csökkentse a központi költségvetés kiadásait. A háború miatt megemelkedett világpiaci élelmiszer és energiaárak miatt a kormányzat további eszközök bevetése mellett döntött, amikor a parlament ideiglenes hatállyal vámmentességet biztosított az élelmiszerekre. Chease Young szerint az elkövetkező időszak legfontosabb kihívása az árstabilitás megőrzése lesz, aminek érdekében a kormányzat minden eszközt be fog vetni. Éppen ezért döntött úgy, hogy megszünteti a kőolaj- és földgázkitermelésre vonatkozó korábbi korlátozásokat, növelve ezzel Waikiki bevételeit és a WUD iránti keresletet. A Világuralmi Párt teljes mértékben támogatja Chease álláspontját és a frakcióvezető kijelentette, hogy szükség esetén a költségvetést is módosítják, az árstabilitás megőrzésének érdekében.
 
-## Waikiki lakossága 2021-ben
+Kőolajexport és üzemanyagárstop
 
-A Waikiki-i Statisztikai Hivatal népszámlálást tartott 2021-ben, melynek részeként összesen több, mint 212 millió állampolgár, lakos vagy munkavállaló helyzetét mérték fel az ország három tartományában. Az egyes tartományok között jelentős eltérések mutatkoznak népességben, területben, népsűrűségben és gazdasági szerkezetben is. A legnagyobb népességű tartomány továbbra is Brazília, ahol több, mint 106 millió ember él. Az ideiglenes munkavállalók aránya Waikiki tartományban megközelíti a 15%-ot, míg a másik két tartományban 5% körüli. A teljes országot tekintve a népesség 62%-a rendelkezik teljes jogú állampolgársággal, és ez az arány Waikiki tartományban a legmagasabb. A népsűrűség Amazónia és Brazília tartományokban 20-25 fő/km2 körüli, Waikiki-n viszont lényegesen magasabb. Az egy főre jutó GDP Waikiki és Amazónia esetében magasabb, míg Brazíliában kissé alacsonyabb az országos átlagnál, de a jövedelmekben nincsenek kiugró eltérések. Az országban megtermelt javak mindössze 7,4%-át állítják elő Waikiki tartományban, de ez az arány így is magasabb, mint amit a népesség eloszlása indokolna.
+2022\. január 1-től a kormány üzemanyag árstoppot vezetett be a Waikiki nyilvántartású személy gépjárművekre vonatkozóan, mely szerint a benzinkutak maximum 0,7 WUD értékben adhatják az üzemanyagok literét. Az Orosz-Ukrán háború kitörését követő napokban Chease Young és a kormány más magas rangú tagjai az elszabaduló energiaárak miatt a korábbi kőolaj- és földgázkitermelésre vonatkozó korlátozások megszüntetése mellett döntöttek. Így a Royal Oil Group bármekkora mennyiségben exportálhat üzemanyagot amíg képes az ország igényeit teljesíteni.
 
-## Kereskedelmi űrutazások
-
-Miután Chease Young, Raimondo és Selena 2018-ban a ellátogattak Waikiki Nemzeti Űrállomására, a WSA kereskedelmi űrprogramot indított. A szupergazdag magánszemélyek számára elérhető űrutazási lehetőségekkel már 10 millió dollárért a világűrbe látogathatunk, 50 millióért pedig két hetes all-inclusive nyaralást tölthetünk el űrsétával egybekötve a Waikiki-i űrállomáson. Az űrturisták jelenleg a SpaceX Falcon űrrakétáját vehetik igénybe, de a tervek szerint hamarosan egy Hold körüli utazásra is lehetőség nyílik, a Big Falcon Rocket fedélzetén. Az űrturizmusból befolyó bevételek hozzájárulnak a világegyetem megismeréséhez, és olyan technológiák fejlesztését finanszírozzák, amelyekkel az emberiség egy napon más bolygókat is meghódíthat.A program keretében a királyi családból 2020-ban Jennifer és barátja Tyler, 2021-ben pedig Angelina és Taylor utaztak a világűrbe. A kormány tagjai közül Smith Edward és Scott Walker szintén 2020 során járt a világűrben, a SpaceX alapítója Elon Musk pedig 2021-ben egy teljes hónapot töltött a Föld körül keringve. Musk célja, hogy amint lehetségessé válik, a Marsra is elutazzon, később pedig emberi kolóniát hozzon létre a vörös bolygón.
-
-## Orosz támadás Ukrajna területén
-
-2022 február 21-én Oroszország hivatalosan elismerte a két magát szeparatistának valló Donbász államot, és nyíltan csapatokat küldött a területekre. Három nappal később pedig az orosz hadsereg megtámadta Ukrajnát. A nemzetközi közösség nagy része, köztük Waikiki vezetése is azonnal elítélte Oroszországot Ukrajnában tett lépései miatt, azzal vádolva, hogy megsérti a nemzetközi jogot és megsérti Ukrajna szuverenitását. A Putyin által bejelentett különleges katonai művelet keretében perceken belül rakéták és légicsapások érték egész Ukrajnát, köztük Kijevet, amit nem sokkal később egy nagyszabású szárazföldi invázió követett több fronton. Zelenszkij ukrán elnök statáriumot hirdetett és általános mozgósítást rendelt el minden 18 és 60 év közötti férfi ukrán állampolgár számára, akiknek megtiltották az ország elhagyását. Az orosz támadások kezdetben egy északi fronton Fehéroroszországtól Kijev felé, egy északkeleti fronton Harkiv felé, egy déli fronton a Krím felől, valamint egy délkeleti fronton Luhanszk és Donyeck felől indultak. Chease Young azonnal elítélte az orosz agressziót és felszólította Putyint a támadás beszüntetésére, de kifejezte, hogy Waikiki érdekeit figyelembe véve semmiképp nem kíván részt venni a konfliktusban. Winnefeld Daniels védelmi miniszter katonai készültséget rendelt el, de biztosította az ország lakosságát, hogy nem számít a konfliktus globális eszkalációjára.
-
-## Gazdaságpolitika 2022-ben
-
-A háború kitörésének következtében Chease Young új gazdaságpolitikai programot jelent be az árstabilitás megőrzésének érdekében. A program részeként a Nemzeti Bank tovább emeli az alapkamatot, hogy külföldi befektetőket vonzzon az országba, a kormányzat pedig hatékonyságnövelő intézkedéseket vezet be, hogy csökkentse a központi költségvetés kiadásait. A háború miatt megemelkedett világpiaci élelmiszer és energiaárak miatt azonban ezek az intézkedések nem elégségesek, így a kormányzat további eszközök bevetése mellett döntött. A parlament által elfogadott javaslat ideiglenes hatállyal vámmentességet biztosít a ruházati cikkekre és az elektromos autókra, származási országtól függetlenül, az élelmiszerekre pedig ennél is fontosabb export és import módosításokat vezetnek be. Chease Young szerint az elkövetkező időszak legfontosabb kihívása az árstabilitás megőrzése lesz, aminek érdekében a kormányzat minden eszközt be fog vetni. Éppen ezért döntött úgy, hogy megszünteti a kőolaj- és földgázkitermelésre vonatkozó korábbi korlátozásokat, növelve ezzel Waikiki bevételeit és a WUD iránti keresletet. A Világuralmi Párt teljes mértékben támogatja Chease álláspontját és a frakcióvezető kijelentette, hogy szükség esetén a költségvetést is módosítják, az árstabilitás megőrzésének érdekében.
-
-### Kőolajexport és üzemanyag-árstop
-
-2022 január 1-től a kormány üzemanyag-árstoppot vezetett be a waikiki-i nyilvántartású személygépjárművekre vonatkozóan, mely szerint a benzinkutak maximum 0,75 WUD értékben adhatják az üzemanyagok literét. Az orosz-ukrán háború kitörését követő napokban Chease Young és a kormány más magas rangú tagjai az elszabaduló energiaárak miatt a korábbi kőolaj- és földgázkitermelésre vonatkozó korlátozások megszüntetése mellett döntöttek. Így a Royal Oil Group bármekkora mennyiségben exportálhat üzemanyagot amíg képes az ország igényeit teljesíteni.
-
-### Jegybanki műveletek
+Jegybanki műveletek
 
 A 2022-es költségvetés részeként az inflációs nyomás enyhítésére a kormányzat összesen 1000 milliárd WUD értékben vásárolt hazai valutát. Az árfolyam erősítése révén olcsóbbá vált a termékek importálása így csökkentve a fogyasztói árakat. Emellett a háború miatti bizonytalanságra való tekintettel a WNB monetáris tanácsa az aranytartalék jelentős mértékű növeléséről döntött. Az újonnan vásárolt 350 tonnával együtt az ország teljes aranytartaléka 2022-ben megközelíti a 4000 tonnát. Chease Young magánvagyonából is jelentős összegekkel járult hozzá az állami kiadásokhoz.
 
-### Élelmiszer-import támogatás
+Élelmiszerimport támogatás
 
 Az élelmiszerek világpiaci árának drasztikus emelkedése miatt a kormány import kedvezmények és az export visszafogása mellett döntött. Az új törvény alapján 2022. március 15-től az alapvető élelmiszerek behozatala esetén az állam 5%-os támogatást nyújt, kivitel esetén pedig 5%-os vámot számol fel. Habár a támogatás jelentős kiadással jár, ez az egyik legjobb módja az élelmiszerárak csökkentésének anélkül, hogy hiány alakulna ki. A tervek szerint a vámokat érintő módosítások addig maradnak érvényben, amíg azt az infláció indokolja, és akár egy évig is meghosszabbíthatják azokat.
 
-### Stabil költségvetés
+Stabil költségvetés
 
 A kormányzati kiadások csökkentése szintén hozzájárul az árstabilitás megőrzéséhez és az inflációs cél eléréséhez, hiszen csökkenti a keresletet. A 2022-es költségvetés a GDP 21%-a, azaz összesen 9 636 milliárd USD. Ez jelentősen alacsonyabb az előző két évhez képest, melyek a Covid és az azt követő helyreállítási terv miatt haladták meg az átlagos értéket. Az alacsonyabb költségvetési keret miatt kevesebb állami beruházást terveznek, és néhány államilag garantált munkahely fizetését is csökkenthetik, azonban George Bush kijelentette, hogy a kormány semmiképp nem készül adóemelésre.
 
-## Szankciók Oroszországgal szemben
+Szankciók Oroszországgal szemben
+--------------------------------
 
-Az Egyesült Államok és az EU az Ukrajna elleni katonai agresszióra, valamint a Doneck, Luhanszk, Zaporizzsja és Herszon régiók jogellenes annektálására válaszul egy sor új szankciót vezetett be Oroszországgal és Belarusszal szemben. Ezen szankciók jelentős mértékben korlátozzák az Oroszországból exportált nyersanyagokat, beleértve az energiahordozókat és az Oroszországba importált technológiákat egyaránt és több orosz bankot is kitiltottak a Swift rendszerből. Waikiki parlamentje szintén döntött Oroszország elleni kereskedelmi korlátozásokról, azonban ezek csak a fegyverek és katonai célra is alkalmazható technológiák eladását tiltja meg az oroszok felé. A kormány nem rendelte el orosz magánszemélyek vagyonának befagyasztását, de néhány a háború mellett nyíltan kiálló orosz cég számláját zárolták. Orosz személyek beutazására szintén nem terjednek ki a korlátozások, ugyanis Bush elnök szerint ez megnehezítené a béketárgyalásokat. Ayden Roberts kereskedelmi miniszter bejelentette, hogy semmilyen szankciót nem támogat, amely Waikiki polgárait is negatívan érintené, de amennyiben az ENSZ megszavazza, Chease Young ígérete szerint Waikiki semmilyen szankciós csomagot nem fog megvétózni. Waikiki és Oroszország kereskedelme a távolságukból adódóan nem túl jelentős, de a háború hatására nem csökkent.
+Az Egyesült Államok és az Európai Unió az Ukrajna elleni orosz katonai agresszióra reagálva átfogó szankciós csomagokat vezetett be Oroszországgal és Belarusszal szemben. Ezek a korlátozások jelentős mértékben sújtják az orosz energiahordozó-exportot, továbbá erősen korlátozzák a fejlett technológiák importját, miközben több nagy orosz pénzintézetet kizártak a SWIFT rendszerből. Waikiki parlamentje szintén elfogadott bizonyos korlátozó intézkedéseket Moszkvával szemben, azonban ezek jóval szűkebb körűek. A tilalom kizárólag a fegyverek és a kettős felhasználású, katonai célra is alkalmas technológiák exportjára terjed ki. A kormány nem rendelkezett orosz magánszemélyek vagyonának befagyasztásáról, bár néhány, a háborút nyíltan támogató orosz vállalat számláját ideiglenesen zárolták. Személyi beutazási korlátozásokat sem vezettek be, ugyanis Bush elnök indoklása szerint ez akadályozná a jövőbeli béketárgyalásokat és a diplomáciai csatornák fennmaradását. Ayden Roberts kereskedelmi miniszter hangsúlyozta, hogy Waikiki nem támogat olyan szankciókat, amelyek saját állampolgárait is hátrányosan érintenék. Ugyanakkor Chease Young kijelentette, hogy amennyiben az ENSZ Biztonsági Tanácsa szankciókat fogad el, Waikiki nem él vétójogával és támogatja a nemzetközi közösség közös fellépését.
 
-## Támogatások Ukrajnának
+![](images/universalupscaler_2550725c-d117-4042-8ef7-76497558676f.jpg?crc=4165334787)
 
-Németország, Nagy-Britannia és az Egyesült Államok jelentős támogatást nyújtanak Ukrajnának, az Oroszországgal szembeni harcokhoz. Ennek keretében a szankciós csomagok elfogadása mellett több nyugati ország pénzzel, fegyverekkel és más erőforrásokkal támogatja az ukrán hadsereget. Egyes források szerint a Biden adminisztráció akár 50 milliárd dollár értékben is támogathatja Ukrajnát, emellett pedig több európai ország is részt vesz az ukrán katonák kiképzésében és felfegyverzésében. Winnefeld Daniels védelmi miniszter kijelentette, hogy Waikiki semleges marad a háborúban, és a két ország közötti mielőbbi béketárgyalásokat szorgalmazza, hogy elkerülhető legyen a háború eszkalációja. Ennek következtében Waikiki nem nyújt katonai támogatást Ukrajnának, de nemzetközi színtereken támogatja az ukrán nemzetet. Waikiki parlamentje szintén határozatot fogadott el, melyben teljes mértékben elutasítják Oroszország agresszióját. A háború hatására több európai országban is elszabadult az infláció, és jelentősen növekedtek a megélhetési költségek. Waikiki kormánya éppen emiatt tartja fontosnak az ország függetlenségét és a globális kereskedelem folytatását. Aaron Eckhart külügyminiszter a kormány hivatalos álláspontjával szemben kijelentette, hogy amennyiben a nyugati országok engedik, hogy Oroszország elfoglalja Ukrajnát, Kínát sem fogja semmi megállítani az agresszív terjeszkedésben.
+![](images/universalupscaler_6cebfe59-4a19-4382-a71b-e349a6db5772.jpg?crc=397579683)
 
-## A királyi család legnagyobb vállalatai
+Támogatások Ukrajnának
+----------------------
 
-Annak ellenére, hogy a koronavírus-válság és az ukrán háború miatt jelentős bizalomvesztés volt tapasztalható a tőzsdéken, Chease Young és családjának személyes vagyona nem csökkent szignifikánsan. A Waikiki-i királyi család befektetéseinek döntő hányadát privát cégek alkotják, melyek közt megtalálhatók gyógyszergyártók, mint az Inter Medic és a Waikiki State Health, pénzügyi szereplők, mint az International Credit Bank vagy a Bank of Waikiki, ingatlanfejlesztő vállalatok, mint a Royal Housing Fund és a Tower Apartment és vendéglátóipari cégek is, mint a Starlight Hotels vagy a Quantum Travel Group. Ezek mellett Chease és családja jelentős befektetésekkel rendelkezik olyan tőzsdei vállalatokban, mint az IT szektorbeli Apple és Alphabet, kereskedelmi láncokban, mint a Walmart Stores és a Costco valamint élelmiszeripari óriásokban, mint a Coca-Cola vagy a McDonalds. Ezek a vállalatok nem csak Waikiki piacának jelentős szegmenseit fedik le, de nemzetközi viszonylatban is a legversenyképesebb multinacionális cégeknek számítanak. A világ legértékesebb cége 2022-ben továbbra is a Chease Investment Group befektetési bank volt, melyből Chease Young 70%-os tulajdonrészt birtokol.
+Németország, Nagy-Britannia és az Egyesült Államok jelentős támogatást nyújtanak Ukrajnának, az Oroszországgal szembeni harcokhoz. Ennek keretében a szankciós csomagok elfogadása mellett több nyugati ország pénzzel, fegyverekkel és más erőforrásokkal támogatja az ukrán hadsereget. Egyes források szerint a Biden adminisztráció akár 50 milliárd dollár értékben is támogathatja Ukrajnát, emellett pedig több európai ország is részt vesz az ukrán katonák kiképzésében és felfegyverzésében. Winnefeld Daniels védelmi miniszter kijelentette, hogy Waikiki semleges marad a háborúban, és a két ország közötti mielőbbi béketárgyalásokat szorgalmazza, hogy elkerülhető legyen a háború eszkalációja. Ennek következtében Waikiki nem nyújt katonai támogatást Ukrajnának, de nemzetközi színtereken támogatja az ukrán nemzetet. Waikiki parlamentje szintén határozatot fogadott el, melyben teljes mértékben elutasítják Oroszország agresszióját. A háború hatására több európai országban is elszabadult az infláció, és jelentősen növekedtek a megélhetési költségek. Waikiki kormánya éppen emiatt tartja fontosnak az ország függetlenségét és a globális kereskedelem folytatását. Aaron Eckhart külügyminiszter a kormány hivatalos álláspontjával szemben kijelentette, hogy amennyiben a nyugati országok engedik, hogy Oroszország elfoglalja Ukrajnát, úgy Kínát sem fogja semmi megállítani az agresszív terjeszkedésben.
 
-## Orosz hadműveletek Ukrajnában
+Chease találkozik Zelensky-vel
+------------------------------
 
-2022 április 19-én Szergej Lavrov, Oroszország külügyminisztere bejelentette, hogy kezdetét veszi a különleges művelet második fázisa, amelynek célja Donyeck és Luhanszk megye teljes területének elfoglalása és a Szlovjanszknál, valamint Kramatorszknál állomásozó ukrán erők bekerítése. Az USA Nemzeti Hírszerzési Igazgatója a szenátusnak intézett közleményében is megerősítette, hogy az invázió második fázisában a támadók célja egész Dél-Ukrajna elfoglalása és a szárazföldi összeköttetés megteremtése a Krím és a Moldova keleti részén található oroszbarát szakadár államalakulat, Transznisztria között. Putyin fehérorosz szövetségese, Lukasenka is, aki egy térképen mutatta be az invázió déli célpontjait, Odessza és Mikolajiv elfoglalását jelölte meg fő célkitűzésként. Az invázió második fázisa során már a frontvonalak nem változtak gyorsan, a szembenálló felek beásták magukat és a lövészárokharcok váltak általánossá. Az oroszok megváltoztatták a taktikájukat, a villámháború helyett a lassú felőrlés stratégiáját alkalmazták, elsősorban jelentős tüzérségi fölényüket kihasználva. Az ukránok nagyon súlyos emberveszteségeket szenvedtek az oroszok donbaszi offenzívája során, de Zelenszkij nyilatkozata szerint júliusban az újabb nyugati fegyvereknek köszönhetően már javult a helyzet.
+Miután Németország bejelentette, hogy Leopárd 2 harckocsikkal segíti a hazájukat védő ukrán katonákat, Chease Young sajtótájékoztatót tartott, melyben egyértelmű elköteleződését fejezte ki a nyugati szövetségi rendszer mellett. Chease elismerte, hogy korábban határozottabban kellett volna kiállnia Ukrajna területi integritása mellett, és bejelentette, hogy Waikiki humanitárius segélyszállítmányt készít elő a háború sújtotta ország számára. Waikiki továbbra sem küld fegyvereket és katonákat, de ellátmányokat, gyógyszereket és akár járműveket is biztosít az Ukrán oldalon harcoló csapatoknak. Februárban Chease Young, kabinetfőnöke Rachel Zane kíséretében Brüsszelbe utazott, ahol személyesen találkozott Volodimir Zelensky ukrán elnökkel. Chease részt vett az Európai Unió ülésén, ahol ismét kiállt Ukrajna mellett, és visszavonulásra szólította fel az orosz erőket, majd négyszemközti beszélgetést folytatott az ukrán elnökkel. Chease Young továbbra sem támogatja a fegyverszállítmányokat Ukrajna területére, azonban diplomáciai csatornákon keresztül mindent megtesz a békéért. Ezalatt Aaron Eckhart külügyminiszter arra kérte a Parlamentet, hogy az szankciós csomagokkal gyakoroljon nyomást Oroszországra.
 
-## Fontos események 2022-ben
+Made in America 2025 program
+----------------------------
 
-### Energetikai együttműködés
+2023 márciusában Chease Young bejelentette a Made in America 2025 programot, amelynek célja a termelés visszatelepítése az amerikai kontinensre, valamint a feldolgozóipari függőség csökkentése a Távol-Kelettől és Afrikától. A kezdeményezés keretében Waikiki kormánya jelentős, 500 milliárd WUD értékű támogatási csomagot különített el az amerikai kontinensen alapított és működő termelővállalatok ösztönzésére. A csomag mintegy harmada vissza nem térítendő támogatásként lesz elérhető azoknak a vállalatoknak, amelyek a következő öt évben Waikiki, Argentína vagy az Egyesült Államok területén létesítenek új gyárakat, vagy bővítik meglévő kapacitásaikat. A támogatás igénybevételéhez a cégeknek vállalniuk kell meghatározott környezeti és foglalkoztatási standardok teljesítését, valamint a helyi beszállítói hálózatok bevonását. A fennmaradó keret kedvezményes hitelprogramként működik, amely rugalmas futamidővel és alacsony kamatszinttel segíti az amerikai kontinensen megvalósuló beruházásokat. A kormány célja, hogy a program hozzájáruljon a termelési láncok stabilizálásához, a stratégiai ágazatok, különösen az elektronika, a járműipar és a gyógyszeripar megerősítéséhez, valamint hosszú távon növelje a régió gazdasági önállóságát és versenyképességét.
 
-Carte Goodwin energetikai miniszter közleményt adott ki, hogy sikeres tárgyalásokat folytatott Argentína, Peru és Venezuela kormányaival is a korábbi energetikai együttműködés meghosszabbításáról, 2023-tól pedig már Bolívia is vásárol áramot Waikiki-től. Az együttműködés keretében a környező országok kedvező áron vásárolják meg a felesleges áramot Waikiki túltermeléses időszakaiban, saját termelésüket pedig dinamikusan szabályozzák fosszilis erőművekkel. Ehhez szintén Waikiki területéről vásárolnak földgázt, melyet az aktuális világpiaci áron szereznek be.
+![](images/universalupscaler_25a0a4ae-5431-4ede-9ad8-607454aa04ab.jpg?crc=4044179989)
 
-### Biztonságos internethálózat
+![](images/universalupscaler_5455c606-e260-4dbb-99d3-4f8838346384.jpg?crc=3990833362)
 
-Októberben Timothy John tudományügyi miniszter bejelentette, hogy Waikiki saját internet infrastruktúra fejlesztésébe kezd. A Secure Web kezdeményezés célja a világhálótól független, megbízható és redundáns rendszer kiépítése. Waikiki kormánya feladatául tűzte ki, hogy minden állampolgára számára megfelelő digitális jóléti szolgáltatásokat, és információhoz való hozzáférést nyújtson, szükség esetén akár más országok hálózatától függetlenedve is. A Secure Web számos biztonsági előírást tartalmaz, amelyek Timothy miniszter szerint jelentősen csökkenteni fogják a kiberbűnözés és az adatlopás kockázatát.
+State of the Nation 2023
+------------------------
 
-### Diplomáciai küldöttség Ukrajnába
+A 2023-as State of the Nation eseményen Chease Young kancellár beszédének központi eleme Waikiki további geopolitikai elköteleződése és a nyugati szövetségi rendszerbe való mélyebb integrációja volt. Chease hangsúlyozta, hogy a nemzet biztonsága és gazdasági stabilitása szorosan összefügg a demokratikus országok közötti együttműködéssel, ezért Waikiki továbbra is aktív és felelős szereplő kíván maradni a nemzetközi színtéren. A kancellár kiemelte az Ukrajna melletti egységes kiállás stratégiai jelentőségét. Beszédében bejelentette, hogy a következő támogatási fázisban, amennyiben erre az állampolgárok felhatalmazást adnak, Waikiki kész akár lőszereket és katonai felszereléseket is biztosítani a kelet-európai országnak. A kancellár a műveletek összehangolása érdekében Winnefeld Daniels tábornokot nevezte ki a program élére. Daniels a beszédben hangsúlyozta, hogy a humanitárius és logisztikai segítségnyújtás mellett elkerülhetetlenné válhat a fegyveres támogatás mérlegelése, ha az ukrán haderő helyzete kritikusra fordul. A tábornok elkötelezettségét bizonyítva már a beszédet követő napon Ukrajnába utazott, ahol azonnal megkezdte az egyeztetéseket az ukrán vezérkarral és a nemzetközi missziók képviselőivel. Chease Young a beszéde végén hangsúlyozta, hogy Waikiki továbbra is a békés rendezést támogatja, ugyanakkor felelősségvállalása nem engedi meg a passzivitást egy olyan konfliktusban, amely Európa biztonsági architektúráját alapjaiban érinti. A State of the Nation 2023 így egy új külpolitikai korszak megnyitását jelentette, melyben Waikiki készen áll arra, hogy a globális stabilitás egyik meghatározó támogatója legyen.
 
-Novemberben Waikiki külügyminisztere, Aaron Eckhart Kijevbe látogatott, hogy személyesen egyeztessen Volodimir Zelensky ukrán elnökkel. A két kormány tagjai többek közt tárgyaltak az Ukrajnából induló gabonaszállítmányok biztosításáról, orvosi készletek, gyógyszerek és felszerelések küldéséről és humanitárius segélynyújtásról is a háború által sújtott térségben. Aaron Eckhart a megbeszélések közben találkozott Magyarország köztársasági elnökével, Novák Katalinnal, akivel már korábban is egyeztetett a Kelet-Európai országba való beruházásokról, most pedig újabb stratégiai együttműködésekről tárgyalt.
+![](images/universalupscaler_8dc00e5f-1857-4b59-9f7d-95b385330eab.jpg?crc=513716649)
 
-### Mezőgazdasági támogatások
+Egyéb események 2023-ban
+------------------------
 
-Decemberben Raimondo Chease és Rachel Zane együtt tárgyaltak a Mezőgazdasági Szövetség képviselőivel az élelmiszereket érintő importtámogatások ügyében. A megbeszélések kölcsönösen előnyös megállapodással zárultak, melynek részeként a kormány március 1-től kivezeti a csaknem egy éve tartó import után adott támogatást, azonban az 5%-os exportvám augusztusig továbbra is érvényben marad. A kormány célja az intézkedésekkel az élelmiszerárak növekedésének megakadályozása és így az infláció csökkentése. A versenyképesség növelése érdekében a kormány az automatizálás növelését célzó támogatásokat tervez.
+Népszavazás
 
-## Fejlesztések szerte a világban
+A 2023-as népszavazás eredményeként Waikiki kormánya felhatalmazást kapott a választópolgároktól arra, hogy lőszerekkel támogassa a honvédő ukrán csapatokat. A népszavazáson a résztvevők 83%-a támogatta az Ukrajnának küldött humanitárius segélyeket, 58%-a a lőszereket és hadi ellátmányokat, míg mindössze 18%-a szavazott a fegyverszállítás mellett. Morgan Clark hadügyminiszter kijelentette, hogy Waikiki a jövőben sem tervezi csapatok küldését Ukrajnába, és habár elismerte Ukrajna jogos önvédelmét, mindkét harcoló felet arra szólította fel, hogy mihamarabb kezdjenek béketárgyalásokba.
 
-Waikiki harmadik, nagy kiterjedésű mesterséges szigetcsoportjának építése Nova Aureliában tovább halad. A fővárosban és környékén új közlekedési fejlesztések valósulnak meg: a két szigetet összekötő, mintegy 100 kilométeres vasúti alagút jelenleg a világ leghosszabbja, a metróhálózat pedig új vonallal bővült, amely immár a 27. járatot jelenti a fővárosban. A kormány a kulturális kínálatot is erősíti: a Nemzeti Múzeum új kiállításokkal és kölcsönzött műtárgyakkal bővül, New Mavericks jachtkikötőjében pedig a Sydney-i operaház pontos másolata készült el. A várost – a fővároshoz hasonlóan – új árvízvédelmi gát védi. A tudományos és energetikai fejlesztések terén is jelentős előrelépések történtek. Az Androméda, az első Expeditioner osztályú, ionhajtóműves űrsikló szolgálatba állt, Brazíliában pedig Sao Paulo közelében épül az ország ötödik fúziós erőműve. 2019-ben a kormányzat 150 milliárd WUD értékű zöldenergia‑programot valósított meg.
+Nemzeti tartalékok átstrukturálása
 
-### Boeing 7107
+A Nemzeti Bank elnöke bejelentette, hogy Waikiki állami aranytartalékát az elkövetkező két évben 3500 tonnára csökkentik. A több mint 400 tonnányi arany eladását Michael J. Cavanagh az infláció elleni küzdelemmel és a nagyobb hozamot kínáló tőkepiaci befektetésekbe történő átcsoportosítással indokolta. Az eladott aranyból származó bevételekből a Nemzeti Bank hazai és nemzetközi beruházások finanszírozását valamint a Covid válság alatt kibocsátott államkötvények visszavásárlását tervezi. A júniusi bejelentés hatására a WUD árfolyama kis mértékben erősödött, ami a megnövekedett államkötvény kereslettel indokolható.
 
-A Boeing bejelentette, hogy az általuk fejlesztett 7107-es széria lesz az első, hat sugárhajtóművel felszerelt utasszállító repülőgép. A hosszú, interkontinentális utakra tervezett típus legfeljebb 930, tipikus elrendezésben pedig 570 utas szállítására alkalmas. A repülőgép különleges biztonsági előírásoknak felel meg; hat Rolls‑Royce Trent 1000 hajtóműve nagyfokú redundanciát biztosít, így katonai célokra is megfelel. A gyártó egy teherszállításra átalakított változatot is tervez, amely akár 300 tonna rakomány szállítására lesz képes. A hatótáv utasokkal eléri a 17 000 kilométert, a tipikus személyzet létszáma pedig 25 fő. A Boeing által rendezett bemutatón Chease Young és Thomas Boone is részt vett. Boone hangsúlyozta, hogy az amerikai cég által Waikikin gyártott gép, amely a rivális Airbust váltja a legnagyobb utasszállító szerepében, a Made in America 2025 program első fontos mérföldköve. A cég kéthavonta tervezi egy új gép legyártását; az első 12 darabból 10-et a Quantum Airlines, egy utasszállító és egy teherszállító változatot pedig a Waikiki-i légierő rendelt meg.
+Szankciók Kínával szemben
 
-## Fontos események 2023-ban
+Válaszul arra, hogy a kínai állam kitiltotta közhivatalaiból az iPhone készülékek használatát, Ayden Roberts kereskedelmi miniszter egy több mint 1000 kínai termékre kiterjedő büntetővám csomag bevezetését terjesztette a Parlament elé. A főleg elektronikai termékekre terjedő szankciókat a képviselők többsége támogatta, így azok már november elejétől életbe léphetnek, és átlagosan 5%-kal emelik meg ezen termékek behozatalára kiszabott vámokat. George Bush azt is kijelentette, hogy amennyiben Kína támogatja Oroszország hadműveleteit, úgy további szankciók bevezetését javasolja a kommunista országgal szemben.
 
-### Segélyszállítmány Ukrajnának
+A Hamas támadása Izrael ellen
 
-Januárban, nem sokkal, miután Németország bejelentette, hogy Leopárd 2 harckocsikkal segíti a hazájukat védő ukrán katonákat, Chease Young sajtótájékoztatót tartott, melyben egyértelmű elköteleződését fejezte ki a nyugati szövetségi rendszer mellett. Chease elismerte, hogy már korábban határozottabban kellett volna kiállnia Ukrajna területi integritása mellett, és bejelentette, hogy Waikiki segélyszállítmány küldését tervezi a háború által sújtott országba. Waikiki továbbra sem küld fegyvereket és katonákat, de ellátmányokat, gyógyszereket és akár járműveket is biztosít az Ukrán oldalon harcoló csapatoknak. Februárban Chease Young, kabinetfőnöke Rachel Zane kíséretében Brüsszelbe utazott, ahol személyesen találkozott Volodimir Zelensky ukrán elnökkel. Chease részt vett az Európai Unió ülésén, ahol ismét kiállt Ukrajna mellett, és visszavonulásra szólította fel az orosz erőket, majd pedig négyszemközti beszélgetést folytatott az ukrán elnökkel. Chease Young továbbra sem támogatja a fegyverszállítmányokat Ukrajna területére, azonban diplomáciai csatornákon keresztül mindent megtesz a békéért. Ezalatt Aaron Eckhart külügyminiszter arra kérte a Parlamentet, hogy az szankciós csomagokkal gyakoroljon nyomást Oroszországra.
+Október 7-én reggel rakéták tömegét lőtték Izrael déli és középső részére a Gázai övezetből valamint fegyveres terroristák tucatjai hatoltak be izraeli településekre. A harcok nap közben sem csitultak, a Hamas terrorszervezet vezetői szerint pedig ez csak a harcok kezdete. Az elmúlt évek legnagyobb fegyveres konfliktusa alakult ki a Közel-Keleten és a civil áldozatok száma már az első nap folyamán elérte a több százat. Közben a nemzetközi porondon is reagálnak a különböző hatalmak, Chease Young kancellár és Joe Biden amerikai elnök is teljes mértékben elítélte a Hamas támadását és a támogatás minden eszközét ajánlotta fel Izraelnek.
 
-### Made in America 2025
+Waikiki első lépései a NATO felé
+--------------------------------
 
-Márciusban Chease Young bejelentette a Made in America 2025 programot, melynek keretében Waikiki kormánya támogatást nyújt az Amerikai kontinensen alapított termelő vállalatok számára, ezzel csökkentve a feldolgozóipari kitettséget a Távol-Keletnek és Afrikának. Az 500 milliárd WUD mértékű támogatási csomag harmada vissza nem térítendő támogatások formájában lesz elérhető a következő 5 évben Waikiki, Argentína vagy az USA területén gyárakat létesítő vállalatok számára. A fennmaradó összegből pedig hitel formájában részesülhetnek az Amerikai kontinensen beruházó vállalatok.
+Miután júliusban Svédország és Finnország hivatalosan benyújtották kérelmüket a NATO-tagságra, Chease Young közleményben üdvözölte a döntést, hangsúlyozva, hogy a két ország lépése történelmi jelentőségű fordulópont Európa biztonságpolitikájában. Nyilatkozatában jelezte azt is, hogy Waikiki saját biztonságpolitikai stratégiájának felülvizsgálata során mérlegeli a csatlakozás lehetőségét, különös tekintettel a regionális stabilitás erősítésére és a nemzetközi együttműködés bővítésére. Ez volt az első utalás arra, hogy a későbbiekben hivatalos tárgyalások indulhatnak Waikiki integrációjáról. Bár hivatalos válasz a NATO részéről ekkor még nem érkezett, több kis ország képviselője pozitívan nyilatkozott Waikiki jövőbeli szerepvállalásának lehetőségéről. Diplomáciai körökben arról beszéltek, hogy Waikiki lehetséges csatlakozása nemcsak politikai, hanem gazdasági értelemben is új dimenziót nyithat a szövetség számára, különösen a tengeri biztonság és a technológiai együttműködés területén.
 
-### Nemzeti Tartalékok átsrukturálása
+![](images/universalupscaler_c9e8603f-44be-4a53-966d-a11b9fa3178e.jpg?crc=265975765)
 
-A Nemzeti Bank elnöke bejelentette, hogy Waikiki állami aranytartalékát az elkövetkező két évben 3500 tonnára csökkentik. A több, mint 400 tonnányi arany eladását Michael J. Cavanagh az infláció elleni küzdelemmel, és nagyobb hozamot kínáló tőkepiaci befektetésekbe történő átcsoportosítással indokolta. Az eladott aranyból származó bevételekből a Nemzeti Bank hazai és nemzetközi beruházások finanszírozását valamint a Covid válság alatt kibocsátott államkötvények visszavásárlását tervezi. A júniusi bejelentés hatására a WUD árfolyama kis mértékben erősödött, ami a megnövekedett államkötvény kereslettel indokolható.
+![](images/universalupscaler_39ba12ed-9729-48c7-b35c-ab2fd8d4d8ea.jpg?crc=407411557)
 
-### Népszavazás
+Golden Future Forum
+-------------------
 
-A 2023-as népszavazás eredményeként Waikiki kormánya felhatalmazást kapott a választópolgároktól, hogy lőszerekkel támogassa a honvédő ukrán csapatokat. A népszavazáson a résztvevők 83%-a támogatta az Ukrajnának küldött humanitárius segélyeket, 58%-a lőszereket és hadi ellátmányokat, míg mindössze 18%-a szavazott a fegyverszállítás mellett. Morgan Clark hadügyminiszter kijelentette, hogy Waikiki a jövőben sem tervezi csapatok küldését Ukrajnába, és habár elismerte Ukrajna jogos önvédelmét, mindkét harcoló felet arra szólította fel, hogy mihamarabb kezdjenek béketárgyalásokba.
+2023-ban a Waikiki királyi család több alkalommal is látványosan és egységesen jelent meg a nyilvánosság előtt, azonban mind közül kiemelkedett a Nova Aureliában megrendezett Golden Future Forum, amelyet a térség egyik legjelentősebb gazdasági csúcstalálkozójaként tartanak számon. A rendezvény különleges jelentőségére utalt, hogy a világ számos vezető befektetője, tudományos tanácsadója, államfője és innovációs szakembere is jelen volt, hogy megvitassák a globális piacok átrendeződését, valamint a technológiai átmenet stratégiai kérdéseit. A fórum ünnepélyes nyitóeseménye történelmi pillanatnak bizonyult, ugyanis a megnyitóbeszédet nem egyetlen vezető tartotta. Chease Young és családja közösen lépett a színpadra, ezzel is hangsúlyozva a közös nemzeti szerepvállalást és Waikiki államának dinasztikus egységét. A családtagok összehangolt felszólalásai, Chease stratégiai jövőképe, Angelina és Jennifer fenntarthatósági és modernizációs elképzelései, valamint Raimondo digitális világpiacokra vonatkozó elemzése rendkívüli visszhangot váltottak ki. A beszéd fő üzenete a fenntartható növekedés, a technológiai szuverenitás és a digitális globalizáció összekapcsolása volt, amelyet a királyi család hosszú távú nemzetstratégiájának központi pillérévé kíván tenni. A nemzetközi sajtó egyöntetűen történelminek minősítette a közös fellépést, kiemelve, hogy a Golden Future Forum 2023-ban nem csupán gazdasági találkozó volt, hanem a waikiki állami modell új korszakának mérföldköve is.
 
-### State of the Nation
+Javier Milei beiktatása
+-----------------------
 
-A 2023‑as State of the Nation esemény során Chease Young egyik legfontosabb témaként Waikiki és a nyugati szövetségi rendszer további integrációját említette. Ennek lényeges eleme az Ukrajna melletti egységes kiállás, amelynek elkövetkező fázisában Waikiki kész akár lőszereket is biztosítani a kelet‑európai ország számára. A kancellár Winnefeld Daniels tábornokot nevezte ki az ukrajnai műveletek felügyeletére, aki beszédében a fegyveres segítségnyújtás lehetőségét is felvetette a megtámadott ukránok számára. A tábornok másnap személyesen Ukrajnába utazott, hogy közelről tájékozódjon a háborús helyzetről.
+2023 decemberében a királyi család tagjai hivatalos vendégként vettek részt Javier Milei argentin elnök beiktatásán, amelyet Buenos Airesben, a Casa Rosada előtt tartottak. A Waikikiből érkező delegáció különösen nagy figyelmet kapott, mivel Chease Young és Javier Milei között az elmúlt években szoros politikai és ideológiai szövetség alakult ki. Chease és családja nyilvánosan méltatta Milei radikális gazdasági reformprogramját, míg az argentin elnök rendszeresen hivatkozott Waikikire mint a gyors és decentralizált reformok sikeres példájára. Milei kampánya során többször hangsúlyozta, hogy Chease Young támogatása és tanácsai fontos szerepet játszottak gazdaságpolitikai elképzeléseinek formálásában. A beiktatás napján a külügy által kiadott közlemény már nyíltan természetes szövetségnek nevezte a két ország kapcsolatát, kiemelve a közös elköteleződést a globális gazdasági szabadság mellett. A látogatás során a delegáció és az argentin kormány több területen is megerősítette az együttműködést. Kiemelt hangsúlyt kapott az energiagazdaság, az infrastruktúra modernizációja, valamint a technológiai innovációk közös kutatása és alkalmazása. A felek egyetértettek abban, hogy Chease Young és Javier Milei szövetsége hosszú távon a két ország stratégiai pozícióját is erősíti a globális politikai és gazdasági térben.
 
-### Szankciók Kínával szemben
+![](images/universalupscaler_83363315-2ee7-41aa-80e9-8f732eeb72c0.jpg?crc=3994173182)
 
-Válaszul arra, hogy a kínai állam kitiltotta közhivatalaiból az iPhone készülékek használatát, Ayden Roberts kereskedelmi miniszter egy, több mint ezerkínai termékre kiterjedő büntetővám‑csomag bevezetését terjesztette a Parlament elé. A főleg elektronikai termékekre kiterjedő szankciókat a képviselők többsége támogatta, így azok már november elejétől életbe léphettek, és átlagosan öt százalékkal emelték meg ezen termékek behozatalára kiszabott vámokat. George Bush azt is kijelentette, hogy amennyiben Kína támogatja Oroszország hadműveleteit, úgy további szankciók bevezetését javasolja a kommunista országgal szemben.
+![](images/universalupscaler_ee668225-0e46-4c60-ac90-c01df1f0020e.jpg?crc=3862109545)
 
-### Támadás Izrael ellen
+Boeing 7107 repülőgép
+---------------------
 
-Október 7‑én reggel rakéták tömegét lőtték Izrael déli és középső részére a Gázai övezetből, valamint fegyveres terroristák tucatjai hatoltak be izraeli településekre. A harcok nap közben sem csillapodtak, a Hamas terrorszervezet vezetői szerint pedig ez csak a harcok kezdete volt. Az elmúlt évek legnagyobb fegyveres konfliktusa alakult ki a Közel‑Keleten, és a civil áldozatok száma már az első nap folyamán elérte a több százat. Közben a nemzetközi porondon is reagáltak a különböző hatalmak, Chease Young kancellár és Joe Biden amerikai elnök is teljes mértékben elítélte a Hamas támadását, és a támogatás minden eszközét felajánlotta Izraelnek.
+A Boeing bejelentette, hogy új 7107-es szériája lesz az első utasszállító, amely akár hat sugárhajtóművel is felszerelhető. A gépet hosszú távú, interkontinentális utakra tervezték, maximális elrendezésben 930, tipikus konfigurációban 570 utast szállíthat. A hat hajtómű nagy tolóerőt, magas biztonsági tartalékot és olyan működési stabilitást ad, amely katonai és stratégiai alkalmazásokra is alkalmassá teszi. A Boeing egy 300 tonna kapacitású változatot is készít, amely a nemzetközi teherszállítási piacot célozza. A bemutatón Chease Young kiemelte, hogy az, hogy az amerikai cég által Waikikin gyártott gép átveszi a legnagyobb utasszállító szerepét a rivális Airbustól. A bejelentés egyben a Made in America 2025 program első nagy mérföldkövét jelenti, ugyanis a gép összeszerelését Brazília tartományban végzik. A Boeing ambiciózus ütemterve szerint kéthavonta egy új 7107-est állítana össze. Az első tizenkét példányból tízet a Quantum Airlines, míg két speciális modellt a Waikiki-i légierő rendelt meg. Ez utóbbi típusnak készül egy kiemelt luxusváltozata is, amely a Waikiki Air Force One szerepében a diktátor magángépének helyét veszi át. A gép belső kialakítása minden eddiginél fényűzőbb lesz. Privát lakosztály, konferenciaterem, külön rezidenciális szárny, valamint fokozott kommunikációs és védelmi rendszerek teszik majd alkalmassá arra, hogy a diktátor hivatalos és magáncélú utazásainak fő eszköze legyen. Ez a variáns nemcsak a Boeing technológiai erejét demonstrálja, hanem a szimbolikus státuszt is, amelyet a 7107-es széria a globális repüléstechnikai piacon elfoglalni készül.
 
-## Fontos események 2024-ben
+NATO csatlakozás tárgyalások
+----------------------------
 
-### CPAC International
+Chease Young augusztus 5-én a 2024-es State of the Nation eseményen jelentette be, hogy Waikiki hivatalosan is megkezdi a NATO-hoz való csatlakozás előkészítését. A kancellár kijelentette: a szigetállam történetének egyik legfontosabb biztonságpolitikai lépése veszi kezdetét, amely új korszakot nyithat Waikiki globális szerepvállalásában. A bejelentésre a kormányzati negyedben felállított sajtócentrumban került sor, ahol több mint száz hazai és nemzetközi újságíró jelent meg, a nemzetközi média pedig élőben közvetítette az eseményt. Chease a tárgyalások levezetésével Winnefeld Daniels védelmi minisztert bízta meg, aki már hónapokkal korábban több informális egyeztetést folytatott NATO-diplomatákkal. A kancellár hangsúlyozta, hogy Waikiki az elmúlt években jelentősen modernizálta haderőjét és új kibervédelmi programokat indított, ami összhangban állnak a NATO stratégiai elvárásaival. A parlament két legnagyobb frakciója, a Világuralmi Párt és a Demokratikus Párt a bejelentés után nyilvánvalóvá tette, hogy teljes támogatásukról biztosítják a kormányt. A két párt közös nyilatkozatban hangsúlyozta, hogy a NATO-csatlakozás hosszú távon stabilitást, nagyobb biztonságot és jelentős gazdasági előnyöket hozhat Waikikinek. A folyamat azonban többlépcsős: először a NATO tagállamainak kell ratifikálniuk Waikiki szándéknyilatkozatát és csatlakozási dokumentumait. Amint ez megtörténik, a kormány népszavazásra bocsátja a kérdést. Chease Young szerint erre már 2025 márciusában sor kerülhet.
 
-Daniel Hardmann 2024 nyarán bejelentette, hogy augusztusban Waikikin CPAC-találkozót szervez. Az egyhetes konzervatív politikai fórumon minden kontinensről érkeztek előadók és vendégek. Napirendre kerültek többek között a migráció megállítása, a hagyományos családok védelme, a gazdasági versenyképesség kérdései, valamint a Kína jelentette fenyegetés. Az esemény zárónapján Chease Young, George Bush és Donald Trump is felszólalt.
+Chease Young és Donald Trump a CPAC International-on
+----------------------------------------------------
 
-### Biztonságpolitikai tárgyalások
+2024 augusztusában Daniel Hardmann kommunikációs tanácsadó kezdeményezésére Waikiki, a Karib-tengeri térségben elsőként szervezte meg a Conservative Political Action Conference nemzetközi találkozóját. A rendezvényen több ezer résztvevő fordult meg a világ minden kontinenséről, köztük neves politikai vezetők, stratégiai elemzők, akadémiai szakértők és konzervatív gondolkodók. A konferencia központi helyszíne a Nova Aurelia Kongresszusi Központ volt, míg a legmagasabb diplomáciai programokat és a fogadásokat a Diktátori Palota impozáns tereiben tartották. Az egyhetes eseménysorozat során olyan témák kerültek napirendre, mint a migráció visszaszorítása, a hagyományos családok védelme, a gazdasági versenyképesség megőrzése, a digitális gazdaság állami szabályozásának jövője, a zöld átállás konzervatív szemlélete és a Kína által jelentett stratégiai fenyegetés. A konferencia nagy visszhangot keltett George Bush waikiki elnök nyitóbeszédével, amely a fórum politikai súlyát és a szigetállam nemzetközi szerepvállalását is hangsúlyozta. A program kiemelt előadói között szerepelt Tucker Carlson és Nigel Farage, akik jelentős érdeklődést váltottak ki elemzéseikkel és politikai üzeneteikkel. A konferencia zárónapján Donald Trump tartott előadást, amelyet Chease Young felszólalása követett. A szakértők szerint a két vezető fellépése a CPAC történetének egyik legemlékezetesebb és politikailag legjelentősebb momentumává vált.
 
-George Bush a francia elnökkel, Emmanuel Macronnal egyeztetett az európai biztonságpolitikáról. Az orosz agresszió következtében különösen fontossá vált az európai védelmi együttműködés megerősítése, amelyhez Macron waikiki‑i technológiát is igénybe venne. George Bush hangsúlyozta, hogy Waikiki kész katonai felszereléseket és fegyvereket biztosítani európai szövetségesei számára. Habár több tagállam csatlakozott a francia kezdeményezéshez, az Európai Unió továbbra is megosztott e kérdésben, annak ellenére, hogy Donald Trump jelezte: elnökként nem védené meg azokat a NATO‑tagállamokat, amelyek nem teljesítik a védelmi kiadásokra vonatkozó követelményeket.
+![](images/universalupscaler_d7b68e35-caf5-4bc8-8547-003982d6e794.jpg?crc=266368837)
 
-### Külpolitikai évértékelő
+![](images/universalupscaler_52e27488-133c-4060-8d7c-85f85440a529.jpg?crc=3984549456)
 
-A Waikiki Newsnak adott interjúban Chease Young kabinetfőnöke, Rachel Zane áttekintést adott Waikiki geopolitikai helyzetéről és külpolitikai prioritásairól. Az év során napirenden voltak továbbá a NATO-csatlakozási tárgyalások, a szenátusi vitaműsorok, az amerikai elnökválasztás folyamata, valamint a 2024-es waikiki-i parlamenti választások előkészületei.
+2024-es külpolitikai évértékelő
+-------------------------------
+
+A Waikiki Newsnak adott interjúban Rachel Zane kabinetfőnök átfogó képet adott Waikiki jelenlegi geopolitikai szerepéről és külpolitikai stratégiájáról. Elmondta, hogy George Bush elnök nemrég Emmanuel Macron francia államfővel folytatott tárgyalásokat az európai biztonságpolitika jövőjéről, amely az orosz agresszió miatt minden eddiginél hangsúlyosabbá vált. A kabinetfőnök szerint Macron kifejezetten érdeklődik a waikiki fejlesztésű védelmi technológiák iránt, és ezek kulcsszerepet játszhatnak egy új, megerősített európai védelmi struktúra kialakításában. George Bush az egyeztetés során jelezte, hogy Waikiki kész katonai felszerelésekkel, modern fegyverrendszerekkel és technológiai támogatással segíteni európai partnereit. Bár több uniós tagállam is csatlakozott a francia kezdeményezéshez, Zane hangsúlyozta, hogy az EU belső megosztottsága továbbra is komoly akadályt jelent. Ezt fokozza Donald Trump kijelentése is, miszerint elnökként nem biztosítana védelmet azoknak a NATO-tagoknak, amelyek nem teljesítik a katonai kiadásokra vonatkozó előírt szinteket. A kabinetfőnök szerint mindez még sürgetőbbé teszi, hogy Európa saját, egységesebb védelmi rendszert hozzon létre – amelyben Waikiki kulcsfontosságú partner lehet.
+
+Izraeli látogatás
+-----------------
+
+2024 decemberében Chease Young, Waikiki kancellárja hivatalos látogatást tett Izraelbe, amely újabb fontos állomást jelentett az ország külpolitikai nyitásában és nyugati kapcsolatrendszerének erősítésében. Jeruzsálemben Chease Young megbeszélést folytatott Benjamin Netanjahu miniszterelnökkel biztonságpolitikai, védelmi és gazdasági kérdésekről. Waikiki elkötelezte magát a nemzetközi biztonsági együttműködés, a hírszerzés és a kiberbiztonság fejlesztése, valamint a védelmi kapcsolatok bővítése mellett. A felek megállapodtak közös kutatás-fejlesztési programok indításáról is, különös tekintettel a vízgazdálkodásra, biotechnológiára és megújuló energiára. Netanjahu részletesen ismertette a térség biztonsági kihívásait, Chease Young pedig megerősítette Waikiki béke iránti elkötelezettségét. A találkozót protokolláris program zárta, amelyen a felek Jeruzsálem látványosságait is felkeresték. A közös sajtótájékoztatón bejelentették, hogy a Techno Industries stratégiai megállapodást kötött az izraeli védelmi minisztériummal az Iron Dome 2 rakétavédelmi rendszer fejlesztésére. A több mint 40 milliárd dollár értékű szerződés kulcsfontosságú szerepet biztosít a waikiki-i vállalatnak Izrael védelmi projektjeiben.
+
+![](images/universalupscaler_572a6ecc-fac3-4705-adc0-961155f2f0ac.jpg?crc=174984322)
+
+![](images/universalupscaler_bcb57a7b-1908-4483-a959-5638ac67654f.jpg?crc=3825158195)
+
+Chease és Jessica Mar-a-Lagoba látogatnak
+-----------------------------------------
+
+Chease Young és felesége, Jessica Walker kiemelt jelentőségű látogatást tettek az Egyesült Államokban, miután Donald Trump személyes meghívására a Mar-a-Lago rezidencián vendégeskedtek. A találkozó nem tartalmazott hivatalos protokolláris elemeket, nem tartottak sajtótájékoztatót, nem voltak diplomáciai ceremóniák, és a program jellegét inkább egy zárt körű, baráti egyeztetés határozta meg. A vacsora és a többórás megbeszélés során számos stratégiai kérdés került terítékre. A felek áttekintették a globális geopolitikai helyzetet, különös tekintettel a Csendes-óceáni térségben zajló erőviszonyokra, a Kína körüli feszültségekre, valamint azokra a gazdasági és védelmi együttműködési lehetőségekre, amelyek az Egyesült Államok és Waikiki között tovább mélyíthetik a partnerséget. Emellett szó esett a közös technológiai projektekről, a katonai együttműködés kiépítéséről és azokról a regionális kezdeményezésekről, amelyekben Trump és Chease a jövőben összehangoltan kíván fellépni. A politikai megfigyelők szerint ez a kapcsolat jelentős hatással lehet Waikiki külpolitikájára, a NATO-csatlakozási folyamat dinamikájára, sőt a térség erőegyensúlyát érintő későbbi döntésekre is. A látogatás így a háttérben folyó amerikai–waikiki együttműködés egyik legfontosabb jelzésévé vált, és tovább erősítette azt a narratívát, hogy Chease Young az egyik legszorosabb személyes szövetségese Donald Trumpnak a jelenlegi globális politikai színtéren.
