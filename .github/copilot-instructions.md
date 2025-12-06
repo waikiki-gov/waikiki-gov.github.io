@@ -6,7 +6,8 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 ## Site Structure
 - **Public Navigation**: HTML files (index.html, government.html, etc.) serve as the main user-facing interface
 - **Canonical Content**: `content/*.md` files contain the authoritative narrative sources
-- **Developer Navigation**: README.md provides links to content files for development reference
+- **Developer Navigation**: `README.md` provides links to content files for development reference
+- **Basic summary**: `content/Summary-english.md` provides an english summary with the most important facts and foundations for Waikiki
 
 ## Narrative Foundation
 
@@ -72,7 +73,7 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 
 ### Biographical Content
 - `content/Raimondo-and-Selena.md`: Dictator couple
-- `content/Chease-and-Jessica.md`: Consul couple
+- `content/Chease-and-Jessica.md`: Chancellor couple
 - `content/Jennifer-and-Tyler.md`: Senator couple
 - `content/Angelina-and-Taylor.md`: Senator couple
 
@@ -126,6 +127,7 @@ This is a static website for the fictional nation of Waikiki, originally exporte
 - **Geographic Accuracy**: Maintain 3-province structure, Nova Aurelia as capital
 - **Demographic Consistency**: Population growth, literacy, life expectancy must align with established data
 - **International Relations**: Maintain G9, UN Security Council, World Government membership status
+- **Communication style**: The `content/Communication.md` outlines basic principals for the official communication of the Waikiki government that should be followed
 
 ### Cross-Reference Requirements
 - **Leadership Changes**: Must update Events.md, Waikiki.md, and relevant biography files
