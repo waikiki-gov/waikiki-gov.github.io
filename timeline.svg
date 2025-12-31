@@ -48,15 +48,27 @@
   <g transform="translate(220, 130)">
     <line x1="0" y1="0" x2="0" y2="600" class="grid-line" />
     <text x="0" y="-10" class="year-label">2005</text>
+
+    <line x1="165" y1="0" x2="165" y2="600" class="grid-line" />
+    <text x="165" y="-10" class="year-label">2008</text>
     
     <line x1="275" y1="0" x2="275" y2="600" class="grid-line" />
     <text x="275" y="-10" class="year-label">2010</text>
+
+    <line x1="440" y1="0" x2="440" y2="600" class="grid-line" />
+    <text x="440" y="-10" class="year-label">2013</text>
     
     <line x1="550" y1="0" x2="550" y2="600" class="grid-line" />
     <text x="550" y="-10" class="year-label">2015</text>
+
+    <line x1="660" y1="0" x2="660" y2="600" class="grid-line" />
+    <text x="660" y="-10" class="year-label">2017</text>
     
     <line x1="825" y1="0" x2="825" y2="600" class="grid-line" />
     <text x="825" y="-10" class="year-label">2020</text>
+
+    <line x1="1045" y1="0" x2="1045" y2="600" class="grid-line" />
+    <text x="1045" y="-10" class="year-label">2024</text>
     
     <line x1="1100" y1="0" x2="1100" y2="600" class="grid-line" />
     <text x="1100" y="-10" class="year-label">2025</text>
@@ -79,8 +91,8 @@
     <g transform="translate(0, 90)">
       <rect x="-220" y="0" width="1350" height="40" class="row-bg" />
       <text x="-210" y="20" class="name-label">Jessica Walker</text>
-      <rect x="165" y="6" width="385" height="28" class="role-Nemzeti-Bank-elnök" rx="4" />
-      <rect x="660" y="6" width="330" height="28" class="role-Konzul" rx="4" />
+      <rect x="165" y="6" width="440" height="28" class="role-Nemzeti-Bank-elnök" rx="4" />
+      <rect x="660" y="6" width="385" height="28" class="role-Konzul" rx="4" />
       <rect x="1045" y="6" width="55" height="28" class="role-Nemzeti-Bank-elnök" rx="4" />
     </g>
 
@@ -88,7 +100,7 @@
       <rect x="-220" y="0" width="1350" height="40" class="row-bg" />
       <text x="-210" y="20" class="name-label">Selena Gomez</text>
       <rect x="550" y="6" width="110" height="28" class="role-Szenátor" rx="4" />
-      <rect x="660" y="6" width="330" height="28" class="role-Konzul" rx="4" />
+      <rect x="660" y="6" width="385" height="28" class="role-Konzul" rx="4" />
       <rect x="1045" y="6" width="55" height="28" class="role-Szenátor" rx="4" />
     </g>
 
@@ -136,14 +148,8 @@
 
     <g transform="translate(0, 495)">
       <rect x="-220" y="0" width="1350" height="40" class="row-bg" />
-      <text x="-210" y="20" class="name-label">Zac Efron</text>
-      <rect x="660" y="6" width="330" height="28" class="role-Szenátor" rx="4" />
-    </g>
-
-    <g transform="translate(0, 540)">
-      <rect x="-220" y="0" width="1350" height="40" class="row-bg" />
       <text x="-210" y="20" class="name-label">Smith Edward</text>
-      <rect x="440" y="6" width="550" height="28" class="role-Kormányzó" rx="4" />
+      <rect x="440" y="6" width="605" height="28" class="role-Kormányzó" rx="4" />
       <rect x="1045" y="6" width="55" height="28" class="role-Titkosszolgálat-igazgató" rx="4" />
     </g>
 
