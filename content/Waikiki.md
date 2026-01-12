@@ -408,7 +408,7 @@ Waikiki által exportált termékek értéke jóval meghaladja az importált ter
 ### Adórendszer
 
 #### Vállalati adó
-- Adómérték: 20% a teljes bevétel után
+- Adómérték: 15% a teljes bevétel után
 - Fizetési gyakoriság: havonta
 - Különlegesség: export esetén is fizetendő
 - Éves bevétel: 1 800 milliárd WUD
@@ -558,26 +558,32 @@ A kérvény elbírálásánál három tényező egyenlő súllyal szerepel:
 - Legmodernebb technológiai felszereltség
 
 ### Haderő létszáma
-- Aktív állomány: 440 000 fő
+- Aktív állomány: 500 000 fő
 
 #### Szárazföldi erők
-- 3850 harckocsi
-- 330 támadó helikopter
+- 2000 tank és harckocsi
+- 50 palládium harci robot
+- 750 önjáró löveg
+- 2500 páncélozott jármű
+- 580 támadó helikopter
 
 #### Haditengerészet
-- 4 repülőgéphordozó
-- 12 cirkáló
-- 15 romboló
-- 16 nukleáris tengeralattjáró
+- 6 repülőgéphordozó
+- 10 cirkáló
+- 12 romboló
+- 18 nukleáris tengeralattjáró
+- 24 kétéltű és partraszálló hajó
 
 #### Légierő
-- 1268 vadászgép
-- 750 bombázó
+- 700 nagyedik és ötödik generációs vadászgép
+- 10 lopakodó bombázó
+- 85 stratégiai bombázó
+- 1200 nehézfegyverzetű drón
 
 #### Nukleáris arzenál
-- 58 atombomba
-- 15 hidrogénbomba
-- 8 plutóniumbomba
+- 70 atombomba
+- 26 hidrogénbomba
+- 12 plutóniumbomba
 
 #### Védelmi rendszerek
 - Interkontinentális rakétavédelmi rendszer (IMDS)

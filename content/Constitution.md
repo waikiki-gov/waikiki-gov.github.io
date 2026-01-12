@@ -224,7 +224,7 @@ Waikiki állampolgárai, akár a lakóhelyüktől távol, online formában, vagy
 A Diktátor az Alkotmánnyal és az ország törvényeivel összhangban, a Kormánnyal megosztva gyakorolja a végrehajtó hatalmat.
 A Diktátor törvényjavaslatokat és más intézkedéseket terjeszthet a Parlament elé és népszavazási kezdeményezéseket nyújthat be.
 A Parlament által elfogadott törvényjavaslatokkal szemben a Diktátor vétójogot gyakorolhat, melynek esetén a törvény nem lép hatályba.
-A Diktátor rendeletet alkothat a Nemzeti Bank által nyomtatott pénz mennyiségéről vagy más olyan kérdésről, melyet törvény nem szabályoz.
+A Diktátor rendeletet alkothat a Nemzeti Bank által kibocsátott pénz mennyiségéről vagy más olyan kérdésről, melyet törvény nem szabályoz.
 A diktátori rendeletek a törvénynél alacsonyabb szintű, de más rendeleteknél magasabban elhelyezkedő jogszabályok.
 A Diktátor dönt a Szenátus felépítéséről, tagjairól és fizetéséről. A Diktátor szabadon módosíthatja a Szenátus összetételét.
 A Diktátor nevezi ki Waikiki Kancellárját, aki távollétében a Diktátor helyetteséül szolgál és egyben a Költségvetési Tanács elnöke.

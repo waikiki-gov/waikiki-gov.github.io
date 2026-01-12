@@ -21,7 +21,6 @@ A modern kormányzás nem rejtőzhet falak mögé. Hivatalunk a legkorszerűbb d
 Büszkék vagyunk Waikiki sokszínű, mégis egységes identitására. Kommunikációnk célja az összetartozás erősítése a közös értékek mentén. A család tisztelete, a munka megbecsülése és a természet védelme. Ünnepeljük azt a harmóniát, amely társadalmunkat a világ legstabilabb közösségévé teszi.
 
 ### Vezetőink Szerepe a Tájékoztatásban
-
 Kormányzatunk tagjai nemcsak döntéshozók, hanem a nemzeti párbeszéd aktív résztvevői is. A királyi calád tagjai a nemzet hosszú távú vízióit, a biztonságpolitikát és a globális szerepvállalásunkat közvetítik. Szavaik iránytűként szolgálnak a változó világban.
 
 ## Ígéretünk
