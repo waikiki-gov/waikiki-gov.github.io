@@ -25,7 +25,7 @@ Forrásjelleggel ez a leírás tömör áttekintést ad a nagy korszakokról. R�
 
 ## 2000 – Intézményes konszolidáció
 - Az alkotmányozó gyűlés Chease Youngot diktátorrá választja, ezzel formálisan is ő lesz Waikiki első számú vezetője.
-- Az első többpárti parlamenti választásokon a Demokratikus Párt győz John Boehmer elnök vezetésével.
+- Az első többpárti parlamenti választásokon a Demokratikus Párt győz John Boehner elnök vezetésével.
 - Az Alkotmány népszavazással elfogadásra kerül, rögzítve a jogállamiság, a piacgazdaság és a központi fejlesztéspolitika alapelveit.
 - Megkezdődik a pénzügyi, igazságügyi és védelmi intézményrendszer kiépítése.
 

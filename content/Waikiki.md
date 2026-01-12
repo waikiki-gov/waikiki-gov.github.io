@@ -163,7 +163,7 @@ A végrehajtó hatalmat a kongresszus által megválasztott kormány gyakorolja.
 ### Miniszterek
 
 - Kereskedelmi miniszter: Ayden Roberts
-- Belügyminiszter: John Boehmer
+- Belügyminiszter: John Boehner
 - Pénzügyminiszter: Scott Walker
 - Külügyminiszter: Aaron Eckhart
 - Igazságügyminiszter: Paul Ryan
@@ -240,9 +240,9 @@ A legfelsőbb szintű bíróság, amely alkotmánybíróságként is funkcionál
 
 |                             | 2000-2004       | 2005-2009           | 2010-2014            | 2015-2019           | 2020-2024         |
 | --------------------------- | --------------- | ------------------- | -------------------- | ------------------- | ----------------- |
-| Elnök                       | John Boehmer    | Rick Santorum       | Aaron Eckhart        | George Bush         | George Bush       |
+| Elnök                       | John Boehner    | Rick Santorum       | Aaron Eckhart        | George Bush         | George Bush       |
 | Kereskedelmi miniszter      | Ayden Roberts   | Ayden Roberts       | Ayden Roberts        | Ayden Roberts       | Ayden Roberts     |
-| Belügyminiszter             | Rick Santorum   | John Boehmer        | John Boehmer         | John Boehmer        | John Boehmer      |
+| Belügyminiszter             | Rick Santorum   | John Boehner        | John Boehner         | John Boehner        | John Boehner      |
 | Külügyminiszter             |                 | Donald Evans        | Jason Furman         | Aaron Eckhart       | Aaron Eckhart     |
 | Pénzügyminiszter            |                 | Michael J. Cavanagh | Michael J. Cavanagh  | Scott Walker        | Scott Walker      |
 | Igazságügyminiszter         | Sebastian Stark | Alejandro Ramirez   | Marilyn R. Reid      | Paul Ryan           | Paul Ryan         |

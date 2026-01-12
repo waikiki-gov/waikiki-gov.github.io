@@ -14,7 +14,7 @@ Az alábbi összefoglaló Waikiki állam főbb kormányzati pozícióit és az a
 ## Végrehajtó hatalom
 
 ### Elnök
-- **John Boehmer** – 2000–2005 – Az első demokratikusan megválasztott elnök, a parlamentáris demokrácia intézményeinek konszolidálója.
+- **John Boehner** – 2000–2005 – Az első demokratikusan megválasztott elnök, a parlamentáris demokrácia intézményeinek konszolidálója.
 - **Rick Santorum** – 2005–2010 – A Világuralmi Párt vezetője, az állam monarchikus átalakulásának elnöke.
 - **Aaron Eckhart** – 2010–2015 – A Demokratikus Párt elnöke, az oktatási és gazdasági reformok irányítója.
 - **George Bush** – 2015–2025 – A Világuralmi Párt elnöke, a válságkezelés, a szociális reformok és a NATO-csatlakozás időszakának vezetője.
@@ -27,7 +27,7 @@ Az alábbi összefoglaló Waikiki állam főbb kormányzati pozícióit és az a
 - **Marilyn R. Reid** – igazságügyminiszter.
 - **Mickey Haller** – bevándorlásügyi miniszter.
 - **Jonathan Gruber** – egészségügyminiszter.
-- **John Boehmer** – belügyminiszter.
+- **John Boehner** – belügyminiszter.
 - **Timothy John** – tudományügyi miniszter.
 - **Jack Bowman** – mezőgazdasági miniszter.
 - **Thomas Boone** – iparfejlesztési miniszter.

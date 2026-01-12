@@ -68,7 +68,7 @@ A Demokratikus Párt középutas politikát folytat, amely a gazdasági pragmati
 
 ### Vezető személyiségek
 
-**John Boehmer** - A Demokratikus Párt alapítója és első elnöke, aki 2000 és 2005 között vezette az országot. Boehmer elnöksége alatt került sor az alkotmány elfogadására, az állami intézményrendszer megszilárdítására és a demokratikus keretek kialakítására. Jelenleg belügyminiszter.
+**John Boehner** - A Demokratikus Párt alapítója és első elnöke, aki 2000 és 2005 között vezette az országot. Boehner elnöksége alatt került sor az alkotmány elfogadására, az állami intézményrendszer megszilárdítására és a demokratikus keretek kialakítására. Jelenleg belügyminiszter.
 
 **Aaron Eckhart** - A párt második elnöke, aki 2010 és 2015 között irányította a kormányt, majd 2025-től második ciklusát tölti. Eckhart alatt az oktatás és a gazdasági reformok álltak a középpontban. Az ő nevéhez fűződik a Waikiki Economics University fejlesztése, új kutatóintézetek létrehozása és a diákcsere programok kiterjesztése.
 
